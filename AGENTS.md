@@ -21,4 +21,19 @@ Wiki markdown de produits financiers français : enveloppes d'investissement, in
 - **Homogénéité** : suivre le template du skill correspondant
 - **Liens** : créer des liens entre documents quand pertinent
 - **Langue** : contenu en français avec accents (é, è, ê, à, ç, etc.), identifiants techniques en kebab-case sans accents
+- **Données manquantes** : écrire « Non communiqué » si indisponible, ajouter `[à vérifier]` si incertaine
 - **Auto-maintenance** : quand une nouvelle règle ou convention est décidée, mettre à jour immédiatement ce fichier (AGENTS.md) et/ou le skill concerné. Garder ces fichiers concis et à jour — ils sont la source de vérité pour le comportement des agents
+
+## Conventions pour les fiches contrats
+
+Ces conventions s'appliquent à tous les skills qui créent ou mettent à jour des fiches de contrats (`write-contrat`, `fetch-comparisons`, `fetch-support-lists`, etc.).
+
+### Fiabilité des données sinvestir
+
+- **Données subjectives** (notes, avis, points forts/faibles, appréciations) : utilisables telles quelles, en citant sinvestir comme source
+- **Données objectives** (frais, performances, nombre de supports, conditions, contraintes) : DOIVENT être vérifiées et sourcées depuis le site officiel du distributeur ou de l'assureur. Ne pas reprendre les chiffres sinvestir sans vérification
+
+### Génération du slug
+
+Nom du contrat → kebab-case, sans accents, en minuscules.
+Exemples : « Linxea Spirit PER » → `linxea-spirit-per`, « meilleurtaux Liberté » → `meilleurtaux-liberte`, « Yomoni Retraite+ » → `yomoni-retraite-plus`

@@ -69,13 +69,12 @@ Insérer ces sections **avant** `## Expérience client` (ou `## Avis synthétiqu
 
 ## Règles impératives
 
-- **Sources UNIQUEMENT du distributeur ou de l'assureur** : ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source pour les listes de supports. Seuls le site du distributeur, de l'assureur, ou l'API officielle (ex : Morningstar pour Linxea) sont fiables. Les sites tiers peuvent être obsolètes ou incorrects.
+- Appliquer les [conventions communes](../../AGENTS.md) (sources, formatage, dates)
 - **ISIN obligatoire** pour chaque ETF / OPCVM — c'est l'identifiant unique
 - **Ne JAMAIS inventer un ISIN** — si introuvable, écrire `[ISIN à compléter]`
 - **Commentaire `<!-- Source : URL -->`** : ESSENTIEL pour les futures mises à jour — doit pointer vers la page officielle du distributeur/assureur
 - **Si liste incomplète** : noter `[liste partielle — X supports sur Y identifiés]` en tête de table
 - **Contraintes SCPI** : toujours documenter les règles spécifiques au contrat (% max, pénalités, redistribution loyers, plafond EUR, arbitrage interdit, etc.)
-- Bullet points concis, pas de paragraphes
 
 ## URLs des listes de supports par contrat PER
 

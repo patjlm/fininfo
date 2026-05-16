@@ -47,7 +47,7 @@ Un fichier `cookie.json` contenant les cookies d'authentification de
    python3 skills/fetch-comparisons/scripts/fetch-sinvestir.py <type> -o .tmp/<type>-data.json
    ```
 3. Lire le JSON obtenu
-4. Déléguer la rédaction des fiches au skill spécialisé (`write-contrat-per`, etc.)
+4. Déléguer la rédaction des fiches au skill `write-contrat`
 5. Mettre à jour la fiche enveloppe dans `docs/enveloppes/` avec les liens vers les contrats
 
 ### Structure des données API
@@ -63,8 +63,7 @@ Chaque entrée contient un champ `data` avec les sections :
 
 ## Règles
 
-- Bullet points concis, JAMAIS de longs paragraphes
-- Chaque section a un commentaire `<!-- Mis à jour : YYYY-MM-DD -->`
+- Appliquer les [conventions communes](../../AGENTS.md) (formatage, sources, dates)
 - Source : `simulateurs.sinvestir.fr` (toujours citer)
 - Si une donnée vaut `/` ou est vide, écrire « Non disponible »
 - Utiliser la date du jour pour toutes les sections lors d'une mise à jour
