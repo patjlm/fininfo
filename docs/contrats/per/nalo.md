@@ -1,0 +1,231 @@
+---
+nom: Nalo PER
+type: contrat-per
+slug: nalo
+distributeur: Nalo
+assureur: Apicil
+source: simulateurs.sinvestir.fr
+derniere-mise-a-jour: 2026-05-16
+---
+
+# Nalo PER
+
+> PER individuel assurantiel distribué par Nalo, assuré par Apicil (3e groupe de protection sociale en France).
+> Règles générales du PER : voir [enveloppe PER](../../enveloppes/per.md).
+
+## Informations générales
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Distributeur** : Nalo (filiale du groupe Apicil depuis 2023)
+- **Assureur** : Apicil Épargne Retraite (solvabilité : 218 %)
+- **Type** : Assurantiel (contrat d'assurance de groupe multisupports)
+- **Modes de gestion** : pilotée uniquement (pas de gestion libre disponible dans le PER)
+- **Disponibilité** : en ligne exclusivement
+- **Versement minimum** : 500 EUR
+- **Année de création** : 2022
+
+## Frais
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Versement** : 0 %
+- **Gestion UC** : 1,35 % / an (0,90 % mandat Nalo + 0,45 % assureur)
+- **Gestion fonds euros** : 0,85 % / an (0,15 % Nalo + 0,70 % assureur)
+- **Frais ETF** : ~0,25 % / an en moyenne
+- **Arbitrage** : 0 %
+- **Sortie** : 0 %
+- **Rente (arrérages)** : 1,50 %
+- **Surcoût gestion pilotée** : inclus dans les frais de gestion (pas de surcoût additionnel)
+- **Frais tout compris** : 0,85 % / an (profil défensif) à 1,60 % / an (profil offensif)
+- **Note frais** : 3/5
+
+## Fonds euros
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Fonds disponibles** : Fonds Euros Apicil Garanti (garanti à 100 % — 60 % max du contrat)
+- **Performance 2025** : 1,45 %
+- **Performance 2024** : 1,30 %
+- **Performance cumulée 5 ans** : 5,20 %
+- **Contraintes d'accès** : allocation définie par l'algorithme en gestion pilotée (pas de choix manuel de la part fonds euros) ; la part fonds euros augmente automatiquement à l'approche de la retraite
+- **Note fonds euros** : 3/5
+
+## Unités de compte
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Nombre total d'UC** : ~75 supports (environ 45 ETF actions + 30 ETF obligations + 1 ETF matières premières + 1 fonds euros) — sélection gérée algorithmiquement
+- **ETF Actions** : ~45
+- **ETF Obligations** : ~30
+- **ETF Matières premières** : 1
+- **SCPI** : non disponibles dans le PER Nalo (confirmation officielle page tarifs)
+- **Titres vifs** : non
+- **Rééquilibrage automatique** : oui (sécurisation progressive en gestion pilotée)
+- **Autres supports** : fonds ISR, fonds obligataires, fonds thématiques
+- **Note UC** : 3/5
+
+## Conditions et contraintes spécifiques
+<!-- Mis à jour : 2026-05-16 -->
+
+### Modes de gestion
+
+- **Gestion pilotée uniquement** : l'algorithme construit un portefeuille sur mesure selon l'âge, l'horizon de retraite, la situation patrimoniale et la sensibilité au risque ; pas de profils types « prudent / équilibré / dynamique »
+- **Pas de gestion libre** : contrairement à l'assurance-vie Nalo Patrimoine, le PER ne propose pas la gestion libre
+- **Sécurisation progressive** : automatique, réduit l'exposition actions à l'approche de la retraite au profit d'obligations et du fonds euros
+- **Pas de multiprojet** : contrairement à l'assurance-vie Nalo Patrimoine, le PER ne propose pas la fonctionnalité Multiprojet
+
+### Versements
+
+- **Versement initial minimum** : 500 EUR
+- **Versements libres minimum** : 50 EUR
+- **Versements programmés minimum** : 50 EUR / mois (fréquence mensuelle, trimestrielle ou semestrielle)
+- **Ajustement** : montant et périodicité modifiables à tout moment, sans frais
+
+### Arbitrages
+
+- **Frais d'arbitrage** : 0 %
+- **Gestion pilotée** : arbitrages gérés automatiquement par l'algorithme, pas de choix manuel de l'épargnant
+
+### Limites d'investissement
+
+- **Fonds euros** : 60 % max du contrat (allocation définie par l'algorithme)
+- **SCPI** : non disponibles dans le PER
+
+### Transfert
+
+- **Transfert entrant** :
+  - Accepté depuis PER, PERP, Madelin, PERCO (si salarié ayant quitté l'entreprise), art. 83, Préfon, CRH
+  - 0 % de frais chez Nalo (frais éventuels facturés par l'ancien gestionnaire : plafonnés à 1 % si contrat < 5 ans, gratuit si >= 5 ans ; anciens contrats PERP/Madelin : jusqu'à 5 % si < 10 ans, gratuit si >= 10 ans)
+  - Démarches prises en charge intégralement par l'équipe Nalo
+  - Versement initial minimum : 500 EUR (requis pour ouvrir le contrat avant le transfert)
+  - Délai moyen : 2 à 3 mois (délai légal max : 3 mois)
+- **Transfert sortant** : 1 % max de l'encours si contrat < 5 ans ; gratuit si contrat >= 5 ans
+
+## Supports utilisés en gestion pilotée
+<!-- Mis à jour : 2026-05-16 -->
+<!-- Source : https://www.nalo.fr/nos-portefeuilles — liste non différenciée PER/AV ; ISIN issus de la vérification précédente 2026-05-16 -->
+
+> La page https://www.nalo.fr/nos-portefeuilles ne distingue pas explicitement les supports PER des supports assurance-vie. Les listes ci-dessous sont issues de la dernière vérification disponible. Les ISIN sont à reconfirmer sur le site officiel.
+
+### ETF Actions (~45)
+
+| Nom | ISIN | Catégorie |
+|---|---|---|
+| StSt SPDR S&P 500 UCITS ETF Acc | IE000XZSV718 | Actions États-Unis |
+| SPDR S&P 500 EUR Hdg UCITS ETF Acc | IE00BYYW2V44 | Actions États-Unis (couv. EUR) |
+| BNP Paribas Easy S&P 500 UCITS ETF EUR H | FR0013041530 | Actions États-Unis (couv. EUR) |
+| Xtrackers S&P 500 Equal Weight UCITS ETF 2C EURH | IE0002EI5AG0 | Actions États-Unis (couv. EUR) |
+| Amundi Core S&P 500 Swap UCITS ETF EUR Dist | LU0496786574 | Actions États-Unis |
+| iShares US Equity Enhanced Active UCITS ETF USD Ac | IE0009VWHAE6 | Actions États-Unis |
+| Amundi MSCI USA SRI Climate PA UCITS ETF Acc | IE000R85HL30 | Actions États-Unis (climat) |
+| Amundi MSCI USA SRI Climate PA UCITS ETF EURH Acc | IE0000U24AJ9 | Actions États-Unis (climat, couv. EUR) |
+| BNPP Easy MSCI USA SRI PAB TP H EUR C | LU1859445816 | Actions États-Unis (climat, couv. EUR) |
+| JPM US Research Enhanced Index Equity SRI PA UCITS ETF USD Acc | IE00069JGT58 | Actions États-Unis (climat) |
+| iShares Core MSCI Europe UCITS ETF EUR (Acc) | IE00B4K48X80 | Actions Europe |
+| Amundi MSCI Europe UCITS ETF Acc | FR0010261198 | Actions Europe |
+| iShares Europe Equity Enhanced Active UCITS ETF EUR Acc | IE00000EF730 | Actions Europe |
+| Amundi MSCI Eu SRI Cl Paris Aligned UCITS ETF DR A | LU1861137484 | Actions Europe (climat) |
+| BNPP Easy ESG EurZn Biodvr Lead PAB UCITS ETF C | LU2446381555 | Actions Europe (biodiversité) |
+| JPM Europe Research Enhanced Index Equity SRI PA UCITS ETF EUR Acc | IE0003UN5CT1 | Actions Europe (climat) |
+| Amundi Stoxx Europe Defense UCITS ETF A | LU3038520774 | Actions Europe (défense) |
+| iShares STOXX Europe 600 Basic Resources (DE) | DE000A0F5UK5 | Actions Europe (matériaux) |
+| Amundi MSCI Jpn SRI ClParAlgnd UCITS ETF DR HEUR A | LU2269164310 | Actions Japon (climat, couv. EUR) |
+| Amundi MSCI Jpn SRI ClParAlgnd UCITS ETF DR A | LU2233156749 | Actions Japon (climat) |
+| iShares MSCI Japan UCITS ETF USD (Dist) | IE00B02KXH56 | Actions Japon |
+| iShares MSCI Japan UCITS ETF USD (Acc) | IE00B53QDK08 | Actions Japon |
+| Amundi MSCI China Tech UCITS ETF EUR | LU1681043912 | Actions Chine (technologie) |
+| Amundi MSCI PacExJpn SRI ClParAlg UCITS ETF DR EUR A | LU1602144906 | Actions Pacifique hors Japon (climat) |
+| Amundi MSCI Em Mkts Swap UCITS ETF EUR Acc | LU1681045370 | Actions Pays Émergents |
+| iShares Core MSCI EM IMI UCITS ETF USD Acc | IE00BKM4GZ66 | Actions Pays Émergents |
+| Amundi MSCI EM SRI Cl Paris Aligned UCITS ETF DR A | LU1861138961 | Actions Pays Émergents (climat) |
+| JPM Global EM Research Enhanced Index Equity SRI PA UCITS ETF USD (acc) | IE000ANHU3J3 | Actions Pays Émergents (climat) |
+| iShares MSCI World Quality Div Adv UCITS ETF USD A | IE00BYYHSQ67 | Actions Monde (rendement) |
+| iShares Edge MSCI Wld Qual Fctr UCITS ETF USD A | IE00BP3QZ601 | Actions Monde (qualité) |
+| iShares Ageing Population UCITS ETF USD (Acc) | IE00BYZK4669 | Actions Monde (vieillissement) |
+| iShares Automation & Robotics UCITS ETF USD A | IE00BYZK4552 | Actions Monde (robotique) |
+| iShares Digital Security UCITS ETF USD (Acc) | IE00BG0J4C88 | Actions Monde (cybersécurité) |
+| iShares MSCI Global Semiconductors UCITS ETF USD A | IE000I8KRLL9 | Actions Monde (semi-conducteurs) |
+| Amundi MSCI New Energy UCITS ETF Acc | FR0014002CG3 | Actions Monde (énergies alternatives) |
+| iShares Global Clean Energy Trnstn UCITS ETF USD A | IE000U58J0M1 | Actions Monde (énergies propres) |
+| Amundi MSCI Water ESG Screened UCITS ETF Dist | FR0010527275 | Actions Monde (eau) |
+| BNPP Easy ECPI Circular Economy Leaders UCITS ETF C | LU1953136527 | Actions Monde (économie circulaire) |
+| BNPPE ECPI Glbl ESG Blue Economy UCITS ETF C | LU2194447293 | Actions Monde (économie bleue) |
+| BNPPE ECPI Glbl ESG Infrastruct UCITS ETF Cap | IE000FF2EBQ8 | Actions Monde (infrastructures) |
+| UBS Global Gender Equality UCITS ETF USD dis | IE00BDR5GT91 | Actions Monde (égalité) |
+| Xtrackers FTSE Develpd Europe Restate UCITS ETF 1C | LU0489337690 | Actions Europe (immobilier coté) |
+| Amundi FTSE EPRA NAREIT Global UCITS ETF Acc | LU1437018838 | Actions Monde (immobilier coté) |
+| BNPPE FTSE EPRA NareitDvlpEuGreenCTB UCITS ETF C | LU2008763935 | Actions Europe (immobilier vert coté) |
+
+### ETF Obligations (~30)
+
+| Nom | ISIN | Catégorie |
+|---|---|---|
+| BNPPE EUR CrpBdSRIFsilFreeUltrSht Dur UCITS ETF D | LU2533812058 | Entreprises EUR ultra-court (climat) |
+| BNPP Easy EUR Corp Bond SRI PAB 1-3Y UCITS ETF D | LU2008760592 | Entreprises EUR court terme (climat) |
+| Vanguard EUR Corporate Bond UCITS ETF EUR Dis | IE00BZ163G84 | Entreprises EUR |
+| Amundi EUR Corporate Bond ESG UCITS ETF 2 DR EUR C | LU1681039647 | Entreprises EUR (ESG) |
+| Amundi Core EUR Corp Bond UCITS ETF Acc | LU2089238625 | Entreprises EUR |
+| iShs EUR Corp Bd ESG Paris-Algnd Clmt UCITS ETF EUR A | IE000SE6KPV2 | Entreprises EUR (climat) |
+| Amundi Corporate Proceeds Bond UCITS ETF A | LU2370241684 | Obligations vertes EUR |
+| Amundi Euro Government Green Bond UCITS ETF Acc | LU2356220926 | Obligations souveraines vertes EUR |
+| Amundi Euro Inflt Expectations 2-10Y UCITS ETF A | LU1390062245 | Indexation inflation Europe |
+| iShares EUR Inflation Linked Govt Bd UCITS ETF EUR A | IE00B0M62X26 | Obligations souveraines EUR (inflation) |
+| iShares Broad EUR High Yield Corp Bd UCITS ETF EUR D | IE00BG0J4B71 | Haut rendement EUR |
+| iShares EUR High Yield CpBd ESG SRI UCITS ETF EUR A | IE00BJK55C48 | Haut rendement EUR (ESG) |
+| BNPP Easy EUR HY SRI Fossil Free UCITS ETF Dis | LU2244386137 | Haut rendement EUR (climat) |
+| iShares USD High Yield Cp Bd ESG SRI UCITS ETF EURHA | IE00BMDFDY08 | Haut rendement USD (ESG, couv. EUR) |
+| BNPPE USD Corp Bd SRI Fossil Free UCITS ETF Cap | LU2616774076 | Entreprises USD (climat) |
+| iShares USD Corp Bd ESG SRI UCITS ETF EUR Hedged D | IE00BH4G7D40 | Entreprises USD (ESG, couv. EUR) |
+| iShares USD TIPS 0-5 UCITS ETF USD Dist | IE00BDQYWQ65 | Inflation US court terme |
+| Amundi US Inflation Expectations 10Y UCITS ETF A | LU1390062831 | Indexation inflation US |
+| iShares JPM EM Local Govt Bond UCITS ETF USD D | IE00B5M4WH52 | Obligations émergentes (devises locales) |
+| iShares J.P. Morgan USD EM Corp Bd UCITS ETF EUR H A | IE00BKT1CS59 | Entreprises émergentes (couv. EUR) |
+| BNPPE JPM Scrnd EMBI Gl Dvsd Cmpt UCITS ETF HEUR C | LU1547515137 | Souveraines émergentes (ESG, couv. EUR) |
+| iShares JP Morgan USD EM Bond UCITS ETF EUR H Acc | IE00BJ5JPH63 | Souveraines émergentes (couv. EUR) |
+| iShares US Mortgage Backed Sec UCITS ETF EUR Hgd A | IE00BKP5L409 | Crédit hypothécaire US (couv. EUR) |
+
+### ETF Matières premières (1)
+
+| Nom | ISIN | Catégorie |
+|---|---|---|
+| BNPP Easy Engy&Metals Enhcd Roll UCITS ETF EUR C | LU1291109616 | Énergie et métaux |
+
+### Fonds euros (1)
+
+| Nom | Type | Catégorie |
+|---|---|---|
+| Fonds Euros Apicil Garanti | Fonds euros | Capital garanti (60 % max) |
+
+## Expérience client
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Avis clients** : 4,3/5 (145 avis)
+- **App mobile** : non
+- **Contact** : téléphone (01 84 80 28 99), email (service.clients@nalo.fr), chat, rendez-vous possible
+- **Ergonomie** : intuitive et agréable
+- **Note SAV** : 4,8/5
+
+## Avis synthétique
+<!-- Mis à jour : 2026-05-16 -->
+
+- **Note globale** : 3,56/5
+- **Points forts** :
+  - Accessible dès 500 EUR (versement initial et transfert)
+  - 0 % de frais d'entrée, de sortie et d'arbitrage
+  - Frais tout compris jusqu'à 1,60 % / an
+  - Gestion pilotée sur mesure sans profils types
+  - Sécurisation progressive automatique personnalisée
+  - Service client réactif et bien noté (4,8/5)
+  - Transfert entrant pris en charge intégralement
+- **Points faibles** :
+  - Pas de gestion libre (gestion pilotée uniquement dans le PER)
+  - Investissement limité aux ETF (pas de SCPI, pas de Private Equity, pas de titres vifs)
+  - Fonds euros peu performant (1,45 % en 2025 vs moyenne marché > 2,5 %)
+  - Frais de gestion UC élevés (1,35 % + ~0,25 % ETF = ~1,60 % tout compris)
+  - Pas d'application mobile
+- **Services complémentaires** : assurance-vie (Nalo Patrimoine)
+
+## Sources
+
+- [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
+- [Nalo -- Page produit PER](https://www.nalo.fr/per-plan-epargne-retraite)
+- [Nalo -- Nos portefeuilles (liste des supports)](https://www.nalo.fr/nos-portefeuilles)
+- [Nalo -- Tarifs](https://www.nalo.fr/notre-tarif)
+- [Nalo -- Transfert de PER](https://www.nalo.fr/transfert-de-per)
