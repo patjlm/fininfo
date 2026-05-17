@@ -31,7 +31,7 @@ Chaque contrat Linxea a son propre univers Morningstar :
 
 1. Lancer le script pour récupérer les fonds :
    ```bash
-   python3 skills/fetch-linxea-funds/scripts/fetch_morningstar.py <universe_id> -o .tmp/linxea-<contrat>.json
+   uv run .claude/skills/fetch-linxea-funds/scripts/fetch_morningstar.py <contrat> -o .tmp/linxea-<contrat>.json
    ```
 2. Le script obtient automatiquement un bearer token (OAuth2, credentials publics Linxea)
 3. Il requête l'API Morningstar screener avec l'universe ID

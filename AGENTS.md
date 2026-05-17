@@ -1,4 +1,4 @@
-# Findata — Wiki des produits financiers français
+# Fininfo — Wiki des produits financiers français
 
 ## Objectif
 

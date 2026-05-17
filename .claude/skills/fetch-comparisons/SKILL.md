@@ -44,7 +44,7 @@ Un fichier `cookie.json` contenant les cookies d'authentification de
 1. Vérifier `cookie.json` (voir Prérequis)
 2. Récupérer les données :
    ```bash
-   python3 skills/fetch-comparisons/scripts/fetch-sinvestir.py <type> -o .tmp/<type>-data.json
+   uv run .claude/skills/fetch-comparisons/scripts/fetch-sinvestir.py <type> -o .tmp/<type>-data.json
    ```
 3. Lire le JSON obtenu
 4. Déléguer la rédaction des fiches au skill `write-contrat`

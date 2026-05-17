@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.12"
+# dependencies = []
+# ///
 """Récupère la liste complète des fonds d'un contrat Linxea via l'API Morningstar.
 
 Utilise les credentials publics embarqués dans le bundle JS de Linxea X-Ray.

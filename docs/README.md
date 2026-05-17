@@ -1,4 +1,4 @@
-# Findata — Documentation
+# Fininfo — Documentation
 
 <!-- Mis à jour : 2026-05-17 -->
 

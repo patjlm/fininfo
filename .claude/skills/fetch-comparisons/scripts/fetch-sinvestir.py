@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.12"
+# dependencies = []
+# ///
 """Récupère les données de comparaison depuis simulateurs.sinvestir.fr via l'API Supabase."""
 
 import argparse
@@ -33,7 +37,7 @@ def find_cookie_file(explicit_path: str | None) -> Path:
         return p
     candidates = [
         Path.cwd() / "cookie.json",
-        Path.home() / ".config" / "findata" / "cookie.json",
+        Path.home() / ".config" / "fininfo" / "cookie.json",
     ]
     for p in candidates:
         if p.exists():

@@ -1,4 +1,4 @@
-# Findata
+# Fininfo
 
 Wiki markdown des produits financiers français : enveloppes, contrats, actifs, institutions.
 
