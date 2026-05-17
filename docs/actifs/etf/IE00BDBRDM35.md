@@ -7,17 +7,15 @@ ticker: EUNA
 emetteur: iShares
 indice: Bloomberg Global Aggregate Bond (EUR Hedged)
 ter: 0.10
-replication: Échantillonnage
+replication: Non communiqué
 distribution: Capitalisation
-devise: EUR
+devise: EUR Hedged
 domicile: Ireland
 eligibilite-pea: non
 derniere-verification: 2026-05-17
 ---
 
 # iShares Core Global Aggregate Bond UCITS ETF EUR Hedged (Acc)
-
-> ETF répliquant l'indice Bloomberg Global Aggregate Bond couvert en EUR, couvrant les obligations investment grade émises dans les marchés développés et émergents à travers le monde.
 
 ## Caractéristiques
 <!-- Mis à jour : 2026-05-17 -->
@@ -26,53 +24,17 @@ derniere-verification: 2026-05-17
 - **Ticker** : EUNA
 - **Émetteur** : iShares
 - **Indice de référence** : Bloomberg Global Aggregate Bond (EUR Hedged)
-- **Méthode de réplication** : physique (échantillonnage)
-- **Politique de distribution** : capitalisant
+- **Méthode de réplication** : Non communiqué
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,10 %
-- **Devise du fonds** : EUR
-- **Domicile** : Irlande
-- **Date de création** : 2017-11-21
-- **Taille du fonds** : 2 374 M EUR
+- **Devise du fonds** : EUR Hedged
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-17 -->
-
-### Top positions
-| Position | Poids |
-| --- | --- |
-| INSL CASH | 1,80 % |
-
-### Répartition géographique
-| Pays | Poids |
-| --- | --- |
-| États-Unis | 19,02 % |
-| Japon | 9,90 % |
-| Chine | 6,98 % |
-| France | 3,47 % |
-| Autre | 60,63 % |
-
-### Répartition sectorielle
-| Secteur | Poids |
-| --- | --- |
-| Non communiqué | — |
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-17 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 0,83 % |
-| 3 ans | 5,63 % |
-| 5 ans | -6,69 % |
-
-- **Volatilité 1 an** : 5,78 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 
-- [Yomoni Vie](../../contrats/assurance-vie/yomoni-vie.md)
 - [Yomoni Retraite](../../contrats/per/yomoni-retraite.md)
+- [Yomoni Vie](../../contrats/assurance-vie/yomoni-vie.md)
 
 ## Sources
 

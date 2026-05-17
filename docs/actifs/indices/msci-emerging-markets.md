@@ -141,7 +141,6 @@ ETF répliquant des sous-indices régionaux :
 - [Amundi MSCI Emerging Markets Latin America UCITS ETF EUR (C)](../etf/LU1681045024.md)
 - [iShares MSCI EM Latin America UCITS ETF (Dist)](../etf/IE00B27YCK28.md)
 - [Amundi MSCI Eastern Europe Ex Russia UCITS ETF Acc](../etf/LU1900066462.md)
-- [Amundi MSCI EM Latin America UCITS ETF Acc](../etf/LU1900066629.md)
 - [Xtrackers MSCI EM Europe, Middle East and Africa ESG Swap UCITS ETF 1C](../etf/LU0292109005.md)
 - [iShares MSCI EM ex-China UCITS ETF USD (Acc)](../etf/IE00BMG6Z448.md)
 

@@ -134,7 +134,6 @@ derniere-verification: 2026-05-16
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
-| Amundi CAC 40 UCITS ETF Acc | [FR0011980507](../../actifs/etf/FR0011980507.md) | Actions France |
 | Amundi Euro Government Bond 15+Y UCITS ETF Acc | [LU1287023268](../../actifs/etf/LU1287023268.md) | Obligations Souveraines EUR Long Terme |
 | Amundi Euro Government Bond 3-5Y UCITS ETF Acc | [LU1650488494](../../actifs/etf/LU1650488494.md) | Obligations Souveraines EUR Moyen Terme |
 | Amundi Euro Government Bond 7-10Y UCITS ETF Acc | [LU1287023185](../../actifs/etf/LU1287023185.md) | Obligations Souveraines EUR |
@@ -146,9 +145,7 @@ derniere-verification: 2026-05-16
 | Amundi MSCI Robotics & AI UCITS ETF Acc | [LU1861132840](../../actifs/etf/LU1861132840.md) | Actions Monde Thématique (Robotique & IA) |
 | Amundi MSCI World UCITS ETF DR USD Acc | IE000BI80T95 | Actions Monde |
 | Amundi Nasdaq-100 II UCITS ETF Acc | [LU1829221024](../../actifs/etf/LU1829221024.md) | Actions USA Technologie |
-| Amundi Nasdaq-100 II UCITS ETF H Acc | [LU2195415285](../../actifs/etf/LU2195415285.md) | Actions USA Technologie (couvert EUR) |
 | Amundi S&P 500 II UCITS ETF | LU2115085064 | Actions USA |
-| Amundi S&P 500 II UCITS ETF EUR Hedged Acc | [LU2095415285](../../actifs/etf/LU2095415285.md) | Actions USA (couvert EUR) |
 | Amundi Smart Overnight Return UCITS ETF Acc | [LU1190417599](../../actifs/etf/LU1190417599.md) | Monétaire |
 | BNP Paribas Easy MSCI Europe Min TE Track Classic Cap | LU1291099395 | Actions Europe |
 | BNP Paribas Easy MSCI Japan Min TE ex CW Track Classic Cap | LU1291101985 | Actions Japon |

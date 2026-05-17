@@ -43,6 +43,9 @@ fields:
     required: true
     type: enum
     values: [oui, non]
+  sri:
+    required: false
+    type: number
   derniere-verification:
     required: true
     type: date

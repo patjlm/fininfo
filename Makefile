@@ -1,4 +1,4 @@
-.PHONY: check check-links check-frontmatter check-readmes readmes
+.PHONY: check check-links check-frontmatter check-readmes readmes etfs
 
 check: check-readmes check-frontmatter check-links
 
@@ -13,3 +13,6 @@ check-readmes:
 
 readmes:
 	uv run scripts/generate-readmes.py
+
+etfs:
+	uv run skills/justetf/scripts/justetf_etfs.py bulk-update

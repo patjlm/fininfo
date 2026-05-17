@@ -7,17 +7,15 @@ ticker: 3SUD
 emetteur: iShares
 indice: JP Morgan EMBI Global Core (EUR Hedged)
 ter: 0.50
-replication: Échantillonnage
+replication: Non communiqué
 distribution: Capitalisation
-devise: EUR
+devise: EUR Hedged
 domicile: Ireland
 eligibilite-pea: non
 derniere-verification: 2026-05-17
 ---
 
 # iShares J.P. Morgan USD EM Bond UCITS ETF (Acc)
-
-> ETF répliquant l'indice JP Morgan EMBI Global Core (EUR Hedged), couvrant les obligations souveraines et quasi-souveraines des marchés émergents libellées en USD, avec couverture de change en EUR.
 
 ## Caractéristiques
 <!-- Mis à jour : 2026-05-17 -->
@@ -26,47 +24,12 @@ derniere-verification: 2026-05-17
 - **Ticker** : 3SUD
 - **Émetteur** : iShares
 - **Indice de référence** : JP Morgan EMBI Global Core (EUR Hedged)
-- **Méthode de réplication** : physique (échantillonnage)
-- **Politique de distribution** : capitalisant
+- **Méthode de réplication** : Non communiqué
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,50 %
-- **Devise du fonds** : EUR
-- **Domicile** : Irlande
-- **Date de création** : 2019-04-26
-- **Taille du fonds** : 659 M EUR
+- **Devise du fonds** : EUR Hedged
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-- **Critères ESG** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-17 -->
-
-### Top 10 positions
-
-Non communiqué
-
-### Répartition géographique
-| Pays | Poids |
-| --- | --- |
-| Mexique | 4,76 % |
-| Indonésie | 4,72 % |
-| Arabie saoudite | 4,22 % |
-| Turquie | 3,87 % |
-| Autre | 82,43 % |
-
-### Répartition sectorielle
-
-Non communiqué (100 % obligations souveraines / quasi-souveraines émergentes)
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-17 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 8,32 % |
-| 3 ans | 23,17 % |
-| 5 ans | -2,07 % |
-
-- **Volatilité 1 an** : 6,43 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 

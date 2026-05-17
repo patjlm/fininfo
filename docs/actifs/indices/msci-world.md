@@ -127,7 +127,6 @@ Performances annualisées au 30/04/2026 (gross return, USD) :
 - [Amundi MSCI World ESG Selection UCITS ETF Acc](../etf/IE00016PSX47.md)
 - [Amundi MSCI World SRI Climate Paris Aligned UCITS ETF Acc](../etf/IE000Y77LGG9.md)
 - [Amundi MSCI World SRI Climate Paris Aligned UCITS ETF Acc EUR Hedged](../etf/IE000K1P4V37.md)
-- [BNP Paribas Easy MSCI World ESG Filtered Min TE UCITS ETF EUR](../etf/LU2446383171.md)
 - [BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped UCITS ETF EUR Acc](../etf/LU1615092217.md)
 - [Goldman Sachs Alpha Enhanced World Equity Active UCITS ETF CLASS USD (Acc)](../etf/IE000UFAX9L6.md)
 - [iShares MSCI World ESG Enhanced CTB UCITS ETF USD (Acc)](../etf/IE00BHZPJ569.md)
@@ -146,12 +145,9 @@ Performances annualisées au 30/04/2026 (gross return, USD) :
 
 ### ETF sectoriels MSCI World
 
-- [Amundi MSCI World Energy UCITS ETF Acc (EUR)](../etf/LU0533032420.md)
 - [Amundi MSCI World Financials UCITS ETF EUR Acc](../etf/LU0533032859.md)
 - [Amundi MSCI World Health Care UCITS ETF EUR Acc](../etf/LU0533033238.md)
 - [Amundi MSCI World Information Technology UCITS ETF EUR Acc](../etf/LU0533033667.md)
-- [Lyxor MSCI World Industrials TR UCITS ETF - Acc (EUR)](../etf/LU0533033402.md)
-- [Lyxor MSCI World Communication Services TR UCITS ETF - Acc (EUR)](../etf/LU0533034129.md)
 
 ## Sources
 

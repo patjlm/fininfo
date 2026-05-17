@@ -103,7 +103,6 @@ Performances annuelles récentes (price return) :
 - [Amundi Core Nasdaq-100 Swap UCITS ETF EUR Hedged Acc](../etf/LU1954152853.md)
 - [Amundi Nasdaq-100 Swap UCITS ETF EUR Acc](../etf/LU1681038243.md)
 - [Amundi Nasdaq-100 Swap UCITS ETF EUR Hedged Acc](../etf/LU1681038599.md)
-- [Amundi Nasdaq-100 II UCITS ETF H Acc](../etf/LU2195415285.md)
 - [Amundi Nasdaq-100 Daily (2x) Leveraged UCITS ETF Acc](../etf/FR0010342592.md)
 - [Amundi PEA Nasdaq-100 UCITS ETF Acc](../etf/FR0011871110.md)
 - [Amundi PEA Nasdaq-100 UCITS ETF S Acc](../etf/FR001400ZGR7.md)

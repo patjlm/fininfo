@@ -7,17 +7,15 @@ ticker: SNAZ
 emetteur: iShares
 indice: JP Morgan CEMBI Broad Diversified Core (EUR Hedged)
 ter: 0.53
-replication: Échantillonnage
+replication: Non communiqué
 distribution: Capitalisation
-devise: EUR
+devise: EUR Hedged
 domicile: Ireland
 eligibilite-pea: non
 derniere-verification: 2026-05-17
 ---
 
 # iShares J.P. Morgan USD Emerging Markets Corporate Bond UCITS ETF EUR Hedged (Acc)
-
-> ETF répliquant l'indice JP Morgan CEMBI Broad Diversified Core (EUR Hedged), couvrant les obligations d'entreprises des marchés émergents de toutes maturités, libellées en USD, avec couverture de change en EUR.
 
 ## Caractéristiques
 <!-- Mis à jour : 2026-05-17 -->
@@ -26,51 +24,16 @@ derniere-verification: 2026-05-17
 - **Ticker** : SNAZ
 - **Émetteur** : iShares
 - **Indice de référence** : JP Morgan CEMBI Broad Diversified Core (EUR Hedged)
-- **Méthode de réplication** : physique (échantillonnage)
-- **Politique de distribution** : capitalisant
+- **Méthode de réplication** : Non communiqué
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,53 %
-- **Devise du fonds** : EUR
-- **Domicile** : Irlande
-- **Date de création** : 2020-03-09
-- **Taille du fonds** : 217 M EUR
+- **Devise du fonds** : EUR Hedged
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-17 -->
-
-### Top positions
-
-Non communiqué
-
-### Répartition géographique
-| Pays | Poids |
-| --- | --- |
-| Îles Caïmans | 13,17 % |
-| États-Unis | 5,37 % |
-| Pays-Bas | 3,97 % |
-| Singapour | 3,82 % |
-| Autre | 73,67 % |
-
-### Répartition sectorielle
-| Secteur | Poids |
-| --- | --- |
-| Autre | 100,00 % |
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-17 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 4,95 % |
-| 3 ans | 15,95 % |
-| 5 ans | 0,20 % |
-
-- **Volatilité 1 an** : 5,41 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 
-- [Nalo](../../contrats/per/nalo.md)
+- [Nalo PER](../../contrats/per/nalo.md)
 
 ## Sources
 

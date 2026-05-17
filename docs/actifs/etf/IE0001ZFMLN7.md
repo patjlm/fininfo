@@ -12,49 +12,28 @@ distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-17
 ---
 
 # iShares NASDAQ 100 Swap UCITS ETF USD (Acc)
 
-> ETF synthétique répliquant l'indice Nasdaq 100, qui suit une sélection de 100 actions non financières cotées sur le NASDAQ.
-
 ## Caractéristiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-17 -->
 
 - **ISIN** : IE0001ZFMLN7
 - **Ticker** : N100
 - **Émetteur** : iShares
-- **Indice de référence** : Nasdaq 100
-- **Méthode de réplication** : synthétique (swap non financé)
-- **Politique de distribution** : capitalisant
+- **Indice de référence** : [Nasdaq 100](../indices/nasdaq-100.md)
+- **Méthode de réplication** : Synthétique
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,20 %
 - **Devise du fonds** : USD
-- **Domicile** : Irlande
-- **Date de création** : 2024-10-03
-- **Taille du fonds** : 391 M EUR
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-16 -->
-
-Non communiqué (données non disponibles sur justETF pour cet ETF synthétique récent).
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-16 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 32,70 % |
-| 3 ans | Non communiqué |
-| 5 ans | Non communiqué |
-
-- **Volatilité 1 an** : 15,45 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 
-- [Bourse Direct (PEA)](../../contrats/pea/bourse-direct.md)
+- [Bourse Direct](../../contrats/pea/bourse-direct.md)
 
 ## Sources
 

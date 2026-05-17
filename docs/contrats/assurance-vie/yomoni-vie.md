@@ -82,7 +82,6 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | [LU0659579733](../../actifs/etf/LU0659579733.md) | Xtrackers MSCI World Swap UCITS ETF | Actions Monde |
 | [IE00B3XXRP09](../../actifs/etf/IE00B3XXRP09.md) | Vanguard S&P 500 UCITS ETF | Actions États-Unis |
 | [IE00BNGJJT35](../../actifs/etf/IE00BNGJJT35.md) | Invesco S&P 500 Equal Weight UCITS ETF | Actions États-Unis |
-| [LU2153616599](../../actifs/etf/LU2153616599.md) | Amundi Index MSCI USA SRI PAB - Hedged EUR | Actions États-Unis ESG |
 | [IE00B4K48X80](../../actifs/etf/IE00B4K48X80.md) | iShares Core MSCI Europe UCITS ETF EUR Acc | Actions Europe |
 | [IE00B910VR50](../../actifs/etf/IE00B910VR50.md) | SPDR MSCI EMU UCITS ETF EUR Acc | Actions Zone Euro |
 | [IE00B53QG562](../../actifs/etf/IE00B53QG562.md) | iShares Core MSCI EMU UCITS ETF | Actions Zone Euro |

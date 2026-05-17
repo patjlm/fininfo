@@ -17,8 +17,6 @@ derniere-verification: 2026-05-17
 
 # Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1C
 
-> ETF obligataire ciblant les obligations corporate EUR à rendement élevé (Yield Plus), maturité 1,25-10 ans, notation mixte, réplication physique par échantillonnage optimisé.
-
 ## Caractéristiques
 <!-- Mis à jour : 2026-05-17 -->
 
@@ -26,44 +24,12 @@ derniere-verification: 2026-05-17
 - **Ticker** : XYPL
 - **Émetteur** : Xtrackers
 - **Indice de référence** : iBoxx EUR Corporates Yield Plus
-- **Méthode de réplication** : physique (échantillonnage optimisé)
-- **Politique de distribution** : capitalisant
+- **Méthode de réplication** : Échantillonnage
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,25 %
 - **Devise du fonds** : EUR
-- **Domicile** : Irlande
-- **Date de création** : 2022-06-15
-- **Taille du fonds** : 155 M EUR
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-17 -->
-
-### Top 10 positions
-Non communiqué
-
-### Répartition géographique
-| Pays | Poids |
-| --- | --- |
-| États-Unis | 14,57 % |
-| France | 13,74 % |
-| Pays-Bas | 8,47 % |
-| Allemagne | 6,20 % |
-| Autre | 57,02 % |
-
-### Répartition sectorielle
-Non communiqué
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-17 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 2,47 % |
-| 3 ans | 16,65 % |
-| 5 ans | Non communiqué |
-
-- **Volatilité 1 an** : 3,14 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 

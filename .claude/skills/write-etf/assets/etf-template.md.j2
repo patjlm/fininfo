@@ -1,0 +1,54 @@
+---
+nom: {{ nom }}
+type: etf
+slug: {{ isin }}
+isin: {{ isin }}
+ticker: {{ ticker }}
+emetteur: {{ emetteur }}
+indice: {{ indice }}
+ter: {{ "%.2f" | format(ter) }}
+replication: {{ replication }}
+distribution: {{ distribution }}
+devise: {{ devise }}
+domicile: {{ domicile }}
+eligibilite-pea: {{ eligibilite_pea }}
+{% if sri is not none -%}
+sri: {{ sri }}
+{% endif -%}
+derniere-verification: {{ date }}
+---
+
+# {{ nom }}
+
+## Caractéristiques
+<!-- Mis à jour : {{ date }} -->
+
+- **ISIN** : {{ isin }}
+- **Ticker** : {{ ticker }}
+- **Émetteur** : {{ emetteur }}
+{% if indice_lien -%}
+- **Indice de référence** : [{{ indice }}]({{ indice_lien }})
+{% else -%}
+- **Indice de référence** : {{ indice }}
+{% endif -%}
+- **Méthode de réplication** : {{ replication }}
+- **Politique de distribution** : {{ distribution }}
+- **TER** : {{ ter_fmt }}
+- **Devise du fonds** : {{ devise }}
+- **Domicile** : {{ domicile }}
+- **Éligibilité PEA** : {{ eligibilite_pea }}
+{% if sri is not none -%}
+- **Indicateur de risque (SRI)** : {{ sri }}/7
+{% endif %}
+
+{% if contrats -%}
+## Contrats référençant cet ETF
+
+{% for c in contrats -%}
+- [{{ c.nom }}]({{ c.lien }})
+{% endfor %}
+
+{% endif -%}
+## Sources
+
+- [justETF](https://www.justetf.com/en/etf-profile.html?isin={{ isin }})

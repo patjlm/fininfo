@@ -12,59 +12,28 @@ distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI World Swap UCITS ETF USD (Acc)
 
-> ETF synthétique répliquant l'indice MSCI World, qui suit les actions de 23 pays développés à travers le monde.
-
 ## Caractéristiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-17 -->
 
 - **ISIN** : IE000F9IDGB5
 - **Ticker** : IWDS
 - **Émetteur** : iShares
-- **Indice de référence** : MSCI World
-- **Méthode de réplication** : synthétique (swap non financé)
-- **Politique de distribution** : capitalisant
+- **Indice de référence** : [MSCI World](../indices/msci-world.md)
+- **Méthode de réplication** : Synthétique
+- **Politique de distribution** : Capitalisation
 - **TER** : 0,12 %
 - **Devise du fonds** : USD
-- **Domicile** : Irlande
-- **Date de création** : 2024-03-13
-- **Taille du fonds** : 1 550 M EUR
+- **Domicile** : Ireland
 - **Éligibilité PEA** : non
-
-## Allocations
-<!-- Mis à jour : 2026-05-16 -->
-
-### Top 10 positions
-
-Non communiqué
-
-### Répartition géographique
-
-Non communiqué
-
-### Répartition sectorielle
-
-Non communiqué
-
-## Performances et risques
-<!-- Mis à jour : 2026-05-16 -->
-
-| Période | Performance |
-| --- | --- |
-| 1 an | 20,35 % |
-| 3 ans | Non communiqué |
-| 5 ans | Non communiqué |
-
-- **Volatilité 1 an** : 10,26 %
-- **Tracking error** : Non communiqué
 
 ## Contrats référençant cet ETF
 
-- [Bourse Direct PEA](../../contrats/pea/bourse-direct.md)
+- [Bourse Direct](../../contrats/pea/bourse-direct.md)
 
 ## Sources
 

@@ -104,7 +104,6 @@ Performances de l'ETF Amundi CAC 40 UCITS ETF Acc (FR0013380607, net return) :
 
 - [Amundi CAC 40 UCITS ETF Dist](../etf/FR0007052782.md)
 - [Amundi CAC 40 UCITS ETF Acc](../etf/FR0013380607.md)
-- [Amundi CAC 40 UCITS ETF Acc](../etf/FR0011980507.md)
 - [Amundi CAC 40 UCITS ETF S Acc](../etf/FR001400ZGQ9.md)
 - [Xtrackers CAC 40 UCITS ETF 1D](../etf/LU0322250985.md)
 - [BNP Paribas Easy CAC 40 ESG UCITS ETF](../etf/FR0010150458.md)
