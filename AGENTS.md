@@ -2,14 +2,13 @@
 
 ## Objectif
 
-Wiki markdown de produits financiers français : enveloppes d'investissement, institutions, gestionnaires, actifs. Toutes les données proviennent de sources officielles.
+Wiki markdown de produits financiers français : enveloppes d'investissement, contrats, actifs. Toutes les données proviennent de sources officielles.
 
 ## Structure
 
 - `docs/enveloppes/` — fiches des enveloppes (Livret A, PEA, AV, PER, etc.)
 - `docs/contrats/` — fiches des contrats/produits par catégorie (`per/`, `pea/`, `assurance-vie/`, etc.)
-- `docs/institutions/` — fiches des établissements financiers
-- `docs/actifs/` — fiches des actifs (fonds, ETF, SCPI, etc.)
+- `docs/actifs/` — fiches des actifs (indices, ETF, SCPI, etc.)
 - `skills/` — skills AI ([spec agentskills.io](https://agentskills.io/specification)) pour créer/mettre à jour les fiches
 
 ## Règles
@@ -36,11 +35,12 @@ Chaque fiche a un frontmatter YAML validé par `make check`. Les schemas sont d�
 
 ### Valeurs numériques
 
-Les champs d'actifs (ETF, SCPI) sont des **nombres** dans le frontmatter :
+Les champs d'actifs (indices, ETF, SCPI) sont des **nombres** dans le frontmatter :
 
 - `ter: 0.25` (pas `"0.25%"`)
 - `prix-de-part: 610` (pas `"610 EUR"`)
 - `taux-de-distribution: 5.49` (pas `"5,49%"`)
+- `nombre-de-constituants: 1400` (pas `"~1400"`)
 
 ### Frais des contrats (chaînes)
 

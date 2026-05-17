@@ -1,6 +1,6 @@
 # Fininfo
 
-Wiki markdown des produits financiers français : enveloppes, contrats, actifs, institutions.
+Wiki markdown des produits financiers français : enveloppes, contrats, actifs.
 
 Voir [docs/README.md](docs/README.md) pour la documentation complète.
 

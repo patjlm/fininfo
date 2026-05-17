@@ -72,6 +72,15 @@ COLUMNS: dict[str, list[tuple[str, str]]] = {
         ("Rendement", "taux-de-distribution"),
         ("ISR", "label-isr"),
     ],
+    "indice": [
+        ("Nom", "nom"),
+        ("Fournisseur", "fournisseur"),
+        ("Zone", "zone-geographique"),
+        ("Capitalisation", "capitalisation"),
+        ("Constituants", "nombre-de-constituants"),
+        ("Devise", "devise-de-reference"),
+        ("Pondération", "methode-de-ponderation"),
+    ],
 }
 
 
@@ -97,6 +106,8 @@ def fmt_value(value, field: str) -> str:
         return f"{value:.2f} %"
     if field == "prix-de-part" and isinstance(value, (int, float)):
         return f"{value:,.0f} EUR".replace(",", " ")
+    if field == "nombre-de-constituants" and isinstance(value, (int, float)):
+        return f"{value:,.0f}".replace(",", " ")
     if field in ("frais-versement", "frais-gestion-uc", "frais-arbitrage"):
         if isinstance(value, (int, float)):
             formatted = f"{value:g}"

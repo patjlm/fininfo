@@ -1,0 +1,54 @@
+type: indice
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [indice]
+  slug:
+    required: true
+    type: string
+  fournisseur:
+    required: true
+    type: string
+  zone-geographique:
+    required: true
+    type: enum
+    values:
+      - Monde
+      - "Monde développé"
+      - "Marchés émergents"
+      - "États-Unis"
+      - Europe
+      - Zone Euro
+      - France
+      - Japon
+      - Multi-régions
+  capitalisation:
+    required: true
+    type: enum
+    values:
+      - Large cap
+      - Mid cap
+      - Small cap
+      - "Large & Mid cap"
+      - Toutes capitalisations
+  nombre-de-constituants:
+    required: true
+    type: number
+  devise-de-reference:
+    required: true
+    type: string
+  methode-de-ponderation:
+    required: true
+    type: enum
+    values:
+      - "Capitalisation flottante"
+      - "Capitalisation totale"
+      - Prix
+      - "Équipondéré"
+  derniere-verification:
+    required: true
+    type: date

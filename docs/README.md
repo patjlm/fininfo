@@ -26,26 +26,22 @@ Frontmatter : `nom`, `type: enveloppe`, `slug`.
 
 ### Actifs (`actifs/`)
 
-630 fiches d'actifs financiers. Les ETF sont identifiés par ISIN.
+630+ fiches d'actifs financiers.
 
 - [README actifs](actifs/README.md) — sous-catégories et comptages
+- **Indices** (`actifs/indices/`) — indices boursiers de référence. Frontmatter : `fournisseur`, `zone-geographique`, `capitalisation`, `nombre-de-constituants` (nombre), `methode-de-ponderation`
 - **ETF** (`actifs/etf/`) — 604 fiches. Frontmatter : `isin`, `ticker`, `emetteur`, `indice`, `ter` (nombre), `eligibilite-pea`
 - **SCPI** (`actifs/scpi/`) — 20 fiches. Frontmatter : `societe-de-gestion`, `categorie`, `prix-de-part` (nombre), `taux-de-distribution` (nombre)
 - **OPCVM** (`actifs/opcvm/`) — 5 fiches
 - **SC** (`actifs/sc/`) — 1 fiche
 - [ETF éligibles PEA](actifs/etf-eligibles-pea.md) — liste filtrée par émetteur
 
-### Institutions (`institutions/`)
-
-Fiches des banques, courtiers et assureurs _(à venir)_.
-
-- [README institutions](institutions/README.md)
-
 ## Requêtes courantes
 
 - **Comparer les frais PER** → lire `contrats/per/README.md` (tableau généré depuis le frontmatter)
 - **ETF éligibles PEA** → lire `actifs/etf-eligibles-pea.md` ou filtrer `eligibilite-pea: oui` dans le frontmatter des fichiers `actifs/etf/`
 - **Quel contrat propose un ETF donné ?** → chercher l'ISIN dans les fiches contrats, ou lire la section « Contrats référençant cet ETF » dans la fiche ETF
+- **Quels ETF répliquent un indice ?** → lire la section « ETF répliquant cet indice » dans la fiche indice (`actifs/indices/`)
 - **Règles d'une enveloppe** → lire la fiche dans `enveloppes/` (fiscalité, plafonds, conditions)
 
 ## Fiabilité des données
