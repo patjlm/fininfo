@@ -221,14 +221,14 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | Type | Contraintes spécifiques |
 |---|---|---|
-| Immorente | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Immorente](../../actifs/scpi/immorente.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
 | Primovie | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Primopierre | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
 | Rivoli Avenir Patrimoine | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
 | Edissimmo | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Iroko Zen | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
-| Remake Live | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
-| Transitions Europe | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers (Arkea REIM) |
+| [Iroko Zen](../../actifs/scpi/iroko-zen.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
+| [Remake Live](../../actifs/scpi/remake-live.md) | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
+| [Transitions Europe](../../actifs/scpi/transitions-europe.md) | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers (Arkea REIM) |
 | Mistral Sélection | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
 | Laffitte Pierre | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers |
 | Novapierre 1 | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers |
@@ -251,7 +251,7 @@ derniere-mise-a-jour: 2026-05-16
 > **Redistribution des loyers SCPI** : 85 % (Suravenir conserve 15 %)
 > **Investissement SCPI** : 97,5 % du prix de souscription
 > **Plafond par défaut** : 50 000 EUR par SCPI et 50 % de l'encours du contrat
-> **Exceptions** : Remake Live, Laffitte Pierre, Novapierre 1, Transitions Europe — 10 000 EUR max et 10 % de l'encours
+> **Exceptions** : [Remake Live](../../actifs/scpi/remake-live.md), Laffitte Pierre, Novapierre 1, [Transitions Europe](../../actifs/scpi/transitions-europe.md) — 10 000 EUR max et 10 % de l'encours
 > **SCPI non éligibles aux versements programmés**
 > Pour la liste exhaustive et à jour : [Linxea — Fonds immobiliers Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/fonds-immobiliers-suravenir-per/)
 

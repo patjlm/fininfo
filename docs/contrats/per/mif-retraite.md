@@ -85,7 +85,7 @@ derniere-mise-a-jour: 2026-05-16
 
 ### SCPI — Règles spécifiques
 
-- **SCPI disponibles** : 4 SCPI (Cristal Life, Cristal Rente, Épargne Pierre, Immorente)
+- **SCPI disponibles** : 4 SCPI (Cristal Life, Cristal Rente, [Épargne Pierre](../../actifs/scpi/epargne-pierre.md), [Immorente](../../actifs/scpi/immorente.md))
 - **Redistribution loyers** : 90 % seulement (vs 100 % chez certains concurrents)
 - **Réinvestissement loyers** : sur le fonds euros Retraite (actif cantonné)
 - **Fréquence** : trimestrielle
@@ -144,8 +144,8 @@ derniere-mise-a-jour: 2026-05-16
 |---|---|---|---|---|---|
 | Cristal Life | Inter Gestion REIM | 6,54 % | 6,51 % | 6,02 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite, labellisée ISR |
 | Cristal Rente | Inter Gestion REIM | 5,00 % | 5,06 % | 5,00 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
-| Épargne Pierre | Atland Voisin | 5,28 % | 5,28 % | 5,28 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
-| Immorente | Sofidy | 5,00 % | 5,04 % | 5,00 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
+| [Épargne Pierre](../../actifs/scpi/epargne-pierre.md) | Atland Voisin | 5,28 % | 5,28 % | 5,28 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
+| [Immorente](../../actifs/scpi/immorente.md) | Sofidy | 5,00 % | 5,04 % | 5,00 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
 
 ## Expérience client
 <!-- Mis à jour : 2026-05-16 -->

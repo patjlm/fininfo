@@ -205,7 +205,7 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 |---|---|
 | Atout Pierre Diversification | 4,32 % |
 | Efimmo | 4,44 % |
-| Immorente | 5,00 % |
+| [Immorente](../../actifs/scpi/immorente.md) | 5,00 % |
 | Laffitte Pierre | 5,30 % |
 | Momentime | 9,25 % |
 | Patrimmo Commerce | 3,38 % |
@@ -228,7 +228,7 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 | OPCI Diversipierre | OPCI |
 | OPCI SOFIDY Pierre Europe | OPCI |
 | OPCI Dynapierre | OPCI |
-| Remake Live | [à vérifier] |
+| [Remake Live](../../actifs/scpi/remake-live.md) | [à vérifier] |
 
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-16 -->

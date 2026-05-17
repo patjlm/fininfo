@@ -122,7 +122,7 @@ derniere-mise-a-jour: 2026-05-16
 - **Plafond SCPI** : 1 000 000 EUR de versements cumulés nets sur les supports SCPI
 - **Pénalité de désinvestissement** : 3 % sur les sommes brutes rachetées si désinvestissement d'un support SCPI dans les 3 ans suivant l'investissement
 - **Distribution des loyers** : 100 %
-- **Contrainte par support** : certaines SCPI ont des limites par acte (ex : Efimmo et Immorente : 50 000 EUR max par acte)
+- **Contrainte par support** : certaines SCPI ont des limites par acte (ex : Efimmo et [Immorente](../../actifs/scpi/immorente.md) : 50 000 EUR max par acte)
 
 ### Contraintes fonds euros
 
@@ -265,15 +265,15 @@ derniere-mise-a-jour: 2026-05-16
 | Nom | Type | Société de gestion | Contraintes spécifiques |
 |---|---|---|---|
 | Accès Valeur Pierre | SCPI | BNP Paribas REIM | — |
-| Activimmo | SCPI | Alderan | — |
+| [Activimmo](../../actifs/scpi/activimmo.md) | SCPI | Alderan | — |
 | Altixia Cadence XII | SCPI | Altixia REIM | — |
 | Atream Hôtels | SCPI | Atream | — |
 | Edissimmo | SCPI | Amundi Immobilier | — |
 | Efimmo | SCPI | Sofidy | 50 000 EUR max par acte |
 | Épargne Foncière | SCPI | La Française REM | — |
-| Épargne Pierre | SCPI | Atland Voisin | — |
-| Immorente | SCPI | Sofidy | 50 000 EUR max par acte |
-| Iroko Zen | SCPI | Iroko | souscriptions suspendues depuis mai 2026 (enveloppe Spirica atteinte) |
+| [Épargne Pierre](../../actifs/scpi/epargne-pierre.md) | SCPI | Atland Voisin | — |
+| [Immorente](../../actifs/scpi/immorente.md) | SCPI | Sofidy | 50 000 EUR max par acte |
+| [Iroko Zen](../../actifs/scpi/iroko-zen.md) | SCPI | Iroko | souscriptions suspendues depuis mai 2026 (enveloppe Spirica atteinte) |
 | Laffitte Pierre | SCPI | AEW Ciloger | — |
 | LF Europimmo | SCPI | La Française REM | — |
 | LF Grand Paris Patrimoine | SCPI | La Française REM | — |
@@ -283,7 +283,7 @@ derniere-mise-a-jour: 2026-05-16
 | PFO2 | SCPI | Perial AM | — |
 | Pierval Santé | SCPI | Euryale AM | — |
 | Primovie | SCPI | Praemia REIM (ex-Primonial) | — |
-| Primopierre | SCPI | Praemia REIM (ex-Primonial) | — |
+| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | Praemia REIM (ex-Primonial) | — |
 | Rivoli Avenir Patrimoine | SCPI | Amundi Immobilier | — |
 
 > Contraintes communes : plafond 1 000 000 EUR cumulés, pénalité 3 % si désinvestissement < 3 ans, 100 % des loyers reversés. Voir [avenant SCPI Spirica](https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica).

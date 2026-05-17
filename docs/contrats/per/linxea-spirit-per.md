@@ -83,7 +83,7 @@ derniere-mise-a-jour: 2026-05-16
 
 - **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI
 - **Limite cumulée** : 1 000 000 EUR net de désinvestissements sur l'ensemble des SCPI du contrat
-- **Limites spécifiques** : Efimmo et Immorente limitées à 50 000 EUR par acte, sous réserve d'enveloppe disponible
+- **Limites spécifiques** : Efimmo et [Immorente](../../actifs/scpi/immorente.md) limitées à 50 000 EUR par acte, sous réserve d'enveloppe disponible
 - **Pénalité de sortie** : 3 % sur sommes brutes désinvesties si arbitrage ou rachat avant 3 ans
 - **Versements programmés sur SCPI** : non autorisés
 - **Options d'arbitrage programmé sur SCPI** : non éligibles (sécurisation plus-values, limitation moins-values, investissement progressif, rééquilibrage automatique)
@@ -227,14 +227,14 @@ derniere-mise-a-jour: 2026-05-16
 | Nom | Type | Contraintes spécifiques |
 |---|---|---|
 | Accès Valeur Pierre | SCPI | Bureaux Paris — 3,53 % TD 2024 — capital variable |
-| Activimmo | SCPI | Logistique — 5,50 % TD 2024 |
+| [Activimmo](../../actifs/scpi/activimmo.md) | SCPI | Logistique — 5,50 % TD 2024 |
 | Altixia Cadence XII | SCPI | Diversifiée — 5,73 % TD 2024 |
 | Atream Hôtels | SCPI | Hôtellerie — 5,05 % TD 2024 |
 | Edissimmo | SCPI | Bureaux — 4,27 % TD 2024 |
 | Efimmo | SCPI | Bureaux — 5,07 % TD 2024, 50 000 EUR max par acte |
 | Épargne Foncière | SCPI | Bureaux — 4,52 % TD 2024 |
-| Épargne Pierre | SCPI | Diversifiée — 5,28 % TD 2024 |
-| Immorente | SCPI | Diversifiée — 5,04 % TD 2024, 50 000 EUR max par acte |
+| [Épargne Pierre](../../actifs/scpi/epargne-pierre.md) | SCPI | Diversifiée — 5,28 % TD 2024 |
+| [Immorente](../../actifs/scpi/immorente.md) | SCPI | Diversifiée — 5,04 % TD 2024, 50 000 EUR max par acte |
 | Laffitte Pierre | SCPI | Diversifiée — 4,27 % TD 2024 |
 | LF Europimmo | SCPI | Bureaux Europe — 4,30 % TD 2024 |
 | LF Grand Paris Patrimoine | SCPI | Bureaux Grand Paris — 4,40 % TD 2024 |
@@ -245,7 +245,7 @@ derniere-mise-a-jour: 2026-05-16
 | PFO2 (Perial O2) | SCPI | Bureaux ESG — 4,91 % TD 2024 |
 | Pierval Santé | SCPI | Santé Europe — 4,05 % TD 2024 |
 | Primovie | SCPI | Santé & Éducation — 4,20 % TD 2024 |
-| Primopierre | SCPI | Bureaux — 3,54 % TD 2024 |
+| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | Bureaux — 3,54 % TD 2024 |
 | Rivoli Avenir Patrimoine | SCPI | Bureaux Paris — 3,89 % TD 2024 |
 | Selectinvest 1 | SCPI | Bureaux — 4,40 % TD 2024 |
 

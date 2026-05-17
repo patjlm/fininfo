@@ -62,7 +62,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Nombre total d'UC** : +600
 - **ETF** : 41 (source sinvestir) / 40+ selon BoursoBank
-- **SCPI** : 2 (selon sinvestir) — Mistral Sélection (risque 3/7), Sofidynamic (risque 4/7) ; Immorente mentionné mais souscriptions fermées
+- **SCPI** : 2 (selon sinvestir) — Mistral Sélection (risque 3/7), [Sofidynamic](../../actifs/scpi/sofidynamic.md) (risque 4/7) ; [Immorente](../../actifs/scpi/immorente.md) mentionné mais souscriptions fermées
 - **SCI** : ESG Tendances Pierre (risque 3/7)
 - **OPCI** : SwissLife ESG Dynapierre (risque 4/7), Sofidy Pierre Europe (risque 4/7)
 - **Terres agricoles** : SC Terres Invest (risque 2/7, max 30 % du contrat, durée recommandée 10 ans)

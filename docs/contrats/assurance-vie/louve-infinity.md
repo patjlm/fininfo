@@ -82,10 +82,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | CORUM Origin | CORUM AM |
 | CORUM XL | CORUM AM |
 | CORUM Eurion | CORUM AM |
-| Épargne Pierre Europe | Altand Voisin |
+| [Épargne Pierre Europe](../../actifs/scpi/epargne-pierre-europe.md) | Altand Voisin |
 | Cristal Life | Inter Gestion |
-| Sofidynamic | Sofidy |
-| Epsicap Nano | Epsicap |
+| [Sofidynamic](../../actifs/scpi/sofidynamic.md) | Sofidy |
+| [Epsicap Nano](../../actifs/scpi/epsicap-nano.md) | Epsicap |
 
 **Fonds obligataires (5)**
 
@@ -140,7 +140,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Frais de gestion UC très compétitifs : 0,39 % / an
   - Fonds euros très performant : 4,10 % en 2025, 13,20 % cumulé sur 3 ans
   - 100 % des loyers bruts SCPI redistribués (avantage versus achat en direct net)
-  - Accès à 7 SCPI dont des SCPI non-Corum (Épargne Pierre Europe, Cristal Life, Sofidynamic, Epsicap Nano)
+  - Accès à 7 SCPI dont des SCPI non-Corum ([Épargne Pierre Europe](../../actifs/scpi/epargne-pierre-europe.md), Cristal Life, [Sofidynamic](../../actifs/scpi/sofidynamic.md), [Epsicap Nano](../../actifs/scpi/epsicap-nano.md))
   - 8 ETF Amundi disponibles — choix suffisant pour une allocation diversifiée
   - 0 % de frais sur versement, arbitrage et rachat
   - Versements programmés dès 100 EUR / mois

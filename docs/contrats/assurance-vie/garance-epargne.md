@@ -52,7 +52,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Nombre total d'UC** : 46 (source : sinvestir.fr — à vérifier sur le site officiel)
 - **ETF** : 19 (source : sinvestir.fr)
-- **SCPI** : 1 — Iroko Zen (sans frais d'entrée ni de sortie, selon sinvestir.fr)
+- **SCPI** : 1 — [Iroko Zen](../../actifs/scpi/iroko-zen.md) (sans frais d'entrée ni de sortie, selon sinvestir.fr)
 - **OPCI** : 1
 - **Fonds ISR** : oui (inclus dans le total)
 - **Titres vifs** : non

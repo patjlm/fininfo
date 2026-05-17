@@ -166,14 +166,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 | Nom | Taux distribution 2025 |
 |---|---|
-| Activimmo | 5,49 % |
+| [Activimmo](../../actifs/scpi/activimmo.md) | 5,49 % |
 | Altixia Cadence XII | 5,15 % |
 | Atream Hôtels | 5,00 % |
 | Edissimo | 3,63 % |
 | Efimmo | 4,44 % |
 | Épargne Foncière | 4,86 % |
-| Épargne Pierre | 5,28 % |
-| Immorente | 5,00 % |
+| [Épargne Pierre](../../actifs/scpi/epargne-pierre.md) | 5,28 % |
+| [Immorente](../../actifs/scpi/immorente.md) | 5,00 % |
 | Laffitte Pierre | 5,30 % |
 | LF Europimmo | 4,63 % |
 | Patrimmo Commerce | 3,38 % |
@@ -182,11 +182,11 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | Perial 02 | 4,65 % |
 | Perial Opportunités Europe | 6,10 % |
 | Pierval Santé | 4,06 % |
-| Primopierre | 3,62 % |
+| [Primopierre](../../actifs/scpi/primopierre.md) | 3,62 % |
 | Primovie | 4,04 % |
 | Rivoli Avenir Patrimoine | 3,46 % |
 | Selectinvest 1 | 4,44 % |
-| Transitions Europe | 7,60 % |
+| [Transitions Europe](../../actifs/scpi/transitions-europe.md) | 7,60 % |
 
 **SCI (10)**
 

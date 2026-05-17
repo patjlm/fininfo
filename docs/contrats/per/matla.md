@@ -59,7 +59,7 @@ derniere-mise-a-jour: 2026-05-16
 
 - **Nombre total d'UC** : 70+ (dont ~11 en gestion pilotée)
 - **ETF / fonds indiciels** : 11 (gamme ISR BlackRock iShares uniquement ; certains transformés en fonds indiciels avec frais légèrement supérieurs)
-- **SCPI / SCI / SC** : 5 supports immobiliers (Mistral Sélection, Sofidynamic, ESG Tendances Pierre, SCI Convictions Immobilières, SC Terres Invest)
+- **SCPI / SCI / SC** : 5 supports immobiliers (Mistral Sélection, [Sofidynamic](../../actifs/scpi/sofidynamic.md), ESG Tendances Pierre, SCI Convictions Immobilières, SC Terres Invest)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (en gestion pilotée)
 - **Autres supports** : OPCVM (50+), fonds à échéance datée (6), Private Equity / dette privée (3 FCPR)
@@ -132,12 +132,12 @@ derniere-mise-a-jour: 2026-05-16
 | Nom | Type | Société de gestion | Notes |
 |---|---|---|---|
 | Mistral Sélection | SCPI | Swiss Life Asset Managers France | 0 % frais d'entrée, durée recommandée 8 ans |
-| Sofidynamic | SCPI | Sofidy | 2 % frais d'entrée, haut rendement, durée recommandée 8 ans |
+| [Sofidynamic](../../actifs/scpi/sofidynamic.md) | SCPI | Sofidy | 2 % frais d'entrée, haut rendement, durée recommandée 8 ans |
 | SCI Convictions Immobilières | SCI | Sofidy | Exposition diversifiée via parts de SCPI, sociétés immobilières et foncières cotées |
 | ESG Tendances Pierre | SC | Swiss Life Asset Managers France | Immobilier émergent : logistique urbaine, hôtellerie, bureaux modernes |
 | SC Terres Invest | SC | Non communiqué | Min. 70 % en terres agricoles, durée recommandée 8 ans |
 
-> **Note** : les SCPI et SCI n'ont pas de code ISIN standard (instruments non cotés). La SCPI Immorente (Sofidy) n'est plus référencée dans le contrat depuis mai 2026.
+> **Note** : les SCPI et SCI n'ont pas de code ISIN standard (instruments non cotés). La SCPI [Immorente](../../actifs/scpi/immorente.md) (Sofidy) n'est plus référencée dans le contrat depuis mai 2026.
 
 ## Expérience client
 <!-- Mis à jour : 2026-05-16 -->

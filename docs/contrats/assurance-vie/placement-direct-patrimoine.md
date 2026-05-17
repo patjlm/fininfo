@@ -70,12 +70,12 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 |---|---|---|---|
 | Silver Generation A | FR0013142551 | Fonds immobilier | A PLUS |
 | SCI Etxea Nova Life | FR001400KVU2 | SCI | ETXEA |
-| SCPI Iroko Zen | SCPI00004669 | SCPI | IROKO |
+| SCPI [Iroko Zen](../../actifs/scpi/iroko-zen.md) | SCPI00004669 | SCPI | IROKO |
 | Iroko NEXT | FR001400CVY1 | SCPI | IROKO |
 | France Valley Terra Europe | FR001400M279 | Fonds immobilier | FRANCE VALLEY |
-| SCPI Remake Live | QUA020394855 | SCPI | REMAKE AM |
+| SCPI [Remake Live](../../actifs/scpi/remake-live.md) | QUA020394855 | SCPI | REMAKE AM |
 | SCPI Mistral Sélection | SCPI00010079 | SCPI | SWISS LIFE |
-| SCPI Eden | FR001400SCN0 | SCPI | ADVENIS |
+| SCPI [Eden](../../actifs/scpi/eden.md) | FR001400SCN0 | SCPI | ADVENIS |
 | SC June Cityzen | FR001400AK83 | SCI | JUNE REAL ESTATE INVESTMENT |
 
 > Aucun frais d'entrée sur les SCPI, sans limite d'investissement, sans pénalités de retrait (selon sinvestir.fr).

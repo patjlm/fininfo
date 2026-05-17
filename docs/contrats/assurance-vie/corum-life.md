@@ -52,7 +52,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Nombre total de supports** : 10
 - **ETF** : 0
-- **SCPI** : 3 (Corum Origin, Corum XL, Corum Eurion) — limite à 55 % du contrat
+- **SCPI** : 3 ([Corum Origin](../../actifs/scpi/corum-origin.md), [Corum XL](../../actifs/scpi/corum-xl.md), [Corum Eurion](../../actifs/scpi/corum-eurion.md)) — limite à 55 % du contrat
 - **Fonds obligataires** : 4 (BCO, Corum BEHY, Corum Visio, Corum Tellia)
 - **Fonds ISR / verts** : 2 (Sienna Solidaire, Sienna Obligations Vertes — gérés par Sienna Gestion)
 - **Titres vifs** : non
@@ -68,9 +68,9 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 | Nom | TRI depuis origine |
 |---|---|
-| Corum Origin | 6,94 % |
-| Corum XL | 5,77 % |
-| Corum Eurion | 6,50 % |
+| [Corum Origin](../../actifs/scpi/corum-origin.md) | 6,94 % |
+| [Corum XL](../../actifs/scpi/corum-xl.md) | 5,77 % |
+| [Corum Eurion](../../actifs/scpi/corum-eurion.md) | 6,50 % |
 
 Note : Corum USA n'est pas disponible dans le contrat Corum Life [à vérifier].
 

@@ -284,12 +284,12 @@ derniere-mise-a-jour: 2026-05-16
 | Efimmo 1 | SCPI | Sofidy | Bureaux |
 | Épargne Foncière | SCPI | La Française REM | Bureaux Paris |
 | ESG Pierre Capitale | SCPI | Swiss Life AM | Diversifiée Europe — ISR |
-| Immorente | SCPI | Sofidy | Diversifiée |
+| [Immorente](../../actifs/scpi/immorente.md) | SCPI | Sofidy | Diversifiée |
 | Laffitte Pierre | SCPI | AEW Ciloger | Diversifiée |
 | LF Europimmo | SCPI | La Française REM | Bureaux Europe |
 | Mistral Sélection | SCPI | Swiss Life AM | Diversifiée opportuniste — sans frais d'entrée — 8,07 % TD 2025 |
 | Perial O2 | SCPI | Perial AM | Bureaux ESG — ex-PFO2 — ISR |
-| Primopierre | SCPI | Praemia REIM | Bureaux — ISR |
+| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | Praemia REIM | Bureaux — ISR |
 | Primovie | SCPI | Praemia REIM | Santé & Éducation |
 | Rivoli Avenir Patrimoine | SCPI | Amundi Immobilier | Bureaux Paris |
 | Sélectinvest 1 | SCPI | La Française REM | Bureaux |

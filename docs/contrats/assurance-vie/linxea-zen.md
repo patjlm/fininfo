@@ -59,7 +59,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Nombre total d'UC** : 376+ (378 via Morningstar + supports immobiliers)
 - **ETF** : 50 (Amundi, iShares, First Trust)
 - **OPCVM** : 328 (actions 230, allocation 66, obligations 65, autres)
-- **SCPI** : 20 (ex. Iroko Zen, ActivImmo, Immorente, Epargne Pierre, Primopierre, Primovie, PFO2...)
+- **SCPI** : 20 (ex. [Iroko Zen](../../actifs/scpi/iroko-zen.md), [ActivImmo](../../actifs/scpi/activimmo.md), [Immorente](../../actifs/scpi/immorente.md), [Epargne Pierre](../../actifs/scpi/epargne-pierre.md), [Primopierre](../../actifs/scpi/primopierre.md), Primovie, PFO2...)
 - **SCI** : 7 (ex. SCI Capimmo, SOFIDY Convictions Immobilières, SCI VIAGÉNÉRATIONS...)
 - **OPCI** : 7 (ex. Diversipierre, Dynapierre, Opcimmo, Sofidy Pierre Europe...)
 - **Private equity** : oui (minimum 5 000 EUR)
@@ -133,26 +133,26 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 | Nom |
 |---|
-| Epsicap Nano |
+| [Epsicap Nano](../../actifs/scpi/epsicap-nano.md) |
 | SCPI Mistral Sélection |
-| SCPI Epargne Pierre |
+| SCPI [Epargne Pierre](../../actifs/scpi/epargne-pierre.md) |
 | SCPI Altixia Commerces |
 | Efimmo |
 | Eurovalys |
-| Immorente |
+| [Immorente](../../actifs/scpi/immorente.md) |
 | Paref Hexa |
 | LF Grand Paris Patrimoine |
 | SCPI LF Opportunité Immo |
 | Perial Grand Paris |
 | Perial Opportunités Europe |
 | PFO2 |
-| Primopierre |
+| [Primopierre](../../actifs/scpi/primopierre.md) |
 | Primovie |
 | SCPI Novapierre 1 |
 | Aestiam Agora |
 | Aestiam Horizon |
-| ActivImmo |
-| SCPI Iroko Zen |
+| [ActivImmo](../../actifs/scpi/activimmo.md) |
+| SCPI [Iroko Zen](../../actifs/scpi/iroko-zen.md) |
 
 **SCI :**
 

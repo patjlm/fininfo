@@ -82,12 +82,12 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | Efimmo 1 | SCPI |
 | Epargne Foncière | SCPI |
 | ESG Pierre Capitale | SCPI |
-| Immorente | SCPI |
+| [Immorente](../../actifs/scpi/immorente.md) | SCPI |
 | Laffitte Pierre | SCPI |
 | LF Europimmo | SCPI |
 | Mistral Sélection | SCPI |
 | Perial O2 | SCPI |
-| Primopierre | SCPI |
+| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI |
 | Primovie | SCPI |
 | Rivoli Avenir Patrimoine | SCPI |
 | Sélectinvest 1 | SCPI |

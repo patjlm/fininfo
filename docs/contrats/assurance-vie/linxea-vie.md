@@ -240,11 +240,11 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 | SC ESG Tendances Pierre | 5,62 % |
 | Altixia Cadence XII | 5,15 % |
 | Selectinvest 1 | 4,44 % |
-| Primopierre | 3,62 % |
+| [Primopierre](../../actifs/scpi/primopierre.md) | 3,62 % |
 | Epargne Foncière | 4,86 % |
 | Aestiam Horizon | 5,10 % |
 | SC Terres Invest | 3,01 % |
-| Remake Live | 7,05 % |
+| [Remake Live](../../actifs/scpi/remake-live.md) | 7,05 % |
 
 **SCI (8)**
 
