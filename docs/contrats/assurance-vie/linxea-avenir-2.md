@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: linxea-avenir-2
 distributeur: Linxea
 assureur: Suravenir (Crédit Mutuel Arkéa)
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 % (0,80 % en mandat d'arbitrage)"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 derniere-verification: 2026-05-16
 ---
 

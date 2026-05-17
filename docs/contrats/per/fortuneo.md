@@ -4,6 +4,9 @@ type: contrat-per
 slug: fortuneo
 distributeur: Fortuneo
 assureur: Suravenir (groupe Crédit Mutuel Arkéa)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 % (0,70 % gestion à horizon)"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

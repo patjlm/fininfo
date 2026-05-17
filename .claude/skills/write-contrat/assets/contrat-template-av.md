@@ -4,9 +4,9 @@ type: contrat-assurance-vie
 slug: SLUG
 distributeur: NOM_DISTRIBUTEUR
 assureur: NOM_ASSUREUR
-frais-versement:
-frais-gestion-uc:
-frais-arbitrage:
+frais-versement: "X %"
+frais-gestion-uc: "X %"
+frais-arbitrage: "X %"
 derniere-verification: YYYY-MM-DD
 ---
 

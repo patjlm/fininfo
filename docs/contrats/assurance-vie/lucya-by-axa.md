@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: lucya-by-axa
 distributeur: Lucya (assurancevie.com)
 assureur: AXA
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 derniere-verification: 2026-05-16
 ---
 

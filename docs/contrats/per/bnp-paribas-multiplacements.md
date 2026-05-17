@@ -4,6 +4,9 @@ type: contrat-per
 slug: bnp-paribas-multiplacements
 distributeur: BNP Paribas
 assureur: Cardif Retraite
+frais-versement: "0 % (en ligne)"
+frais-gestion-uc: "0,70 %"
+frais-arbitrage: "1 % (0 % arbitrages progressifs)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

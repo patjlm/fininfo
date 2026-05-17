@@ -36,15 +36,19 @@ Chaque fiche a un frontmatter YAML validé par `make check`. Les schemas sont d�
 
 ### Valeurs numériques
 
-Les champs comparables sont des **nombres** dans le frontmatter, pas des chaînes :
+Les champs d'actifs (ETF, SCPI) sont des **nombres** dans le frontmatter :
 
-- `ter: 0.25` (pas `ter: 0.25%` ni `ter: "0.25%"`)
-- `frais-versement: 0` (pas `frais-versement: "0 %"`)
-- `frais-gestion-uc: 0.50`
-- `prix-de-part: 610` (pas `prix-de-part: 610 EUR`)
-- `taux-de-distribution: 5.49` (pas `taux-de-distribution: 5,49%`)
+- `ter: 0.25` (pas `"0.25%"`)
+- `prix-de-part: 610` (pas `"610 EUR"`)
+- `taux-de-distribution: 5.49` (pas `"5,49%"`)
 
-Les unités (%, EUR) apparaissent dans le corps du document, pas dans le frontmatter.
+### Frais des contrats (chaînes)
+
+Les frais des contrats (PER, AV) sont des **chaînes** avec `%` et contexte si nécessaire :
+
+- `frais-versement: "0 %"`
+- `frais-gestion-uc: "0,50 %"`
+- `frais-arbitrage: "0 % (0,10 % sur ETF)"` — quand les frais varient selon le support
 
 ### Validation
 

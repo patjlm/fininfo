@@ -101,6 +101,8 @@ def fmt_value(value, field: str) -> str:
         if isinstance(value, (int, float)):
             formatted = f"{value:g}"
             return f"{formatted} %"
+        if isinstance(value, str):
+            return value
     if isinstance(value, date):
         return str(value)
     return str(value)

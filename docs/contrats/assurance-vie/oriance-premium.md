@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: oriance-premium
 distributeur: Crédit Agricole
 assureur: Prédica
+frais-versement: "1 % (0 % en ligne jusqu'au 31/12/2026)"
+frais-gestion-uc: "0,80 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

@@ -4,6 +4,9 @@ type: contrat-per
 slug: corum-perlife
 distributeur: Corum L'Épargne
 assureur: CORUM Life
+frais-versement: "0 %"
+frais-gestion-uc: "0 %"
+frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

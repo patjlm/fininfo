@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: linxea-vie
 distributeur: Linxea
 assureur: Generali Vie
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 % (0,70 % sur titres vifs)"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: linxea-zen
 distributeur: Linxea
 assureur: APICIL Epargne
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 %"
+frais-arbitrage: "0 % (0,15 % sur ETF)"
 derniere-verification: 2026-05-16
 ---
 

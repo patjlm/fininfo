@@ -4,6 +4,9 @@ type: contrat-per
 slug: meilleurtaux-liberte
 distributeur: Meilleurtaux Placement
 assureur: Spirica
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % ETF, 0,60 % titres vifs)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

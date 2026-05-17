@@ -4,6 +4,9 @@ type: contrat-per
 slug: nalo
 distributeur: Nalo
 assureur: Apicil
+frais-versement: "0 %"
+frais-gestion-uc: "1,35 %"
+frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

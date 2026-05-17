@@ -4,6 +4,9 @@ type: contrat-per
 slug: lucya-abeille
 distributeur: Lucya (assurancevie.com)
 assureur: Abeille Retraite Professionnelle (groupe Aéma)
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 % (0,80 % sous mandat)"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

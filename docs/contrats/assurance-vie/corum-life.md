@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: corum-life
 distributeur: Corum L'Epargne
 assureur: Corum Life (groupe Corum)
+frais-versement: "0 %"
+frais-gestion-uc: "0 % (frais inclus dans les performances nettes des fonds)"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

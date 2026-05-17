@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: lucya-cardif
 distributeur: Lucya
 assureur: BNP Paribas Cardif (Cardif Assurance Vie)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 derniere-verification: 2026-05-16
 ---
 

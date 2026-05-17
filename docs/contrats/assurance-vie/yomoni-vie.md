@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: yomoni-vie
 distributeur: Yomoni
 assureur: Suravenir (Crédit Mutuel Arkea)
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

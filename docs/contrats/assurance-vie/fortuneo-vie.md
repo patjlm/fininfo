@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: fortuneo-vie
 distributeur: Fortuneo
 assureur: Suravenir (Crédit Mutuel Arkea)
+frais-versement: "0 %"
+frais-gestion-uc: "0,75 % (0,85 % en gestion sous mandat)"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 derniere-verification: 2026-05-16
 ---
 

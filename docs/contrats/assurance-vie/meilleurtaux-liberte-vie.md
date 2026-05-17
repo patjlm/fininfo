@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: meilleurtaux-liberte-vie
 distributeur: Meilleurtaux Placement
 assureur: Spirica (Crédit Agricole Assurances)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % sur ETF, 0,60 % sur actions)"
 derniere-verification: 2026-05-16
 ---
 

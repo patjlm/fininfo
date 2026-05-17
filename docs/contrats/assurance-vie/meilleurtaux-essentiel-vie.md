@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: meilleurtaux-essentiel-vie
 distributeur: Meilleurtaux Placement
 assureur: La France Mutualiste
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 % (0,60 % sur UC en ETF)"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

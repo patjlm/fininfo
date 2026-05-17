@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: altaprofits-vie
 distributeur: Altaprofits
 assureur: Generali Vie
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 % (0,45 % pour encours ≥ 300 000 EUR)"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

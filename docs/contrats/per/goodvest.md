@@ -4,6 +4,9 @@ type: contrat-per
 slug: goodvest
 distributeur: Goodvest
 assureur: Generali
+frais-versement: "0 %"
+frais-gestion-uc: "0,40 %"
+frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

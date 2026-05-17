@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: boursovie
 distributeur: BoursoBank
 assureur: Generali Vie
+frais-versement: "0 %"
+frais-gestion-uc: "0,75 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

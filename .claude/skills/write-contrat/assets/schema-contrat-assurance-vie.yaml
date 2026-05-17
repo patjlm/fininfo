@@ -18,13 +18,13 @@ fields:
     type: string
   frais-versement:
     required: false
-    type: number
+    type: string
   frais-gestion-uc:
     required: false
-    type: number
+    type: string
   frais-arbitrage:
     required: false
-    type: number
+    type: string
   derniere-verification:
     required: true
     type: date

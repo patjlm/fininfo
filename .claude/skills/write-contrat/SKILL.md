@@ -44,8 +44,12 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
    - Conditions de la gestion pilotée (surcoûts, profils disponibles)
    - Conditions spécifiques au type (voir table ci-dessous)
    - Pénalités ou délais spécifiques
-5. **Rédiger la fiche** en suivant le template du type concerné
-6. **Écrire le fichier** dans le dossier de sortie avec le slug généré
+5. **Remplir les frais dans le frontmatter** — chaînes avec `%` et contexte si nécessaire :
+   - PER / AV : `frais-versement`, `frais-gestion-uc`, `frais-arbitrage`
+   - Format : `"X %"` ou `"X % (précision)"` si conditions multiples
+   - Exemples : `frais-versement: "0 %"`, `frais-gestion-uc: "0,50 %"`, `frais-arbitrage: "0 % (0,10 % sur ETF)"`
+6. **Rédiger la fiche** en suivant le template du type concerné
+7. **Écrire le fichier** dans le dossier de sortie avec le slug généré
 
 ## Spécificités par type de contrat
 

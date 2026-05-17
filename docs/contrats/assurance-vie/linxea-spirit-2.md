@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: linxea-spirit-2
 distributeur: Linxea
 assureur: Spirica (Crédit Agricole Assurances)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % sur ETF, 0,60 % sur titres vifs)"
 derniere-verification: 2026-05-16
 ---
 

@@ -43,6 +43,9 @@ L'ISIN de l'ETF à documenter. Les données sont récupérées via le skill `jus
 
 ## Règles
 
+- **TER numérique** : `ter: 0.25` (nombre, pas `"0.25%"`)
+- **Réplication en français** : `Physique`, `Échantillonnage`, `Synthétique`, `Adossé` (pour ETC matières premières). Commentaire YAML si précision utile : `replication: Adossé  # or physique`
+- **Distribution en français** : `Capitalisation`, `Distribution`
 - **Slug = ISIN** : le nom du fichier est toujours `<ISIN>.md` (ex : `IE00B4L5Y983.md`)
 - **Section « Contrats référençant cet ETF »** : lister tous les contrats qui mentionnent cet ISIN avec lien relatif
 - **Tracking error** : inclure si disponible sur le site de l'émetteur, sinon écrire « Non communiqué »

@@ -4,6 +4,9 @@ type: contrat-per
 slug: placement-direct
 distributeur: Placement Direct
 assureur: SwissLife Assurance Retraite
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 %"
+frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

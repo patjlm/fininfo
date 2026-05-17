@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: bourse-direct-horizon
 distributeur: Bourse Direct
 assureur: Generali Vie
+frais-versement: "0 %"
+frais-gestion-uc: "0,65 % (0,85 % en gestion pilotée)"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

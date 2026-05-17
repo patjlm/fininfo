@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: garance-epargne
 distributeur: Garance
 assureur: Garance
+frais-versement: "0 %"
+frais-gestion-uc: "0,70 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

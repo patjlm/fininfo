@@ -33,20 +33,20 @@ Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
 <!-- BEGIN GENERATED -->
 | Contrat | Distributeur | Assureur | Frais versement | Frais gestion UC | Frais arbitrage |
 |---|---|---|---|---|---|
-| [BNP Paribas Multiplacements PER](bnp-paribas-multiplacements.md) | BNP Paribas | Cardif Retraite | — | — | — |
-| [Caravel PER](caravel.md) | Caravel | Apicil | — | — | — |
-| [Corum PERLife](corum-perlife.md) | Corum L'Épargne | CORUM Life | — | — | — |
-| [Fortuneo PER](fortuneo.md) | Fortuneo | Suravenir (groupe Crédit Mutuel Arkéa) | — | — | — |
-| [Goodvest PER](goodvest.md) | Goodvest | Generali | — | — | — |
-| [Individuel Carac](individuel-carac.md) | Carac | Carac | — | — | — |
-| [Linxea Spirit PER](linxea-spirit-per.md) | Linxea | Spirica (filiale Crédit Agricole Assurances) | — | — | — |
-| [Linxea Suravenir PER](linxea-suravenir.md) | Linxea | Suravenir (groupe Arkéa) | — | — | — |
-| [Lucya Abeille PER](lucya-abeille.md) | Lucya (assurancevie.com) | Abeille Retraite Professionnelle (groupe Aéma) | — | — | — |
-| [MATLA](matla.md) | BoursoBank | Oradéa Vie (Société Générale Assurances) | — | — | — |
-| [meilleurtaux Liberté PER](meilleurtaux-liberte.md) | Meilleurtaux Placement | Spirica | — | — | — |
-| [MIF Retraite](mif-retraite.md) | MIF | MIF | — | — | — |
-| [Nalo PER](nalo.md) | Nalo | Apicil | — | — | — |
-| [PER Placement-direct](placement-direct.md) | Placement Direct | SwissLife Assurance Retraite | — | — | — |
-| [Yomoni Retraite+](yomoni-retraite-plus.md) | Yomoni | Spirica (filiale du Crédit Agricole Assurances) | — | — | — |
-| [Yomoni Retraite](yomoni-retraite.md) | Yomoni | Crédit Agricole Titres (teneur de compte) / Suravenir (rente viagère) | — | — | — |
+| [BNP Paribas Multiplacements PER](bnp-paribas-multiplacements.md) | BNP Paribas | Cardif Retraite | 0 % (en ligne) | 0,70 % | 1 % (0 % arbitrages progressifs) |
+| [Caravel PER](caravel.md) | Caravel | Apicil | 0 % | 0,60 % | 0 % |
+| [Corum PERLife](corum-perlife.md) | Corum L'Épargne | CORUM Life | 0 % | 0 % | 0 % |
+| [Fortuneo PER](fortuneo.md) | Fortuneo | Suravenir (groupe Crédit Mutuel Arkéa) | 0 % | 0,50 % (0,70 % gestion à horizon) | 0 % (0,10 % sur ETF) |
+| [Goodvest PER](goodvest.md) | Goodvest | Generali | 0 % | 0,40 % | 0 % |
+| [Individuel Carac](individuel-carac.md) | Carac | Carac | 0 % | 0,90 % | 0 % (12 arbitrages/an, puis 1 %) |
+| [Linxea Spirit PER](linxea-spirit-per.md) | Linxea | Spirica (filiale Crédit Agricole Assurances) | 0 % | 0,50 % | 0 % (0,10 % ETF, 0,60 % titres vifs) |
+| [Linxea Suravenir PER](linxea-suravenir.md) | Linxea | Suravenir (groupe Arkéa) | 0 % | 0,60 % | 0 % (0,10 % sur ETF) |
+| [Lucya Abeille PER](lucya-abeille.md) | Lucya (assurancevie.com) | Abeille Retraite Professionnelle (groupe Aéma) | 0 % | 0,60 % (0,80 % sous mandat) | 0 % (0,10 % sur ETF) |
+| [MATLA](matla.md) | BoursoBank | Oradéa Vie (Société Générale Assurances) | 0 % | 0,50 % | 0 % |
+| [meilleurtaux Liberté PER](meilleurtaux-liberte.md) | Meilleurtaux Placement | Spirica | 0 % | 0,50 % | 0 % (0,10 % ETF, 0,60 % titres vifs) |
+| [MIF Retraite](mif-retraite.md) | MIF | MIF | 0 % | 0,60 % | 0 % (1 % vers fonds euros) |
+| [Nalo PER](nalo.md) | Nalo | Apicil | 0 % | 1,35 % | 0 % |
+| [PER Placement-direct](placement-direct.md) | Placement Direct | SwissLife Assurance Retraite | 0 % | 0,60 % | 0 % (0,10 % sur ETF) |
+| [Yomoni Retraite+](yomoni-retraite-plus.md) | Yomoni | Spirica (filiale du Crédit Agricole Assurances) | 0 % | 0,30 % | 0 % |
+| [Yomoni Retraite](yomoni-retraite.md) | Yomoni | Crédit Agricole Titres (teneur de compte) / Suravenir (rente viagère) | 0 % | 0,30 % | 0 % |
 <!-- END GENERATED -->

@@ -4,6 +4,9 @@ type: contrat-per
 slug: linxea-spirit-per
 distributeur: Linxea
 assureur: Spirica (filiale Crédit Agricole Assurances)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 % (0,10 % ETF, 0,60 % titres vifs)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

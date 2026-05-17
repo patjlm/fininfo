@@ -4,6 +4,9 @@ type: contrat-per
 slug: matla
 distributeur: BoursoBank
 assureur: Oradéa Vie (Société Générale Assurances)
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

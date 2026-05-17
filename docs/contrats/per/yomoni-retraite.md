@@ -4,6 +4,9 @@ type: contrat-per
 slug: yomoni-retraite
 distributeur: Yomoni
 assureur: Crédit Agricole Titres (teneur de compte) / Suravenir (rente viagère)
+frais-versement: "0 %"
+frais-gestion-uc: "0,30 %"
+frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

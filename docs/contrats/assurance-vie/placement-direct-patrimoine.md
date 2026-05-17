@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: placement-direct-patrimoine
 distributeur: Placement Direct
 assureur: Garance
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

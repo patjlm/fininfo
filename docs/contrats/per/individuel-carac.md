@@ -4,6 +4,9 @@ type: contrat-per
 slug: individuel-carac
 distributeur: Carac
 assureur: Carac
+frais-versement: "0 %"
+frais-gestion-uc: "0,90 %"
+frais-arbitrage: "0 % (12 arbitrages/an, puis 1 %)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

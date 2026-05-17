@@ -4,6 +4,9 @@ type: contrat-per
 slug: mif-retraite
 distributeur: MIF
 assureur: MIF
+frais-versement: "0 %"
+frais-gestion-uc: "0,60 %"
+frais-arbitrage: "0 % (1 % vers fonds euros)"
 source: simulateurs.sinvestir.fr
 derniere-verification: 2026-05-16
 ---

@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: multisupport-afer
 distributeur: Afer (Association Française d'Épargne et de Retraite)
 assureur: Abeille Assurances (filiale de Aéma)
+frais-versement: "0 % (0,50 % sur versements en fonds euros)"
+frais-gestion-uc: "0,475 %"
+frais-arbitrage: "0 %"
 derniere-verification: 2026-05-16
 ---
 

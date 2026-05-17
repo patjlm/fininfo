@@ -4,6 +4,9 @@ type: contrat-assurance-vie
 slug: placement-direct-vie
 distributeur: Placement Direct
 assureur: SwissLife Assurance et Patrimoine
+frais-versement: "0 %"
+frais-gestion-uc: "0,50 % (0,80 % sur actions en direct)"
+frais-arbitrage: "0 % (0,10 % sur ETF, 0,45 % sur titres vifs)"
 derniere-verification: 2026-05-16
 ---
 

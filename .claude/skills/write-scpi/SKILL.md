@@ -57,6 +57,7 @@ Le nom de la SCPI à documenter. Les données sinvestir sont dans `.tmp/scpi-dat
 
 ## Règles
 
+- **Frontmatter numérique** : `prix-de-part: 610` (nombre, pas `"610 EUR"`), `taux-de-distribution: 5.49` (nombre avec point décimal, pas `"5,49%"`)
 - **Slug** : kebab-case du nom, sans accents (ex : « Corum Origin » → `corum-origin`, « Épargne Pierre Europe » → `epargne-pierre-europe`)
 - **Données objectives** (frais, prix, performances) : TOUJOURS vérifier sur le site de la société de gestion. Ne pas reprendre sinvestir sans vérification
 - **Données subjectives** (note, avis, points clés sinvestir) : inclure dans la section « Avis et comparatifs (subjectif) » en citant la source
