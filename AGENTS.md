@@ -24,6 +24,15 @@ Wiki markdown de produits financiers français : enveloppes d'investissement, in
 - **Données manquantes** : écrire « Non communiqué » si indisponible, ajouter `[à vérifier]` si incertaine
 - **Auto-maintenance** : quand une nouvelle règle ou convention est décidée, mettre à jour immédiatement ce fichier (AGENTS.md) et/ou le skill concerné. Garder ces fichiers concis et à jour — ils sont la source de vérité pour le comportement des agents
 
+## Validation
+
+`make check` vérifie les liens internes et le frontmatter avant commit :
+
+- **Liens** : tous les liens markdown internes pointent vers des fichiers existants
+- **Frontmatter** : champs obligatoires présents (définis par les templates des skills), format de date, cohérence slug/nom de fichier
+
+Aussi exécuté en CI via GitHub Actions sur chaque push/PR touchant `docs/`.
+
 ## Conventions pour les fiches contrats
 
 Ces conventions s'appliquent à tous les skills qui créent ou mettent à jour des fiches de contrats (`write-contrat`, `fetch-comparisons`, `fetch-support-lists`, etc.).
