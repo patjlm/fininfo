@@ -2,7 +2,7 @@
 nom: Plan d'Épargne en Actions (PEA)
 type: enveloppe
 slug: pea
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Plan d'Épargne en Actions (PEA)

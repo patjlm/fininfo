@@ -7,9 +7,9 @@ societe-de-gestion: BNP Paribas REIM
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 765 EUR
-taux-de-distribution: 3,85%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 765
+taux-de-distribution: 3.85
+derniere-verification: 2026-05-17
 ---
 
 # Accès Valeur Pierre

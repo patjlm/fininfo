@@ -7,9 +7,9 @@ societe-de-gestion: ARKEA REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 202 EUR
-taux-de-distribution: 7,60%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 202
+taux-de-distribution: 7.60
+derniere-verification: 2026-05-17
 ---
 
 # Transitions Europe

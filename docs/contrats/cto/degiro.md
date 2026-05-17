@@ -3,7 +3,7 @@ nom: Degiro
 type: contrat-cto
 slug: degiro
 courtier: Degiro
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Degiro — Compte-Titres

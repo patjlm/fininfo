@@ -6,13 +6,13 @@ isin: IE00BHZPJ908
 ticker: EDMU
 emetteur: iShares
 indice: MSCI USA ESG Enhanced Focus CTB
-ter: 0.07%
-replication: Full replication
-distribution: Accumulating
+ter: 0.07
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI USA ESG Enhanced CTB UCITS ETF USD (Acc)

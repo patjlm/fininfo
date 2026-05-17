@@ -75,4 +75,4 @@ Chaque entrée contient un champ `data` avec les sections :
 2. Comparer avec les nouvelles données
 3. Ne modifier QUE les sections dont les données ont changé
 4. Mettre à jour `<!-- Mis à jour -->` des sections modifiées
-5. Mettre à jour `derniere-mise-a-jour` dans le frontmatter
+5. Mettre à jour `derniere-verification` dans le frontmatter

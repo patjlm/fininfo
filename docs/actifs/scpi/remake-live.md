@@ -7,9 +7,9 @@ societe-de-gestion: REMAKE AM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 204 EUR
-taux-de-distribution: 7,05%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 204
+taux-de-distribution: 7.05
+derniere-verification: 2026-05-17
 ---
 
 # Remake Live

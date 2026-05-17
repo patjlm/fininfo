@@ -6,13 +6,13 @@ isin: IE00BMVB5K07
 ticker: V20A
 emetteur: Vanguard
 indice: Vanguard LifeStrategy 20% Equity
-ter: 0.25%
-replication: Full replication
-distribution: Accumulating
+ter: 0.25
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Vanguard LifeStrategy 20% Equity UCITS ETF Accumulating

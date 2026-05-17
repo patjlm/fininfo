@@ -7,9 +7,9 @@ societe-de-gestion: CORUM L'ÉPARGNE
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 1135 EUR
-taux-de-distribution: 6,50%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 1135
+taux-de-distribution: 6.50
+derniere-verification: 2026-05-17
 ---
 
 # Corum Origin

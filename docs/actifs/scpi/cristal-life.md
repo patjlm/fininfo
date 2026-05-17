@@ -7,9 +7,9 @@ societe-de-gestion: Inter Gestion REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 208 EUR
-taux-de-distribution: 6,54%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 208
+taux-de-distribution: 6.54
+derniere-verification: 2026-05-17
 ---
 
 # Cristal Life

@@ -7,9 +7,9 @@ societe-de-gestion: Praemia REIM
 categorie: Commerce
 capital: Variable
 label-isr: non
-prix-de-part: 160 EUR
-taux-de-distribution: 3,38%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 160
+taux-de-distribution: 3.38
+derniere-verification: 2026-05-17
 ---
 
 # Patrimmo Commerce

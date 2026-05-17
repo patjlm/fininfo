@@ -6,13 +6,13 @@ isin: IE00BHZPHZ28
 ticker: EMNE
 emetteur: iShares
 indice: MSCI EMU ESG Enhanced Focus CTB
-ter: 0.12%
-replication: Optimized sampling
-distribution: Distributing
+ter: 0.12
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI EMU ESG Enhanced CTB UCITS ETF EUR (Dist)

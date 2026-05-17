@@ -6,13 +6,13 @@ isin: IE000ZOI8OK5
 ticker: IB27
 emetteur: iShares
 indice: Bloomberg MSCI December 2027 Maturity EUR Corporate ESG Screened
-ter: 0.12%
-replication: Physical (Sampling)
-distribution: Accumulating
+ter: 0.12
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares iBonds Dec 2027 Term EUR Corporate UCITS ETF EUR (Acc)

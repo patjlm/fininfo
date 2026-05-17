@@ -6,13 +6,13 @@ isin: IE00BG0SSC32
 ticker: FTGC
 emetteur: First Trust
 indice: Dow Jones Internet Composite
-ter: 0.55%
-replication: Full replication
-distribution: Accumulating
+ter: 0.55
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # First Trust Dow Jones Internet UCITS ETF Acc

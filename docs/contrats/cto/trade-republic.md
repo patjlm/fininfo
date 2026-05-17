@@ -3,7 +3,7 @@ nom: Trade Republic
 type: contrat-cto
 slug: trade-republic
 courtier: Trade Republic
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Trade Republic — Compte-Titres

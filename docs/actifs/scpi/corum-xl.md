@@ -7,9 +7,9 @@ societe-de-gestion: CORUM Asset Management
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 195 EUR
-taux-de-distribution: 5,30%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 195
+taux-de-distribution: 5.30
+derniere-verification: 2026-05-17
 ---
 
 # Corum XL

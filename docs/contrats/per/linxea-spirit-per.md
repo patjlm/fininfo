@@ -5,7 +5,7 @@ slug: linxea-spirit-per
 distributeur: Linxea
 assureur: Spirica (filiale Crédit Agricole Assurances)
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Linxea Spirit PER

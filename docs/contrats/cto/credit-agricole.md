@@ -3,7 +3,7 @@ nom: Crédit Agricole — Compte-Titres Ordinaire
 type: contrat-cto
 slug: credit-agricole
 courtier: Crédit Agricole
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Crédit Agricole — Compte-Titres Ordinaire

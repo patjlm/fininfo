@@ -6,13 +6,13 @@ isin: IE000UFAX9L6
 ticker: GQWD
 emetteur: Goldman Sachs
 indice: Goldman Sachs Alpha Enhanced World Equity Active
-ter: 0.25%
-replication: Full replication
-distribution: Accumulating
+ter: 0.25
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Goldman Sachs Alpha Enhanced World Equity Active UCITS ETF CLASS USD (Acc)

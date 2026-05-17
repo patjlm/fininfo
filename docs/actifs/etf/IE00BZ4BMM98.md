@@ -6,13 +6,13 @@ isin: IE00BZ4BMM98
 ticker: EHDV
 emetteur: Invesco
 indice: EURO iSTOXX® High Dividend Low Volatility 50
-ter: 0.30%
-replication: Full replication
-distribution: Distributing
+ter: 0.30
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Invesco EURO STOXX High Dividend Low Volatility UCITS ETF

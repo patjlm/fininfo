@@ -6,13 +6,13 @@ isin: IE000ANHU3J3
 ticker: JMES
 emetteur: J.P. Morgan
 indice: JP Morgan Global Emerging Markets Research Enhanced Index Equity SRI Paris Aligned Active
-ter: 0.30%
-replication: Physical (Full replication)
-distribution: Accumulating
+ter: 0.30
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # JPMorgan Global Emerging Markets Research Enhanced Index Equity SRI Paris Aligned Active UCITS ETF USD (acc)

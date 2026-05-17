@@ -6,13 +6,13 @@ isin: IE00BSKRJX20
 ticker: IS05
 emetteur: iShares
 indice: iBoxx EUR Eurozone 20 Target Duration
-ter: 0.15%
-replication: Sampling
-distribution: Distributing
+ter: 0.15
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares EUR Government Bond 20yr Target Duration UCITS ETF EUR (Dist)

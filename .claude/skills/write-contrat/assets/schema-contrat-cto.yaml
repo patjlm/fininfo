@@ -1,0 +1,18 @@
+type: contrat-cto
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [contrat-cto]
+  slug:
+    required: true
+    type: string
+  courtier:
+    required: true
+    type: string
+  derniere-verification:
+    required: true
+    type: date

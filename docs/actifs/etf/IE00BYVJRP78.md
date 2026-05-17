@@ -6,13 +6,13 @@ isin: IE00BYVJRP78
 ticker: QDVS
 emetteur: iShares
 indice: MSCI Emerging Markets SRI Select Reduced Fossil Fuels
-ter: 0.25%
-replication: Full replication
-distribution: Accumulating
+ter: 0.25
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI EM SRI UCITS ETF

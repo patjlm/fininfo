@@ -6,13 +6,13 @@ isin: IE00BLNMYC90
 ticker: XDEW
 emetteur: Xtrackers
 indice: "S&P 500 Equal Weight"
-ter: 0.15%
-replication: Full replication
-distribution: Accumulating
+ter: 0.15
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers S&P 500 Equal Weight UCITS ETF 1C

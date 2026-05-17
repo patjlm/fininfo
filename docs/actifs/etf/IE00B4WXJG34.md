@@ -6,13 +6,13 @@ isin: IE00B4WXJG34
 ticker: EUN9
 emetteur: iShares (BlackRock)
 indice: Bloomberg Euro Government Bond 5-7
-ter: 0.15%
-replication: Optimized sampling
-distribution: Distributing
+ter: 0.15
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Irlande
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Euro Government Bond 5-7yr UCITS ETF

@@ -3,7 +3,7 @@ nom: Interactive Brokers
 type: contrat-pea
 slug: interactive-brokers
 courtier: Interactive Brokers Ireland Limited
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Interactive Brokers — PEA

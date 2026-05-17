@@ -2,7 +2,7 @@
 nom: ETF éligibles PEA
 type: liste-actifs
 slug: etf-eligibles-pea
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # ETF éligibles au PEA

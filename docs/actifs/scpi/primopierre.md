@@ -7,9 +7,9 @@ societe-de-gestion: Praemia REIM (ex-Primonial REIM)
 categorie: Bureaux
 capital: Fixe (variable suspendu depuis janvier 2026)
 label-isr: oui
-prix-de-part: 115 EUR
-taux-de-distribution: 3,62%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 115
+taux-de-distribution: 3.62
+derniere-verification: 2026-05-17
 ---
 
 # Primopierre

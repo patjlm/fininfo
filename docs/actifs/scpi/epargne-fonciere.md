@@ -7,9 +7,9 @@ societe-de-gestion: La Française Real Estate Managers
 categorie: Bureaux
 capital: Variable
 label-isr: non
-prix-de-part: 670 EUR
-taux-de-distribution: 4,86%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 670
+taux-de-distribution: 4.86
+derniere-verification: 2026-05-17
 ---
 
 # Épargne Foncière

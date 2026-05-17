@@ -6,13 +6,13 @@ isin: IE000FCGBU62
 ticker: MATW
 emetteur: Amundi ETF
 indice: S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Materials
-ter: 0.18%
-replication: Full replication
-distribution: Accumulating
+ter: 0.18
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Amundi S&P Global Materials ESG UCITS ETF DR EUR (A)

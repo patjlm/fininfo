@@ -1,0 +1,30 @@
+type: contrat-assurance-vie
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [contrat-assurance-vie]
+  slug:
+    required: true
+    type: string
+  distributeur:
+    required: true
+    type: string
+  assureur:
+    required: true
+    type: string
+  frais-versement:
+    required: false
+    type: number
+  frais-gestion-uc:
+    required: false
+    type: number
+  frais-arbitrage:
+    required: false
+    type: number
+  derniere-verification:
+    required: true
+    type: date

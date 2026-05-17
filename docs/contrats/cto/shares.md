@@ -3,7 +3,7 @@ nom: Shares
 type: contrat-cto
 slug: shares
 courtier: Shares
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Shares — Compte-Titres

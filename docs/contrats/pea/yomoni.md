@@ -3,7 +3,7 @@ nom: Yomoni PEA
 type: contrat-pea
 slug: yomoni
 courtier: Yomoni
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Yomoni — PEA

@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: placement-direct-vie
 distributeur: Placement Direct
 assureur: SwissLife Assurance et Patrimoine
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Placement-direct Vie

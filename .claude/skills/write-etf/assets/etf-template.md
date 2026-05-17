@@ -6,13 +6,13 @@ isin: ISIN
 ticker: TICKER
 emetteur: EMETTEUR
 indice: NOM_INDICE
-ter: X.XX%
-replication: Full replication | Swap based | Optimized sampling
-distribution: Accumulating | Distributing
+ter:
+replication: Physique | Échantillonnage | Synthétique | Adossé
+distribution: Capitalisation | Distribution
 devise: EUR | USD | GBP
 domicile: Pays
 eligibilite-pea: oui | non
-derniere-mise-a-jour: YYYY-MM-DD
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_COMPLET

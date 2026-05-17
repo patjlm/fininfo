@@ -7,9 +7,9 @@ societe-de-gestion: Amundi Immobilier
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 228 EUR
-taux-de-distribution: 3,46%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 228
+taux-de-distribution: 3.46
+derniere-verification: 2026-05-17
 ---
 
 # Rivoli Avenir Patrimoine

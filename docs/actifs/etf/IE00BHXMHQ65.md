@@ -6,13 +6,13 @@ isin: IE00BHXMHQ65
 ticker: S5SG
 emetteur: UBS ETF
 indice: S&P 500 Scored & Screened (EUR Hedged)
-ter: 0.13%
-replication: Full replication
-distribution: Accumulating
+ter: 0.13
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # UBS S&P 500 Scored & Screened UCITS ETF hEUR acc

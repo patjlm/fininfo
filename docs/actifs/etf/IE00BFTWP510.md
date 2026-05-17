@@ -6,13 +6,13 @@ isin: IE00BFTWP510
 ticker: ZPRL
 emetteur: State Street
 indice: EURO STOXX Low Risk Weighted 100
-ter: 0.30%
-replication: Full replication
-distribution: Accumulating
+ter: 0.30
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # State Street SPDR EURO STOXX Low Volatility UCITS ETF EUR

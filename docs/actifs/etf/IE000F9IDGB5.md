@@ -6,13 +6,13 @@ isin: IE000F9IDGB5
 ticker: IWDS
 emetteur: iShares
 indice: MSCI World
-ter: 0.12%
-replication: Synthetic (Unfunded swap)
-distribution: Accumulating
+ter: 0.12
+replication: Synthétique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares MSCI World Swap UCITS ETF USD (Acc)

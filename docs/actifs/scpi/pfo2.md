@@ -5,11 +5,11 @@ slug: pfo2
 isin: Non communiqué
 societe-de-gestion: PERIAL Asset Management
 categorie: Bureaux
-capital: Variable (suspendu depuis le 25/02/2026)
+capital: Variable  # suspendu depuis le 25/02/2026
 label-isr: oui
-prix-de-part: 164 EUR
-taux-de-distribution: 4,65%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 164
+taux-de-distribution: 4.65
+derniere-verification: 2026-05-17
 ---
 
 # PFO2 (PERIAL O2)

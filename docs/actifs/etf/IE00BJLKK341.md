@@ -6,13 +6,13 @@ isin: IE00BJLKK341
 ticker: AYE4
 emetteur: iShares
 indice: MSCI EMU SRI Select Reduced Fossil Fuels
-ter: 0.20%
-replication: Physical(Full replication)
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI EMU SRI UCITS ETF EUR (Acc)

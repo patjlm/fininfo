@@ -6,13 +6,13 @@ isin: IE00BFMNPS42
 ticker: XZMU
 emetteur: Xtrackers
 indice: MSCI USA Low Carbon SRI Selection
-ter: 0.15%
-replication: Full replication
-distribution: Accumulating
+ter: 0.15
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MSCI USA ESG UCITS ETF 1C

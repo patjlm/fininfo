@@ -6,13 +6,13 @@ isin: IE000KXCEXR3
 ticker: S500
 emetteur: Amundi ETF
 indice: S&P 500 Scored & Screened+
-ter: 0.12%
-replication: Full replication
-distribution: Accumulating
+ter: 0.12
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Amundi S&P 500 Screened UCITS ETF Acc

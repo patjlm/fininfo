@@ -7,9 +7,9 @@ societe-de-gestion: Advenis REIM
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 960 EUR
-taux-de-distribution: 4,98%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 960
+taux-de-distribution: 4.98
+derniere-verification: 2026-05-17
 ---
 
 # Eurovalys

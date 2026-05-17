@@ -3,7 +3,7 @@ nom: EasyBourse
 type: contrat-cto
 slug: easybourse
 courtier: EasyBourse
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # EasyBourse — Compte-Titres

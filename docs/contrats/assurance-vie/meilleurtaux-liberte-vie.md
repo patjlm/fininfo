@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: meilleurtaux-liberte-vie
 distributeur: Meilleurtaux Placement
 assureur: Spirica (Crédit Agricole Assurances)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Meilleurtaux Liberté Vie

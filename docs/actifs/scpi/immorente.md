@@ -7,9 +7,9 @@ societe-de-gestion: SOFIDY (marque de Tikehau Capital)
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 340 EUR
-taux-de-distribution: 5,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 340
+taux-de-distribution: 5.00
+derniere-verification: 2026-05-17
 ---
 
 # Immorente

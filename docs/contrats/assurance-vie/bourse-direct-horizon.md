@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: bourse-direct-horizon
 distributeur: Bourse Direct
 assureur: Generali Vie
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Bourse Direct Horizon

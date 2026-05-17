@@ -24,14 +24,59 @@ Wiki markdown de produits financiers français : enveloppes d'investissement, in
 - **Données manquantes** : écrire « Non communiqué » si indisponible, ajouter `[à vérifier]` si incertaine
 - **Auto-maintenance** : quand une nouvelle règle ou convention est décidée, mettre à jour immédiatement ce fichier (AGENTS.md) et/ou le skill concerné. Garder ces fichiers concis et à jour — ils sont la source de vérité pour le comportement des agents
 
+## Frontmatter
+
+Chaque fiche a un frontmatter YAML validé par `make check`. Les schemas sont définis dans `.claude/skills/*/assets/schema-*.yaml`.
+
+### Champ `derniere-verification`
+
+- **Signification** : date à laquelle les données de la fiche ont été vérifiées comme encore exactes
+- Mettre à jour à chaque vérification, même si rien n'a changé dans le contenu
+- L'historique git montre quand le contenu a réellement changé
+
+### Valeurs numériques
+
+Les champs comparables sont des **nombres** dans le frontmatter, pas des chaînes :
+
+- `ter: 0.25` (pas `ter: 0.25%` ni `ter: "0.25%"`)
+- `frais-versement: 0` (pas `frais-versement: "0 %"`)
+- `frais-gestion-uc: 0.50`
+- `prix-de-part: 610` (pas `prix-de-part: 610 EUR`)
+- `taux-de-distribution: 5.49` (pas `taux-de-distribution: 5,49%`)
+
+Les unités (%, EUR) apparaissent dans le corps du document, pas dans le frontmatter.
+
+### Validation
+
+Les schemas `.claude/skills/*/assets/schema-*.yaml` définissent pour chaque type :
+
+- **required** : `true` (obligatoire) ou `false` (optionnel, sera requis à terme)
+- **type** : `string`, `number`, `date`, `enum`
+- **values** (pour `enum`) : liste des valeurs autorisées
+
+Les champs optionnels (`required: false`) sont remplis par les skills lors de la création ou mise à jour des fiches. Les fichiers existants sans ces champs passent la validation.
+
 ## Validation
 
-`make check` vérifie les liens internes et le frontmatter avant commit :
+`make check` vérifie les liens internes, le frontmatter et les README avant commit :
 
 - **Liens** : tous les liens markdown internes pointent vers des fichiers existants
-- **Frontmatter** : champs obligatoires présents (définis par les templates des skills), format de date, cohérence slug/nom de fichier
+- **Frontmatter** : champs obligatoires présents, types corrects, valeurs enum autorisées, format de date, cohérence slug/nom de fichier
+- **README** : les tableaux comparatifs générés sont à jour (`make check-readmes`)
 
 Aussi exécuté en CI via GitHub Actions sur chaque push/PR touchant `docs/`.
+
+## README générés
+
+Les README.md des sous-dossiers contiennent des tableaux comparatifs **générés automatiquement** depuis le frontmatter des fiches.
+
+- `make readmes` — régénère tous les tableaux
+- `make check-readmes` — vérifie que les tableaux sont à jour (CI)
+- Les tableaux sont délimités par `<!-- BEGIN GENERATED -->` / `<!-- END GENERATED -->`
+- Ne pas modifier le contenu entre ces marqueurs manuellement — il sera écrasé
+- Le contenu hors marqueurs (titres, texte, règles) est préservé
+
+Après avoir créé ou modifié une fiche, exécuter `make readmes` pour mettre à jour les tableaux.
 
 ## Conventions pour les fiches contrats
 

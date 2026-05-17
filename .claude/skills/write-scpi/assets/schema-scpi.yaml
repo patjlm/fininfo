@@ -1,0 +1,39 @@
+type: scpi
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [scpi]
+  slug:
+    required: true
+    type: string
+  isin:
+    required: true
+    type: string
+  societe-de-gestion:
+    required: true
+    type: string
+  categorie:
+    required: true
+    type: enum
+    values: ["Diversifi\xE9e", Bureaux, Commerce, "Sant\xE9", Logistique, "R\xE9sidentiel", "H\xF4tellerie"]
+  capital:
+    required: true
+    type: enum
+    values: [Variable, Fixe]
+  label-isr:
+    required: true
+    type: enum
+    values: [oui, non]
+  prix-de-part:
+    required: true
+    type: number
+  taux-de-distribution:
+    required: true
+    type: number
+  derniere-verification:
+    required: true
+    type: date

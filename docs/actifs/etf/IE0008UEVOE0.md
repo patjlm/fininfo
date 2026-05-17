@@ -6,13 +6,13 @@ isin: IE0008UEVOE0
 ticker: B28A
 emetteur: iShares (BlackRock)
 indice: Bloomberg MSCI December 2028 Maturity EUR Corporate ESG Screened
-ter: 0.12%
-replication: Sampling
-distribution: Accumulating
+ter: 0.12
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Irlande
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares iBonds Dec 2028 Term EUR Corporate UCITS ETF EUR (Acc)

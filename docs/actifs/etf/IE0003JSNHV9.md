@@ -6,13 +6,13 @@ isin: IE0003JSNHV9
 ticker: JEGS
 emetteur: J.P. Morgan
 indice: JP Morgan Global Research Enhanced Index Equity SRI Paris Aligned Active
-ter: 0.25%
-replication: Optimized sampling
-distribution: Accumulating
+ter: 0.25
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # JPMorgan Global Research Enhanced Index Equity SRI Paris Aligned Active UCITS ETF EUR (acc)

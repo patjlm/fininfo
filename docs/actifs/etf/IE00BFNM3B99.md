@@ -6,13 +6,13 @@ isin: IE00BFNM3B99
 ticker: SLMA
 emetteur: iShares
 indice: MSCI EMU Screened
-ter: 0.12%
-replication: Physical(Optimized sampling)
-distribution: Accumulating
+ter: 0.12
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI EMU Screened UCITS ETF EUR (Acc)

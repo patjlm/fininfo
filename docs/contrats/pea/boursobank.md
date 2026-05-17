@@ -3,7 +3,7 @@ nom: BoursoBank
 type: contrat-pea
 slug: boursobank
 courtier: BoursoBank
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # BoursoBank — PEA

@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: yomoni-vie
 distributeur: Yomoni
 assureur: Suravenir (Crédit Mutuel Arkea)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Yomoni Vie

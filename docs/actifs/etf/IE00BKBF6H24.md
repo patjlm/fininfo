@@ -6,13 +6,13 @@ isin: IE00BKBF6H24
 ticker: IWLE
 emetteur: iShares
 indice: MSCI World (EUR Hedged)
-ter: 0.30%
-replication: Physical (Optimized sampling)
-distribution: Distributing
+ter: 0.30
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Core MSCI World UCITS ETF EUR Hedged (Dist)

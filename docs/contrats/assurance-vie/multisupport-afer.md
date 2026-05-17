@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: multisupport-afer
 distributeur: Afer (Association Française d'Épargne et de Retraite)
 assureur: Abeille Assurances (filiale de Aéma)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Multisupport Afer

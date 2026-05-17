@@ -7,9 +7,9 @@ societe-de-gestion: Altixia REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 200 EUR
-taux-de-distribution: 5,15%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 200
+taux-de-distribution: 5.15
+derniere-verification: 2026-05-17
 ---
 
 # Altixia Cadence XII

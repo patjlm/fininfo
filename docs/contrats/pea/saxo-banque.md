@@ -3,7 +3,7 @@ nom: Saxo Banque
 type: contrat-pea
 slug: saxo-banque
 courtier: Saxo Banque
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Saxo Banque — PEA

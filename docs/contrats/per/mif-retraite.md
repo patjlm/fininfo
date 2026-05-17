@@ -5,7 +5,7 @@ slug: mif-retraite
 distributeur: MIF
 assureur: MIF
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # MIF Retraite

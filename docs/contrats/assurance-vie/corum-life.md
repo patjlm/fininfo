@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: corum-life
 distributeur: Corum L'Epargne
 assureur: Corum Life (groupe Corum)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Corum Life

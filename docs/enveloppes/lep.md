@@ -2,7 +2,7 @@
 nom: Livret d'Épargne Populaire (LEP)
 type: enveloppe
 slug: lep
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Livret d'Épargne Populaire (LEP)

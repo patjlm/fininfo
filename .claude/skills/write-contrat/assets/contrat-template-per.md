@@ -4,8 +4,11 @@ type: contrat-per
 slug: SLUG
 distributeur: NOM_DISTRIBUTEUR
 assureur: NOM_ASSUREUR
+frais-versement:
+frais-gestion-uc:
+frais-arbitrage:
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: YYYY-MM-DD
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_CONTRAT

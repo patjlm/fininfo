@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: linxea-avenir-2
 distributeur: Linxea
 assureur: Suravenir (Crédit Mutuel Arkéa)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Linxea Avenir 2

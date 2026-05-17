@@ -6,13 +6,13 @@ isin: IE000PLCL3C9
 ticker: CEMD
 emetteur: iShares
 indice: Bloomberg Global Aggregate Corporate (EUR Hedged)
-ter: 0.25%
-replication: Sampling
-distribution: Accumulating
+ter: 0.25
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares Global Corporate Bond UCITS ETF EUR Hedged (Acc)

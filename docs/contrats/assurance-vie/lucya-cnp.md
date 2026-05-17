@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: lucya-cnp
 distributeur: Lucya
 assureur: CNP Assurances
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Lucya CNP

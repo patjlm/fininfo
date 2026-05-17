@@ -3,7 +3,7 @@ nom: Trading 212
 type: contrat-cto
 slug: trading-212
 courtier: Trading 212
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Trading 212 — Compte-Titres

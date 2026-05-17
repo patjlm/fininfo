@@ -7,9 +7,9 @@ societe-de-gestion: EPSICAP REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 257 EUR
-taux-de-distribution: 7,01%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 257
+taux-de-distribution: 7.01
+derniere-verification: 2026-05-17
 ---
 
 # Epsicap Nano

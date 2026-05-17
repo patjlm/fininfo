@@ -6,13 +6,13 @@ isin: IE00BQZJBX31
 ticker: EEI
 emetteur: WisdomTree
 indice: WisdomTree Europe Equity Income
-ter: 0.29%
-replication: Full replication
-distribution: Distributing
+ter: 0.29
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # WisdomTree Europe Equity Income UCITS ETF

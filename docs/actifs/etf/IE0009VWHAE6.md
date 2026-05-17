@@ -6,13 +6,13 @@ isin: IE0009VWHAE6
 ticker: USEE
 emetteur: iShares
 indice: iShares US Equity Enhanced Active
-ter: 0.20%
-replication: Full replication
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares US Equity Enhanced Active UCITS ETF USD (Acc)

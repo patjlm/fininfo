@@ -6,13 +6,13 @@ isin: IE000FF2EBQ8
 ticker: ENG
 emetteur: BNP Paribas Easy
 indice: ECPI Global ESG Infrastructure Equity
-ter: 0.31%
-replication: Full replication
-distribution: Accumulating
+ter: 0.31
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # BNP Paribas Easy ECPI Global ESG Infrastructure UCITS ETF EUR Capitalisation

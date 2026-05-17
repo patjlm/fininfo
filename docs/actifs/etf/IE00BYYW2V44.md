@@ -6,13 +6,13 @@ isin: IE00BYYW2V44
 ticker: SPPE
 emetteur: State Street
 indice: S&P 500 (EUR Hedged)
-ter: 0.05%
-replication: Full replication
-distribution: Accumulating
+ter: 0.05
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # State Street SPDR S&P 500 UCITS ETF EUR Hedged

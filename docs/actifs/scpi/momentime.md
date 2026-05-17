@@ -7,9 +7,9 @@ societe-de-gestion: Arkéa REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 200 EUR
-taux-de-distribution: 9,25%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 200
+taux-de-distribution: 9.25
+derniere-verification: 2026-05-17
 ---
 
 # MomenTime

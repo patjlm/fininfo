@@ -4,7 +4,10 @@ type: contrat-assurance-vie
 slug: SLUG
 distributeur: NOM_DISTRIBUTEUR
 assureur: NOM_ASSUREUR
-derniere-mise-a-jour: YYYY-MM-DD
+frais-versement:
+frais-gestion-uc:
+frais-arbitrage:
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_CONTRAT

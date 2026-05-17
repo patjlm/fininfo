@@ -7,9 +7,9 @@ societe-de-gestion: PAREF Gestion
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 172 EUR
-taux-de-distribution: 6,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 172
+taux-de-distribution: 6.00
+derniere-verification: 2026-05-17
 ---
 
 # Paref Hexa

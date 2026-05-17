@@ -6,13 +6,13 @@ isin: IE00BKTLJC87
 ticker: CITY
 emetteur: iShares
 indice: STOXX Global Smart City Infrastructure
-ter: 0.40%
-replication: Optimized sampling
-distribution: Accumulating
+ter: 0.40
+replication: Échantillonnage
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Smart City Infrastructure UCITS ETF USD (Acc)

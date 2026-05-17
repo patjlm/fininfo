@@ -7,9 +7,9 @@ societe-de-gestion: AEW Patrimoine
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 817 EUR
-taux-de-distribution: 4,32%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 817
+taux-de-distribution: 4.32
+derniere-verification: 2026-05-17
 ---
 
 # Atout Pierre Diversification

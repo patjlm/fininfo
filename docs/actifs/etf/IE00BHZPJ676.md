@@ -6,13 +6,13 @@ isin: IE00BHZPJ676
 ticker: EMNU
 emetteur: iShares
 indice: MSCI Europe ESG Enhanced Focus CTB
-ter: 0.12%
-replication: Optimized sampling
-distribution: Distributing
+ter: 0.12
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI Europe ESG Enhanced CTB UCITS ETF EUR (Dist)

@@ -1,0 +1,48 @@
+type: etf
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [etf]
+  slug:
+    required: true
+    type: string
+  isin:
+    required: true
+    type: string
+  ticker:
+    required: true
+    type: string
+  emetteur:
+    required: true
+    type: string
+  indice:
+    required: true
+    type: string
+  ter:
+    required: true
+    type: number
+  replication:
+    required: true
+    type: enum
+    values: ["Physique", "\xC9chantillonnage", "Synth\xE9tique", "Adoss\xE9", "Non communiqu\xE9"]
+  distribution:
+    required: true
+    type: enum
+    values: [Capitalisation, Distribution, "Non communiqu\xE9"]
+  devise:
+    required: true
+    type: string
+  domicile:
+    required: true
+    type: string
+  eligibilite-pea:
+    required: true
+    type: enum
+    values: [oui, non]
+  derniere-verification:
+    required: true
+    type: date

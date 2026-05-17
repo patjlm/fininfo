@@ -6,13 +6,13 @@ isin: IE000I8KRLL9
 ticker: SEME
 emetteur: iShares
 indice: MSCI ACWI IMI Semiconductors & Semiconductor Equipment ESG Screened Select Capped
-ter: 0.35%
-replication: Full replication
-distribution: Accumulating
+ter: 0.35
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares MSCI Global Semiconductors UCITS ETF USD (Acc)

@@ -44,7 +44,7 @@ Voir [assets/enveloppe-template.md](assets/enveloppe-template.md).
 nom: Nom Officiel Complet
 type: enveloppe
 slug: nom-kebab-case
-derniere-mise-a-jour: YYYY-MM-DD
+derniere-verification: YYYY-MM-DD
 ---
 
 # Nom Officiel
@@ -87,5 +87,5 @@ derniere-mise-a-jour: YYYY-MM-DD
 1. Lire la fiche existante
 2. Ne modifier QUE les sections concernées
 3. Mettre à jour `<!-- Mis à jour -->` des sections modifiées
-4. Mettre à jour `derniere-mise-a-jour` dans le frontmatter
+4. Mettre à jour `derniere-verification` dans le frontmatter
 5. Vérifier que les URLs sources sont toujours valides

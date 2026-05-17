@@ -6,13 +6,13 @@ isin: IE00BMTX2B82
 ticker: AYE7
 emetteur: iShares
 indice: AEX®
-ter: 0.30%
-replication: Full replication
-distribution: Accumulating
+ter: 0.30
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares AEX UCITS ETF EUR (Acc)

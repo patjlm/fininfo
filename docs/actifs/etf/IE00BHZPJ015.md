@@ -6,13 +6,13 @@ isin: IE00BHZPJ015
 ticker: EDM4
 emetteur: iShares
 indice: MSCI EMU ESG Enhanced Focus CTB
-ter: 0.12%
-replication: Optimized sampling
-distribution: Accumulating
+ter: 0.12
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI EMU ESG Enhanced CTB UCITS ETF EUR (Acc)

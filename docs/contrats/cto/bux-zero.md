@@ -3,7 +3,7 @@ nom: Bux Zero
 type: contrat-cto
 slug: bux-zero
 courtier: Bux Zero
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Bux Zero — Compte-Titres

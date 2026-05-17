@@ -6,13 +6,13 @@ isin: IE00BDBRDM35
 ticker: EUNA
 emetteur: iShares
 indice: Bloomberg Global Aggregate Bond (EUR Hedged)
-ter: 0.10%
-replication: Physical (Sampling)
-distribution: Accumulating
+ter: 0.10
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Core Global Aggregate Bond UCITS ETF EUR Hedged (Acc)

@@ -1,0 +1,15 @@
+type: enveloppe
+fields:
+  nom:
+    required: true
+    type: string
+  type:
+    required: true
+    type: enum
+    values: [enveloppe]
+  slug:
+    required: true
+    type: string
+  derniere-verification:
+    required: true
+    type: date

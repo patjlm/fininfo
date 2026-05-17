@@ -5,7 +5,7 @@ slug: placement-direct
 distributeur: Placement Direct
 assureur: SwissLife Assurance Retraite
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # PER Placement-direct

@@ -6,13 +6,13 @@ isin: IE000VCBWFL8
 ticker: XZDZ
 emetteur: Xtrackers
 indice: MSCI EMU High Dividend Yield Low Carbon SRI Screened Select
-ter: 0.25%
-replication: Full replication
-distribution: Distributing
+ter: 0.25
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MSCI EMU High Dividend Yield ESG UCITS ETF 1D

@@ -6,13 +6,13 @@ isin: IE000RITWOD4
 ticker: GQEU
 emetteur: Goldman Sachs
 indice: Goldman Sachs Alpha Enhanced Europe Equity Active
-ter: 0.25%
-replication: Full replication
-distribution: Accumulating
+ter: 0.25
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Goldman Sachs Alpha Enhanced Europe Equity Active UCITS ETF EUR (Acc)

@@ -6,13 +6,13 @@ isin: IE00BMDFDY08
 ticker: UEEF
 emetteur: iShares
 indice: Bloomberg MSCI US Corporate High Yield ESG SRI Bond (EUR Hedged)
-ter: 0.27%
-replication: Sampling
-distribution: Accumulating
+ter: 0.27
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares USD High Yield Corporate Bond ESG SRI UCITS ETF EUR Hedged (Acc)

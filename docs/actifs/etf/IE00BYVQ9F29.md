@@ -6,13 +6,13 @@ isin: IE00BYVQ9F29
 ticker: NQSE
 emetteur: iShares
 indice: Nasdaq 100® (EUR Hedged)
-ter: 0.33%
-replication: Full replication
-distribution: Accumulating
+ter: 0.33
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Nasdaq 100 UCITS ETF EUR Hedged Acc

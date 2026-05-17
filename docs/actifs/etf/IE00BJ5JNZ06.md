@@ -6,13 +6,13 @@ isin: IE00BJ5JNZ06
 ticker: CBUF
 emetteur: iShares
 indice: MSCI World Health Care Advanced Select 20 35 Capped
-ter: 0.18%
-replication: Full replication
-distribution: Distributing
+ter: 0.18
+replication: Physique
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI World Health Care Sector Advanced UCITS ETF USD (Dist)

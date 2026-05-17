@@ -7,9 +7,9 @@ societe-de-gestion: Perial Asset Management
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 44 EUR
-taux-de-distribution: 6,10%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 44
+taux-de-distribution: 6.10
+derniere-verification: 2026-05-17
 ---
 
 # Perial Opportunités Europe (ex-PFO)

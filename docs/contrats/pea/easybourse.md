@@ -3,7 +3,7 @@ nom: EasyBourse
 type: contrat-pea
 slug: easybourse
 courtier: EasyBourse
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # EasyBourse — PEA

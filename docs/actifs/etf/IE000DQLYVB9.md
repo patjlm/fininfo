@@ -6,13 +6,13 @@ isin: IE000DQLYVB9
 ticker: SPEA
 emetteur: iShares
 indice: S&P 500®
-ter: 0.10%
-replication: Synthetic(Unfunded swap)
-distribution: Accumulating
+ter: 0.10
+replication: Synthétique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares S&P 500 Swap PEA UCITS ETF EUR (Acc)

@@ -6,13 +6,13 @@ isin: IE00B3DKXQ41
 ticker: EUN4
 emetteur: iShares
 indice: Bloomberg MSCI Euro Aggregate and Green Bond ESG SRI
-ter: 0.16%
-replication: Physical (Sampling)
-distribution: Distributing
+ter: 0.16
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares EUR Aggregate Bond ESG SRI UCITS ETF EUR (Dist)

@@ -6,13 +6,13 @@ isin: IE00BJZ2DD79
 ticker: XRS2
 emetteur: Xtrackers
 indice: Russell 2000®
-ter: 0.30%
-replication: Full replication
-distribution: Accumulating
+ter: 0.30
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers Russell 2000 UCITS ETF 1C

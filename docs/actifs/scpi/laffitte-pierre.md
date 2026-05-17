@@ -7,9 +7,9 @@ societe-de-gestion: AEW PATRIMOINE
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 295 EUR
-taux-de-distribution: 5,30%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 295
+taux-de-distribution: 5.30
+derniere-verification: 2026-05-17
 ---
 
 # Laffitte Pierre

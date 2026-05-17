@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: meilleurtaux-essentiel-vie
 distributeur: Meilleurtaux Placement
 assureur: La France Mutualiste
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Meilleurtaux Essentiel Vie

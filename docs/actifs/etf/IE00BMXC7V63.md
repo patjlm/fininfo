@@ -6,13 +6,13 @@ isin: IE00BMXC7V63
 ticker: UQAB
 emetteur: iShares
 indice: "S&P 500\xAE Paris-Aligned Climate Sustainability Screened"
-ter: 0.07%
-replication: Full replication
-distribution: Accumulating
+ter: 0.07
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares S&P 500 Paris-Aligned Climate UCITS ETF USD (Acc)

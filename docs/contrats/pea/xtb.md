@@ -3,7 +3,7 @@ nom: XTB
 type: contrat-pea
 slug: xtb
 courtier: XTB
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # XTB — PEA

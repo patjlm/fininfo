@@ -6,13 +6,13 @@ isin: IE00BYX2JD69
 ticker: 2B7K
 emetteur: iShares
 indice: MSCI World SRI Select Reduced Fossil Fuels
-ter: 0.20%
-replication: Full replication
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI World SRI UCITS ETF EUR (Acc)

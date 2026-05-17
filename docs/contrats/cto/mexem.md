@@ -3,7 +3,7 @@ nom: MEXEM
 type: contrat-cto
 slug: mexem
 courtier: MEXEM
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # MEXEM — Compte-Titres

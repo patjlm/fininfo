@@ -3,7 +3,7 @@ nom: Interactive Brokers
 type: contrat-cto
 slug: interactive-brokers
 courtier: Interactive Brokers
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Interactive Brokers — Compte-Titres

@@ -6,13 +6,13 @@ isin: IE00B3XXRP09
 ticker: VUSA
 emetteur: Vanguard
 indice: "S&P 500"
-ter: 0.07%
-replication: Full replication
-distribution: Distributing
+ter: 0.07
+replication: Physique
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Vanguard S&P 500 UCITS ETF (USD) Distributing

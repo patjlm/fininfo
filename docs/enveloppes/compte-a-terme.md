@@ -2,7 +2,7 @@
 nom: Compte à Terme (CAT) / Dépôt à Terme (DAT)
 type: enveloppe
 slug: compte-a-terme
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Compte à Terme (CAT) / Dépôt à Terme (DAT)

@@ -7,9 +7,9 @@ societe-de-gestion: NOM_SOCIETE_DE_GESTION
 categorie: Diversifiée | Bureaux | Commerce | Santé | Logistique | Résidentiel | Hôtellerie
 capital: Variable | Fixe
 label-isr: oui | non
-prix-de-part: XXXX EUR
-taux-de-distribution: X,XX%
-derniere-mise-a-jour: YYYY-MM-DD
+prix-de-part:
+taux-de-distribution:
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_COMPLET

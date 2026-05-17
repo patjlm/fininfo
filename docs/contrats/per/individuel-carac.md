@@ -5,7 +5,7 @@ slug: individuel-carac
 distributeur: Carac
 assureur: Carac
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Individuel Carac

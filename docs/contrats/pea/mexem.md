@@ -3,7 +3,7 @@ nom: MEXEM
 type: contrat-pea
 slug: mexem
 courtier: MEXEM
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # MEXEM — PEA

@@ -2,7 +2,7 @@
 nom: Société Civile de Placement Immobilier (SCPI)
 type: enveloppe
 slug: scpi-en-direct
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Société Civile de Placement Immobilier (SCPI)

@@ -7,9 +7,9 @@ societe-de-gestion: SOFIDY (Tikehau Capital)
 categorie: Bureaux
 capital: Variable
 label-isr: non
-prix-de-part: 212 EUR
-taux-de-distribution: 4,44%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 212
+taux-de-distribution: 4.44
+derniere-verification: 2026-05-17
 ---
 
 # Efimmo 1

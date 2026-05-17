@@ -6,13 +6,13 @@ isin: IE00BJZ2DC62
 ticker: XRSM
 emetteur: Xtrackers
 indice: MSCI USA Select Screened
-ter: 0.07%
-replication: Full replication
-distribution: Accumulating
+ter: 0.07
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MSCI USA Screened UCITS ETF 1C

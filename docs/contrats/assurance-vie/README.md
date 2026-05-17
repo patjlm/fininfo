@@ -34,3 +34,29 @@
 
 Les données objectives (frais, conditions) doivent provenir **UNIQUEMENT** du site du distributeur ou de l'assureur.
 Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
+
+<!-- BEGIN GENERATED -->
+| Contrat | Distributeur | Assureur | Frais versement | Frais gestion UC | Frais arbitrage |
+|---|---|---|---|---|---|
+| [Altaprofits Vie](altaprofits-vie.md) | Altaprofits | Generali Vie | — | — | — |
+| [Bourse Direct Horizon](bourse-direct-horizon.md) | Bourse Direct | Generali Vie | — | — | — |
+| [BoursoVie](boursovie.md) | BoursoBank | Generali Vie | — | — | — |
+| [Corum Life](corum-life.md) | Corum L'Epargne | Corum Life (groupe Corum) | — | — | — |
+| [Fortuneo Vie](fortuneo-vie.md) | Fortuneo | Suravenir (Crédit Mutuel Arkea) | — | — | — |
+| [Garance Épargne](garance-epargne.md) | Garance | Garance | — | — | — |
+| [Linxea Avenir 2](linxea-avenir-2.md) | Linxea | Suravenir (Crédit Mutuel Arkéa) | — | — | — |
+| [Linxea Spirit 2](linxea-spirit-2.md) | Linxea | Spirica (Crédit Agricole Assurances) | — | — | — |
+| [Linxea Vie](linxea-vie.md) | Linxea | Generali Vie | — | — | — |
+| [Linxea Zen](linxea-zen.md) | Linxea | APICIL Epargne | — | — | — |
+| [Louve Infinity](louve-infinity.md) | Louve Invest | Corum Life | — | — | — |
+| [Lucya by AXA](lucya-by-axa.md) | Lucya (assurancevie.com) | AXA | — | — | — |
+| [Lucya Cardif](lucya-cardif.md) | Lucya | BNP Paribas Cardif (Cardif Assurance Vie) | — | — | — |
+| [Lucya CNP](lucya-cnp.md) | Lucya | CNP Assurances | — | — | — |
+| [Meilleurtaux Essentiel Vie](meilleurtaux-essentiel-vie.md) | Meilleurtaux Placement | La France Mutualiste | — | — | — |
+| [Meilleurtaux Liberté Vie](meilleurtaux-liberte-vie.md) | Meilleurtaux Placement | Spirica (Crédit Agricole Assurances) | — | — | — |
+| [Multisupport Afer](multisupport-afer.md) | Afer (Association Française d'Épargne et de Retraite) | Abeille Assurances (filiale de Aéma) | — | — | — |
+| [Oriance Premium](oriance-premium.md) | Crédit Agricole | Prédica | — | — | — |
+| [Placement-direct Patrimoine](placement-direct-patrimoine.md) | Placement Direct | Garance | — | — | — |
+| [Placement-direct Vie](placement-direct-vie.md) | Placement Direct | SwissLife Assurance et Patrimoine | — | — | — |
+| [Yomoni Vie](yomoni-vie.md) | Yomoni | Suravenir (Crédit Mutuel Arkea) | — | — | — |
+<!-- END GENERATED -->

@@ -6,13 +6,13 @@ isin: IE00BYYHSQ67
 ticker: QDVW
 emetteur: iShares
 indice: MSCI World High Dividend Yield Advanced Select
-ter: 0.38%
-replication: Full replication
-distribution: Distributing
+ter: 0.38
+replication: Physique
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI World Quality Dividend Advanced UCITS ETF USD (Dist)

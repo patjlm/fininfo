@@ -2,7 +2,7 @@
 nom: Compte Épargne Logement (CEL)
 type: enveloppe
 slug: cel
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Compte Épargne Logement (CEL)

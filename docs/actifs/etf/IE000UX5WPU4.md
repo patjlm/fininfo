@@ -6,13 +6,13 @@ isin: IE000UX5WPU4
 ticker: XYPL
 emetteur: Xtrackers
 indice: iBoxx EUR Corporates Yield Plus
-ter: 0.25%
-replication: Physical (Optimized sampling)
-distribution: Accumulating
+ter: 0.25
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1C

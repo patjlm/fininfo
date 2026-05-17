@@ -6,13 +6,13 @@ isin: IE000GZD8ME7
 ticker: GAEM
 emetteur: Goldman Sachs
 indice: Goldman Sachs Emerging Markets Green and Social Bond Active (EUR Hedged)
-ter: 0.55%
-replication: Full replication
-distribution: Distributing
+ter: 0.55
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Goldman Sachs Emerging Markets Green and Social Bond Active UCITS ETF EUR Hedged (Dist)

@@ -3,7 +3,7 @@ nom: Crédit Agricole
 type: contrat-pea
 slug: credit-agricole
 courtier: Crédit Agricole
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Crédit Agricole — PEA

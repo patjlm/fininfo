@@ -6,13 +6,13 @@ isin: IE00BYZTVV78
 ticker: QDVL
 emetteur: iShares
 indice: Bloomberg MSCI Euro Corporate 0-3 ESG SRI
-ter: 0.12%
-replication: Physical (Sampling)
-distribution: Distributing
+ter: 0.12
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares EUR Corporate Bond 0-3yr ESG SRI UCITS ETF EUR (Dist)

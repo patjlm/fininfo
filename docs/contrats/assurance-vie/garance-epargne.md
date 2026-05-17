@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: garance-epargne
 distributeur: Garance
 assureur: Garance
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Garance Épargne

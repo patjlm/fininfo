@@ -6,13 +6,13 @@ isin: IE00BDR5GT91
 ticker: GENDED
 emetteur: UBS ETF
 indice: Solactive Equileap Global Gender Equality
-ter: 0.20%
-replication: Physical (Full replication)
-distribution: Distributing
+ter: 0.20
+replication: Physique
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # UBS Global Gender Equality UCITS ETF USD dis

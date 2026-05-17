@@ -6,13 +6,13 @@ isin: IE00B3VTMJ91
 ticker: SXRN
 emetteur: iShares
 indice: Bloomberg Euro Government Bond 1-3
-ter: 0.15%
-replication: Physical (Sampling)
-distribution: Accumulating
+ter: 0.15
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Euro Government Bond 1-3yr UCITS ETF (Acc)

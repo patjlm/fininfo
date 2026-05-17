@@ -7,9 +7,9 @@ societe-de-gestion: La Française Real Estate Managers
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 218 EUR
-taux-de-distribution: 4,66%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 218
+taux-de-distribution: 4.66
+derniere-verification: 2026-05-17
 ---
 
 # LF Grand Paris Patrimoine

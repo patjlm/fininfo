@@ -3,7 +3,7 @@ nom: NOM_CONTRAT
 type: contrat-cto
 slug: SLUG
 courtier: NOM_COURTIER
-derniere-mise-a-jour: YYYY-MM-DD
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_CONTRAT — Compte-Titres

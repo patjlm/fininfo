@@ -6,13 +6,13 @@ isin: IE00BFMNHK08
 ticker: XZEU
 emetteur: Xtrackers
 indice: MSCI Europe Low Carbon SRI Selection
-ter: 0.20%
-replication: Full replication
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MSCI Europe ESG UCITS ETF 1C

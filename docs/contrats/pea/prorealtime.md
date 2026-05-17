@@ -3,7 +3,7 @@ nom: ProRealTime PEA
 type: contrat-pea
 slug: prorealtime
 courtier: ProRealTime (via Interactive Brokers)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # ProRealTime — PEA

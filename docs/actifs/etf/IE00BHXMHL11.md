@@ -6,13 +6,13 @@ isin: IE00BHXMHL11
 ticker: 4UBQ
 emetteur: UBS ETF
 indice: S&P 500 Scored & Screened
-ter: 0.10%
-replication: Physical (Full replication)
-distribution: Accumulating
+ter: 0.10
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # UBS S&P 500 Scored & Screened UCITS ETF USD acc

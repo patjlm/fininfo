@@ -6,13 +6,13 @@ isin: IE00B4WXJH41
 ticker: EUN8
 emetteur: iShares
 indice: "Bloomberg Euro Government Bond 10-15"
-ter: 0.15%
-replication: Physical (Sampling)
-distribution: Distributing
+ter: 0.15
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Euro Government Bond 10-15yr UCITS ETF

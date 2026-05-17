@@ -2,7 +2,7 @@
 nom: Livret A
 type: enveloppe
 slug: livret-a
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Livret A

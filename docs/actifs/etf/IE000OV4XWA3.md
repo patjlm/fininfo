@@ -6,13 +6,13 @@ isin: IE000OV4XWA3
 ticker: NTSZ
 emetteur: WisdomTree
 indice: WisdomTree Eurozone Efficient Core
-ter: 0.20%
-replication: Physical (Optimized sampling)
-distribution: Accumulating
+ter: 0.20
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # WisdomTree Eurozone Efficient Core UCITS ETF EUR Unhedged Acc

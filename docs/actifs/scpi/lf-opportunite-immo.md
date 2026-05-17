@@ -7,9 +7,9 @@ societe-de-gestion: La Française Real Estate Managers
 categorie: Logistique
 capital: Variable
 label-isr: oui
-prix-de-part: 203 EUR
-taux-de-distribution: 5,68%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 203
+taux-de-distribution: 5.68
+derniere-verification: 2026-05-17
 ---
 
 # LF Opportunité Immo

@@ -5,7 +5,7 @@ slug: nalo
 distributeur: Nalo
 assureur: Apicil
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Nalo PER

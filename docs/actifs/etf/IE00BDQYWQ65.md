@@ -6,13 +6,13 @@ isin: IE00BDQYWQ65
 ticker: SXRH
 emetteur: iShares
 indice: ICE US Treasury Inflation-Linked Bond 0-5 Years
-ter: 0.10%
-replication: Physical (Sampling)
-distribution: Distributing
+ter: 0.10
+replication: Échantillonnage
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares USD TIPS 0-5 UCITS ETF USD (Dist)

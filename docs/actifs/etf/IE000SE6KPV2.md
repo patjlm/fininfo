@@ -6,13 +6,13 @@ isin: IE000SE6KPV2
 ticker: IPAB
 emetteur: iShares
 indice: Bloomberg MSCI Euro Corporate Climate Paris Aligned ESG Select
-ter: 0.15%
-replication: Sampling
-distribution: Accumulating
+ter: 0.15
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares EUR Corporate Bond ESG Paris-Aligned Climate UCITS ETF EUR (Acc)

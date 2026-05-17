@@ -7,9 +7,9 @@ societe-de-gestion: PERIAL Asset Management
 categorie: Bureaux
 capital: Fixe
 label-isr: oui
-prix-de-part: 458 EUR
-taux-de-distribution: 4,80%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 458
+taux-de-distribution: 4.80
+derniere-verification: 2026-05-17
 ---
 
 # Perial Grand Paris

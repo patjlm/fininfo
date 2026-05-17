@@ -7,9 +7,9 @@ societe-de-gestion: Praemia REIM
 categorie: Résidentiel
 capital: Variable
 label-isr: non
-prix-de-part: 677 EUR
-taux-de-distribution: 0,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 677
+taux-de-distribution: 0.00
+derniere-verification: 2026-05-17
 ---
 
 # Patrimmo Croissance Impact

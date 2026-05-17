@@ -3,7 +3,7 @@ nom: Trade Republic
 type: contrat-pea
 slug: trade-republic
 courtier: Trade Republic
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Trade Republic — PEA

@@ -31,3 +31,26 @@
 
 Les données objectives (frais, conditions) doivent provenir **UNIQUEMENT** du site du courtier.
 Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
+
+<!-- BEGIN GENERATED -->
+| Courtier |
+|---|
+| [Bitpanda](bitpanda.md) |
+| [Bourse Direct](bourse-direct.md) |
+| [BoursoBank](boursobank.md) |
+| [Bux Zero](bux-zero.md) |
+| [Crédit Agricole — Compte-Titres Ordinaire](credit-agricole.md) |
+| [Degiro](degiro.md) |
+| [EasyBourse](easybourse.md) |
+| [eToro](etoro.md) |
+| [Fortuneo](fortuneo.md) |
+| [Interactive Brokers](interactive-brokers.md) |
+| [MEXEM](mexem.md) |
+| [Revolut](revolut.md) |
+| [Saxo Banque](saxo-banque.md) |
+| [Scalable Capital](scalable-capital.md) |
+| [Shares](shares.md) |
+| [Trade Republic](trade-republic.md) |
+| [Trading 212](trading-212.md) |
+| [XTB](xtb.md) |
+<!-- END GENERATED -->

@@ -3,7 +3,7 @@ nom: Fortuneo
 type: contrat-cto
 slug: fortuneo
 courtier: Fortuneo
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Fortuneo — Compte-Titres

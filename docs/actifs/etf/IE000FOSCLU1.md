@@ -6,13 +6,13 @@ isin: IE000FOSCLU1
 ticker: 5IF0
 emetteur: iShares
 indice: MSCI EMU Climate Paris Aligned Benchmark Select
-ter: 0.15%
-replication: Full replication
-distribution: Distributing
+ter: 0.15
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares MSCI EMU Paris-Aligned Climate UCITS ETF EUR (Dist)

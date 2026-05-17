@@ -3,7 +3,7 @@ nom: Saxo Banque
 type: contrat-cto
 slug: saxo-banque
 courtier: Saxo Banque
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Saxo Banque — Compte-Titres

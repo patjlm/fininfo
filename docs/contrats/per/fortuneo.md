@@ -5,7 +5,7 @@ slug: fortuneo
 distributeur: Fortuneo
 assureur: Suravenir (groupe Crédit Mutuel Arkéa)
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Fortuneo PER

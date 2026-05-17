@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: altaprofits-vie
 distributeur: Altaprofits
 assureur: Generali Vie
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Altaprofits Vie

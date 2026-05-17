@@ -6,13 +6,13 @@ isin: IE00B9MRHC27
 ticker: XDN0
 emetteur: Xtrackers
 indice: MSCI Nordic Countries
-ter: 0.30%
-replication: Full replication
-distribution: Distributing
+ter: 0.30
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MSCI Nordic UCITS ETF 1D

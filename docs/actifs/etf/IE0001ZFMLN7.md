@@ -6,13 +6,13 @@ isin: IE0001ZFMLN7
 ticker: N100
 emetteur: iShares
 indice: Nasdaq 100
-ter: 0.20%
-replication: Unfunded swap
-distribution: Accumulating
+ter: 0.20
+replication: Synthétique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares NASDAQ 100 Swap UCITS ETF USD (Acc)

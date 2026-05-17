@@ -5,7 +5,7 @@ slug: bnp-paribas-multiplacements
 distributeur: BNP Paribas
 assureur: Cardif Retraite
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # BNP Paribas Multiplacements PER

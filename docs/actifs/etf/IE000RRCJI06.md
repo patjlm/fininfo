@@ -6,13 +6,13 @@ isin: IE000RRCJI06
 ticker: GIGU
 emetteur: Goldman Sachs
 indice: Goldman Sachs USD Investment Grade Corporate Bond Active
-ter: 0.25%
-replication: Full replication
-distribution: Distributing
+ter: 0.25
+replication: Physique
+distribution: Distribution
 devise: USD
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Goldman Sachs USD Investment Grade Corporate Bond Active UCITS ETF CLASS USD (Dist)

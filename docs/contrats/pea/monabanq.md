@@ -3,7 +3,7 @@ nom: monabanq PEA
 type: contrat-pea
 slug: monabanq
 courtier: monabanq
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # monabanq PEA

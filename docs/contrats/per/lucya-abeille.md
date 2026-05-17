@@ -5,7 +5,7 @@ slug: lucya-abeille
 distributeur: Lucya (assurancevie.com)
 assureur: Abeille Retraite Professionnelle (groupe Aéma)
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Lucya Abeille PER

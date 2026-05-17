@@ -29,3 +29,24 @@
 
 Les listes de supports doivent provenir **UNIQUEMENT** du site du distributeur ou de l'assureur.
 Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
+
+<!-- BEGIN GENERATED -->
+| Contrat | Distributeur | Assureur | Frais versement | Frais gestion UC | Frais arbitrage |
+|---|---|---|---|---|---|
+| [BNP Paribas Multiplacements PER](bnp-paribas-multiplacements.md) | BNP Paribas | Cardif Retraite | — | — | — |
+| [Caravel PER](caravel.md) | Caravel | Apicil | — | — | — |
+| [Corum PERLife](corum-perlife.md) | Corum L'Épargne | CORUM Life | — | — | — |
+| [Fortuneo PER](fortuneo.md) | Fortuneo | Suravenir (groupe Crédit Mutuel Arkéa) | — | — | — |
+| [Goodvest PER](goodvest.md) | Goodvest | Generali | — | — | — |
+| [Individuel Carac](individuel-carac.md) | Carac | Carac | — | — | — |
+| [Linxea Spirit PER](linxea-spirit-per.md) | Linxea | Spirica (filiale Crédit Agricole Assurances) | — | — | — |
+| [Linxea Suravenir PER](linxea-suravenir.md) | Linxea | Suravenir (groupe Arkéa) | — | — | — |
+| [Lucya Abeille PER](lucya-abeille.md) | Lucya (assurancevie.com) | Abeille Retraite Professionnelle (groupe Aéma) | — | — | — |
+| [MATLA](matla.md) | BoursoBank | Oradéa Vie (Société Générale Assurances) | — | — | — |
+| [meilleurtaux Liberté PER](meilleurtaux-liberte.md) | Meilleurtaux Placement | Spirica | — | — | — |
+| [MIF Retraite](mif-retraite.md) | MIF | MIF | — | — | — |
+| [Nalo PER](nalo.md) | Nalo | Apicil | — | — | — |
+| [PER Placement-direct](placement-direct.md) | Placement Direct | SwissLife Assurance Retraite | — | — | — |
+| [Yomoni Retraite+](yomoni-retraite-plus.md) | Yomoni | Spirica (filiale du Crédit Agricole Assurances) | — | — | — |
+| [Yomoni Retraite](yomoni-retraite.md) | Yomoni | Crédit Agricole Titres (teneur de compte) / Suravenir (rente viagère) | — | — | — |
+<!-- END GENERATED -->

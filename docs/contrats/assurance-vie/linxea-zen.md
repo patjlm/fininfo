@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: linxea-zen
 distributeur: Linxea
 assureur: APICIL Epargne
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Linxea Zen

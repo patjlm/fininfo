@@ -7,9 +7,9 @@ societe-de-gestion: Aestiam
 categorie: Commerce
 capital: Variable
 label-isr: non
-prix-de-part: 922 EUR
-taux-de-distribution: 4,50%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 922
+taux-de-distribution: 4.50
+derniere-verification: 2026-05-17
 ---
 
 # Aestiam Agora

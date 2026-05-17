@@ -7,9 +7,9 @@ societe-de-gestion: Praemia REIM (ex-Primonial REIM)
 categorie: Santé
 capital: Variable
 label-isr: oui
-prix-de-part: 164 EUR
-taux-de-distribution: 4,04%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 164
+taux-de-distribution: 4.04
+derniere-verification: 2026-05-17
 ---
 
 # Primovie

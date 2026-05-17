@@ -6,13 +6,13 @@ isin: IE000COQKPO9
 ticker: N1ES
 emetteur: Invesco
 indice: Nasdaq 100® ESG
-ter: 0.25%
-replication: Full replication
-distribution: Accumulating
+ter: 0.25
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Invesco Nasdaq-100 ESG UCITS ETF Acc

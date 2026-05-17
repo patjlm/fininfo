@@ -7,9 +7,9 @@ societe-de-gestion: La Française Real Estate Managers
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 530 EUR
-taux-de-distribution: 4,44%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 530
+taux-de-distribution: 4.44
+derniere-verification: 2026-05-17
 ---
 
 # Sélectinvest 1

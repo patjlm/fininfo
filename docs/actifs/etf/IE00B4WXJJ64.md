@@ -6,13 +6,13 @@ isin: IE00B4WXJJ64
 ticker: EUNH
 emetteur: iShares
 indice: "Bloomberg Euro Treasury Bond"
-ter: 0.07%
-replication: Physical (Sampling)
-distribution: Distributing
+ter: 0.07
+replication: Échantillonnage
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Core Euro Government Bond UCITS ETF (Dist)

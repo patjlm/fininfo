@@ -2,7 +2,7 @@
 nom: NOM_OFFICIEL
 type: enveloppe
 slug: SLUG
-derniere-mise-a-jour: YYYY-MM-DD
+derniere-verification: YYYY-MM-DD
 ---
 
 # NOM_OFFICIEL

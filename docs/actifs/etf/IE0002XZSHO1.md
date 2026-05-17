@@ -6,13 +6,13 @@ isin: IE0002XZSHO1
 ticker: WPEA
 emetteur: iShares
 indice: MSCI World
-ter: 0.20%
-replication: Synthetic (Unfunded swap)
-distribution: Accumulating
+ter: 0.20
+replication: Synthétique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares MSCI World Swap PEA UCITS ETF EUR (Acc)

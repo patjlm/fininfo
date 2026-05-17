@@ -7,9 +7,9 @@ societe-de-gestion: Advenis REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 50 EUR
-taux-de-distribution: 8,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 50
+taux-de-distribution: 8.00
+derniere-verification: 2026-05-17
 ---
 
 # Eden

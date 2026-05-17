@@ -6,13 +6,13 @@ isin: IE00B9MRJJ36
 ticker: XDGM
 emetteur: Xtrackers
 indice: MDAX ESG Screened
-ter: 0.40%
-replication: Full replication
-distribution: Distributing
+ter: 0.40
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers MDAX ESG Screened UCITS ETF 1D

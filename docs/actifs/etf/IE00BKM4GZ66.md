@@ -6,13 +6,13 @@ isin: IE00BKM4GZ66
 ticker: IS3N
 emetteur: iShares
 indice: MSCI Emerging Markets Investable Market (IMI)
-ter: 0.18%
-replication: Physical (Full replication)
-distribution: Accumulating
+ter: 0.18
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares Core MSCI Emerging Markets IMI UCITS ETF (Acc)

@@ -7,9 +7,9 @@ societe-de-gestion: SOGENIAL IMMOBILIER
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 204 EUR
-taux-de-distribution: 6,25%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 204
+taux-de-distribution: 6.25
+derniere-verification: 2026-05-17
 ---
 
 # Cœur d'Europe

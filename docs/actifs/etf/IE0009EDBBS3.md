@@ -6,13 +6,13 @@ isin: IE0009EDBBS3
 ticker: GIGE
 emetteur: Goldman Sachs
 indice: Goldman Sachs EUR Investment Grade Corporate Bond Active
-ter: 0.25%
-replication: Full replication
-distribution: Distributing
+ter: 0.25
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Goldman Sachs EUR Investment Grade Corporate Bond Active UCITS ETF CLASS EUR (Dist)

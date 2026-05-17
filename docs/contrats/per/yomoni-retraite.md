@@ -5,7 +5,7 @@ slug: yomoni-retraite
 distributeur: Yomoni
 assureur: Crédit Agricole Titres (teneur de compte) / Suravenir (rente viagère)
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Yomoni Retraite

@@ -57,4 +57,4 @@ L'ISIN de l'ETF à documenter. Les données sont récupérées via le skill `jus
 1. Lire la fiche existante
 2. Ne modifier QUE les sections concernées
 3. Mettre à jour `<!-- Mis à jour -->` des sections modifiées
-4. Mettre à jour `derniere-mise-a-jour` dans le frontmatter
+4. Mettre à jour `derniere-verification` dans le frontmatter

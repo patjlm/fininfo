@@ -6,13 +6,13 @@ isin: IE000MWUQBJ0
 ticker: H4ZZ
 emetteur: HSBC ETF
 indice: EURO STOXX 50
-ter: 0.05%
-replication: Full replication
-distribution: Accumulating
+ter: 0.05
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # HSBC Euro Stoxx 50 UCITS ETF EUR (Acc)

@@ -3,7 +3,7 @@ nom: Bourse Direct
 type: contrat-pea
 slug: bourse-direct
 courtier: Bourse Direct
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Bourse Direct — PEA

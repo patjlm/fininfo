@@ -5,7 +5,7 @@ slug: meilleurtaux-liberte
 distributeur: Meilleurtaux Placement
 assureur: Spirica
 source: simulateurs.sinvestir.fr
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # meilleurtaux Liberté PER

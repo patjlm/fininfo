@@ -6,13 +6,13 @@ isin: IE000RDRMSD1
 ticker: CBUT
 emetteur: iShares
 indice: NYSE FactSet Global Blockchain Technologies Capped
-ter: 0.50%
-replication: Full replication
-distribution: Accumulating
+ter: 0.50
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares Blockchain Technology UCITS ETF USD (Acc)

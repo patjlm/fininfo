@@ -6,13 +6,13 @@ isin: IE000JQ3ELQ8
 ticker: GOVT
 emetteur: Goldman Sachs
 indice: Goldman Sachs Global Government Bond Active
-ter: 0.20%
-replication: Full replication
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Goldman Sachs Global Government Bond Active UCITS ETF USD (Acc)

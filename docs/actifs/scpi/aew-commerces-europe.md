@@ -7,9 +7,9 @@ societe-de-gestion: AEW Patrimoine
 categorie: Commerce
 capital: Variable
 label-isr: oui
-prix-de-part: 190 EUR
-taux-de-distribution: 4,48%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 190
+taux-de-distribution: 4.48
+derniere-verification: 2026-05-17
 ---
 
 # AEW Commerces Europe

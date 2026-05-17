@@ -2,7 +2,7 @@
 nom: Contrat d'assurance vie
 type: enveloppe
 slug: assurance-vie
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Contrat d'assurance vie

@@ -3,7 +3,7 @@ nom: Bourse Direct
 type: contrat-cto
 slug: bourse-direct
 courtier: Bourse Direct
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Bourse Direct — Compte-Titres

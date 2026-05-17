@@ -3,7 +3,7 @@ nom: Shares
 type: contrat-pea
 slug: shares
 courtier: Shares
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Shares — PEA

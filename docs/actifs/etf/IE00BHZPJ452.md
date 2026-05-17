@@ -6,13 +6,13 @@ isin: IE00BHZPJ452
 ticker: EDMJ
 emetteur: iShares
 indice: MSCI Japan ESG Enhanced Focus CTB
-ter: 0.15%
-replication: Physical(Optimized sampling)
-distribution: Accumulating
+ter: 0.15
+replication: Échantillonnage
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI Japan ESG Enhanced CTB UCITS ETF USD (Acc)

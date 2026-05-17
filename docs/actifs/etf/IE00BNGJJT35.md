@@ -6,13 +6,13 @@ isin: IE00BNGJJT35
 ticker: SP2Q
 emetteur: Invesco
 indice: "S&P 500\xAE Equal Weight"
-ter: 0.20%
-replication: Full replication
-distribution: Accumulating
+ter: 0.20
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Invesco S&P 500 Equal Weight UCITS ETF Acc

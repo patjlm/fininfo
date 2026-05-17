@@ -3,7 +3,7 @@ nom: BoursoBank
 type: contrat-cto
 slug: boursobank
 courtier: BoursoBank
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # BoursoBank — Compte-Titres

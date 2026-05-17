@@ -6,13 +6,13 @@ isin: IE00BHZPJ569
 ticker: EDMW
 emetteur: iShares
 indice: MSCI World ESG Enhanced Focus CTB
-ter: 0.20%
-replication: Physical(Optimized sampling)
-distribution: Accumulating
+ter: 0.20
+replication: Échantillonnage
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares MSCI World ESG Enhanced CTB UCITS ETF USD (Acc)

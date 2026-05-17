@@ -7,9 +7,9 @@ societe-de-gestion: AMUNDI IMMOBILIER
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 172 EUR
-taux-de-distribution: 3,63%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 172
+taux-de-distribution: 3.63
+derniere-verification: 2026-05-17
 ---
 
 # Edissimmo

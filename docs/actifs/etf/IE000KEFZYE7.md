@@ -6,13 +6,13 @@ isin: IE000KEFZYE7
 ticker: GQEM
 emetteur: Goldman Sachs
 indice: Goldman Sachs Alpha Enhanced Emerging Markets Equity Active
-ter: 0.30%
-replication: Full replication
-distribution: Accumulating
+ter: 0.30
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Goldman Sachs Alpha Enhanced Emerging Markets Equity Active UCITS ETF USD (Acc)

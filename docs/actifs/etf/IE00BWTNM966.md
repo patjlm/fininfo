@@ -6,13 +6,13 @@ isin: IE00BWTNM966
 ticker: FTGG
 emetteur: First Trust
 indice: Nasdaq AlphaDEX® Germany
-ter: 0.65%
-replication: Full replication
-distribution: Distributing
+ter: 0.65
+replication: Physique
+distribution: Distribution
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # First Trust Germany AlphaDEX UCITS ETF Dist

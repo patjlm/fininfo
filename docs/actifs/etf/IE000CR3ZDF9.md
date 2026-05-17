@@ -6,13 +6,13 @@ isin: IE000CR3ZDF9
 ticker: CBU2
 emetteur: iShares
 indice: Bloomberg MSCI Euro Aggregate and Green Bond ESG SRI
-ter: 0.16%
-replication: Physical(Sampling)
-distribution: Accumulating
+ter: 0.16
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # iShares EUR Aggregate Bond ESG SRI UCITS ETF EUR (Acc)

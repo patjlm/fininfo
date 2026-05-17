@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: linxea-spirit-2
 distributeur: Linxea
 assureur: Spirica (Crédit Agricole Assurances)
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Linxea Spirit 2

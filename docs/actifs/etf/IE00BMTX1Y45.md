@@ -6,13 +6,13 @@ isin: IE00BMTX1Y45
 ticker: I500
 emetteur: iShares
 indice: S&P 500®
-ter: 0.05%
-replication: Synthetic (unfunded swap)
-distribution: Accumulating
+ter: 0.05
+replication: Synthétique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares S&P 500 Swap UCITS ETF USD (Acc)

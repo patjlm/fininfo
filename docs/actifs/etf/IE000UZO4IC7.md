@@ -6,13 +6,13 @@ isin: IE000UZO4IC7
 ticker: GAEB
 emetteur: Goldman Sachs
 indice: Goldman Sachs Emerging Markets Hard Currency Bond Active (EUR Hedged)
-ter: 0.45%
-replication: Full replication
-distribution: Accumulating
+ter: 0.45
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Goldman Sachs Emerging Markets Hard Currency Bond Active UCITS ETF Class EUR Hedged (Acc)

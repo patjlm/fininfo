@@ -3,7 +3,7 @@ nom: Hellobank! PEA
 type: contrat-pea
 slug: hellobank
 courtier: Hello bank!
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Hellobank! — PEA

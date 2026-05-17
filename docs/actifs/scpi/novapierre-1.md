@@ -7,9 +7,9 @@ societe-de-gestion: PAREF Gestion
 categorie: Commerce
 capital: Variable
 label-isr: non
-prix-de-part: 442 EUR
-taux-de-distribution: 5,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 442
+taux-de-distribution: 5.00
+derniere-verification: 2026-05-17
 ---
 
 # Novapierre 1

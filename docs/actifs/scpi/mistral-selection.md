@@ -7,9 +7,9 @@ societe-de-gestion: Swiss Life Asset Managers France
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 180 EUR
-taux-de-distribution: 8,07%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 180
+taux-de-distribution: 8.07
+derniere-verification: 2026-05-17
 ---
 
 # Mistral Sélection

@@ -6,13 +6,13 @@ isin: IE00BGV5VN51
 ticker: XAIX
 emetteur: Xtrackers
 indice: Nasdaq Global Artificial Intelligence and Big Data
-ter: 0.35%
-replication: Physical (Full replication)
-distribution: Accumulating
+ter: 0.35
+replication: Physique
+distribution: Capitalisation
 devise: USD
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C

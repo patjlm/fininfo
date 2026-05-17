@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: louve-infinity
 distributeur: Louve Invest
 assureur: Corum Life
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Louve Infinity

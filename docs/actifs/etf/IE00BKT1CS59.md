@@ -6,13 +6,13 @@ isin: IE00BKT1CS59
 ticker: SNAZ
 emetteur: iShares
 indice: JP Morgan CEMBI Broad Diversified Core (EUR Hedged)
-ter: 0.53%
-replication: Physical (Sampling)
-distribution: Accumulating
+ter: 0.53
+replication: Échantillonnage
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: non
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # iShares J.P. Morgan USD Emerging Markets Corporate Bond UCITS ETF EUR Hedged (Acc)

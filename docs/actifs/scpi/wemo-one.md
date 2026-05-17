@@ -7,9 +7,9 @@ societe-de-gestion: WEMO REIM
 categorie: Diversifiée
 capital: Variable
 label-isr: non
-prix-de-part: 210 EUR
-taux-de-distribution: 15,27%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 210
+taux-de-distribution: 15.27
+derniere-verification: 2026-05-17
 ---
 
 # Wemo One

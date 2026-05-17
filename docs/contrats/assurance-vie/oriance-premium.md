@@ -4,7 +4,7 @@ type: contrat-assurance-vie
 slug: oriance-premium
 distributeur: Crédit Agricole
 assureur: Prédica
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Oriance Premium

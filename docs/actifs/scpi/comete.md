@@ -7,9 +7,9 @@ societe-de-gestion: ALDERAN
 categorie: Diversifiée
 capital: Variable
 label-isr: oui
-prix-de-part: 250 EUR
-taux-de-distribution: 9,00%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 250
+taux-de-distribution: 9.00
+derniere-verification: 2026-05-17
 ---
 
 # Comète

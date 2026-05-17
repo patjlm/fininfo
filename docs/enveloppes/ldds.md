@@ -2,7 +2,7 @@
 nom: Livret de Développement Durable et Solidaire (LDDS)
 type: enveloppe
 slug: ldds
-derniere-mise-a-jour: 2026-05-16
+derniere-verification: 2026-05-16
 ---
 
 # Livret de Développement Durable et Solidaire (LDDS)

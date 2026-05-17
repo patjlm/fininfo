@@ -3,7 +3,7 @@ nom: Scalable Capital
 type: contrat-cto
 slug: scalable-capital
 courtier: Scalable Capital
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Scalable Capital — Compte-Titres

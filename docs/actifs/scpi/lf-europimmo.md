@@ -7,9 +7,9 @@ societe-de-gestion: La Française Real Estate Managers
 categorie: Bureaux
 capital: Variable
 label-isr: oui
-prix-de-part: 725 EUR
-taux-de-distribution: 4,63%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 725
+taux-de-distribution: 4.63
+derniere-verification: 2026-05-17
 ---
 
 # LF Europimmo

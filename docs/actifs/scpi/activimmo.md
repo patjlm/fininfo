@@ -7,9 +7,9 @@ societe-de-gestion: ALDERAN
 categorie: Logistique
 capital: Variable
 label-isr: oui
-prix-de-part: 610 EUR
-taux-de-distribution: 5,49%
-derniere-mise-a-jour: 2026-05-17
+prix-de-part: 610
+taux-de-distribution: 5.49
+derniere-verification: 2026-05-17
 ---
 
 # ActivImmo

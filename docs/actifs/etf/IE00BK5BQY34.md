@@ -6,13 +6,13 @@ isin: IE00BK5BQY34
 ticker: VERE
 emetteur: Vanguard
 indice: FTSE Developed Europe ex UK
-ter: 0.10%
-replication: Full replication
-distribution: Accumulating
+ter: 0.10
+replication: Physique
+distribution: Capitalisation
 devise: EUR
 domicile: Ireland
 eligibilite-pea: oui
-derniere-mise-a-jour: 2026-05-17
+derniere-verification: 2026-05-17
 ---
 
 # Vanguard FTSE Developed Europe ex UK UCITS ETF (EUR) Accumulating
