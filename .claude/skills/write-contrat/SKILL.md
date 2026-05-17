@@ -20,6 +20,7 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
 | PER | `.tmp/per-data.json` | `docs/contrats/per/` | [contrat-template-per.md](assets/contrat-template-per.md) |
 | Assurance vie | `.tmp/life-insurance-data.json` | `docs/contrats/assurance-vie/` | [contrat-template-av.md](assets/contrat-template-av.md) |
 | PEA | `.tmp/pea-data.json` | `docs/contrats/pea/` | [contrat-template-pea.md](assets/contrat-template-pea.md) |
+| CTO | `.tmp/cto-data.json` | `docs/contrats/cto/` | [contrat-template-cto.md](assets/contrat-template-cto.md) |
 
 ## Processus
 
@@ -69,6 +70,15 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
 - **Pas de sections** : fonds euros, UC (remplacées par Produits)
 - **Fiscalité** : non (voir enveloppe `docs/enveloppes/pea.md`)
 - **Contraintes clés** : marchés accessibles, DCA, fractions d'actions, IFU, domiciliation du compte
+
+### CTO
+- **Frontmatter `type`** : `contrat-cto`
+- **Acteur** : courtier (pas d'assureur)
+- **Frais spécifiques** : courtage par marché (actions FR, actions US, ETF EU), change
+- **Sections propres** : produits/fonctionnalités (crypto, rémunération liquidités, CTO enfant), propriété/transfert
+- **Pas de sections** : fonds euros, UC (remplacées par Produits)
+- **Fiscalité** : non (voir enveloppe `docs/enveloppes/cto.md`)
+- **Contraintes clés** : frais par marché (FR/US/ETF), crypto, fractions d'actions, DCA, rémunération liquidités, propriété des titres, domiciliation (FR/étranger → déclaration), IFU
 
 ## Règles
 
