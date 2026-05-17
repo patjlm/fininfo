@@ -1,10 +1,9 @@
 ---
 name: justetf
 description: >-
-  Récupérer des données ETF depuis justETF : rechercher/filtrer des ETF
-  (éligibles PEA, par émetteur, par classe d'actifs, par région),
-  obtenir les détails d'un ETF (holdings, allocations, TER, réplication).
-  Utiliser quand on a besoin de données ETF pour les fiches contrats ou actifs.
+  Récupérer des données ETF depuis justETF et générer les fiches markdown.
+  Rechercher/filtrer des ETF, obtenir les détails, générer ou mettre à
+  jour les fiches ETF (une par une ou en masse).
 allowed-tools: Read Write Edit Bash
 ---
 
@@ -37,7 +36,7 @@ Dépendance GitHub uniquement (pas sur PyPI). Le script utilise des inline scrip
 ## Script générique
 
 ```bash
-uv run .claude/skills/justetf/scripts/justetf_etfs.py <commande> [options]
+uv run skills/justetf/scripts/justetf_etfs.py <commande> [options]
 ```
 
 ### Commandes
@@ -46,25 +45,44 @@ uv run .claude/skills/justetf/scripts/justetf_etfs.py <commande> [options]
 
 ```bash
 # Tous les ETF éligibles PEA
-uv run .claude/skills/justetf/scripts/justetf_etfs.py search --pea -o .tmp/pea-etfs.json
+uv run skills/justetf/scripts/justetf_etfs.py search --pea -o .tmp/pea-etfs.json
 
 # ETF d'un émetteur spécifique
-uv run .claude/skills/justetf/scripts/justetf_etfs.py search --provider Amundi --pea
+uv run skills/justetf/scripts/justetf_etfs.py search --provider Amundi --pea
 
 # Limiter les résultats
-uv run .claude/skills/justetf/scripts/justetf_etfs.py search --pea --limit 20
+uv run skills/justetf/scripts/justetf_etfs.py search --pea --limit 20
 
 # Recherche textuelle
-uv run .claude/skills/justetf/scripts/justetf_etfs.py search --query "MSCI World"
+uv run skills/justetf/scripts/justetf_etfs.py search --query "MSCI World"
 ```
 
 #### `details` — Détails d'un ETF
 
 ```bash
 # Profil complet (description, index, TER, réplication, holdings, allocations)
-uv run .claude/skills/justetf/scripts/justetf_etfs.py details IE00B4L5Y983
-uv run .claude/skills/justetf/scripts/justetf_etfs.py details IE00B4L5Y983 -o .tmp/etf-details.json
+uv run skills/justetf/scripts/justetf_etfs.py details IE00B4L5Y983
+uv run skills/justetf/scripts/justetf_etfs.py details IE00B4L5Y983 -o .tmp/etf-details.json
 ```
+
+#### `generate` — Générer ou mettre à jour une fiche ETF
+
+```bash
+# Créer ou mettre à jour la fiche d'un ETF
+uv run skills/justetf/scripts/justetf_etfs.py generate IE00B4L5Y983
+```
+
+Fetch les données justETF, génère la fiche complète depuis le template Jinja2 (`skills/write-etf/assets/etf-template.md.j2`). L'éligibilité PEA est lue depuis `docs/actifs/etf-eligibles-pea.md`.
+
+#### `bulk-update` — Mettre à jour tous les ETFs
+
+```bash
+uv run skills/justetf/scripts/justetf_etfs.py bulk-update
+# ou
+make etfs
+```
+
+Met à jour toutes les fiches existantes dans `docs/actifs/etf/` en une seule requête API (overview). Utiliser `git diff` pour review des changements.
 
 ### Filtres disponibles pour `search`
 
@@ -92,9 +110,9 @@ L'overview justETF n'a pas de colonne `pea`. Le filtre PEA est injecté dans les
 
 ## Processus typique
 
-1. **Lister les ETF éligibles PEA** → `search --pea`
-2. **Récupérer les détails** pour les ETF intéressants → `details <ISIN>`
-3. **Mettre à jour les fiches** contrats ou actifs avec les données
+1. **Mettre à jour toutes les fiches ETF** → `bulk-update` (ou `make etfs`)
+2. **Créer/mettre à jour un ETF spécifique** → `generate <ISIN>`
+3. **Explorer les données** → `search` et `details` pour consultation
 
 ## Sources
 
