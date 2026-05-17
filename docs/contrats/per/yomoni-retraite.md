@@ -146,13 +146,13 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
-| iShares S&P 500 Paris-Aligned Climate UCITS ETF | IE00BMXC7V63 | Actions États-Unis ISR |
-| iShares MSCI USA ESG Enhanced UCITS ETF EUR Hedged | IE000U7L59A3 | Actions États-Unis ISR couvertes EUR |
-| iShares MSCI Europe Paris-Aligned Climate UCITS ETF | IE00BL6K8C82 | Actions Europe ISR |
-| BNP Paribas Easy MSCI EMU SRI S-Series 5% Capped UCITS ETF | LU1953137681 | Actions zone euro ISR |
-| iShares MSCI Emerging Markets SRI UCITS ETF | IE00BYVJRP78 | Actions pays émergents ISR |
+| iShares S&P 500 Paris-Aligned Climate UCITS ETF | [IE00BMXC7V63](../../actifs/etf/IE00BMXC7V63.md) | Actions États-Unis ISR |
+| iShares MSCI USA ESG Enhanced UCITS ETF EUR Hedged | [IE000U7L59A3](../../actifs/etf/IE000U7L59A3.md) | Actions États-Unis ISR couvertes EUR |
+| iShares MSCI Europe Paris-Aligned Climate UCITS ETF | [IE00BL6K8C82](../../actifs/etf/IE00BL6K8C82.md) | Actions Europe ISR |
+| BNP Paribas Easy MSCI EMU SRI S-Series 5% Capped UCITS ETF | [LU1953137681](../../actifs/etf/LU1953137681.md) | Actions zone euro ISR |
+| iShares MSCI Emerging Markets SRI UCITS ETF | [IE00BYVJRP78](../../actifs/etf/IE00BYVJRP78.md) | Actions pays émergents ISR |
 | Amundi Index MSCI Japan SRI PAB UCITS ETF DR Hedged EUR | [ISIN à compléter] | Actions Japon ISR couvertes EUR |
-| iShares $ Short Duration Corp Bond UCITS ETF | IE000AWT6D61 | Obligations entreprises USD court terme couvertes |
+| iShares $ Short Duration Corp Bond UCITS ETF | [IE000AWT6D61](../../actifs/etf/IE000AWT6D61.md) | Obligations entreprises USD court terme couvertes |
 
 ### Répartition par profil (part actions à > 15 ans de la retraite)
 

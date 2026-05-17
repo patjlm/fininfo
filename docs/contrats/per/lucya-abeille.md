@@ -131,32 +131,32 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
-| Amundi CAC 40 UCITS ETF Acc | FR0011980507 | Actions France |
-| Amundi Euro Government Bond 15+Y UCITS ETF Acc | LU1287023268 | Obligations Souveraines EUR Long Terme |
-| Amundi Euro Government Bond 3-5Y UCITS ETF Acc | LU1650488494 | Obligations Souveraines EUR Moyen Terme |
-| Amundi Euro Government Bond 7-10Y UCITS ETF Acc | LU1287023185 | Obligations Souveraines EUR |
-| Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc | LU1650491282 | Obligations Indexées Inflation EUR |
-| Amundi Index Solutions - Amundi EURO High Yield Bond ESG UCITS ETF DR EUR (C) | LU5368104496 | Obligations High Yield EUR |
-| Amundi Index Solutions - Amundi EURO STOXX 50 UCITS ETF-C EUR | LU5368104236 | Actions Europe Large |
-| Amundi Index Solutions - Amundi Japan Topix UCITS ETF-C EUR Hedged | LU5381037864 | Actions Japon (couvert EUR) |
-| Amundi MSCI EMU UCITS ETF Acc | LU1646361276 | Actions Zone Euro |
-| Amundi MSCI Robotics & AI UCITS ETF Acc | LU1861132840 | Actions Monde Thématique (Robotique & IA) |
+| Amundi CAC 40 UCITS ETF Acc | [FR0011980507](../../actifs/etf/FR0011980507.md) | Actions France |
+| Amundi Euro Government Bond 15+Y UCITS ETF Acc | [LU1287023268](../../actifs/etf/LU1287023268.md) | Obligations Souveraines EUR Long Terme |
+| Amundi Euro Government Bond 3-5Y UCITS ETF Acc | [LU1650488494](../../actifs/etf/LU1650488494.md) | Obligations Souveraines EUR Moyen Terme |
+| Amundi Euro Government Bond 7-10Y UCITS ETF Acc | [LU1287023185](../../actifs/etf/LU1287023185.md) | Obligations Souveraines EUR |
+| Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc | [LU1650491282](../../actifs/etf/LU1650491282.md) | Obligations Indexées Inflation EUR |
+| Amundi Index Solutions - Amundi EURO High Yield Bond ESG UCITS ETF DR EUR (C) | [LU1681040496](../../actifs/etf/LU1681040496.md) | Obligations High Yield EUR |
+| Amundi Index Solutions - Amundi EURO STOXX 50 UCITS ETF-C EUR | [LU1681047236](../../actifs/etf/LU1681047236.md) | Actions Europe Large |
+| Amundi Index Solutions - Amundi Japan Topix UCITS ETF-C EUR Hedged | [LU1681037864](../../actifs/etf/LU1681037864.md) | Actions Japon (couvert EUR) |
+| Amundi MSCI EMU UCITS ETF Acc | [LU1646361276](../../actifs/etf/LU1646361276.md) | Actions Zone Euro |
+| Amundi MSCI Robotics & AI UCITS ETF Acc | [LU1861132840](../../actifs/etf/LU1861132840.md) | Actions Monde Thématique (Robotique & IA) |
 | Amundi MSCI World UCITS ETF DR USD Acc | IE000BI80T95 | Actions Monde |
-| Amundi Nasdaq-100 II UCITS ETF Acc | LU1829221024 | Actions USA Technologie |
-| Amundi Nasdaq-100 II UCITS ETF H Acc | LU2195415285 | Actions USA Technologie (couvert EUR) |
+| Amundi Nasdaq-100 II UCITS ETF Acc | [LU1829221024](../../actifs/etf/LU1829221024.md) | Actions USA Technologie |
+| Amundi Nasdaq-100 II UCITS ETF H Acc | [LU2195415285](../../actifs/etf/LU2195415285.md) | Actions USA Technologie (couvert EUR) |
 | Amundi S&P 500 II UCITS ETF | LU2115085064 | Actions USA |
-| Amundi S&P 500 II UCITS ETF EUR Hedged Acc | LU2095415285 | Actions USA (couvert EUR) |
-| Amundi Smart Overnight Return UCITS ETF Acc | LU1190417599 | Monétaire |
+| Amundi S&P 500 II UCITS ETF EUR Hedged Acc | [LU2095415285](../../actifs/etf/LU2095415285.md) | Actions USA (couvert EUR) |
+| Amundi Smart Overnight Return UCITS ETF Acc | [LU1190417599](../../actifs/etf/LU1190417599.md) | Monétaire |
 | BNP Paribas Easy MSCI Europe Min TE Track Classic Cap | LU1291099395 | Actions Europe |
 | BNP Paribas Easy MSCI Japan Min TE ex CW Track Classic Cap | LU1291101985 | Actions Japon |
 | BNP Paribas Easy MSCI USA Min TE Track Classic Cap | LU1291103684 | Actions USA |
-| iShares $ High Yield Corp Bond ESG SRI UCITS ETF EUR Hedged (Acc) | IE00BMDFDY08 | Obligations High Yield USD (couvert EUR) |
-| iShares J.P. Morgan $ EM Bond UCITS ETF EUR Hedged (Acc) | IE00BJ5JPH63 | Obligations Émergents (couvert EUR) |
-| iShares US Aggregate Bond UCITS ETF EUR Hedged (Acc) | IE00BDFYJM28 | Obligations Aggregate USD (couvert EUR) |
-| iShares VII PLC - iShares € Govt Bond 1-5yr ETF EUR Acc | IE00B3VTMJ91 | Obligations Souveraines EUR Court Terme |
-| iShares VII PLC - iShares € Govt Bond 3-7yr ETF EUR Acc | IE00B3VTML14 | Obligations Souveraines EUR Moyen Terme |
-| JPMorgan ETFs Ireland ICAV - JPM EUR 1-5yr IG Corporate Bond Active UCITS ETF EUR (acc) | IE00BF59RW70 | Obligations Corporate EUR |
-| JPMorgan ETFs Ireland ICAV - JPM USD IG Corporate Bond Active UCITS ETF EUR Hedged (acc) | IE0000J0F3C5 | Obligations Corporate USD (couvert EUR) |
+| iShares $ High Yield Corp Bond ESG SRI UCITS ETF EUR Hedged (Acc) | [IE00BMDFDY08](../../actifs/etf/IE00BMDFDY08.md) | Obligations High Yield USD (couvert EUR) |
+| iShares J.P. Morgan $ EM Bond UCITS ETF EUR Hedged (Acc) | [IE00BJ5JPH63](../../actifs/etf/IE00BJ5JPH63.md) | Obligations Émergents (couvert EUR) |
+| iShares US Aggregate Bond UCITS ETF EUR Hedged (Acc) | [IE00BDFJYM28](../../actifs/etf/IE00BDFJYM28.md) | Obligations Aggregate USD (couvert EUR) |
+| iShares VII PLC - iShares € Govt Bond 1-5yr ETF EUR Acc | [IE00B3VTMJ91](../../actifs/etf/IE00B3VTMJ91.md) | Obligations Souveraines EUR Court Terme |
+| iShares VII PLC - iShares € Govt Bond 3-7yr ETF EUR Acc | [IE00B3VTML14](../../actifs/etf/IE00B3VTML14.md) | Obligations Souveraines EUR Moyen Terme |
+| JPMorgan ETFs Ireland ICAV - JPM EUR 1-5yr IG Corporate Bond Active UCITS ETF EUR (acc) | [IE00BF59RW70](../../actifs/etf/IE00BF59RW70.md) | Obligations Corporate EUR |
+| JPMorgan ETFs Ireland ICAV - JPM USD IG Corporate Bond Active UCITS ETF EUR Hedged (acc) | [IE0000J0F3C5](../../actifs/etf/IE0000J0F3C5.md) | Obligations Corporate USD (couvert EUR) |
 
 - **Frais opérations financières ETF** : 0,10 % à l'investissement + 0,10 % au désinvestissement
 - **ETF non utilisés en gestion pilotée** — uniquement en gestion libre

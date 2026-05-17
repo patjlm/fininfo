@@ -76,86 +76,86 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 | ISIN | Nom | Catégorie |
 |---|---|---|
-| LU1829218749 | Amundi BlmbrgEqualweightCmdexAgrETFAcc | Matières Premières - Divers |
-| FR0010591362 | Amundi CAC 40 Daily -1x Inverse ETF Acc | Trading - Leveraged/Inverse Actions |
-| FR0010592014 | Amundi CAC 40 Daily 2x Leveraged ETF Acc | Trading - Leveraged/Inverse Actions |
-| FR0013380607 | Amundi CAC 40 ETF Acc | Actions France |
-| FR0007052782 | Amundi CAC 40 ETF Dist | Actions France |
-| LU2089238625 | Amundi Core Eur Corporate Bd ETF DR-EURC | Obligations EUR Emprunts Privés |
-| LU1681047236 | Amundi Core EURO STOXX 50 ETF EUR Acc | Actions Zone Euro Grandes Cap. |
-| IE000BI8OT95 | Amundi Core MSCI World ETF Acc | Actions Internationales Gdes Cap. Mixte |
-| LU1829221024 | Amundi Core Nasdaq-100 Swap ETF Acc | Actions Etats-Unis Gdes Cap. Croissance |
-| LU1954152853 | Amundi Core Nasdaq-100 Swap ETF € H Acc | Actions Autres |
-| LU0496786574 | Amundi Core S&P 500 Swap ETF EUR Dist | Actions Etats-Unis Gdes Cap. Mixte |
-| LU0959211326 | Amundi Core S&P 500 Swap ETF EUR H Acc | Actions Autres |
-| FR0007056841 | Amundi DJ Industrial Average ETF Dist | Actions Etats-Unis Gdes Cap. Value |
-| FR0010655712 | Amundi ETF DAX DR | Actions Allemagne |
-| LU1650487413 | Amundi Euro Govt Bd 1-3Y ETF Acc | Obligations EUR Emprunts d'Etat Court Terme |
-| LU1650488494 | Amundi Euro Govt Bd 3-5Y ETF Acc | Obligations EUR Emprunts d'Etat |
-| LU1287023003 | Amundi Euro Govt Bd 5-7Y ETF Acc | Obligations EUR Emprunts d'Etat |
-| LU1287023185 | Amundi Euro Govt Bd 7-10Y ETF Acc | Obligations EUR Emprunts d'Etat |
-| FR0010424135 | Amundi EuroStoxx50 Dly -1x Inv ETF Acc | Trading - Leveraged/Inverse Actions |
-| FR0010468983 | Amundi EuroStoxx50 Dly 2x Lvrgd ETF Acc | Trading - Leveraged/Inverse Actions |
-| LU1650492330 | Amundi FTSE 100 Swap ETF EUR H Acc | Actions Autres |
-| LU1563454310 | Amundi Glb Aggt Green Bd ETF Acc | Obligations Internationales Diversifiées |
-| FR0010930644 | Amundi Global Hydrogen ETF - Acc | Actions Autres |
-| LU1681048630 | Amundi Global Luxury ETF EUR Acc | Actions Secteur Biens Conso. & Services |
-| LU2611731824 | Amundi Gold Miners UCITS ETF USD Dis | Actions Secteur Métaux Précieux |
-| LU1681046931 | Amundi IS CAC 40 ESG DR ETF-C | Actions France |
-| LU1681039480 | Amundi IS FTSE EPRA Europe RE ETF-C | Immobilier - Indirect Europe |
-| LU1681044480 | Amundi IS MSCI Em Asia ETF-C EUR | Actions Asie hors Japon |
-| LU1681045024 | Amundi IS MSCI Em Latin America ETF-C € | Actions Amérique Latine |
-| LU1681045370 | Amundi IS MSCI Emerg Mkts Swp ETF EURAcc | Actions Marchés Emergents |
-| LU1681043086 | Amundi IS MSCI India Swap II ETF EUR Acc | Actions Inde |
-| LU1681044647 | Amundi IS MSCI Nordic ETF-C | Actions Europe du Nord |
-| LU1681044720 | Amundi IS MSCI Switzerland ETF-C EUR | Actions Suisse |
-| LU1681043599 | Amundi IS MSCI World Swap ETF EUR Acc | Actions Internationales Gdes Cap. Mixte |
-| LU1681038672 | Amundi IS Russell 2000 ETF-C EUR | Actions Etats-Unis Petites Cap. |
-| LU1900066207 | Amundi MSCI Brazil ETF Acc | Actions Brésil |
-| LU1900068914 | Amundi MSCI China ESG Sel Extra ETF Acc | Actions Chine |
-| LU1681043912 | Amundi MSCI China Tech ETF EUR | Actions Secteur Technologies |
-| LU2023678878 | Amundi MSCI Digital Economy ETF Acc | Actions Secteur Technologies |
-| LU1861138961 | Amundi MSCI EmMktsSRIClmtPrsAlgdETFDRC | Actions Marchés Emergents |
-| LU1861137484 | Amundi MSCI EurSRIClmtPrsAlgdETF DRC | Actions Europe Gdes Cap. Mixte |
-| LU1602144732 | Amundi MSCI Japan ESGBrdTrnstnETFEURAcc | Actions Japon Grandes Cap. Mixte |
-| IE000MYCJA42 | Amundi MSCI NA ESGBrdTrnstnETFAcc | Actions Etats-Unis Gdes Cap. Mixte |
-| FR0010524777 | Amundi MSCI New Energy ETF Dist | Actions Secteur Energies Alternatives |
-| LU1861132840 | Amundi MSCI Robotics & AI ETF Acc | Actions Secteur Technologies |
-| LU2037748345 | Amundi MSCI Smart Cities ETF ACC | Actions Secteur Technologies |
-| LU1437025023 | Amundi MSCI UK IMI SRIClmtPrsAlgdETFDR€C | Actions Royaume-Uni Grandes Cap. |
-| IE000R85HL30 | Amundi MSCI USA SRIClmtPrsAlgdETFAcc | Actions Etats-Unis Gdes Cap. Mixte |
-| FR0010527275 | Amundi MSCI Water UCITS ETF Dist | Actions Secteur Eau |
-| IE000Y77LGG9 | Amundi MSCI Wld SRIClmtNtZrAmbtPABETF€A | Actions Internationales Gdes Cap. Mixte |
-| LU0533032859 | Amundi MSCI World Financials ETF EUR Acc | Actions Secteur Finance |
-| LU0533033238 | Amundi MSCI World HealthCare ETF EUR Acc | Actions Secteur Santé |
-| LU0533033667 | Amundi MSCI World Info Tech ETF EUR Acc | Actions Secteur Technologies |
-| FR0010315770 | Amundi MSCI World Swap II ETF Dist | Actions Internationales Gdes Cap. Mixte |
-| FR0014003N93 | Amundi MSCI World Swap II ETF EUR H Acc | Actions Autres |
-| LU1602144906 | Amundi MSCIPacExJpnSRIClmtPrsAlgdETFDR€C | Actions Pacifique hors Japon |
-| FR0010342592 | Amundi Nasdaq-100 Daily 2x Lvrgd ETF Acc | Trading - Leveraged/Inverse Actions |
-| FR0013416716 | Amundi Physical Gold ETC C | Matières Premières - Métaux Précieux |
-| LU1681048804 | Amundi S&P 500 Swap ETF EUR Acc | Actions Etats-Unis Gdes Cap. Mixte |
-| LU1834983477 | Amundi STOXX Europe 600 Banks ETF Acc | Actions Secteur Finance |
-| LU1834988278 | Amundi STOXX Europe 600 Ey Scrn ETF Acc | Actions Secteur Energie |
-| LU1834986900 | Amundi STOXX Europe 600 Hlthcare ETF Acc | Actions Secteur Santé |
-| LU1834987890 | Amundi STOXX Europe 600 Indstr ETF Acc | Actions Secteur Matériaux & Industrie |
-| LU1834988518 | Amundi STOXX Europe 600 Tech ETF Acc | Actions Secteur Technologies |
-| IE000FF2EBQ8 | BNP Paribas EASY ECPI GlbESGInfrasETFEUR | Actions Secteur Infrastructures |
-| LU2194447293 | BNPP E ECPI Global ESG Blue Ecnmy ETFCap | Actions Autres |
-| LU1377382368 | BNPP E Low Carbon 100 Europe PAB® ETF | Actions Europe Gdes Cap. Mixte |
-| IE00BMVB5K07 | Vanguard LifeStrategy 20% Eq ETF EUR Acc | Allocation EUR Prudente - International |
-| IE00BMVB5M21 | Vanguard LifeStrategy 40% Eq ETF EUR Acc | Allocation EUR Modérée - International |
-| IE00BMVB5P51 | Vanguard LifeStrategy 60% Eq ETF EUR Acc | Allocation EUR Modérée - International |
-| IE00BMVB5R75 | Vanguard LifeStrategy 80% Eq ETF EUR Acc | Allocation EUR Agressive - International |
-| IE0002Y8CX98 | WisdomTree Europe Defence ETF EUR Acc | Actions Secteur Matériaux & Industrie |
-| DE000A2T5DZ1 | Xtrackers IE Physical Gold EUR Hdg ETC 5 | Matières Premières - Métaux Précieux |
-| LU0411078552 | Xtrackers S&P 500 2xLev Dly Swap ETF 1C | Trading - Leveraged/Inverse Actions |
-| LU0322251520 | Xtrackers S&P 500 Inv Dly Swap ETF 1C | Trading - Leveraged/Inverse Actions |
-| IE00BG0J4C88 | iShares Digital Security ETF USD Acc | Actions Secteur Technologies |
-| IE00BYZK4883 | iShares Digitalisation ETF USD Acc | Actions Secteur Technologies |
-| IE00BYWZ0440 | iShares Global HY Corp Bd ETF USD Acc | Obligations Internationales Haut Rendement |
-| IE00BYZK4776 | iShares Healthcare Innov ETF USD Acc | Actions Secteur Santé |
-| IE00BF20LF40 | iShares MSCI Europe Mid Cap ETF EUR Acc | Actions Europe Moyennes Cap. |
+| [LU1829218749](../../actifs/etf/LU1829218749.md) | Amundi BlmbrgEqualweightCmdexAgrETFAcc | Matières Premières - Divers |
+| [FR0010591362](../../actifs/etf/FR0010591362.md) | Amundi CAC 40 Daily -1x Inverse ETF Acc | Trading - Leveraged/Inverse Actions |
+| [FR0010592014](../../actifs/etf/FR0010592014.md) | Amundi CAC 40 Daily 2x Leveraged ETF Acc | Trading - Leveraged/Inverse Actions |
+| [FR0013380607](../../actifs/etf/FR0013380607.md) | Amundi CAC 40 ETF Acc | Actions France |
+| [FR0007052782](../../actifs/etf/FR0007052782.md) | Amundi CAC 40 ETF Dist | Actions France |
+| [LU2089238625](../../actifs/etf/LU2089238625.md) | Amundi Core Eur Corporate Bd ETF DR-EURC | Obligations EUR Emprunts Privés |
+| [LU1681047236](../../actifs/etf/LU1681047236.md) | Amundi Core EURO STOXX 50 ETF EUR Acc | Actions Zone Euro Grandes Cap. |
+| [IE000BI8OT95](../../actifs/etf/IE000BI8OT95.md) | Amundi Core MSCI World ETF Acc | Actions Internationales Gdes Cap. Mixte |
+| [LU1829221024](../../actifs/etf/LU1829221024.md) | Amundi Core Nasdaq-100 Swap ETF Acc | Actions Etats-Unis Gdes Cap. Croissance |
+| [LU1954152853](../../actifs/etf/LU1954152853.md) | Amundi Core Nasdaq-100 Swap ETF € H Acc | Actions Autres |
+| [LU0496786574](../../actifs/etf/LU0496786574.md) | Amundi Core S&P 500 Swap ETF EUR Dist | Actions Etats-Unis Gdes Cap. Mixte |
+| [LU0959211326](../../actifs/etf/LU0959211326.md) | Amundi Core S&P 500 Swap ETF EUR H Acc | Actions Autres |
+| [FR0007056841](../../actifs/etf/FR0007056841.md) | Amundi DJ Industrial Average ETF Dist | Actions Etats-Unis Gdes Cap. Value |
+| [FR0010655712](../../actifs/etf/FR0010655712.md) | Amundi ETF DAX DR | Actions Allemagne |
+| [LU1650487413](../../actifs/etf/LU1650487413.md) | Amundi Euro Govt Bd 1-3Y ETF Acc | Obligations EUR Emprunts d'Etat Court Terme |
+| [LU1650488494](../../actifs/etf/LU1650488494.md) | Amundi Euro Govt Bd 3-5Y ETF Acc | Obligations EUR Emprunts d'Etat |
+| [LU1287023003](../../actifs/etf/LU1287023003.md) | Amundi Euro Govt Bd 5-7Y ETF Acc | Obligations EUR Emprunts d'Etat |
+| [LU1287023185](../../actifs/etf/LU1287023185.md) | Amundi Euro Govt Bd 7-10Y ETF Acc | Obligations EUR Emprunts d'Etat |
+| [FR0010424135](../../actifs/etf/FR0010424135.md) | Amundi EuroStoxx50 Dly -1x Inv ETF Acc | Trading - Leveraged/Inverse Actions |
+| [FR0010468983](../../actifs/etf/FR0010468983.md) | Amundi EuroStoxx50 Dly 2x Lvrgd ETF Acc | Trading - Leveraged/Inverse Actions |
+| [LU1650492330](../../actifs/etf/LU1650492330.md) | Amundi FTSE 100 Swap ETF EUR H Acc | Actions Autres |
+| [LU1563454310](../../actifs/etf/LU1563454310.md) | Amundi Glb Aggt Green Bd ETF Acc | Obligations Internationales Diversifiées |
+| [FR0010930644](../../actifs/etf/FR0010930644.md) | Amundi Global Hydrogen ETF - Acc | Actions Autres |
+| [LU1681048630](../../actifs/etf/LU1681048630.md) | Amundi Global Luxury ETF EUR Acc | Actions Secteur Biens Conso. & Services |
+| [LU2611731824](../../actifs/etf/LU2611731824.md) | Amundi Gold Miners UCITS ETF USD Dis | Actions Secteur Métaux Précieux |
+| [LU1681046931](../../actifs/etf/LU1681046931.md) | Amundi IS CAC 40 ESG DR ETF-C | Actions France |
+| [LU1681039480](../../actifs/etf/LU1681039480.md) | Amundi IS FTSE EPRA Europe RE ETF-C | Immobilier - Indirect Europe |
+| [LU1681044480](../../actifs/etf/LU1681044480.md) | Amundi IS MSCI Em Asia ETF-C EUR | Actions Asie hors Japon |
+| [LU1681045024](../../actifs/etf/LU1681045024.md) | Amundi IS MSCI Em Latin America ETF-C € | Actions Amérique Latine |
+| [LU1681045370](../../actifs/etf/LU1681045370.md) | Amundi IS MSCI Emerg Mkts Swp ETF EURAcc | Actions Marchés Emergents |
+| [LU1681043086](../../actifs/etf/LU1681043086.md) | Amundi IS MSCI India Swap II ETF EUR Acc | Actions Inde |
+| [LU1681044647](../../actifs/etf/LU1681044647.md) | Amundi IS MSCI Nordic ETF-C | Actions Europe du Nord |
+| [LU1681044720](../../actifs/etf/LU1681044720.md) | Amundi IS MSCI Switzerland ETF-C EUR | Actions Suisse |
+| [LU1681043599](../../actifs/etf/LU1681043599.md) | Amundi IS MSCI World Swap ETF EUR Acc | Actions Internationales Gdes Cap. Mixte |
+| [LU1681038672](../../actifs/etf/LU1681038672.md) | Amundi IS Russell 2000 ETF-C EUR | Actions Etats-Unis Petites Cap. |
+| [LU1900066207](../../actifs/etf/LU1900066207.md) | Amundi MSCI Brazil ETF Acc | Actions Brésil |
+| [LU1900068914](../../actifs/etf/LU1900068914.md) | Amundi MSCI China ESG Sel Extra ETF Acc | Actions Chine |
+| [LU1681043912](../../actifs/etf/LU1681043912.md) | Amundi MSCI China Tech ETF EUR | Actions Secteur Technologies |
+| [LU2023678878](../../actifs/etf/LU2023678878.md) | Amundi MSCI Digital Economy ETF Acc | Actions Secteur Technologies |
+| [LU1861138961](../../actifs/etf/LU1861138961.md) | Amundi MSCI EmMktsSRIClmtPrsAlgdETFDRC | Actions Marchés Emergents |
+| [LU1861137484](../../actifs/etf/LU1861137484.md) | Amundi MSCI EurSRIClmtPrsAlgdETF DRC | Actions Europe Gdes Cap. Mixte |
+| [LU1602144732](../../actifs/etf/LU1602144732.md) | Amundi MSCI Japan ESGBrdTrnstnETFEURAcc | Actions Japon Grandes Cap. Mixte |
+| [IE000MYCJA42](../../actifs/etf/IE000MYCJA42.md) | Amundi MSCI NA ESGBrdTrnstnETFAcc | Actions Etats-Unis Gdes Cap. Mixte |
+| [FR0010524777](../../actifs/etf/FR0010524777.md) | Amundi MSCI New Energy ETF Dist | Actions Secteur Energies Alternatives |
+| [LU1861132840](../../actifs/etf/LU1861132840.md) | Amundi MSCI Robotics & AI ETF Acc | Actions Secteur Technologies |
+| [LU2037748345](../../actifs/etf/LU2037748345.md) | Amundi MSCI Smart Cities ETF ACC | Actions Secteur Technologies |
+| [LU1437025023](../../actifs/etf/LU1437025023.md) | Amundi MSCI UK IMI SRIClmtPrsAlgdETFDR€C | Actions Royaume-Uni Grandes Cap. |
+| [IE000R85HL30](../../actifs/etf/IE000R85HL30.md) | Amundi MSCI USA SRIClmtPrsAlgdETFAcc | Actions Etats-Unis Gdes Cap. Mixte |
+| [FR0010527275](../../actifs/etf/FR0010527275.md) | Amundi MSCI Water UCITS ETF Dist | Actions Secteur Eau |
+| [IE000Y77LGG9](../../actifs/etf/IE000Y77LGG9.md) | Amundi MSCI Wld SRIClmtNtZrAmbtPABETF€A | Actions Internationales Gdes Cap. Mixte |
+| [LU0533032859](../../actifs/etf/LU0533032859.md) | Amundi MSCI World Financials ETF EUR Acc | Actions Secteur Finance |
+| [LU0533033238](../../actifs/etf/LU0533033238.md) | Amundi MSCI World HealthCare ETF EUR Acc | Actions Secteur Santé |
+| [LU0533033667](../../actifs/etf/LU0533033667.md) | Amundi MSCI World Info Tech ETF EUR Acc | Actions Secteur Technologies |
+| [FR0010315770](../../actifs/etf/FR0010315770.md) | Amundi MSCI World Swap II ETF Dist | Actions Internationales Gdes Cap. Mixte |
+| [FR0014003N93](../../actifs/etf/FR0014003N93.md) | Amundi MSCI World Swap II ETF EUR H Acc | Actions Autres |
+| [LU1602144906](../../actifs/etf/LU1602144906.md) | Amundi MSCIPacExJpnSRIClmtPrsAlgdETFDR€C | Actions Pacifique hors Japon |
+| [FR0010342592](../../actifs/etf/FR0010342592.md) | Amundi Nasdaq-100 Daily 2x Lvrgd ETF Acc | Trading - Leveraged/Inverse Actions |
+| [FR0013416716](../../actifs/etf/FR0013416716.md) | Amundi Physical Gold ETC C | Matières Premières - Métaux Précieux |
+| [LU1681048804](../../actifs/etf/LU1681048804.md) | Amundi S&P 500 Swap ETF EUR Acc | Actions Etats-Unis Gdes Cap. Mixte |
+| [LU1834983477](../../actifs/etf/LU1834983477.md) | Amundi STOXX Europe 600 Banks ETF Acc | Actions Secteur Finance |
+| [LU1834988278](../../actifs/etf/LU1834988278.md) | Amundi STOXX Europe 600 Ey Scrn ETF Acc | Actions Secteur Energie |
+| [LU1834986900](../../actifs/etf/LU1834986900.md) | Amundi STOXX Europe 600 Hlthcare ETF Acc | Actions Secteur Santé |
+| [LU1834987890](../../actifs/etf/LU1834987890.md) | Amundi STOXX Europe 600 Indstr ETF Acc | Actions Secteur Matériaux & Industrie |
+| [LU1834988518](../../actifs/etf/LU1834988518.md) | Amundi STOXX Europe 600 Tech ETF Acc | Actions Secteur Technologies |
+| [IE000FF2EBQ8](../../actifs/etf/IE000FF2EBQ8.md) | BNP Paribas EASY ECPI GlbESGInfrasETFEUR | Actions Secteur Infrastructures |
+| [LU2194447293](../../actifs/etf/LU2194447293.md) | BNPP E ECPI Global ESG Blue Ecnmy ETFCap | Actions Autres |
+| [LU1377382368](../../actifs/etf/LU1377382368.md) | BNPP E Low Carbon 100 Europe PAB® ETF | Actions Europe Gdes Cap. Mixte |
+| [IE00BMVB5K07](../../actifs/etf/IE00BMVB5K07.md) | Vanguard LifeStrategy 20% Eq ETF EUR Acc | Allocation EUR Prudente - International |
+| [IE00BMVB5M21](../../actifs/etf/IE00BMVB5M21.md) | Vanguard LifeStrategy 40% Eq ETF EUR Acc | Allocation EUR Modérée - International |
+| [IE00BMVB5P51](../../actifs/etf/IE00BMVB5P51.md) | Vanguard LifeStrategy 60% Eq ETF EUR Acc | Allocation EUR Modérée - International |
+| [IE00BMVB5R75](../../actifs/etf/IE00BMVB5R75.md) | Vanguard LifeStrategy 80% Eq ETF EUR Acc | Allocation EUR Agressive - International |
+| [IE0002Y8CX98](../../actifs/etf/IE0002Y8CX98.md) | WisdomTree Europe Defence ETF EUR Acc | Actions Secteur Matériaux & Industrie |
+| [DE000A2T5DZ1](../../actifs/etf/DE000A2T5DZ1.md) | Xtrackers IE Physical Gold EUR Hdg ETC 5 | Matières Premières - Métaux Précieux |
+| [LU0411078552](../../actifs/etf/LU0411078552.md) | Xtrackers S&P 500 2xLev Dly Swap ETF 1C | Trading - Leveraged/Inverse Actions |
+| [LU0322251520](../../actifs/etf/LU0322251520.md) | Xtrackers S&P 500 Inv Dly Swap ETF 1C | Trading - Leveraged/Inverse Actions |
+| [IE00BG0J4C88](../../actifs/etf/IE00BG0J4C88.md) | iShares Digital Security ETF USD Acc | Actions Secteur Technologies |
+| [IE00BYZK4883](../../actifs/etf/IE00BYZK4883.md) | iShares Digitalisation ETF USD Acc | Actions Secteur Technologies |
+| [IE00BYWZ0440](../../actifs/etf/IE00BYWZ0440.md) | iShares Global HY Corp Bd ETF USD Acc | Obligations Internationales Haut Rendement |
+| [IE00BYZK4776](../../actifs/etf/IE00BYZK4776.md) | iShares Healthcare Innov ETF USD Acc | Actions Secteur Santé |
+| [IE00BF20LF40](../../actifs/etf/IE00BF20LF40.md) | iShares MSCI Europe Mid Cap ETF EUR Acc | Actions Europe Moyennes Cap. |
 
 ### Supports immobiliers (SCPI / SCI / OPCI)
 <!-- Mis à jour : 2026-05-16 -->

@@ -103,25 +103,25 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | TER indicatif |
 |---|---|---|---|
-| iShares MSCI World ESG Enhanced CTB UCITS ETF USD (Acc) | IE00BHZPJ569 | Actions Monde | 0,20 %/an |
-| iShares MSCI World ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | IE000R3K9FF7 | Actions Monde (couvert EUR) | 0,20 %/an |
-| iShares MSCI USA ESG Enhanced CTB UCITS ETF USD (Acc) | IE00BHZPJ908 | Actions USA | 0,07 %/an |
-| iShares MSCI USA ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | IE000U7L59A3 | Actions USA (couvert EUR) | 0,07 %/an |
-| iShares MSCI Europe ESG Enhanced CTB UCITS ETF EUR (Acc) | IE00BHZPJ676 | Actions Europe | 0,12 %/an |
-| iShares MSCI EMU ESG Enhanced CTB UCITS ETF EUR (Acc) | IE00BHZPJ015 | Actions Zone Euro | 0,12 %/an |
-| iShares MSCI EM ESG Enhanced CTB UCITS ETF USD (Acc) | IE00BHZPJ239 | Actions Émergents | 0,18 %/an |
-| iShares MSCI Japan ESG Enhanced CTB UCITS ETF USD (Acc) | IE00BHZPJ452 | Actions Japon | 0,15 %/an |
-| iShares MSCI Japan ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | IE0002SCQ8X0 | Actions Japon (couvert EUR) | 0,18 %/an |
+| iShares MSCI World ESG Enhanced CTB UCITS ETF USD (Acc) | [IE00BHZPJ569](../../actifs/etf/IE00BHZPJ569.md) | Actions Monde | 0,20 %/an |
+| iShares MSCI World ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | [IE000R3K9FF7](../../actifs/etf/IE000R3K9FF7.md) | Actions Monde (couvert EUR) | 0,20 %/an |
+| iShares MSCI USA ESG Enhanced CTB UCITS ETF USD (Acc) | [IE00BHZPJ908](../../actifs/etf/IE00BHZPJ908.md) | Actions USA | 0,07 %/an |
+| iShares MSCI USA ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | [IE000U7L59A3](../../actifs/etf/IE000U7L59A3.md) | Actions USA (couvert EUR) | 0,07 %/an |
+| iShares MSCI Europe ESG Enhanced CTB UCITS ETF EUR (Acc) | [IE00BHZPJ676](../../actifs/etf/IE00BHZPJ676.md) | Actions Europe | 0,12 %/an |
+| iShares MSCI EMU ESG Enhanced CTB UCITS ETF EUR (Acc) | [IE00BHZPJ015](../../actifs/etf/IE00BHZPJ015.md) | Actions Zone Euro | 0,12 %/an |
+| iShares MSCI EM ESG Enhanced CTB UCITS ETF USD (Acc) | [IE00BHZPJ239](../../actifs/etf/IE00BHZPJ239.md) | Actions Émergents | 0,18 %/an |
+| iShares MSCI Japan ESG Enhanced CTB UCITS ETF USD (Acc) | [IE00BHZPJ452](../../actifs/etf/IE00BHZPJ452.md) | Actions Japon | 0,15 %/an |
+| iShares MSCI Japan ESG Enhanced CTB UCITS ETF EUR Hedged (Acc) | [IE0002SCQ8X0](../../actifs/etf/IE0002SCQ8X0.md) | Actions Japon (couvert EUR) | 0,18 %/an |
 
 ### ETF Obligations
 
 | Nom | ISIN | Catégorie | TER indicatif |
 |---|---|---|---|
-| iShares € Corp Bond ESG UCITS ETF EUR (Dist) | IE00BYZTVT56 | Obligations EUR Investment Grade | 0,12 %/an |
-| iShares € Corp Bond 0-3yr ESG UCITS ETF EUR (Dist) | IE00BYZTVV78 | Obligations EUR Court Terme | 0,12 %/an |
-| iShares $ Corp Bond ESG UCITS ETF EUR Hedged (Dist) | IE00BH4G7D40 | Obligations USD IG (couvert EUR) | 0,15 %/an |
-| iShares $ Corp Bond 0-3yr ESG UCITS ETF EUR Hedged (Acc) | IE00BG5QQ390 | Obligations USD Court Terme (couvert EUR) | 0,15 %/an |
-| iShares € High Yield Corp Bond ESG UCITS ETF EUR (Acc) | IE00BJK55C48 | Obligations EUR High Yield | 0,25 %/an |
+| iShares € Corp Bond ESG UCITS ETF EUR (Dist) | [IE00BYZTVT56](../../actifs/etf/IE00BYZTVT56.md) | Obligations EUR Investment Grade | 0,12 %/an |
+| iShares € Corp Bond 0-3yr ESG UCITS ETF EUR (Dist) | [IE00BYZTVV78](../../actifs/etf/IE00BYZTVV78.md) | Obligations EUR Court Terme | 0,12 %/an |
+| iShares $ Corp Bond ESG UCITS ETF EUR Hedged (Dist) | [IE00BH4G7D40](../../actifs/etf/IE00BH4G7D40.md) | Obligations USD IG (couvert EUR) | 0,15 %/an |
+| iShares $ Corp Bond 0-3yr ESG UCITS ETF EUR Hedged (Acc) | [IE00BG5QQ390](../../actifs/etf/IE00BG5QQ390.md) | Obligations USD Court Terme (couvert EUR) | 0,15 %/an |
+| iShares € High Yield Corp Bond ESG UCITS ETF EUR (Acc) | [IE00BJK55C48](../../actifs/etf/IE00BJK55C48.md) | Obligations EUR High Yield | 0,25 %/an |
 
 > **Note** : 9 ETF actions + 5 ETF obligations = 14 ETF identifiés dans l'annexe financière. Certaines sources mentionnent 11 ETF effectivement investis (17 en gestion pilotée). La disponibilité peut varier entre gestion libre (~6 trackers) et gestion pilotée.
 

@@ -123,14 +123,14 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
-| iShares MSCI USA ESG Enhanced CTB UCITS ETF EUR Hedged | IE000U7L59A3 | Actions États-Unis ISR (couvert EUR) |
-| iShares S&P 500 Paris-Aligned Climate UCITS ETF | IE00BMXC7V63 | Actions États-Unis ISR |
-| iShares MSCI Europe Paris-Aligned Climate UCITS ETF | IE00BL6K8C82 | Actions Europe ISR |
-| BNP Paribas Easy MSCI EMU SRI 5% Capped UCITS ETF | LU1953137681 | Actions zone Euro ISR |
-| Amundi Index Euro Aggregate SRI UCITS ETF | LU2182388236 | Obligations zone Euro ISR |
-| BNP Paribas Easy EUR Corporate Bond SRI PAB UCITS ETF | LU1859444769 | Obligations entreprises EUR ISR |
-| iShares Global Corp Bond UCITS ETF EUR Hedged | IE000PLCL3C9 | Obligations entreprises Monde (couvert EUR) |
-| BNP Paribas Easy USD Corp Bond SRI Fossil Free UCITS ETF | LU3000546336 | Obligations entreprises USD ISR (couvert EUR) |
+| iShares MSCI USA ESG Enhanced CTB UCITS ETF EUR Hedged | [IE000U7L59A3](../../actifs/etf/IE000U7L59A3.md) | Actions États-Unis ISR (couvert EUR) |
+| iShares S&P 500 Paris-Aligned Climate UCITS ETF | [IE00BMXC7V63](../../actifs/etf/IE00BMXC7V63.md) | Actions États-Unis ISR |
+| iShares MSCI Europe Paris-Aligned Climate UCITS ETF | [IE00BL6K8C82](../../actifs/etf/IE00BL6K8C82.md) | Actions Europe ISR |
+| BNP Paribas Easy MSCI EMU SRI 5% Capped UCITS ETF | [LU1953137681](../../actifs/etf/LU1953137681.md) | Actions zone Euro ISR |
+| Amundi Index Euro Aggregate SRI UCITS ETF | [LU2182388236](../../actifs/etf/LU2182388236.md) | Obligations zone Euro ISR |
+| BNP Paribas Easy EUR Corporate Bond SRI PAB UCITS ETF | [LU1859444769](../../actifs/etf/LU1859444769.md) | Obligations entreprises EUR ISR |
+| iShares Global Corp Bond UCITS ETF EUR Hedged | [IE000PLCL3C9](../../actifs/etf/IE000PLCL3C9.md) | Obligations entreprises Monde (couvert EUR) |
+| BNP Paribas Easy USD Corp Bond SRI Fossil Free UCITS ETF | [LU3000546336](../../actifs/etf/LU3000546336.md) | Obligations entreprises USD ISR (couvert EUR) |
 
 [liste partielle — ETF sous-jacents susceptibles de changer lors des réallocations]
 

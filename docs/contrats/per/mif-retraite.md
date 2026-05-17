@@ -128,12 +128,12 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | Frais spécifiques |
 |---|---|---|---|
-| Amundi CAC 40 UCITS ETF Acc | FR0013380607 | Actions France | 0,25 %/an, Article 6 |
-| Amundi EUROSTOXX 50 II UCITS ETF Acc | FR0007054358 | Actions Zone Euro | 0,20 %/an, Article 6, SRI 5 |
-| iShares Core S&P 500 UCITS ETF | IE00B5BMR087 | Actions États-Unis | 0,07 %/an, Article 6, SRI 4 |
-| iShares Core MSCI World UCITS ETF | IE00B4L5Y983 | Actions International | 0,20 %/an, Article 6, SRI 3 |
-| BNP Paribas Easy CAC 40 ESG UCITS ETF | FR0010150458 | Actions France ESG | 0,25 %/an, Article 8 |
-| Amundi MSCI Water ESG Screened UCITS ETF Dist | FR0010527275 | Actions Thématique Eau | 0,60 %/an, Article 8 |
+| Amundi CAC 40 UCITS ETF Acc | [FR0013380607](../../actifs/etf/FR0013380607.md) | Actions France | 0,25 %/an, Article 6 |
+| Amundi EUROSTOXX 50 II UCITS ETF Acc | [FR0007054358](../../actifs/etf/FR0007054358.md) | Actions Zone Euro | 0,20 %/an, Article 6, SRI 5 |
+| iShares Core S&P 500 UCITS ETF | [IE00B5BMR087](../../actifs/etf/IE00B5BMR087.md) | Actions États-Unis | 0,07 %/an, Article 6, SRI 4 |
+| iShares Core MSCI World UCITS ETF | [IE00B4L5Y983](../../actifs/etf/IE00B4L5Y983.md) | Actions International | 0,20 %/an, Article 6, SRI 3 |
+| BNP Paribas Easy CAC 40 ESG UCITS ETF | [FR0010150458](../../actifs/etf/FR0010150458.md) | Actions France ESG | 0,25 %/an, Article 8 |
+| Amundi MSCI Water ESG Screened UCITS ETF Dist | [FR0010527275](../../actifs/etf/FR0010527275.md) | Actions Thématique Eau | 0,60 %/an, Article 8 |
 | [ETF à identifier] | [ISIN à compléter] | [à compléter] | [à compléter] |
 
 ## Liste des SCPI disponibles

@@ -105,7 +105,7 @@ derniere-mise-a-jour: 2026-05-16
 <!-- Source : https://www.placement-direct.fr/actualites/un-tour-du-monde-dopportunites-avec-les-fonds-indiciels-trackers -->
 <!-- Source : https://www.placement-direct.fr/guides-epargne/etf-assurance-vie -->
 
-> [liste complète — 58 ETF identifiés via la liste officielle SwissLife des UC Darjeeling/Placement-direct (mars 2022, 59 ETF dont 1 déréférencé : Lyxor MSCI Russia LU1923627092, sanctions 2022) — noms Lyxor mis à jour vers Amundi post-fusion 2023 — le contrat annonce 57 ETF, le delta s'explique par des ajouts/retraits depuis mars 2022]
+> [liste complète — 58 ETF identifiés via la liste officielle SwissLife des UC Darjeeling/Placement-direct (mars 2022, 59 ETF dont 1 déréférencé : Lyxor MSCI Russia [LU1923627092](../../actifs/etf/LU1923627092.md), sanctions 2022) — noms Lyxor mis à jour vers Amundi post-fusion 2023 — le contrat annonce 57 ETF, le delta s'explique par des ajouts/retraits depuis mars 2022]
 
 - Frais de transaction ETF : 0,10 % (entrée et sortie)
 - Frais de gestion annuels UC : 0,60 %
@@ -116,154 +116,154 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Euro Overnight Return UCITS ETF Acc | FR0010510800 | Monétaire EUR (ESTR) | 0,15 %/an |
+| Amundi Euro Overnight Return UCITS ETF Acc | [FR0010510800](../../actifs/etf/FR0010510800.md) | Monétaire EUR (ESTR) | 0,15 %/an |
 
 ### ETF Obligations Emprunts d'État EUR
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Euro Govt Bond 1-3Y UCITS ETF Acc | LU1650487413 | Obligations État EUR 1-3 ans | 0,17 %/an |
-| Amundi Euro Govt Bond 3-5Y UCITS ETF Acc | LU1650488494 | Obligations État EUR 3-5 ans | 0,17 %/an |
-| Amundi Euro Govt Bond 5-7Y UCITS ETF Acc | LU1287023003 | Obligations État EUR 5-7 ans | 0,17 %/an |
-| Amundi Euro Govt Bond 7-10Y UCITS ETF Acc | LU1287023185 | Obligations État EUR 7-10 ans | 0,17 %/an |
-| Amundi Euro Govt Bond 10-15Y UCITS ETF Acc | LU1650489385 | Obligations État EUR 10-15 ans | 0,17 %/an |
-| Amundi Euro Govt Bond 15+Y UCITS ETF Acc | LU1287023268 | Obligations État EUR 15+ ans | 0,17 %/an |
-| Amundi Ultra Long Term Euro Govt Bond 25+Y UCITS ETF Acc | LU1686832194 | Obligations État EUR 25+ ans | 0,17 %/an |
+| Amundi Euro Govt Bond 1-3Y UCITS ETF Acc | [LU1650487413](../../actifs/etf/LU1650487413.md) | Obligations État EUR 1-3 ans | 0,17 %/an |
+| Amundi Euro Govt Bond 3-5Y UCITS ETF Acc | [LU1650488494](../../actifs/etf/LU1650488494.md) | Obligations État EUR 3-5 ans | 0,17 %/an |
+| Amundi Euro Govt Bond 5-7Y UCITS ETF Acc | [LU1287023003](../../actifs/etf/LU1287023003.md) | Obligations État EUR 5-7 ans | 0,17 %/an |
+| Amundi Euro Govt Bond 7-10Y UCITS ETF Acc | [LU1287023185](../../actifs/etf/LU1287023185.md) | Obligations État EUR 7-10 ans | 0,17 %/an |
+| Amundi Euro Govt Bond 10-15Y UCITS ETF Acc | [LU1650489385](../../actifs/etf/LU1650489385.md) | Obligations État EUR 10-15 ans | 0,17 %/an |
+| Amundi Euro Govt Bond 15+Y UCITS ETF Acc | [LU1287023268](../../actifs/etf/LU1287023268.md) | Obligations État EUR 15+ ans | 0,17 %/an |
+| Amundi Ultra Long Term Euro Govt Bond 25+Y UCITS ETF Acc | [LU1686832194](../../actifs/etf/LU1686832194.md) | Obligations État EUR 25+ ans | 0,17 %/an |
 
 ### ETF Obligations Emprunts d'État USD
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi US Treasury 7-10Y UCITS ETF DR USD Acc | LU1681040652 | Obligations État US 7-10 ans | 0,07 %/an |
-| Amundi US Treasury 10+Y UCITS ETF DR Dist | LU1407890620 | Obligations État US 10+ ans | 0,07 %/an |
+| Amundi US Treasury 7-10Y UCITS ETF DR USD Acc | [LU1681040652](../../actifs/etf/LU1681040652.md) | Obligations État US 7-10 ans | 0,07 %/an |
+| Amundi US Treasury 10+Y UCITS ETF DR Dist | [LU1407890620](../../actifs/etf/LU1407890620.md) | Obligations État US 10+ ans | 0,07 %/an |
 
 ### ETF Obligations Indexées Inflation
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Euro Govt Inflation-Linked Bond UCITS ETF Acc | LU1650491282 | Obligations État EUR indexées inflation | 0,20 %/an |
+| Amundi Euro Govt Inflation-Linked Bond UCITS ETF Acc | [LU1650491282](../../actifs/etf/LU1650491282.md) | Obligations État EUR indexées inflation | 0,20 %/an |
 
 ### ETF Obligations Diversifiées Court Terme
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi EUR Floating Rate Corporate Bond ESG UCITS ETF Acc | LU1681041114 | Obligations corp. EUR taux variable | 0,11 %/an |
+| Amundi EUR Floating Rate Corporate Bond ESG UCITS ETF Acc | [LU1681041114](../../actifs/etf/LU1681041114.md) | Obligations corp. EUR taux variable | 0,11 %/an |
 
 ### ETF Obligations Haut Rendement
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Euro High Yield Bond ESG UCITS ETF Acc | LU1681040496 | Obligations High Yield EUR ESG | 0,33 %/an |
-| Amundi ESG Euro High Yield UCITS ETF Cap | LU2344257310 | Obligations High Yield EUR ESG | 0,30 %/an |
-| Amundi iBoxx EUR Liquid High Yield BB UCITS ETF Acc | LU1215415214 | Obligations High Yield EUR BB | 0,35 %/an |
+| Amundi Euro High Yield Bond ESG UCITS ETF Acc | [LU1681040496](../../actifs/etf/LU1681040496.md) | Obligations High Yield EUR ESG | 0,33 %/an |
+| Amundi ESG Euro High Yield UCITS ETF Cap | LU2344257310 [à vérifier] | Obligations High Yield EUR ESG | 0,30 %/an |
+| Amundi iBoxx EUR Liquid High Yield BB UCITS ETF Acc | [LU1215415214](../../actifs/etf/LU1215415214.md) | Obligations High Yield EUR BB | 0,35 %/an |
 
 ### ETF Obligations Entreprises EUR
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi ESG Euro Corporate Bond UCITS ETF Acc | LU1829218822 | Obligations corp. EUR ESG (ISR) | 0,20 %/an |
-| Amundi ESG Euro Corporate Bond UCITS ETF Acc | LU1829219127 | Obligations corp. EUR ESG (ISR) | 0,14 %/an |
+| Amundi ESG Euro Corporate Bond UCITS ETF Acc | [LU1829218822](../../actifs/etf/LU1829218822.md) | Obligations corp. EUR ESG (ISR) | 0,20 %/an |
+| Amundi ESG Euro Corporate Bond UCITS ETF Acc | [LU1829219127](../../actifs/etf/LU1829219127.md) | Obligations corp. EUR ESG (ISR) | 0,14 %/an |
 
 ### ETF Obligations Marchés Émergents
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Global Emerging Bond Markit iBoxx UCITS ETF Acc | LU1681041205 | Obligations émergents | 0,23 %/an |
+| Amundi Global Emerging Bond Markit iBoxx UCITS ETF Acc | [LU1681041205](../../actifs/etf/LU1681041205.md) | Obligations émergents | 0,23 %/an |
 
 ### ETF Anticipations d'Inflation / Gestion Alternative
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi ETF iStoxx Europe Multi-Factor Market Neutral | FR0011284304 | Gestion alternative multi-facteur | 0,55 %/an |
-| Amundi EUR 2-10Y Inflation Expectations UCITS ETF Acc | LU1390062245 | Anticipations inflation EUR | 0,25 %/an |
+| Amundi ETF iStoxx Europe Multi-Factor Market Neutral | [FR0011284304](../../actifs/etf/FR0011284304.md) | Gestion alternative multi-facteur | 0,55 %/an |
+| Amundi EUR 2-10Y Inflation Expectations UCITS ETF Acc | [LU1390062245](../../actifs/etf/LU1390062245.md) | Anticipations inflation EUR | 0,25 %/an |
 
 ### ETF Actions Monde
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi MSCI World UCITS ETF Acc | FR0014003IY1 | Actions Monde | 0,30 %/an |
+| Amundi MSCI World UCITS ETF Acc | [FR0014003IY1](../../actifs/etf/FR0014003IY1.md) | Actions Monde | 0,30 %/an |
 
 ### ETF Actions France
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi CAC 40 UCITS ETF Acc | FR0013380607 | Actions France (CAC 40) | 0,25 %/an |
+| Amundi CAC 40 UCITS ETF Acc | [FR0013380607](../../actifs/etf/FR0013380607.md) | Actions France (CAC 40) | 0,25 %/an |
 
 ### ETF Actions Zone Euro
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Euro Stoxx 50 UCITS ETF Acc | FR0007054358 | Actions Zone Euro (Euro Stoxx 50) | 0,20 %/an |
-| Amundi MSCI EMU Growth UCITS ETF Dist | LU1598688189 | Actions Zone Euro Croissance | 0,40 %/an |
-| Amundi MSCI EMU Value UCITS ETF Dist | LU1598690169 | Actions Zone Euro Value | 0,40 %/an |
-| Amundi MSCI EMU Small Cap UCITS ETF Dist | LU1598689153 | Actions Zone Euro Petites cap. | 0,40 %/an |
+| Amundi Euro Stoxx 50 UCITS ETF Acc | [FR0007054358](../../actifs/etf/FR0007054358.md) | Actions Zone Euro (Euro Stoxx 50) | 0,20 %/an |
+| Amundi MSCI EMU Growth UCITS ETF Dist | [LU1598688189](../../actifs/etf/LU1598688189.md) | Actions Zone Euro Croissance | 0,40 %/an |
+| Amundi MSCI EMU Value UCITS ETF Dist | [LU1598690169](../../actifs/etf/LU1598690169.md) | Actions Zone Euro Value | 0,40 %/an |
+| Amundi MSCI EMU Small Cap UCITS ETF Dist | [LU1598689153](../../actifs/etf/LU1598689153.md) | Actions Zone Euro Petites cap. | 0,40 %/an |
 
 ### ETF Actions Europe
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi Stoxx Europe 600 UCITS ETF Acc | LU0908500753 | Actions Europe | 0,07 %/an |
-| Amundi STOXX Europe Select Dividend 30 UCITS ETF Dist | LU1812092168 | Actions Europe Dividendes | 0,30 %/an |
+| Amundi Stoxx Europe 600 UCITS ETF Acc | [LU0908500753](../../actifs/etf/LU0908500753.md) | Actions Europe | 0,07 %/an |
+| Amundi STOXX Europe Select Dividend 30 UCITS ETF Dist | [LU1812092168](../../actifs/etf/LU1812092168.md) | Actions Europe Dividendes | 0,30 %/an |
 
 ### ETF Actions Europe Zones Particulières
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi MSCI Nordic UCITS ETF Acc | LU1681044447 | Actions Nordiques | 0,15 %/an |
-| Amundi DAX UCITS ETF Acc | LU0252633754 | Actions Allemagne (DAX) | 0,15 %/an |
+| Amundi MSCI Nordic UCITS ETF Acc | [LU1681044647](../../actifs/etf/LU1681044647.md) | Actions Nordiques | 0,15 %/an |
+| Amundi DAX UCITS ETF Acc | [LU0252633754](../../actifs/etf/LU0252633754.md) | Actions Allemagne (DAX) | 0,15 %/an |
 
 ### ETF Actions États-Unis
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi S&P 500 UCITS ETF Acc | LU1135865084 | Actions US (S&P 500) | 0,09 %/an |
-| Amundi DJ Industrial Average UCITS ETF Dist | FR0007056841 | Actions US (Dow Jones) | 0,50 %/an |
+| Amundi S&P 500 UCITS ETF Acc | [LU1135865084](../../actifs/etf/LU1135865084.md) | Actions US (S&P 500) | 0,09 %/an |
+| Amundi DJ Industrial Average UCITS ETF Dist | [FR0007056841](../../actifs/etf/FR0007056841.md) | Actions US (Dow Jones) | 0,50 %/an |
 | Amundi Nasdaq-100 UCITS ETF Acc | LU1829221028 | Actions US (Nasdaq-100) | 0,22 %/an |
 
 ### ETF Actions Japon
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi MSCI Japan ESG Leaders Extra UCITS ETF Acc | LU1646339452 | Actions Japon ESG | 0,25 %/an |
+| Amundi MSCI Japan ESG Leaders Extra UCITS ETF Acc | [LU1646339452](../../actifs/etf/LU1646339452.md) | Actions Japon ESG | 0,25 %/an |
 
 ### ETF Actions Émergents & Régions
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi MSCI Emerging Markets UCITS ETF Acc | FR0010429068 | Actions Émergents | 0,55 %/an |
-| Amundi MSCI Brazil UCITS ETF Acc | LU1900066207 | Actions Brésil | 0,65 %/an |
-| Amundi MSCI China ESG Leaders Extra UCITS ETF Acc | LU1900068914 | Actions Chine ESG | 0,65 %/an |
-| Amundi MSCI India UCITS ETF Acc | FR0010361683 | Actions Inde | 0,85 %/an |
-| Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc | LU1900068328 | Actions Asie-Pacifique hors Japon | 0,60 %/an |
-| Amundi S&P/ASX 200 UCITS ETF Dist | LU0496786905 | Actions Australie | 0,40 %/an |
-| Amundi MSCI EM Latin America UCITS ETF Acc | LU1900066629 | Actions Amérique Latine | 0,65 %/an |
+| Amundi MSCI Emerging Markets UCITS ETF Acc | [FR0010429068](../../actifs/etf/FR0010429068.md) | Actions Émergents | 0,55 %/an |
+| Amundi MSCI Brazil UCITS ETF Acc | [LU1900066207](../../actifs/etf/LU1900066207.md) | Actions Brésil | 0,65 %/an |
+| Amundi MSCI China ESG Leaders Extra UCITS ETF Acc | [LU1900068914](../../actifs/etf/LU1900068914.md) | Actions Chine ESG | 0,65 %/an |
+| Amundi MSCI India UCITS ETF Acc | [FR0010361683](../../actifs/etf/FR0010361683.md) | Actions Inde | 0,85 %/an |
+| Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc | [LU1900068328](../../actifs/etf/LU1900068328.md) | Actions Asie-Pacifique hors Japon | 0,60 %/an |
+| Amundi S&P/ASX 200 UCITS ETF Dist | [LU0496786905](../../actifs/etf/LU0496786905.md) | Actions Australie | 0,40 %/an |
+| Amundi MSCI EM Latin America UCITS ETF Acc | [LU1900066629](../../actifs/etf/LU1900066629.md) | Actions Amérique Latine | 0,65 %/an |
 
 ### ETF Actions Sectoriels
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi S&P Global Luxury UCITS ETF Acc | LU1681048630 | Luxe mondial | 0,15 %/an |
-| Amundi STOXX Europe 600 Personal & Household Goods UCITS ETF | LU1834988351 | Biens de conso. Europe | 0,30 %/an |
-| Amundi STOXX Euro 600 Automobiles & Parts UCITS ETF | LU1834983394 | Automobile Europe | 0,30 %/an |
-| Amundi MSCI World Telecom Services UCITS ETF Acc | LU0533034129 | Télécoms mondial | 0,30 %/an |
-| Amundi MSCI World Energy UCITS ETF Acc | LU0533032420 | Énergie mondial | 0,30 %/an |
-| Amundi STOXX Europe 600 Oil & Gas UCITS ETF Acc | LU1834988278 | Pétrole & Gaz Europe | 0,30 %/an |
-| Amundi MSCI New Energy ESG Screened UCITS ETF Acc | FR0014002CG3 | Énergies nouvelles ESG | 0,60 %/an |
-| Amundi Euro Stoxx Banks UCITS ETF Acc | LU1829219390 | Banques Zone Euro | 0,30 %/an |
-| Amundi STOXX Europe 600 Real Estate UCITS ETF Dist | LU1812091194 | Immobilier Europe | 0,30 %/an |
-| Amundi FTSE EPRA/NAREIT Global Developed UCITS ETF Dist | LU1832418773 | Immobilier mondial | 0,45 %/an |
-| Amundi MSCI Water ESG Screened UCITS ETF Acc | FR0011882364 | Eau mondial (infrastructure) | 0,60 %/an |
-| Amundi MSCI World Industrials UCITS ETF Acc | LU0533033402 | Industrie mondial | 0,30 %/an |
-| Amundi NYSE Arca Gold BUGS UCITS ETF Acc | LU0488317701 | Mines d'or | 0,65 %/an |
-| Amundi MSCI World Health Care UCITS ETF Acc | LU0533033238 | Santé mondial | 0,30 %/an |
-| Amundi Stoxx Global Artificial Intelligence UCITS ETF Acc | LU1861132840 | Intelligence artificielle | 0,25 %/an |
-| Amundi MSCI World Information Technology UCITS ETF Acc | LU0533033667 | Technologies mondial | 0,30 %/an |
+| Amundi S&P Global Luxury UCITS ETF Acc | [LU1681048630](../../actifs/etf/LU1681048630.md) | Luxe mondial | 0,15 %/an |
+| Amundi STOXX Europe 600 Personal & Household Goods UCITS ETF | [LU1834988351](../../actifs/etf/LU1834988351.md) | Biens de conso. Europe | 0,30 %/an |
+| Amundi STOXX Euro 600 Automobiles & Parts UCITS ETF | [LU1834983394](../../actifs/etf/LU1834983394.md) | Automobile Europe | 0,30 %/an |
+| Amundi MSCI World Telecom Services UCITS ETF Acc | [LU0533034129](../../actifs/etf/LU0533034129.md) | Télécoms mondial | 0,30 %/an |
+| Amundi MSCI World Energy UCITS ETF Acc | [LU0533032420](../../actifs/etf/LU0533032420.md) | Énergie mondial | 0,30 %/an |
+| Amundi STOXX Europe 600 Oil & Gas UCITS ETF Acc | [LU1834988278](../../actifs/etf/LU1834988278.md) | Pétrole & Gaz Europe | 0,30 %/an |
+| Amundi MSCI New Energy ESG Screened UCITS ETF Acc | [FR0014002CG3](../../actifs/etf/FR0014002CG3.md) | Énergies nouvelles ESG | 0,60 %/an |
+| Amundi Euro Stoxx Banks UCITS ETF Acc | [LU1829219390](../../actifs/etf/LU1829219390.md) | Banques Zone Euro | 0,30 %/an |
+| Amundi STOXX Europe 600 Real Estate UCITS ETF Dist | [LU1812091194](../../actifs/etf/LU1812091194.md) | Immobilier Europe | 0,30 %/an |
+| Amundi FTSE EPRA/NAREIT Global Developed UCITS ETF Dist | [LU1832418773](../../actifs/etf/LU1832418773.md) | Immobilier mondial | 0,45 %/an |
+| Amundi MSCI Water ESG Screened UCITS ETF Acc | [FR0011882364](../../actifs/etf/FR0011882364.md) | Eau mondial (infrastructure) | 0,60 %/an |
+| Amundi MSCI World Industrials UCITS ETF Acc | [LU0533033402](../../actifs/etf/LU0533033402.md) | Industrie mondial | 0,30 %/an |
+| Amundi NYSE Arca Gold BUGS UCITS ETF Acc | [LU0488317701](../../actifs/etf/LU0488317701.md) | Mines d'or | 0,65 %/an |
+| Amundi MSCI World Health Care UCITS ETF Acc | [LU0533033238](../../actifs/etf/LU0533033238.md) | Santé mondial | 0,30 %/an |
+| Amundi Stoxx Global Artificial Intelligence UCITS ETF Acc | [LU1861132840](../../actifs/etf/LU1861132840.md) | Intelligence artificielle | 0,25 %/an |
+| Amundi MSCI World Information Technology UCITS ETF Acc | [LU0533033667](../../actifs/etf/LU0533033667.md) | Technologies mondial | 0,30 %/an |
 
 ### ETF Inverse
 
 | Nom | ISIN | Catégorie | Frais (TER) |
 |---|---|---|---|
-| Amundi CAC 40 Daily (-2x) Inverse UCITS ETF Acc | FR0010411884 | CAC 40 Inverse x2 | 0,60 %/an |
+| Amundi CAC 40 Daily (-2x) Inverse UCITS ETF Acc | [FR0010411884](../../actifs/etf/FR0010411884.md) | CAC 40 Inverse x2 | 0,60 %/an |
 
 ## Liste des SCPI / SCI / OPCI disponibles
 <!-- Mis à jour : 2026-05-16 -->

@@ -130,23 +130,23 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | Frais spécifiques |
 |---|---|---|---|
-| BNP Paribas Easy S&P 500 UCITS ETF EUR C | FR0011550185 | Actions USA | 0,14 %/an |
-| BNP Paribas Easy S&P 500 ESG UCITS ETF EUR Acc | IE0004J37T45 | Actions USA ESG | 0,12 %/an |
-| BNP Paribas Easy CAC 40 ESG UCITS ETF | FR0010150458 | Actions France ESG | 0,25 %/an |
-| BNP Paribas Easy STOXX Europe 600 UCITS ETF | FR0011550193 | Actions Europe | 0,19 %/an |
-| BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | LU1377382368 | Actions Europe Low Carbon | 0,30 %/an |
-| BNP Paribas Easy MSCI World ESG Filtered Min TE UCITS ETF EUR C | LU2446383171 | Actions Monde ESG | 0,15 %/an |
-| BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped UCITS ETF EUR Acc | LU1615092217 | Actions Monde SRI | 0,25 %/an |
-| BNP Paribas Easy MSCI Europe ESG Filtered Min TE UCITS ETF | LU1291099718 | Actions Europe ESG | 0,15 %/an |
-| BNP Paribas Easy MSCI Europe Small Caps SRI S-Series PAB 5% Capped UCITS ETF | LU1291101555 | Actions Europe Small Caps SRI | 0,25 %/an |
-| BNP Paribas Easy MSCI USA ESG Filtered Min TE UCITS ETF | LU1291104575 | Actions USA ESG | 0,15 %/an |
-| BNP Paribas Easy MSCI Emerging ESG Filtered Min TE UCITS ETF | LU1291097779 | Actions Emergents ESG | 0,27 %/an |
-| BNP Paribas Easy ECPI Global ESG Blue Economy UCITS ETF | LU2194447293 | Actions Monde Thématique | 0,30 %/an |
-| BNP Paribas Easy ECPI Circular Economy Leaders UCITS ETF | LU1953136527 | Actions Monde Thématique | 0,30 %/an |
-| BNP Paribas Easy ECPI Global ESG Infrastructure UCITS ETF | LU1291109293 | Actions Monde Infrastructure | 0,30 %/an |
-| BNP Paribas Easy ECPI Global ESG Hydrogen Economy UCITS ETF | LU2365458145 | Actions Monde Thématique | 0,30 %/an |
-| BNP Paribas Easy ECPI Global ESG Med Tech UCITS ETF | LU2365457410 | Actions Monde Thématique | 0,31 %/an |
-| BNP Paribas Easy € High Yield SRI Fossil Free UCITS ETF EUR Acc | LU2244386053 | Obligations Euro High Yield SRI | 0,25 %/an |
+| BNP Paribas Easy S&P 500 UCITS ETF EUR C | [FR0011550185](../../actifs/etf/FR0011550185.md) | Actions USA | 0,14 %/an |
+| BNP Paribas Easy S&P 500 ESG UCITS ETF EUR Acc | [IE0004J37T45](../../actifs/etf/IE0004J37T45.md) | Actions USA ESG | 0,12 %/an |
+| BNP Paribas Easy CAC 40 ESG UCITS ETF | [FR0010150458](../../actifs/etf/FR0010150458.md) | Actions France ESG | 0,25 %/an |
+| BNP Paribas Easy STOXX Europe 600 UCITS ETF | [FR0011550193](../../actifs/etf/FR0011550193.md) | Actions Europe | 0,19 %/an |
+| BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | [LU1377382368](../../actifs/etf/LU1377382368.md) | Actions Europe Low Carbon | 0,30 %/an |
+| BNP Paribas Easy MSCI World ESG Filtered Min TE UCITS ETF EUR C | [LU2446383171](../../actifs/etf/LU2446383171.md) | Actions Monde ESG | 0,15 %/an |
+| BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped UCITS ETF EUR Acc | [LU1615092217](../../actifs/etf/LU1615092217.md) | Actions Monde SRI | 0,25 %/an |
+| BNP Paribas Easy MSCI Europe ESG Filtered Min TE UCITS ETF | [LU1291099718](../../actifs/etf/LU1291099718.md) | Actions Europe ESG | 0,15 %/an |
+| BNP Paribas Easy MSCI Europe Small Caps SRI S-Series PAB 5% Capped UCITS ETF | [LU1291101555](../../actifs/etf/LU1291101555.md) | Actions Europe Small Caps SRI | 0,25 %/an |
+| BNP Paribas Easy MSCI USA ESG Filtered Min TE UCITS ETF | [LU1291104575](../../actifs/etf/LU1291104575.md) | Actions USA ESG | 0,15 %/an |
+| BNP Paribas Easy MSCI Emerging ESG Filtered Min TE UCITS ETF | [LU1291097779](../../actifs/etf/LU1291097779.md) | Actions Emergents ESG | 0,27 %/an |
+| BNP Paribas Easy ECPI Global ESG Blue Economy UCITS ETF | [LU2194447293](../../actifs/etf/LU2194447293.md) | Actions Monde Thématique | 0,30 %/an |
+| BNP Paribas Easy ECPI Circular Economy Leaders UCITS ETF | [LU1953136527](../../actifs/etf/LU1953136527.md) | Actions Monde Thématique | 0,30 %/an |
+| BNP Paribas Easy ECPI Global ESG Infrastructure UCITS ETF | [LU1291109293](../../actifs/etf/LU1291109293.md) | Actions Monde Infrastructure | 0,30 %/an |
+| BNP Paribas Easy ECPI Global ESG Hydrogen Economy UCITS ETF | [LU2365458145](../../actifs/etf/LU2365458145.md) | Actions Monde Thématique | 0,30 %/an |
+| BNP Paribas Easy ECPI Global ESG Med Tech UCITS ETF | [LU2365457410](../../actifs/etf/LU2365457410.md) | Actions Monde Thématique | 0,31 %/an |
+| BNP Paribas Easy € High Yield SRI Fossil Free UCITS ETF EUR Acc | [LU2244386053](../../actifs/etf/LU2244386053.md) | Obligations Euro High Yield SRI | 0,25 %/an |
 
 ## Liste des SCPI / SCI / OPCI disponibles
 <!-- Mis à jour : 2026-05-16 -->

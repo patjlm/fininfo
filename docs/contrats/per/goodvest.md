@@ -131,11 +131,11 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
-| BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | LU1377382368 | Actions Europe bas carbone | Article 8 |
-| Amundi Index MSCI USA SRI Climate UCITS ETF | IE000R85HL30 | Actions USA ISR | Article 8 |
-| Amundi Index MSCI Emerging Markets SRI PAB UCITS ETF DR (C) | LU1861138961 | Actions Marchés émergents ISR | Article 8 |
-| Amundi MSCI Water ESG Filtered DR UCITS ETF | FR0010527275 | Actions Eau mondial | Article 8 |
-| Amundi Euro Government Green Bond DR UCITS ETF | LU2356220926 | Obligations vertes EUR souveraines | Article 9 |
+| BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | [LU1377382368](../../actifs/etf/LU1377382368.md) | Actions Europe bas carbone | Article 8 |
+| Amundi Index MSCI USA SRI Climate UCITS ETF | [IE000R85HL30](../../actifs/etf/IE000R85HL30.md) | Actions USA ISR | Article 8 |
+| Amundi Index MSCI Emerging Markets SRI PAB UCITS ETF DR (C) | [LU1861138961](../../actifs/etf/LU1861138961.md) | Actions Marchés émergents ISR | Article 8 |
+| Amundi MSCI Water ESG Filtered DR UCITS ETF | [FR0010527275](../../actifs/etf/FR0010527275.md) | Actions Eau mondial | Article 8 |
+| Amundi Euro Government Green Bond DR UCITS ETF | [LU2356220926](../../actifs/etf/LU2356220926.md) | Obligations vertes EUR souveraines | Article 9 |
 | BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped | LU1291108485 | Actions Monde ISR | Article 8 |
 
 ### OPCVM (9)

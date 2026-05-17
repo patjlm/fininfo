@@ -19,6 +19,7 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
 |---|---|---|---|
 | PER | `.tmp/per-data.json` | `docs/contrats/per/` | [contrat-template-per.md](assets/contrat-template-per.md) |
 | Assurance vie | `.tmp/life-insurance-data.json` | `docs/contrats/assurance-vie/` | [contrat-template-av.md](assets/contrat-template-av.md) |
+| PEA | `.tmp/pea-data.json` | `docs/contrats/pea/` | [contrat-template-pea.md](assets/contrat-template-pea.md) |
 
 ## Processus
 
@@ -45,16 +46,29 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
 5. **Rédiger la fiche** en suivant le template du type concerné
 6. **Écrire le fichier** dans le dossier de sortie avec le slug généré
 
-## Différences par type de contrat
+## Spécificités par type de contrat
 
-| Aspect | PER | Assurance vie |
-|---|---|---|
-| Frontmatter `type` | `contrat-per` | `contrat-assurance-vie` |
-| Frais spécifiques | Rente | Frais de rachat |
-| Conditions spécifiques | Transfert entrant/sortant | Rachat partiel, avance, clause bénéficiaire |
-| Section Fiscalité | Non (voir enveloppe) | Oui (avant/après 8 ans, transmission) |
-| Lien enveloppe | `docs/enveloppes/per.md` | `docs/enveloppes/assurance-vie.md` |
-| URL sinvestir | `/les-comparateurs/per` | `/les-comparateurs/assurance-vie` |
+### PER
+- **Frontmatter `type`** : `contrat-per`
+- **Frais spécifiques** : rente
+- **Sections propres** : fonds euros, UC, transfert entrant/sortant
+- **Fiscalité** : non (voir enveloppe `docs/enveloppes/per.md`)
+- **Contraintes clés** : transfert entrant/sortant, gestion pilotée horizon retraite
+
+### Assurance vie
+- **Frontmatter `type`** : `contrat-assurance-vie`
+- **Frais spécifiques** : rachat
+- **Sections propres** : fonds euros, UC, fiscalité (avant/après 8 ans, transmission)
+- **Contraintes clés** : rachat partiel, avance sur contrat, clause bénéficiaire
+
+### PEA
+- **Frontmatter `type`** : `contrat-pea`
+- **Acteur** : courtier (pas d'assureur)
+- **Frais spécifiques** : courtage (grille par palier), change
+- **Sections propres** : produits/fonctionnalités, propriété/transfert, réglementation/IFU
+- **Pas de sections** : fonds euros, UC (remplacées par Produits)
+- **Fiscalité** : non (voir enveloppe `docs/enveloppes/pea.md`)
+- **Contraintes clés** : marchés accessibles, DCA, fractions d'actions, IFU, domiciliation du compte
 
 ## Règles
 

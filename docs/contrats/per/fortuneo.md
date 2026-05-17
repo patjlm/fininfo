@@ -121,17 +121,17 @@ derniere-mise-a-jour: 2026-05-16
 
 | Nom | ISIN | Catégorie | Frais internes |
 |---|---|---|---|
-| Amundi MSCI World II UCITS ETF Dist | FR0010315770 | Actions Monde | 0,30 %/an |
-| Amundi Core S&P 500 Swap UCITS ETF EUR Dist | LU0496786574 | Actions USA | 0,05 %/an |
-| Amundi CAC 40 UCITS ETF Dist | FR0007052782 | Actions France | 0,25 %/an |
-| Amundi EURO STOXX 50 II UCITS ETF Acc | FR0007054358 | Actions Zone Euro | 0,20 %/an |
-| Amundi STOXX Europe 600 ESG UCITS ETF DR EUR (C) | LU1684369710 | Actions Europe | 0,08 %/an |
-| Amundi MSCI Emerging Markets Swap II UCITS ETF EUR Acc | FR0010429068 | Actions Emergents | 0,55 %/an |
-| Amundi Nasdaq-100 II UCITS ETF Acc | LU1829221024 | Actions USA Tech | 0,20 %/an |
-| Amundi MSCI World SRI Climate Net Zero Ambition PAB UCITS ETF EUR Acc | IE000Y77LGG9 | Actions Monde SRI/Climat | 0,08 %/an |
-| Amundi MSCI Water ESG Screened UCITS ETF Dist | FR0010527275 | Actions Monde Thématique Eau | 0,60 %/an |
-| Amundi Global Equity Quality Income UCITS ETF Dist | LU0832436512 | Actions Monde Dividendes | 0,35 %/an |
-| Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc | LU1829218749 | Matières premières | 0,25 %/an |
+| Amundi MSCI World II UCITS ETF Dist | [FR0010315770](../../actifs/etf/FR0010315770.md) | Actions Monde | 0,30 %/an |
+| Amundi Core S&P 500 Swap UCITS ETF EUR Dist | [LU0496786574](../../actifs/etf/LU0496786574.md) | Actions USA | 0,05 %/an |
+| Amundi CAC 40 UCITS ETF Dist | [FR0007052782](../../actifs/etf/FR0007052782.md) | Actions France | 0,25 %/an |
+| Amundi EURO STOXX 50 II UCITS ETF Acc | [FR0007054358](../../actifs/etf/FR0007054358.md) | Actions Zone Euro | 0,20 %/an |
+| Amundi STOXX Europe 600 ESG UCITS ETF DR EUR (C) | [LU1681040223](../../actifs/etf/LU1681040223.md) | Actions Europe | 0,08 %/an |
+| Amundi MSCI Emerging Markets Swap II UCITS ETF EUR Acc | [FR0010429068](../../actifs/etf/FR0010429068.md) | Actions Emergents | 0,55 %/an |
+| Amundi Nasdaq-100 II UCITS ETF Acc | [LU1829221024](../../actifs/etf/LU1829221024.md) | Actions USA Tech | 0,20 %/an |
+| Amundi MSCI World SRI Climate Net Zero Ambition PAB UCITS ETF EUR Acc | [IE000Y77LGG9](../../actifs/etf/IE000Y77LGG9.md) | Actions Monde SRI/Climat | 0,08 %/an |
+| Amundi MSCI Water ESG Screened UCITS ETF Dist | [FR0010527275](../../actifs/etf/FR0010527275.md) | Actions Monde Thématique Eau | 0,60 %/an |
+| Amundi Global Equity Quality Income UCITS ETF Dist | [LU0832436512](../../actifs/etf/LU0832436512.md) | Actions Monde Dividendes | 0,35 %/an |
+| Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc | [LU1829218749](../../actifs/etf/LU1829218749.md) | Matières premières | 0,25 %/an |
 
 - **Frais achat/vente ETF** : 0,10 % par opération (prélevé par Fortuneo en sus des frais internes du fonds)
 - **Frais de gestion UC** : 0,50 %/an en gestion libre (prélevé par l'assureur, s'ajoute aux frais internes)
