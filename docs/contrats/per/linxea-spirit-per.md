@@ -318,6 +318,17 @@ derniere-verification: 2026-05-26
 - **Distinctions** : Meilleur PER 2024, Grand Prix des PER 2025, Prix Étoiles Or ADI 2025, Finance Héros 2025
 - **Services complémentaires** : assurance-vie (Linxea Spirit 2), SCPI en direct, produits structurés, private equity, fonds datés, PEA assurantiel
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 11 février 2026) — données subjectives/éditoriales -->
+
+- Qualifié de « champion historique en gestion libre et pilotée » et de meilleur PER du marché selon ADI
+- Classé 1er ex-aequo dans le comparatif ADI 2026 (avec le Lucya Cardif PER)
+- Reconnu pour sa polyvalence : accessible à tous les profils d'investisseurs, qu'ils privilégient la gestion libre, pilotée ou mixte
+- Mis en avant pour la combinaison fonds euros performant + large choix d'UC (ETF, SCPI, titres vifs) + loyers SCPI reversés à 100 %
+- Seul bémol éditorial ADI : la garantie du fonds euros à 98 % (vs 100 % pour les fonds euros classiques)
+- **Pour qui** : tous les épargnants souhaitant un PER polyvalent et complet, quel que soit leur mode de gestion préféré
+
 ## Sources
 
 - [S'investir — Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
@@ -331,3 +342,4 @@ derniere-verification: 2026-05-26
 - [Linxea — ETF Linxea Spirit PER](https://www.linxea.com/retraite/linxea-spirit-per/supports-disponibles-sur-linxea-spirit-per/trackers-etf/)
 - [Linxea — Fonds immobiliers Spirit PER](https://www.linxea.com/retraite/linxea-spirit-per/supports-disponibles-sur-linxea-spirit-per/fonds-immobiliers-linxea-spirit-per/)
 - [Spirica — Informations financières et solvabilité](https://www.spirica.fr/qui-sommes-nous/informations-financieres/)
+- [Avenue des Investisseurs — Comparatif PER](https://www.avenuedesinvestisseurs.fr/per-plan-epargne-retraite/) (mis à jour 11 février 2026)

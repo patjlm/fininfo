@@ -176,6 +176,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025) — données subjectives/éditoriales -->
+
+- Qualifié de contrat « tout-terrain » de qualité par ADI : bon fonds euros associé à un large choix d'unités de compte pour diversifier
+- Présenté comme une alternative solide à Linxea Spirit 2 ou Linxea Avenir 2 pour les profils souhaitant diversifier leur assurance vie au-delà d'un seul distributeur
+- **Pour qui** : épargnants cherchant à diversifier leur épargne avec un contrat polyvalent (bourse + immobilier), profils souhaitant ouvrir un second contrat complémentaire
+
 - **Note globale** : 4,80/5 (source : sinvestir.fr)
 - **Points forts** :
   - Offre UC très large (plus de 1 300 supports dont 56 ETF, plus de 300 actions en direct)
@@ -196,6 +204,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Placement Direct — Page produit Placement-direct Vie](https://www.placement-direct.fr/assurance-vie/placement-direct-vie)
 - [Placement Direct — Allocation libre (supports disponibles)](https://www.placement-direct.fr/assurance-vie/placement-direct-vie/allocation-libre)
 - [Placement Direct — Allocation déléguée (gestion pilotée, performances)](https://www.placement-direct.fr/assurance-vie/placement-direct-vie/allocation-deleguee)

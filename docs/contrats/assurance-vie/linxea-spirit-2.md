@@ -302,6 +302,16 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025 pour le comparatif général, 14 avril 2026 pour le comparatif AV-SCPI) — données subjectives/éditoriales -->
+
+- Considéré comme le contrat de référence pour l'investissement immobilier en assurance vie : meilleur choix du marché selon ADI pour les SCPI/SCI
+- Très recommandé aussi pour la gestion libre en bourse (ETF, fonds, titres vifs)
+- Avantage central pour les SCPI : 100 % des loyers reversés et liquidité garantie par l'assureur
+- Contrainte à noter : limite à 50 % du versement en SCPI (contournable par deux versements successifs), selon ADI
+- **Pour qui** : épargnants cherchant une exposition immobilière diversifiée via assurance vie, investisseurs en gestion libre en bourse, profils dynamiques ou intermédiaires
+
 - **Note globale** : 4,95/5 (source : sinvestir.fr)
 - **Points forts** :
   - Frais de gestion UC parmi les plus bas du marché (0,50 % / an)
@@ -321,6 +331,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
+- [Avenue des Investisseurs — Meilleures AV pour SCPI](https://www.avenuedesinvestisseurs.fr/meilleure-assurance-vie-scpi-comparatif/) (mis à jour 14 avril 2026)
 - [Linxea — Page produit Linxea Spirit 2](https://www.linxea.com/assurance-vie/linxea-spirit-2/)
 - [Linxea — Supports disponibles Linxea Spirit 2](https://www.linxea.com/assurance-vie/linxea-spirit-2/supports-disponibles-sur-linxea-spirit-2/)
 - [Linxea — ETF disponibles](https://www.linxea.com/assurance-vie/linxea-spirit-2/supports-disponibles-sur-linxea-spirit-2/trackers-etf/)

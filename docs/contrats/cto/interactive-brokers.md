@@ -3,7 +3,7 @@ nom: Interactive Brokers
 type: contrat-cto
 slug: interactive-brokers
 courtier: Interactive Brokers
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Interactive Brokers — Compte-Titres
@@ -96,7 +96,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : 3/5 *(source : sinvestir)*
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,83/5 *(source : sinvestir)*
 - **Points forts** :
@@ -115,6 +115,15 @@ derniere-verification: 2026-05-17
   - Frais de change minimum 2 USD
 - **Services complémentaires** : PEA, outils de trading avancés, rapports ESG, PortfolioAnalyst, programme de prêt de titres (Stock Yield Enhancement Program)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- Exclu du comparatif CTO principal d'ADI en raison de l'absence d'IFU, du service client anglophone et de la complexité de la plateforme
+- Positionné explicitement par ADI comme un courtier **"à réserver aux investisseurs les plus avertis et aux professionnels"**
+- Non recommandé pour les investisseurs particuliers français cherchant simplicité administrative et accompagnement francophone
+- **Pour qui** : investisseurs professionnels ou très expérimentés, notamment ceux opérant sur des marchés non-européens, ayant besoin d'un accès à 160+ places boursières et qui acceptent de gérer eux-mêmes leur fiscalité française
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -129,3 +138,4 @@ derniere-verification: 2026-05-17
 - [Interactive Brokers — Déclarations fiscales](https://www.interactivebrokers.co.uk/fr/trading/tax-reporting.php)
 - [Interactive Brokers — Liste des bourses](https://www.interactivebrokers.co.uk/fr/?f=6651)
 - [Trustpilot — Interactive Brokers](https://www.trustpilot.com/review/interactivebrokers.com)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

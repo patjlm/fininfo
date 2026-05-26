@@ -3,7 +3,7 @@ nom: Trade Republic
 type: contrat-pea
 slug: trade-republic
 courtier: Trade Republic
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Trade Republic — PEA
@@ -129,7 +129,18 @@ derniere-verification: 2026-05-16
   - Titres non négociables chez Trade Republic doivent être vendus avant transfert
 - **Services complémentaires** : CTO, compte courant rémunéré (taux BCE), carte bancaire gratuite, Saveback (1 % sur les dépenses par carte), Round up (arrondi à l'euro supérieur investi automatiquement), crypto, obligations, marchés privés
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 26 mars 2026) — données subjectives/éditoriales -->
+
+- ADI reconnaît l'attrait de Trade Republic (frais compétitifs, app fluide, plans d'épargne gratuits) mais recommande d'attendre un recul supplémentaire avant de l'élever au rang de référence principale
+- Atouts soulignés : 1 EUR par ordre, plans d'épargne gratuits, expérience mobile soignée, PEA Jeunes disponible (atout pour les 18-25 ans)
+- Réserves : PEA très récent (lancé en 2025), service client difficile à joindre, expérience desktop limitée, pas encore de recul suffisant sur la fiabilité à long terme
+- Qualifié d'"intrigant" mais pas encore retenu en recommandation principale face à Fortuneo pour les investisseurs privilégiant la stabilité
+- **Pour qui** : jeunes investisseurs (18-25 ans) souhaitant débuter facilement en bourse sur mobile avec des petits montants et des plans d'épargne automatisés ; aussi adapté aux investisseurs mobil-first acceptant une moindre maturité de l'offre PEA
+
 ## Sources
 
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
+- [Avenue des Investisseurs — Comparatif PEA Fortuneo vs Trade Republic](https://avenuedesinvestisseurs.fr/comparatif-pea-fortuneo-trade-republic/)
 - [Trade Republic — PEA](https://traderepublic.com/fr-fr/pea)

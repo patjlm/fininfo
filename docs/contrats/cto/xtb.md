@@ -3,7 +3,7 @@ nom: XTB
 type: contrat-cto
 slug: xtb
 courtier: XTB
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # XTB — Compte-Titres
@@ -89,7 +89,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,08/5
 - **Points forts** :
@@ -109,6 +109,15 @@ derniere-verification: 2026-05-17
   - Crypto uniquement via CFD (pas de détention directe)
 - **Services complémentaires** : PEA, outils d'analyse de marché, contenus pédagogiques (cours et webinaires), news en temps réel
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- ADI mentionne XTB comme un courtier apparu récemment sur le marché français, mais le juge **"moins adapté au grand public"**
+- Principales réserves éditoriales : la cohabitation des CFD et des actifs réels dans la même interface est source de confusion pour les investisseurs particuliers non avertis, et l'interface est jugée plus complexe que la moyenne
+- Note : ADI mentionne l'absence d'IFU comme critique, mais XTB fournit bien un IFU pour les résidents fiscaux français — cette affirmation ADI est à prendre avec recul
+- **Pour qui** : investisseurs déjà familiers avec les plateformes de trading, conscients de la distinction entre CFD et investissement réel, souhaitant profiter des 0 % de commissions sur actions/ETF jusqu'à 100 000 EUR/mois — moins adapté aux débutants qui pourraient confondre CFD et investissement direct
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -119,3 +128,4 @@ derniere-verification: 2026-05-17
 - [XTB — Protection des fonds clients](https://www.xtb.com/fr/formation/protection-fonds-clients)
 - [XTB — Régulation](https://www.xtb.com/fr/formation/xtb-regule)
 - [XTB — Table des frais et commissions (PDF)](https://xtb.scdn5.secure.raxcdn.com/file/0103/39/Table_des_frais_et_commissions_783a56ebd4.pdf)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

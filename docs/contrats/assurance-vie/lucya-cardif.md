@@ -139,6 +139,16 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025) — données subjectives/éditoriales -->
+
+- L'un des meilleurs contrats pour la gestion libre en bourse selon ADI : large offre d'ETF, de fonds et de titres vifs
+- Fonds euro bien noté par ADI pour sa rémunération compétitive
+- Particularité exclusive : accepte les US Persons (doubles nationaux franco-américains), ce qui en fait souvent le seul choix disponible pour ce profil
+- ADI signale un service client parfois difficile à joindre comme principal point faible
+- **Pour qui** : investisseurs souhaitant gérer librement un portefeuille diversifié en bourse, US Persons, profils cherchant un maximum de supports disponibles
+
 - **Note globale** : 4,65/5 (source : sinvestir.fr)
 - **Points forts** :
   - Un des meilleurs contrats pour la gestion en ETF (~80 ETF disponibles)
@@ -161,6 +171,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Lucya — Page produit Lucya Cardif](https://www.lucya.com/lucya-cardif/)
 - [Lucya — Comparateur des contrats](https://www.lucya.com/comparer-nos-assurances-vie-lucya/)
 - [Lucya — Gestion déléguée](https://www.lucya.com/gestion-deleguee/)

@@ -3,7 +3,7 @@ nom: Trade Republic
 type: contrat-cto
 slug: trade-republic
 courtier: Trade Republic
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Trade Republic — Compte-Titres
@@ -88,7 +88,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,75/5
 - **Points forts** :
@@ -108,6 +108,16 @@ derniere-verification: 2026-05-17
   - Anciens clients (pré-2025) encore sur IBAN allemand — déclaration de compte étranger nécessaire
 - **Services complémentaires** : PEA (sans commission sur plans d'épargne), compte courant rémunéré, carte bancaire, Saveback (1 % réinvesti), Round up (arrondis investis)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- Classé dans le top 3 du comparatif CTO ADI pour ses tarifs ultra-bas
+- Reconnu pour l'innovation et la compétitivité tarifaire (1 EUR par ordre, 0 EUR en DCA)
+- Principal bémol éditorial : le service client jugé insuffisant au regard de la masse de clients — difficile d'obtenir de l'aide en cas de problème
+- Le fait de ne plus fournir d'IFU pour les clients antérieurs à janvier 2025 (IBAN allemand) est pointé comme un inconvénient administratif significatif
+- **Pour qui** : investisseurs autonomes, peu dépendants du service client, convaincus par le DCA passif à très faible coût — moins adapté à ceux qui ont besoin d'accompagnement ou qui gèrent des situations fiscales complexes
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -120,3 +130,4 @@ derniere-verification: 2026-05-17
 - [Trade Republic — Types d'ordres (Support)](https://support.traderepublic.com/fr-fr/689-What-order-types-are-offered)
 - [Trade Republic — Propriété des titres (Support)](https://support.traderepublic.com/fr-fr/333-Suis_je-propri%C3%A9taire-des-titres-)
 - [Trade Republic — IFU (Support)](https://support.traderepublic.com/fr-fr/3256-Imprim%C3%A9-Fiscal-Unique-(IFU))
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

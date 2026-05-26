@@ -338,6 +338,15 @@ derniere-verification: 2026-05-26
   - Trophée d'or Le Revenu -- meilleur PER en ligne (octobre 2025)
   - Sélection Premium Good Value for Money (84 %, juin 2025)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 11 février 2026) — données subjectives/éditoriales -->
+
+- Classé 5e dans le comparatif ADI, reconnu pour ses « belles qualités » notamment en gestion libre en UC
+- Apprécié pour sa vaste gamme de supports (plus de 1 000 UC) incluant ETF et supports immobiliers diversifiés
+- Recommandé aux épargnants ayant une appétence pour la gestion libre en unités de compte
+- **Pour qui** : investisseurs autonomes souhaitant un large catalogue d'UC avec une gestion libre, à l'aise avec la condition de part d'UC pour optimiser le rendement du fonds euros
+
 ## Sources
 
 - [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
@@ -354,3 +363,4 @@ derniere-verification: 2026-05-26
 - [SwissLife -- Listes UC des contrats](https://www.swisslife.fr/home/assurance-vie-vos-informations-cles/Liste-des-unites-de-compte-commune-aux-contrats-epargne-et-retraite-de-Swiss-Life.html)
 - [SwissLife -- Liste UC Darjeeling (mars 2022, PDF)](https://www.swisslife.fr/content/dam/france/dici-des-opc/Liste%20UC%20-%20Darjeeling%20032022.pdf)
 - [Enveloppe PER -- Règles générales](../../enveloppes/per.md)
+- [Avenue des Investisseurs — Comparatif PER](https://www.avenuedesinvestisseurs.fr/per-plan-epargne-retraite/) (mis à jour 11 février 2026)

@@ -3,7 +3,7 @@ nom: Saxo Banque
 type: contrat-cto
 slug: saxo-banque
 courtier: Saxo Banque
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Saxo Banque — Compte-Titres
@@ -106,7 +106,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,53/5
 - **Points forts** :
@@ -126,6 +126,16 @@ derniere-verification: 2026-05-17
   - Service client avec temps d'attente important au téléphone
 - **Services complémentaires** : PEA + PEA-PME, SRD, screeners et listes de favoris, notifications d'actualités marchés, tableau de bord personnalisable (graphiques et tableaux), service Saxo Elite pour portefeuilles > 5 M EUR
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- Classé **n°1** du comparatif CTO ADI avec le label **"meilleur rapport qualité/prix"**
+- Recommandé pour les investisseurs souhaitant centraliser bourse, investissement programmé et accès international dans un courtier fiable avec service client de qualité
+- Apprécié pour la combinaison rare : frais compétitifs + IFU fourni + service client réputé
+- L'un des rares courtiers spécialisés à fournir l'IFU, ce qui simplifie nettement la déclaration fiscale
+- **Pour qui** : investisseurs à la recherche du meilleur rapport qualité/prix global — particulièrement ceux valorisant la fiabilité administrative (IFU, régulation française) et souhaitant automatiser leur épargne (investissement programmé gratuit)
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -136,3 +146,4 @@ derniere-verification: 2026-05-17
 - [Saxo Banque — Plan Épargne Programmé (PEPS)](https://www.home.saxo/fr-fr/products/autoinvest)
 - [Saxo Banque — Rémunération des liquidités](https://www.home.saxo/campaigns/interest-rates-cal)
 - [Saxo Banque — Trading actions](https://www.home.saxo/products/stocks)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

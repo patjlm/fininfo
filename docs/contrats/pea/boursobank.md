@@ -3,7 +3,7 @@ nom: BoursoBank
 type: contrat-pea
 slug: boursobank
 courtier: BoursoBank
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # BoursoBank — PEA
@@ -153,9 +153,20 @@ derniere-verification: 2026-05-16
   - DCA limite a 8 fonds pre-construits (pas d'ETF au choix) avec 0,59 % de frais annuels
 - **Services complementaires** : assurance vie, PER, CTO, banque complete, The Corner (analyses), newsletter Bourse hebdomadaire, podcasts et webinaires
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 1er janvier 2026) — données subjectives/éditoriales -->
+
+- BoursoBank est jugée meilleure banque en ligne au quotidien mais en retrait sur la bourse pure par rapport à Fortuneo et Saxo Banque
+- Son PEA est moins compétitif que les leaders du comparatif ADI (frais plus élevés en Forfait Découverte au-delà de 500 EUR, montant minimum ETF à 200 EUR)
+- Ses points forts reconnus par ADI concernent davantage l'assurance vie et le PER que le PEA lui-même
+- Recommandée pour ceux qui veulent regrouper quotidien + investissement dans un seul établissement, en acceptant un PEA légèrement plus cher
+- **Pour qui** : investisseurs souhaitant une banque principale en ligne complète (quotidien + épargne + bourse) et qui ne passent pas de nombreux ordres boursiers ; moins adapté aux investisseurs actifs prioritarisant les frais de courtage
+
 ## Sources
 
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
+- [Avenue des Investisseurs — Meilleure banque bourse](https://avenuedesinvestisseurs.fr/meilleure-banque-bourse/)
 - [BoursoBank — PEA](https://www.boursobank.com/bourse/pea-plan-epargne-actions)
 - [BoursoBank — PEA Jeune](https://www.boursobank.com/bourse/pea-jeune)
 - [BoursoBank — PEA Profile (gestion pilotee)](https://www.boursobank.com/bourse/pea-plan-epargne-actions/gestion-profilee)

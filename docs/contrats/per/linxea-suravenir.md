@@ -331,6 +331,15 @@ derniere-verification: 2026-05-26
   - Certaines opérations nécessitent encore un formulaire papier
 - **Services complémentaires** : assurance-vie (Linxea Avenir 2), SCPI en direct, produits structurés, Private Equity, fonds datés à échéance, PEA assurantiel
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 11 février 2026) — données subjectives/éditoriales -->
+
+- Présenté comme une « valeur sûre » dans le comparatif ADI, classé 4e (hors podium, juste derrière le trio de tête)
+- Salué pour sa belle gamme d'ETF (parmi les plus fournies du marché) et la qualité de son fonds euros
+- Reconnu pour la possibilité d'investir jusqu'à 100 % en fonds euros sans contrainte d'UC
+- **Pour qui** : épargnants cherchant un contrat Linxea solide avec un large choix d'ETF, en alternative au Spirit PER si la gamme SCPI ou les frais légèrement plus élevés ne sont pas rédhibitoires
+
 ## Sources
 
 - [S'investir — Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
@@ -343,3 +352,4 @@ derniere-verification: 2026-05-26
 - [Linxea — Gestion horizon retraite](https://www.linxea.com/per/gestion-horizon-retraite/)
 - [Linxea — Documentation Suravenir PER](https://www.linxea.com/documentation/linxea-suravenir-per/)
 - API Morningstar (universe FEEUR$$ALL_5649) — liste ETF vérifiée le 2026-05-26
+- [Avenue des Investisseurs — Comparatif PER](https://www.avenuedesinvestisseurs.fr/per-plan-epargne-retraite/) (mis à jour 11 février 2026)

@@ -334,6 +334,16 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025) — données subjectives/éditoriales -->
+
+- Qualifié de contrat « tout-terrain » par ADI : s'adapte au plus grand nombre de profils et de situations
+- Apprécié pour sa polyvalence : permet de conjuguer gestion libre et gestion pilotée au sein d'un même contrat
+- Recommandé pour les profils évolutifs qui souhaitent changer de stratégie dans la durée
+- Assureur Suravenir réputé accommodant avec les non-résidents (expatriés)
+- **Pour qui** : épargnants indécis ou souhaitant diversifier les stratégies dans un seul contrat, expatriés, profils intermédiaires ou évolutifs
+
 - **Note globale** : 4,5/5 (source : sinvestir.fr)
 - **Points forts** :
   - Accessible dès 100 EUR de versement initial et 25 EUR / mois en versements programmés
@@ -357,6 +367,7 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Linxea — Page produit Linxea Avenir 2](https://www.linxea.com/assurance-vie/linxea-avenir2/)
 - [Linxea — ETF disponibles Linxea Avenir 2](https://www.linxea.com/assurance-vie/linxea-avenir2/supports-disponibles-sur-linxea-avenir-2/trackers-etf/)
 - [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.com/assurance-vie/linxea-avenir2/supports-disponibles-sur-linxea-avenir-2/fonds-immobiliers-linxea-avenir/)

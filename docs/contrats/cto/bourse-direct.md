@@ -3,7 +3,7 @@ nom: Bourse Direct
 type: contrat-cto
 slug: bourse-direct
 courtier: Bourse Direct
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Bourse Direct — Compte-Titres
@@ -123,7 +123,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,85/5 *(source : sinvestir)*
 - **Points forts** :
@@ -142,6 +142,15 @@ derniere-verification: 2026-05-17
   - Pas de rémunération des liquidités
 - **Services complémentaires** : assurance vie, PEA, PEA-PME, PEA Jeunes ; outils payants (ProRealTime, Wincharts 2.0, coaching bourse) ; séminaires et webinaires de formation ; bulletin des marchés
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- Inclus dans le comparatif CTO ADI mais sans label distinctif — positionné comme un courtier français de base
+- Recommandé uniquement pour les investisseurs centrés sur les valeurs de la zone Euronext (Paris, Bruxelles, Amsterdam) — les frais sur marchés étrangers (notamment US) le rendent peu compétitif pour le stock-picking international
+- Apprécié pour sa régulation française et la simplicité administrative (IFU fourni, pas de déclaration de compte étranger, titres en nom propre)
+- **Pour qui** : investisseurs français focalisés sur les marchés européens, cherchant un courtier hexagonal de longue date avec détention directe des titres — peu adapté aux investisseurs souhaitant des actions américaines ou une diversification internationale à moindre frais
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -151,3 +160,4 @@ derniere-verification: 2026-05-17
 - [Bourse Direct — Investissement programmé](https://www.boursedirect.fr/fr/investissements-programmes)
 - [Bourse Direct — Transfert](https://www.boursedirect.fr/fr/transfert)
 - [Bourse Direct — Nos agences](https://www.boursedirect.fr/fr/nos-agences)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

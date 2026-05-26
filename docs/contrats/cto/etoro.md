@@ -3,7 +3,7 @@ nom: eToro
 type: contrat-cto
 slug: etoro
 courtier: eToro
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # eToro — Compte-Titres
@@ -95,7 +95,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,62/5
 - **Points forts** :
@@ -118,6 +118,15 @@ derniere-verification: 2026-05-17
   - Pas de PEA
 - **Services complémentaires** : CopyTrader (trading social), Smart Portfolios (portefeuilles thématiques), Popular Investor (programme de traders à suivre), calendrier économique, graphiques avancés (TradingView), trading en un clic, compte démo 100 000 USD, eToro Academy (3 000+ ressources en 11 langues)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- eToro est **explicitement déconseillé** par ADI pour l'investissement en CTO : domicilié à Chypre (hors AMF), la plateforme pousse fortement vers les CFD qui sont des instruments très risqués
+- ADI souligne que sur eToro, lors d'un achat avec effet de levier (CFD), l'investisseur n'est pas propriétaire des actions — point important à distinguer : la propriété directe s'applique uniquement aux achats au comptant sans levier
+- La cohabitation des CFD et des achats au comptant dans la même interface est considérée comme un facteur de confusion pour les investisseurs particuliers
+- **Pour qui** : selon ADI, eToro n'est pas recommandé pour l'investissement en actions au sens strict — la plateforme convient davantage à ceux qui veulent explorer le trading social (CopyTrader) ou les crypto-actifs en connaissance des risques spécifiques
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -131,3 +140,4 @@ derniere-verification: 2026-05-17
 - [eToro — Dollar Cost Averaging](https://www.etoro.com/fr/investing/dollar-cost-averaging/)
 - [eToro — Horaires de marché](https://www.etoro.com/fr/trading/market-hours/)
 - [eToro — À propos](https://www.etoro.com/fr/about/)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

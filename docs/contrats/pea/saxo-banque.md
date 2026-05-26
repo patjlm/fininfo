@@ -3,7 +3,7 @@ nom: Saxo Banque
 type: contrat-pea
 slug: saxo-banque
 courtier: Saxo Banque
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Saxo Banque — PEA
@@ -124,9 +124,20 @@ derniere-verification: 2026-05-16
   - Offres promotionnelles temporaires (valables jusqu'au 31/12/2026)
 - **Services complémentaires** : CTO ouvert automatiquement, outils avancés (screeners, graphiques personnalisables), partenariat Amundi ETF, recommandations d'actions (partenariat Les Echos), webinaires
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 2026) — données subjectives/éditoriales -->
+
+- Classé 2ème du comparatif PEA d'ADI, derrière Fortuneo
+- Tarification jugée très attractive depuis la refonte 2024, notamment pour les ordres dépassant 500 EUR (0,08 % particulièrement compétitif sur ce segment)
+- Recommandé pour les investisseurs passant plusieurs ordres par mois ou des montants supérieurs à 500 EUR — sur ces volumes, Saxo Banque devient plus avantageux que Fortuneo
+- Reconnu comme très bon PEA pour les investisseurs plus spécialisés en bourse
+- **Pour qui** : investisseurs actifs ou ceux réalisant des ordres réguliers supérieurs à 500 EUR ; moins adapté aux petits investisseurs débutants (frais minimum de 2 EUR pénalisant sur petits montants)
+
 ## Sources
 
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
+- [Avenue des Investisseurs — Comparatif PEA](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/plan-depargne-en-actions-pea/)
 - [Saxo Banque — PEA](https://www.home.saxo/fr-fr/accounts/pea)
 - [Saxo Banque — Tarifs actions](https://www.home.saxo/fr-fr/rates-and-conditions/stocks/commissions)
 - [Saxo Banque — Vue d'ensemble des tarifs](https://www.home.saxo/fr-fr/campaigns/invest-for-less)

@@ -153,6 +153,16 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 14 avril 2026) — données subjectives/éditoriales -->
+
+- Classé dans le top 3 des meilleures assurances vie pour les SCPI par ADI
+- Présenté comme complémentaire de Linxea Spirit 2 : sa gamme de SCPI (dont les SCPI Corum) diffère et permet de diversifier les fournisseurs
+- ADI met en avant les frais de gestion UC parmi les plus bas du marché (0,39 %) et la redistribution brute des loyers sans déduction de fiscalité étrangère
+- Limite à 55 % en SCPI signalée comme contrainte principale
+- **Pour qui** : investisseurs SCPI souhaitant compléter un contrat existant (notamment Spirit 2) avec une gamme différente de SCPI, et/ou minimiser les frais de gestion
+
 - **Note globale** : 4,55/5 (source : sinvestir.fr)
 - **Points forts** :
   - Frais de gestion UC très compétitifs : 0,39 % / an
@@ -174,6 +184,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ## Sources
 
+- [Avenue des Investisseurs — Meilleures AV pour SCPI](https://www.avenuedesinvestisseurs.fr/meilleure-assurance-vie-scpi-comparatif/) (mis à jour 14 avril 2026)
 - [Louve Invest — Assurance vie Louve Infinity](https://www.louveinvest.com/assurance-vie)
 - [Louve Invest — Liste des ETF](https://www.louveinvest.com/assurance-vie#Liste-ETF)
 - [Louve Invest — Liste des SCPI](https://www.louveinvest.com/assurance-vie#Liste-SCPI)

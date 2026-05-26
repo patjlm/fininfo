@@ -3,7 +3,7 @@ nom: Degiro
 type: contrat-cto
 slug: degiro
 courtier: Degiro
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Degiro — Compte-Titres
@@ -208,7 +208,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,92/5 *(source : sinvestir)*
 - **Points forts** :
@@ -234,6 +234,15 @@ derniere-verification: 2026-05-17
   - *(source : sinvestir)*
 - **Services complémentaires** : Académie des investisseurs, webinaires, Pink Chip, séries vidéos éducatives, listes de favoris personnalisées
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- Classé dans le top 3 du comparatif CTO ADI, présenté comme une alternative performante à Saxo pour les investisseurs expérimentés
+- L'absence d'IFU et le service client anglophone sont les deux points qui freinent une recommandation large — considérés comme des obstacles réels pour les investisseurs français non anglophones
+- Reconnu pour sa plateforme primée, son accès à de nombreuses bourses mondiales et ses frais compétitifs
+- **Pour qui** : investisseurs avertis acceptant de gérer eux-mêmes leur déclaration fiscale (pas d'IFU) et maîtrisant l'anglais pour le service client — moins adapté aux investisseurs débutants ou à ceux qui veulent une fiscalité simplifiée
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -246,3 +255,4 @@ derniere-verification: 2026-05-17
 - [Degiro — Détention des titres](https://www.degiro.fr/helpdesk/propos-de-degiro/comment-mes-investissements-sont-ils-detenus)
 - [Degiro — Frais de connexion aux bourses](https://www.degiro.fr/helpdesk/frais/frais-de-courtage/que-sont-les-frais-de-connexion-aux-places-boursieres)
 - [Degiro — Fiscalité](https://www.degiro.fr/helpdesk/fiscalite)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

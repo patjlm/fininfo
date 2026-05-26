@@ -190,6 +190,16 @@ Source : [Conditions générales Lucya CNP — Annexe 1 en vigueur au 01/04/2026
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 14 avril 2026) — données subjectives/éditoriales -->
+
+- Mis en avant par ADI pour ses frais de gestion UC les plus bas du marché (0,30 % / an) au moment de la mise à jour du comparatif
+- Avantage distinctif selon ADI : zéro délai de jouissance sur les SCPI (les loyers courent dès le premier jour du mois de l'investissement)
+- 100 % des loyers SCPI redistribués
+- Limite à 50 % en SCPI (30 % max par SCPI) signalée comme contrainte
+- **Pour qui** : investisseurs SCPI souhaitant minimiser les frais de gestion et bénéficier d'une jouissance immédiate des revenus locatifs ; profils sensibles au coût total de détention
+
 - **Note globale** : 4,6/5 (source : sinvestir.fr)
 - **Points forts** :
   - Frais de gestion UC très bas (0,30 % / an — parmi les plus bas du marché)
@@ -210,6 +220,7 @@ Source : [Conditions générales Lucya CNP — Annexe 1 en vigueur au 01/04/2026
 
 ## Sources
 
+- [Avenue des Investisseurs — Meilleures AV pour SCPI](https://www.avenuedesinvestisseurs.fr/meilleure-assurance-vie-scpi-comparatif/) (mis à jour 14 avril 2026)
 - [Lucya — Page produit Lucya CNP](https://lucya.com/assurance-vie/lucya-cnp/)
 - [Lucya — Comparatif contrats Lucya](https://lucya.com/comparer-nos-assurances-vie-lucya/)
 - [Assurancevie.com — Page Lucya CNP avec documents officiels](https://www.assurancevie.com/nos-contrats/assurance-vie/lucya-cnp-doc/)

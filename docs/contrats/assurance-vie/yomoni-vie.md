@@ -217,6 +217,15 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025) — données subjectives/éditoriales -->
+
+- Cité par ADI parmi les meilleures gestions pilotées du marché pour les épargnants souhaitant investir en bourse sans avoir à gérer eux-mêmes leur allocation
+- Assureur Suravenir (Crédit Mutuel Arkea) présenté comme une garantie de solidité
+- Le modèle 100 % délégué est à la fois le principal avantage et la principale limite du contrat : peu flexible pour qui veut reprendre la main
+- **Pour qui** : épargnants souhaitant déléguer entièrement la gestion de leur assurance vie à un professionnel, sans expertise boursière propre, acceptant la gestion pilotée comme mode unique d'investissement
+
 - **Note globale** : 4,1/5 (source : sinvestir.fr)
 - **Points forts** :
   - Accessible à partir de 1 000 EUR en mandat d'arbitrage
@@ -237,6 +246,7 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Yomoni — Page assurance vie](https://www.yomoni.fr/investir/assurance-vie)
 - [Yomoni — Liste des supports d'investissement](https://www.yomoni.fr/legal/supports-investissement)
 - [Yomoni — Informations réglementaires](https://www.yomoni.fr/legal/informations-reglementaires)

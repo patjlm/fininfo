@@ -348,6 +348,15 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 17 septembre 2025) — données subjectives/éditoriales -->
+
+- Recommandé pour les profils souhaitant sécuriser leur capital, avec un accès rapide aux fonds (rachat en 72 h grâce à l'engagement de Generali)
+- Positionné comme contrat d'épargne de précaution ou de court terme par ADI : idéal pour maintenir un capital liquide avec la fiscalité avantageuse de l'assurance vie
+- ADI souligne la contrainte du fonds Netissima (part UC requise) pour accéder au meilleur rendement
+- **Pour qui** : épargnants prudents privilégiant la sécurité absolue du capital, besoin d'une épargne disponible rapidement, horizon court ou moyen terme
+
 - **Note globale** : 4,65/5 (source : sinvestir.fr)
 - **Points forts** :
   - Deux fonds euros disponibles (Eurossima et Netissima) — accès 100 % sans condition UC possible
@@ -369,6 +378,7 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 
 ## Sources
 
+- [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Linxea — Page produit Linxea Vie](https://www.linxea.com/assurance-vie/linxea-vie/)
 - [Linxea — Supports disponibles Linxea Vie](https://www.linxea.com/assurance-vie/linxea-vie/supports-disponibles-sur-linxea-vie/)
 - [Linxea — ETF disponibles Linxea Vie](https://www.linxea.com/assurance-vie/linxea-vie/supports-disponibles-sur-linxea-vie/trackers-etf/)

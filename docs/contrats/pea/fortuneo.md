@@ -3,7 +3,7 @@ nom: Fortuneo
 type: contrat-pea
 slug: fortuneo
 courtier: Fortuneo
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Fortuneo — PEA
@@ -142,6 +142,16 @@ derniere-verification: 2026-05-16
   - Frais de changement de formule de 60 EUR
 - **Services complémentaires** : assurance vie, PER, CTO, banque complète, accès à TradingView, analyses theScreener, alertes SMS/mail, Live Trader
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 26 mars 2026) — données subjectives/éditoriales -->
+
+- Meilleur PEA 2026 selon ADI : désigné comme "le meilleur compromis frais / interface / service client"
+- Convient aussi bien aux investisseurs passifs (premier ordre mensuel gratuit jusqu'à 500 EUR) qu'aux investisseurs plus actifs passant plusieurs ordres
+- Mérite d'être une banque en ligne complète (compte courant, AV, CTO) : idéal pour centraliser tous ses comptes
+- Avantage de la fiabilité et de l'ancienneté (depuis 2000, filiale Crédit Mutuel Arkéa) pour un PEA destiné au long terme
+- **Pour qui** : investisseurs passifs à actifs cherchant une combinaison frais compétitifs + service client + banque complète ; aussi recommandé comme référence pour ceux souhaitant tout regrouper dans un seul établissement
+
 ## Sources
 
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
@@ -149,3 +159,4 @@ derniere-verification: 2026-05-16
 - [Fortuneo — Tarifs bourse](https://www.fortuneo.fr/bourse/tarifs)
 - [Fortuneo — Gestion sous mandat](https://www.fortuneo.fr/bourse/gestion-sous-mandat)
 - [Fortuneo — Grille tarifaire complète (PDF)](https://www.fortuneo.fr/files/tarifs_fortuneo.pdf)
+- [Avenue des Investisseurs — Comparatif PEA](https://avenuedesinvestisseurs.fr/comparatif-pea-fortuneo-trade-republic/)

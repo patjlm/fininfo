@@ -3,7 +3,7 @@ nom: Fortuneo
 type: contrat-cto
 slug: fortuneo
 courtier: Fortuneo
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Fortuneo — Compte-Titres
@@ -116,7 +116,7 @@ Fortuneo propose 3 forfaits de courtage pour Euronext (Paris, Bruxelles, Amsterd
 - **Note SAV** : Non communique
 
 ## Avis synthetique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,98/5
 - **Points forts** :
@@ -137,6 +137,15 @@ Fortuneo propose 3 forfaits de courtage pour Euronext (Paris, Bruxelles, Amsterd
   - Tarif Starter peu competitif au-dela de 500 EUR par ordre (0,35 %)
 - **Services complementaires** : AV, PER, PEA, banque complete + outils et services (acces a TradingView, graphiques interactifs, analyses theScreener, alertes SMS/email sur cours, listes de valeurs favorites, execution d'ordres, Smart Orders, Portefeuilles Types Actions)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+
+- ADI oppose deux approches du CTO : **l'école "confort"** (Fortuneo) et **l'école "optimisation"** (Saxo Banque) — Fortuneo représente le choix de la centralisation bancaire plutôt que l'optimisation tarifaire pure
+- Reconnu pour l'intégration complète (compte courant, épargne, bourse, AV, PER) permettant de tout gérer depuis une seule banque
+- Les frais sur les marchés hors UE (notamment actions US) sont jugés trop élevés pour un investisseur souhaitant diversifier à l'international sans être très actif (plus de 30 ordres/mois)
+- **Pour qui** : investisseurs déjà clients Fortuneo ou cherchant une banque en ligne complète avec un volet bourse correct — peu adapté à ceux qui veulent optimiser leurs frais sur les marchés internationaux
+
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
@@ -145,3 +154,4 @@ Fortuneo propose 3 forfaits de courtage pour Euronext (Paris, Bruxelles, Amsterd
 - [Fortuneo — Conditions tarifaires (PDF)](https://mabanque.fortuneo.fr/datas/files/tarifs_fortuneo.pdf)
 - [Fortuneo — Tarif Starter](https://www.fortuneo.fr/bourse/ordre-offert-starter)
 - [Fortuneo — Changement de tarification](https://www.fortuneo.fr/faq/comment-effectuer-un-changement-de-tarification-bourse-et-quels-sont-les-delais)
+- [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

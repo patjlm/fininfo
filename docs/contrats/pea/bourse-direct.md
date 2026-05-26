@@ -3,7 +3,7 @@ nom: Bourse Direct
 type: contrat-pea
 slug: bourse-direct
 courtier: Bourse Direct
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Bourse Direct — PEA
@@ -170,9 +170,20 @@ derniere-verification: 2026-05-16
   - Gestion libre uniquement, pas de gestion pilotée
 - **Services complémentaires** : assurance vie, CTO, outils et services (ProRealTime, Wincharts, webinaires, coaching bourse)
 
+### Avis Avenue des Investisseurs
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Avenue des Investisseurs (mis à jour 2026) — données subjectives/éditoriales -->
+
+- Positionné comme alternative économique pour les investisseurs les plus attentifs aux frais, au prix d'un compromis sur l'interface et le service
+- Interface jugée sobre (voire austère) et service client moins disponible que chez Fortuneo
+- Frais de retrait (6 EUR) et montant minimum par ordre (80 EUR) cités comme contraintes notables
+- Non retenu parmi les PEA recommandés en priorité par ADI
+- **Pour qui** : investisseurs prioritarisant le coût avant tout, disposés à accepter une expérience moins fluide et un service client moins accessible
+
 ## Sources
 
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
+- [Avenue des Investisseurs — Comparatif PEA](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/plan-depargne-en-actions-pea/)
 - [Bourse Direct — PEA](https://www.boursedirect.fr/fr/bourse/pea)
 - [Bourse Direct — Tarifs](https://www.boursedirect.fr/fr/bourse/tarifs)
 - [Bourse Direct — Grille tarifaire (PDF, 06/01/2026)](https://www.boursedirect.fr/pdf/tarifs_bd.pdf)
