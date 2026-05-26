@@ -10,21 +10,21 @@
 |---|---|---|---|---|---|
 | [Bourse Direct](bourse-direct.md) | France | Libre | Oui | Oui | Rédigée |
 | [BoursoBank](boursobank.md) | France | Libre | Oui | Oui | Rédigée |
-| [Crédit Agricole](credit-agricole.md) | France | Libre | Oui | Non communiqué | Rédigée |
+| [Crédit Agricole](credit-agricole.md) | France | Libre | Oui | Oui | Rédigée |
 | [EasyBourse](easybourse.md) | France | Libre | Oui | Oui | Rédigée |
-| [Fortuneo](fortuneo.md) | France | Libre | Oui | Oui | Rédigée |
-| [Hellobank!](hellobank.md) | France | Libre | Oui | Non communiqué | Rédigée |
+| [Fortuneo](fortuneo.md) | France | Libre | Oui | Non | Rédigée |
+| [Hellobank!](hellobank.md) | France | Libre | Oui | Non | Rédigée |
 | [Interactive Brokers](interactive-brokers.md) | Irlande | Libre | Non | Non | Rédigée |
 | [MEXEM](mexem.md) | Chypre | Libre | Non | Non | Rédigée |
-| [monabanq](monabanq.md) | France | Libre | Non communiqué | Non communiqué | Rédigée |
-| [N26](n26.md) | Allemagne | Libre | Non communiqué | Non communiqué | Rédigée |
-| [ProRealTime](prorealtime.md) | France | Libre | Non communiqué | Non communiqué | Rédigée |
-| [Ramify](ramify.md) | France | Pilotée | Non communiqué | Non communiqué | Rédigée |
+| [monabanq](monabanq.md) | France | Libre | Non | Non | Rédigée |
+| [N26](n26.md) | Allemagne | Libre | Non | Non | Rédigée |
+| [ProRealTime](prorealtime.md) | France | Libre | Non | Non | Rédigée |
+| [Ramify](ramify.md) | France | Pilotée | Non | Non | Rédigée |
 | [Saxo Banque](saxo-banque.md) | Danemark | Libre | Oui | Non | Rédigée |
-| [Shares](shares.md) | Belgique | Libre | Non communiqué | Non communiqué | Rédigée |
-| [Trade Republic](trade-republic.md) | Allemagne | Libre | Non | Non communiqué | Rédigée |
+| [Shares](shares.md) | Belgique | Libre | Non | Non | Rédigée |
+| [Trade Republic](trade-republic.md) | Allemagne | Libre | Non | Oui | Rédigée |
 | [XTB](xtb.md) | Pologne | Libre | Non | Non | Rédigée |
-| [Yomoni](yomoni.md) | France | Pilotée | Non | Non | Rédigée |
+| [Yomoni](yomoni.md) | France | Pilotée | Non | Oui | Rédigée |
 
 ## Règle importante
 
