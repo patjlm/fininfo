@@ -93,6 +93,14 @@ derniere-verification: 2026-05-26
 - **Déduction fiscale** : jusqu'à 10 % des revenus N-1 (plafonné à 37 094 EUR pour les salariés en 2025, source : Yomoni officiel)
 - **Cumul des plafonds** : les plafonds non utilisés des 3 dernières années peuvent être cumulés
 
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat. Yomoni Retraite est un PER bancaire (compte-titres) sans supports immobiliers de type SCPI.
+
+### Fonds euros — Règles spécifiques
+
+Non applicable — PER bancaire sans fonds euros. La partie sécurisée des portefeuilles est investie en fonds obligataires (Schelcher Prince Obligations Court Terme ESG) et en ETF obligataires (iShares Global Aggregate Bond), non garantis en capital.
+
 ### PER bancaire — Spécificités
 
 - **Pas de fonds euros** : seuls les PER assurantiels y donnent accès

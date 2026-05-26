@@ -89,6 +89,22 @@ derniere-verification: 2026-05-26
 - **Fonds euros** : 100 % possible, aucune obligation d'investir en UC
 - **ETF** : 26 ETF accessibles en gestion libre (non utilisés en gestion pilotée)
 
+### Supports immobiliers — Règles spécifiques
+
+- **Plafond combiné SC Pythagore + SCP LF Multimmo** : 30 % max de l'encours total du contrat
+- **Plafond fonds immobiliers alternatifs** : 30 % max de l'encours total du contrat (SC Pierre Impact, SCP LF Multimmo et assimilés)
+- **Versements programmés sur SC/SCP** : non autorisés
+- **Versements programmés sur OPCI** : autorisés (OFI Invest ISR Experimmo A uniquement)
+- **Arbitrage fonds euros → supports immobiliers** : possible en gestion libre
+- **Pénalité de sortie** : [à vérifier — non mentionnée dans la documentation publique disponible]
+- **Frais d'entrée** : 0 % à 2,95 % selon le support (voir tableau des supports immobiliers)
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en arbitrage** : possible en gestion libre uniquement — le fonds euros n'est pas accessible en gestion sous mandat ni en gestion évolutive Horizon Retraite
+- **Garantie** : capital garanti à 100 % (net de frais de gestion de 0,60 %/an)
+- **Conditions** : 100 % du contrat investissable, aucune obligation d'UC
+
 ### Gestion pilotée — Sous mandat
 
 - **Surcoût** : 0,20 %/an (frais de gestion totaux 0,80 %/an sur UC)

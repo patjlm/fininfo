@@ -141,6 +141,21 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 - **Souscription non disponible pour** : mineurs, majeurs protégés, co-souscripteurs, personnes de plus de 80 ans, non-résidents français
 
+### SCPI — Règles spécifiques
+
+- **Limite par versement** : [à vérifier — les règles SwissLife pour l'AV Darjeeling ne sont pas publiées en ligne ; le PER SwissLife impose 40 % max, vérifier si la même règle s'applique à l'AV]
+- **Plafond par SCPI** : [à vérifier — le PER SwissLife impose 50 000 EUR max par SCPI]
+- **Arbitrage SCPI** : [à vérifier — le PER SwissLife interdit les arbitrages avant la 4e année révolue]
+- **Versements programmés sur SCPI** : [à vérifier — non éligibles sur le PER SwissLife]
+- **Redistribution des loyers** : 100 % (réinvestis sur le contrat)
+- **Commission de retrait** : non retenue sur le contrat [à vérifier — à confirmer dans les conditions générales de l'AV]
+
+### Fonds euros — Règles spécifiques
+
+- **Rendement conditionnel** : taux différenciés selon la part d'UC et le niveau d'encours (paliers à 40 % et 60 % d'UC, et à 250 000 EUR d'encours)
+- **Pas de % UC minimum requis** : 100 % fonds euros possible, mais rendement dégradé à 1,90 % (2025) si part UC < 40 %
+- **Rachat total en cours d'année** : frais de gestion prélevés au prorata de la durée de placement (0,60 % / an, prélevés au 31 décembre ou en cours d'année lors de sortie totale) — pas de pénalité supplémentaire [à vérifier]
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

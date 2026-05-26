@@ -95,6 +95,20 @@ derniere-verification: 2026-05-26
 - **SCPI par UC** : max 50 % de l'encours total du contrat et 50 000 EUR par SCPI (défaut ; 10 % et 10 000 EUR pour certaines SCPI)
 - **Loyers SCPI** : 85 % reversés (Suravenir conserve 15 %)
 
+### SCPI — Règles spécifiques
+
+- **Limite par versement** : [à vérifier — limite par opération non trouvée dans la documentation publique ; contacter Linxea]
+- **Limite cumulée par SCPI** : 50 000 EUR max par SCPI et 50 % de l'encours total du contrat (défaut) ; exceptions : [Remake Live](../../actifs/scpi/remake-live.md), [Laffitte Pierre](../../actifs/scpi/laffitte-pierre.md), [Transitions Europe](../../actifs/scpi/transitions-europe.md) — 10 000 EUR max et 10 % de l'encours
+- **Versements programmés sur SCPI** : non autorisés
+- **Arbitrage fonds euros → SCPI** : [à vérifier — non confirmé dans la documentation publique disponible]
+- **Pénalité de sortie** : [à vérifier — non mentionnée dans la documentation publique disponible]
+- **Redistribution des loyers** : 85 % (Suravenir conserve 15 %) — réinvestis sur le fonds euros Suravenir Rendement
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en arbitrage** : possible — le fonds euros est accessible en entrée et en sortie par arbitrage en gestion libre
+- **Conditions** : 100 % du contrat investissable sur le fonds euros, aucune obligation d'UC
+
 ### Gestion pilotée
 
 - **Gestionnaire** : OTEA Capital

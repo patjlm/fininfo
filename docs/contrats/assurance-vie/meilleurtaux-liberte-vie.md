@@ -108,6 +108,27 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avance sur contrat** : minimum 2 000 EUR — maximum 60 % de l'encours — 0 % de frais de mise en place — taux d'intérêt : TME + 1 point (année de remboursement)
 - **Clause bénéficiaire** : standard / libre / démembrée [à vérifier sur les conditions générales]
 
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Support Linxea (contrat Spirit 2 — même assureur Spirica) + page Meilleurtaux Liberté Vie -->
+
+- **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI
+- **Limite cumulée** : 1 000 000 EUR net de désinvestissements sur l'ensemble des SCPI du contrat
+- **Pénalité de sortie** : 3 % sur sommes brutes désinvesties si arbitrage ou rachat avant 3 ans
+- **Versements programmés sur SCPI** : non autorisés
+- **Délai de jouissance** : loyers perçus dès le 1er jour du mois suivant l'investissement
+- **Redistribution loyers** : 100 % des loyers reversés
+- **Versement initial en SCPI** : investi immédiatement (exception au délai de renonciation de 30 jours)
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : placement.meilleurtaux.com -->
+
+- **Contraintes d'accès** : aucune — 100 % fonds euros possible (pas d'obligation d'investir en UC)
+- **Plafond global** : 5 000 000 EUR cumulés sur les deux fonds euros (tous contrats du client confondus)
+- **Fonds Euro Objectif Climat** : accessible uniquement par versement (pas par arbitrage)
+- **Bonus de taux 2026** : +1,50 % net avec 30 % minimum en UC requis (offre à durée limitée — voir section Fonds euros)
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

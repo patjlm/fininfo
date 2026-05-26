@@ -281,29 +281,53 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 
+### Versements et retraits
+
 - **Versement initial minimum** : 300 EUR
 - **Versements libres minimum** : 300 EUR
 - **Versements programmés minimum** : 50 EUR / mois
-- **Arbitrage minimum** : Non communiqué [à vérifier]
 - **Rachat partiel minimum** : 1 000 EUR
-- **Règles d'arbitrage** :
-  - Arbitrage en ligne : 0 % de frais (hors SCPI, SCI, ETF, FCPR, actions)
-  - Arbitrage vers fonds euros Netissima et Eurossima : accepté
-  - Netissima : accès 100 % sans condition UC jusqu'au 30/06/2026 ; 50 % max par la suite
-- **Limites d'investissement** :
-  - Eurossima : 100 % possible sans condition
-  - Netissima : 100 % possible jusqu'au 30/06/2026 ; 50 % max après cette date
-  - SCPI : taux de redistribution des loyers limité à 90 % (non reversé à 100 %)
-- **Conditions gestion pilotée** :
-  - OTEA Capital : 4 profils (Défensif, Équilibré, Dynamique, Agressif) — surcoût +0,20 % / an
-    - Performances 2025 : Défensif +3,26 %, Équilibré +4,02 %, Dynamique +3,99 %, Agressif +6,57 %
-  - Carmignac : 3 profils (Défensif, Équilibré, Offensif) — surcoût +0,20 % / an
-    - Performances 2025 : Défensif +3,19 %, Équilibré +9,31 %, Offensif +12,23 %
-  - Gestion mixte : combinaison libre + pilotée possible
 - **Rachat en ligne** : disponible, délai 72 h pour fonds Netissima
 - **Avance sur contrat** : Non communiqué [à vérifier]
 - **Clause bénéficiaire** : standard / libre / démembrée — Non communiqué [à vérifier]
 - **Type de contrat** : contrat de groupe (adhésion à une association)
+
+### Arbitrages
+
+- **Arbitrage minimum** : 200 EUR
+- **Frais d'arbitrage en ligne** : 0 % (hors SCPI, SCI, ETF, FCPR, actions)
+- **Arbitrage vers fonds euros Netissima et Eurossima** : accepté
+- **Netissima** : accès 100 % sans condition UC jusqu'au 30/06/2026 ; 50 % max par la suite
+
+### SCPI — Règles spécifiques
+
+- **Limite par versement** : 25 % max du montant de chaque versement en supports immobiliers
+- **Limite cumulée** : 200 000 EUR par contrat sur l'ensemble des supports immobiliers
+- **Minimum par SCPI** : 25 EUR
+- **Pénalité de sortie** : Non communiquée [à vérifier]
+- **Versements programmés sur SCPI** : non autorisés (source : support.linxea.com/fr/articles/4818)
+- **Arbitrage fonds euros → SCPI** : Non communiqué [à vérifier]
+- **Délai de jouissance** : identique aux conditions d'investissement direct SCPI (source : support.linxea.com)
+- **Redistribution des loyers** : 90 % des loyers redistribués — réinvestis en parts de SCPI chaque trimestre
+
+### Fonds euros — Règles spécifiques
+
+- **Netissima** : 100 % possible jusqu'au 30/06/2026 sans condition UC ; 50 % max après cette date — garanti à 99,25 %
+- **Eurossima** : 100 % possible sans condition UC — garanti à 99,25 %
+- **Arbitrage vers les deux fonds euros** : accepté
+- **Contrainte UC** : aucune sur Eurossima ; Netissima limité à 50 % après le 30/06/2026
+
+### Gestion pilotée
+
+- **OTEA Capital** : 4 profils (Défensif, Équilibré, Dynamique, Agressif) — surcoût +0,20 % / an
+  - Performances 2025 : Défensif +3,26 %, Équilibré +4,02 %, Dynamique +3,99 %, Agressif +6,57 %
+- **Carmignac** : 3 profils (Défensif, Équilibré, Offensif) — surcoût +0,20 % / an
+  - Performances 2025 : Défensif +3,19 %, Équilibré +9,31 %, Offensif +12,23 %
+- Gestion mixte : combinaison libre + pilotée possible
+
+### Options d'arbitrages programmés
+
+- Rééquilibrage automatique : Non communiqué [à vérifier]
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
@@ -353,3 +377,5 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 - [Linxea — Conditions générales](https://www.linxea.com/document/conditions-generales-linxea-vie/)
 - [Linxea — Annexe financière](https://www.linxea.com/document/linxea-vie-linxea-capitalisation-linxea-madelin-annexe-financiere/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
+- [Linxea Support — Conditions SCPI/SCI/OPCI Linxea Vie](https://support.linxea.com/fr/articles/4789-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-vie)
+- [Linxea Support — Versements programmés sur SCPI](https://support.linxea.com/fr/articles/4818-est-ce-que-je-peux-faire-des-versements-programmes-sur-les-scpi-proposees-par-linxea)

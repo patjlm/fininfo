@@ -112,6 +112,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avance sur contrat** : Non communiqué
 - **Clause bénéficiaire** : standard / libre
 
+### SCPI — Règles spécifiques
+
+- **Redistribution des loyers** : réinvestis chaque mois sur le fonds Suravenir Rendement 2 (source : fortuneo.fr)
+- **Limite par versement** : Non communiqué [à vérifier sur conditions générales Fortuneo]
+- **Plafond cumulé** : Non communiqué [à vérifier]
+- **Pénalité de sortie** : Non communiquée [à vérifier]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+
+### Fonds euros — Règles spécifiques
+
+- **Arbitrages entrants interdits** : les fonds euros Suravenir ne sont pas accessibles par arbitrage depuis les UC — uniquement par versement (source : fortuneo.fr)
+- **Rachat total en cours d'année** :
+  - Suravenir Rendement / Opportunités (anciens fonds) : revalorisation à 80 % du dernier taux annuel servi
+  - Suravenir Rendement 2 / Opportunités 2 : revalorisation au taux minimum garanti fixé annuellement par Suravenir ; avant la première attribution de bénéfices, le capital investi est restitué net des frais contractuels
+- **Rachat partiel en cours d'année** : revalorisation au prorata temporis de la durée écoulée depuis le 1er janvier (source : fortuneo.fr)
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

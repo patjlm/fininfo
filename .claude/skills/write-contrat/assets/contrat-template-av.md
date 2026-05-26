@@ -44,7 +44,7 @@ derniere-verification: YYYY-MM-DD
 - **Performance 2024** : X %
 - **Performance 2025** : X %
 - **Performance cumulée 5 ans** : X %
-- **Contraintes d'accès** : ex : XX % min en UC requis
+- **Contraintes d'accès** : ex. « aucune — 100 % fonds euros possible » / « XX % min en UC requis » / « XX % max du contrat » / « rendement bonifié uniquement si XX % d'UC »
 - **Note fonds euros** : X/5
 
 ## Unités de compte
@@ -55,18 +55,40 @@ derniere-verification: YYYY-MM-DD
 - **SCPI** : X
 - **Titres vifs** : oui / non
 - **Rééquilibrage automatique** : oui / non
-- **Autres supports** : produits structurés, OPCI, SCI...
+- **Redistribution loyers SCPI** : XX % (réinvestis sur fonds euros / versés en cash)
+- **Autres supports** : produits structurés, OPCI, SCI, private equity (FCPR)...
 - **Note UC** : X/5
 
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : YYYY-MM-DD -->
 
+### Versements
+
 - **Versement initial minimum** : XXX EUR
 - **Versements libres minimum** : XXX EUR
 - **Versements programmés minimum** : XXX EUR / mois
+
+### Arbitrages
+
 - **Arbitrage minimum** : XXX EUR
-- **Règles d'arbitrage** : ex : « pas d'arbitrage du fonds euros vers SCPI »
-- **Limites d'investissement** : ex : « 40 % SCPI max », « 100 % fonds euros possible »
+- **Frais d'arbitrage** : ex. « 0 % (0,10 % ETF) »
+
+### SCPI — Règles spécifiques
+
+- **Limite par versement** : XX % max du montant de chaque opération en SCPI
+- **Limite cumulée** : XX % max de l'épargne totale du contrat / XX EUR max net de désinvestissements
+- **Arbitrage fonds euros → SCPI** : possible / interdit (versement uniquement)
+- **Versements programmés sur SCPI** : autorisés / non autorisés
+- **Délai avant arbitrage SCPI** : ex. « aucun » / « 4 ans révolus »
+- **Pénalité de sortie SCPI** : ex. « 3 % si < 3 ans » / « aucune »
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en arbitrage** : possible / interdit (versement initial uniquement)
+- **Conditions particulières** : ex. « rachat total en cours d'année = perte valorisation annuelle »
+
+### Autres
+
 - **Conditions gestion pilotée** : profils, frais, minimum
 - **Rachat partiel minimum** : XXX EUR
 - **Avance sur contrat** : conditions

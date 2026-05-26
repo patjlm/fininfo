@@ -156,6 +156,17 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - Suravenir Rendement 2 : 80 % maximum du contrat
 - Suravenir Opportunités 2 : 70 % maximum, disponible par périodes uniquement
 
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobilier : SC Y Immo (FR001400HPS4) (source : yomoni.fr)
+
+### Fonds euros — Règles spécifiques
+
+- **Suravenir Rendement 2** : 80 % maximum du contrat ; accessible en gestion libre et mandat d'arbitrage (source : yomoni.fr)
+- **Suravenir Opportunités 2** : 70 % maximum ; inéligible aux arbitrages — accessible uniquement par versement lors des périodes d'ouverture ; non disponible en continu (source : yomoni.fr)
+- **En mandat d'arbitrage** : accès uniquement à Suravenir Rendement et Suravenir Rendement 2 — Suravenir Opportunités 2 non disponible (source : yomoni.fr)
+- **Rachat total en cours d'année** : Non communiqué précisément [à vérifier sur notice Suravenir/Althéis n°3185]
+
 ### Mandat d'arbitrage (gestion pilotée)
 - 10 profils de risque numérotés (Profil 2 Prudent à Profil 10 Audacieux)
 - Versions ESG disponibles pour tous les profils

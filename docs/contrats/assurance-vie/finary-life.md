@@ -101,6 +101,16 @@ Les 3 profils de gestion profilée utilisent exclusivement les ETF iShares Portf
 - **Clause bénéficiaire** : standard / libre (modifiable en ligne via l'espace Generali)
 - **Garantie financière FGAP** : 70 000 EUR par personne et par assureur (90 000 EUR pour les rentes) — fonds détenus par Generali Vie, distincts des actifs de Finary SAS
 
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat (source : Finary)
+
+### Fonds euros — Règles spécifiques
+
+- **Accès sans contrainte UC hors boost** : 100 % fonds euros Netissima possible sans obligation d'UC (hors offre boostée)
+- **Condition boost 2026-2027** : 30 % minimum en UC requis au moment de l'investissement ET au 31 décembre de chaque année pour bénéficier du taux boosté (+1,50 % nets) — plafond 500 000 EUR par versement
+- **Rachat avec boost** : en cas de retrait, les fonds bénéficiant du boost sont désinvestis en priorité (prorata temporis) — source : Finary Help
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

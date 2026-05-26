@@ -64,7 +64,7 @@ derniere-verification: 2026-05-26
 - **OPCI** : 1 (Opcimmo)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (via options d'arbitrage automatique)
-- **Redistribution loyers SCPI** : 85 % [à vérifier pour les nouveaux supports SCI/OPCI]
+- **Redistribution loyers SCPI** : 100 % — coupons réinvestis intégralement sur le fonds euros (confirmé notice Suravenir) [à vérifier pour SCI/OPCI]
 - **Autres supports** : fonds ISR, fonds thématiques, fonds actions, obligataires, diversifiés, fonds datés
 - **Note UC** : 3,5/5
 
@@ -92,12 +92,22 @@ derniere-verification: 2026-05-26
 - **Sécurisation des plus-values** : transfert automatique des gains vers support éligible — seuil min. 5 % de plus-value du capital net investi — montant min. 100 EUR — gratuit
 - **Dynamisation des plus-values du fonds euros** : arbitrage annuel automatique des gains du Fonds Euros Retraite vers les UC choisies — montant min. 100 EUR — gratuit
 
-### Supports immobiliers — Règles spécifiques
+### SCPI — Règles spécifiques
 
-- **Limite par support** : 50 000 EUR max et 50 % de l'encours total du contrat [à vérifier — données issues du contrat Fortuneo Vie, applicabilité au PER à confirmer]
+- **% max par versement en SCPI** : Non communiqué explicitement dans la notice [à vérifier sur fortuneo.fr ou auprès de Suravenir]
+- **% max cumulé de l'épargne en SCPI** : 50 000 EUR max et 50 % de l'encours total du contrat par support [à vérifier — données issues du contrat Fortuneo Vie, applicabilité au PER à confirmer]
+- **Arbitrage fonds euros → SCPI** : possible — les options d'investissement progressif et d'arbitrage manuel permettent d'arbitrer depuis le fonds euros vers les SCPI
+- **Versements programmés sur SCPI** : non autorisés (confirmé dans la notice Suravenir et sur le site Fortuneo)
+- **Pénalité de sortie SCPI** : non mentionnée dans la notice Suravenir ni sur le site Fortuneo [à vérifier dans l'annexe complémentaire de chaque SCPI]
 - **Valorisation SCPI** : hebdomadaire (1er jour ouvré de chaque semaine)
-- **Revenus SCPI** : réinvestis mensuellement sur le fonds euros du contrat
-- **Versements programmés** : non autorisés sur les SCPI, SCI et OPCI
+- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé dans la notice Suravenir)
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en arbitrage** : possible — arbitrage depuis le fonds euros vers des UC (SCPI incluses) via options d'arbitrage automatique (investissement progressif, dynamisation des plus-values) ou arbitrage manuel
+- **Sortie partielle en cours d'année** : revalorisation de la part sortie au prorata temporis, versée lors de l'attribution de la participation aux bénéfices en début d'année suivante
+- **Sortie totale du fonds euros** (arbitrage, transfert, rachat, conversion en rente) avant l'attribution annuelle des bénéfices : le capital est augmenté d'une revalorisation au prorata temporis calculée sur un taux fixé par Suravenir — pas de perte d'intérêts totale, mais les intérêts sont calculés au taux de revalorisation intermédiaire (inférieur au taux servi annuellement)
+- **Différé possible** : les arbitrages en sortie du fonds euros ou des UC immobilières peuvent être différés jusqu'à 6 mois pour préserver l'intérêt des adhérents
 
 ### Gestion a horizon
 
@@ -178,7 +188,7 @@ Performances 2025 nettes et annualisées depuis création (du 05/12/2024 au 31/1
 | Opcimmo | FR0011066802 | -8,88 % | 4/7 |
 
 - **Versements programmés sur supports immobiliers** : non autorisés
-- **Revenus SCPI** : réinvestis mensuellement sur le fonds euros du contrat [à vérifier pour SCI/OPCI]
+- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé notice Suravenir) [à vérifier pour SCI/OPCI]
 - **Contraintes de plafonnement** : 50 000 EUR max et 50 % de l'encours total par support [à vérifier — données issues du contrat Fortuneo Vie, applicabilité au PER à confirmer]
 
 ## Expérience client

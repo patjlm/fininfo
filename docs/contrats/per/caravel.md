@@ -93,6 +93,27 @@ derniere-verification: 2026-05-26
 - **Sortie** : en capital (0 % de frais) ou en rente viagère (1,50 % d'arrérage)
 - **Délai de renonciation** : 30 jours après ouverture du contrat
 
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.getcaravel.fr/plans (portefeuilles thématiques) -->
+
+- **Disponibilité** : SCI et SCPI responsables accessibles via le portefeuille thématique « Immobilier » (en complément du portefeuille principal en gestion déléguée)
+- **Condition d'accès** : portefeuille thématique Immobilier accessible à partir de 150 EUR en versement libre complémentaire, exclusivement pour les clients existants
+- **% max par versement en SCPI** : [à vérifier — non communiqué sur le site officiel]
+- **% max cumulé de l'épargne** : 50 % max en fonds euros (implique 50 % min en UC dont SCPI possibles) — plafond cumulé SCPI non communiqué publiquement [à vérifier]
+- **Arbitrage fonds euros → SCPI** : non applicable — gestion déléguée, arbitrages réalisés automatiquement par Caravel
+- **Versements programmés sur SCPI** : [à vérifier — non communiqué sur le site officiel]
+- **Pénalité de sortie SCPI** : [à vérifier — non communiqué sur le site officiel]
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.getcaravel.fr/plans (portefeuille thématique Capital Garanti), https://help.getcaravel.fr/fr/articles/6903898-quels-sont-les-frais-appliques-sur-mon-per -->
+
+- **Accès dans la gestion déléguée principale** : non — les portefeuilles Caravel (Croissance, Équilibre, Sécurisation) ne contiennent pas de fonds euros ; le fonds monétaire Apicil Trésorerie est utilisé en phase de sécurisation à la place
+- **Accès via portefeuille thématique** : oui — portefeuille thématique « Capital Garanti » (aucun risque de perte en capital, performance garantie) accessible à partir de 150 EUR en versement libre complémentaire, en complément du portefeuille principal
+- **Limite fonds euros** : 50 % max du contrat (obligation de 50 % minimum en UC)
+- **Conditions particulières** : [à vérifier — règles de rachat total et perte d'intérêts non communiquées publiquement sur le site officiel]
+
 ## Expérience client
 <!-- Mis à jour : 2026-05-26 -->
 

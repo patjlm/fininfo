@@ -137,6 +137,22 @@ Source : [Conditions générales Lucya CNP — Annexe 1 en vigueur au 01/04/2026
 - **Délai d'exécution arbitrage** : J+1 ouvré si dossier reçu avant 12h, J+2 ouvré si reçu après 12h
 - **Règles d'arbitrage** : arbitrages illimités et gratuits en Gestion Libre ; aucune contrainte spécifique sur le fonds euros
 - **Limites d'investissement** : 100 % fonds euros possible ; les supports à fenêtre de commercialisation (SCPI, private equity) sont soumis à des périodes de souscription définies par les sociétés de gestion
+
+### SCPI — Règles spécifiques
+
+- **SCPI disponibles** : 9 supports immobiliers (SCPI et fonds immobiliers) à fenêtre de commercialisation — disponibilité définie par les sociétés de gestion (non permanente)
+- **Limite par versement** : [à vérifier — aucune limite en % explicitement mentionnée dans les conditions générales disponibles]
+- **Frais de rachat UC non cotés** : jusqu'à 5 % maximum sur les supports à fenêtre de commercialisation (dont SCPI) — jusqu'à 20 % sur les UC non cotés à faible liquidité mentionnés à l'art. L. 132-5-4 du Code des assurances (source : conditions générales 01/04/2026)
+- **Frais d'arbitrage en désinvestissement** : jusqu'à 5 % maximum sur supports avec dispositions particulières (dont SCPI)
+- **Versements programmés sur SCPI** : [à vérifier — les supports à fenêtre de commercialisation sont par nature à souscription périodique]
+- **Redistribution des loyers** : [à vérifier — non mentionné explicitement dans les documents disponibles]
+
+### Fonds euros — Règles spécifiques
+
+- **Accès** : aucune contrainte — investissement à 100 % possible, sans condition de % d'UC minimale
+- **Garantie** : garantie permanente du capital hors frais de gestion de 0,70 % / an — soit 99,3 % du capital annuellement
+- **Taux non conditionnel** : le rendement du fonds euros (2,33 % net en 2025) n'est pas conditionné à la part d'UC détenue — taux unique pour tous les assurés
+- **Pas de bonus** : aucun complément de rémunération conditionnel documenté pour ce contrat (contrairement à Lucya by AXA et Lucya Cardif)
 - **Titres vifs** : accessibles 30 jours après signature du contrat (pas après encaissement)
 - **Conditions gestion pilotée** :
   - 3 profils : modérée, équilibrée, dynamique

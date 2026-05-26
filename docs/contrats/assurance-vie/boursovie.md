@@ -107,6 +107,21 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avance sur contrat** : Non communiqué [à vérifier]
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 
+### SCPI — Règles spécifiques
+
+- **Plafond par SCPI** : 200 000 EUR maximum par produit (source : BoursoBank)
+- **Blocage de désinvestissement** : arbitrages de sortie interdits les 4 premières années suivant l'investissement (source : BoursoBank)
+- **Rachat anticipé** : rachat possible après désinvestissement complet des autres supports
+- **Versements programmés sur SCPI** : non éligibles (source : BoursoBank)
+- **Minimum par opération** : 25 EUR (source : BoursoBank)
+- **Redistribution des loyers** : 90 % (source : sinvestir.fr) [à vérifier sur documents contractuels]
+
+### Fonds euros — Règles spécifiques
+
+- **Plafond annuel Euro Exclusif** : 1 000 000 EUR par année civile — au-delà, tout versement complémentaire sur le fonds euros doit comporter au minimum 50 % en unités de compte (source : BoursoBank)
+- **Accès sans contrainte UC** : 100 % fonds euros possible jusqu'au plafond de 1 M EUR/an
+- **Fonds Eurossima** : fermé aux nouveaux investissements (source : BoursoBank)
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

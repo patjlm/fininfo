@@ -55,6 +55,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2025 : 3,26 % (net de frais de gestion, hors prélèvements fiscaux et sociaux)
   - Performance cumulée 2023+2024+2025 : 9,88 %
 - **Investissement maximum combiné** : 5 000 000 EUR (Nouvelle Génération + Objectif Climat)
+- **Contraintes d'accès** : aucune — 100 % fonds euros possible (pas d'obligation d'investir en UC)
 - **Note fonds euros** : 5/5
 
 ## Unités de compte
@@ -231,29 +232,55 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 
+### Versements et retraits
+
 - **Versement initial minimum** : 500 EUR
 - **Versements libres minimum** : 100 EUR
 - **Versements programmés minimum** : 100 EUR / mois
-- **Arbitrage minimum** : Non communiqué
 - **Rachat partiel minimum** : 500 EUR (rachat instantané en ligne)
-- **Règles d'arbitrage** :
-  - Fonds Euro Objectif Climat : accessible uniquement par versement libre ou programmé — pas par arbitrage
-  - Fonds Euro Nouvelle Génération : accessible par versement et par arbitrage
-  - Arbitrage en ligne : 0 % de frais (hors ETF à 0,06 %, ETC à 0,10 % et actions à 0,60 %)
-- **Limites d'investissement** :
-  - 100 % fonds euros possible (Nouvelle Génération et/ou Objectif Climat)
-  - Investissement maximum combiné sur les deux fonds euros : 5 000 000 EUR
-- **Conditions gestion pilotée** :
-  - OTEA Capital : 5 profils (Défensif, Équilibré, Équilibré responsable, Dynamique, Agressif) — gestion active — surcoût +0,20 % / an
-    - Performances 2025 : Défensif +2,89 %, Équilibré +4,54 %, Dynamique +4,56 %, Agressif +3,69 %
-  - Yomoni : 4 profils (Défensif, Équilibré, Tonique, Offensif) — 100 % ETF/fonds indiciels — surcoût +0,70 % / an
-    - Performances 2025 : Défensif +3,64 %, Équilibré +4,30 %, Tonique +6,89 %, Offensif +9,83 %
-  - Gestion mixte : combinaison libre + pilotée possible
-- **Offre bonus fonds euros 2026-2027** : jusqu'à +1,50 % de rendement net supplémentaire pour versements ≥ 100 000 EUR (sous condition d'investissement en UC)
-- **SCPI / SCI : liquidité** : garantie par Spirica, jouissance au 1er jour du mois suivant l'investissement
 - **Avance sur contrat** : Non communiqué [à vérifier]
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 - **Assurance-vie pour mineur** : oui, 100 % digitale
+
+### Arbitrages
+
+- **Arbitrage minimum** : 100 EUR
+- **Frais d'arbitrage en ligne** : 0 % (sauf ETF 0,06 %, ETC 0,10 %, titres vifs 0,60 %)
+- **Fonds Euro Objectif Climat** : accessible uniquement par versement libre ou programmé — arbitrage interdit
+- **Fonds Euro Nouvelle Génération** : accessible par versement et par arbitrage
+- **Arbitrage fonds euros → SCPI** : possible (source : support.linxea.com)
+
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+
+- **Limite par versement** : 50 % max du montant de chaque versement en SCPI
+- **Limite cumulée** : 1 000 000 EUR sur l'ensemble des SCPI du contrat
+- **Pénalité de sortie** : 3 % sur sommes brutes désinvesties si arbitrage ou rachat avant 3 ans
+- **Versements programmés sur SCPI** : non autorisés (source : support.linxea.com/fr/articles/4818)
+- **Arbitrage vers SCPI** : possible — depuis des UC ou depuis le Fonds Euro Nouvelle Génération (source : support.linxea.com/fr/articles/4787 — « Il est également possible d'arbitrer vers des SCPI »)
+- **Arbitrage fonds euros → SCPI** : possible via le Fonds Euro Nouvelle Génération (accessible par arbitrage) — interdit depuis le Fonds Euro Objectif Climat (accessible uniquement par versement)
+- **SCPI accessibles uniquement en versement** : aucune restriction de ce type mentionnée dans les sources officielles
+- **Délai de jouissance** : loyers perçus dès le 1er jour du mois suivant l'investissement
+- **Redistribution des loyers** : 100 % des loyers réinvestis automatiquement sur le Fonds Euro Nouvelle Génération Spirica
+
+### Fonds euros — Règles spécifiques
+
+- **Fonds Euro Nouvelle Génération** : 100 % possible — accessible par versement et par arbitrage — garanti à 98 %
+- **Fonds Euro Objectif Climat** : 100 % possible — accessible uniquement par versement (pas par arbitrage) — garanti à 98 %
+- **Investissement maximum combiné** : 5 000 000 EUR (Nouvelle Génération + Objectif Climat)
+- **Contrainte UC** : aucune — 100 % fonds euros possible sur les deux fonds sans obligation d'investir en UC
+
+### Fonds euros — Offre bonus 2026-2027
+
+- Jusqu'à +1,50 % de rendement net supplémentaire pour versements ≥ 100 000 EUR (sous condition d'investissement en UC)
+
+### Gestion pilotée
+
+- **OTEA Capital** : 5 profils (Défensif, Équilibré, Équilibré responsable, Dynamique, Agressif) — gestion active — surcoût +0,20 % / an
+  - Performances 2025 : Défensif +2,89 %, Équilibré +4,54 %, Dynamique +4,56 %, Agressif +3,69 %
+- **Yomoni** : 4 profils (Défensif, Équilibré, Tonique, Offensif) — 100 % ETF/fonds indiciels — surcoût +0,70 % / an
+  - Performances 2025 : Défensif +3,64 %, Équilibré +4,30 %, Tonique +6,89 %, Offensif +9,83 %
+- Gestion mixte : combinaison libre + pilotée possible
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
@@ -301,3 +328,5 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - [Spirica — Site officiel assureur](https://www.spirica.fr/)
 - [Spirica — Rapport SFCR 2025 (solvabilité)](https://www.spirica.fr/informations/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
+- [Linxea Support — Conditions SCPI/SCI/OPCI Spirit 2](https://support.linxea.com/fr/articles/4787-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-spirit-2)
+- [Linxea Support — Versements programmés sur SCPI](https://support.linxea.com/fr/articles/4818-est-ce-que-je-peux-faire-des-versements-programmes-sur-les-scpi-proposees-par-linxea)

@@ -93,6 +93,15 @@ derniere-verification: 2026-05-26
 - **Réinvestissement loyers** : sur le fonds euros Retraite (actif cantonné)
 - **Fréquence** : trimestrielle
 
+### Fonds euros — Règles spécifiques
+
+- **Plafond fonds euros** : 70 % maximum du contrat (obligation de 30 % minimum en UC)
+- **Obligation UC** : tout versement doit comporter au minimum 30 % en unités de compte — impossibilité d'allouer 100 % en fonds euros
+- **Arbitrage vers fonds euros** : 1 % de frais (contrairement aux arbitrages vers UC qui sont gratuits)
+- **Actif cantonné** : le fonds euros MIF Retraite est un actif distinct (cantonné), séparé de l'actif général de la MIF — sécurité supplémentaire pour les épargnants
+- **Effet cliquet** : intérêts définitivement acquis chaque année
+- **Rachat total en cours d'année** : [à vérifier] — aucune règle explicite de perte de valorisation annuelle trouvée sur le site officiel
+
 ### Gestion pilotée à horizon (mode par défaut)
 
 - **Profils disponibles** : Prudent, Équilibré (par défaut), Dynamique, Offensif

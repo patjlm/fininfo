@@ -90,6 +90,18 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Clause bénéficiaire** : Non communiqué [site afer.fr inaccessible]
 - **Garantie plancher** : oui — 0,055 % / an ; capital garanti aux bénéficiaires en cas de décès avant 75 ans (source : placement-direct.fr)
 
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat (source : sinvestir.fr, placement-direct.fr)
+
+### Fonds euros — Règles spécifiques
+
+- **Plafond** : 75 % maximum du contrat en Fonds Garanti en euros (source : sinvestir.fr — à vérifier sur afer.fr, site inaccessible)
+- **Frais de versement sur fonds euros** : 0,50 % (vs 0 % sur UC et Afer Eurocroissance) (source : placement-direct.fr)
+- **Avance sur contrat** : plafonnée à 80 % de l'épargne sur le fonds garanti en euros (source : placement-direct.fr)
+- **Garantie** : Fonds Garanti en euros garanti à 98 % (source : sinvestir.fr) [à vérifier sur conditions officielles afer.fr]
+- **Rachat total en cours d'année** : Non communiqué [à vérifier — site afer.fr inaccessible]
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

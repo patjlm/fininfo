@@ -50,8 +50,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2024 : 2,75 %
   - Performance 2025 : 2,75 %
   - Performance cumulée 5 ans : 11,60 %
-  - Contraintes d'accès : aucune contrainte particulière ; 100 % fonds euros possible
-  - Bonus 2026-2027 : jusqu'à +1,50 % sous conditions (minimum 10 000 EUR versés, 45 % de l'encours en UC — non garanti)
+  - Contraintes d'accès : aucune contrainte particulière ; 100 % fonds euros possible sans condition d'UC minimale
+  - Bonus 2026-2027 : jusqu'à +1,50 % (hypothèse de taux 4,25 %) — conditions : minimum 10 000 EUR versés et 45 % de l'encours en UC — non garanti (source : lucya.com/rendement-des-fonds-euros-2025/)
 - **Fonds Euro Private Strategies** (garanti à 97 % — actifs non cotés)
   - Performance 2024 : 3,00 %
   - Performance 2025 : 2,75 %
@@ -103,6 +103,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance depuis origine (Modéré, depuis 06/2023) : +7,92 % cumulé (à mars 2026)
 - **Avance sur contrat** : disponible (sous conditions de l'assureur)
 - **Clause bénéficiaire** : standard / libre / démembrée
+
+### SCPI — Règles spécifiques
+
+- **SCPI disponibles** : 3 (à fenêtre de commercialisation — disponibilité variable)
+- **Pénalité de sortie** : 3 % sur les sommes rachetées ou arbitrées dans les 3 ans suivant l'investissement sur ce support
+- **Versements programmés sur SCPI** : [à vérifier — non mentionné dans la documentation disponible]
+- **Redistribution des loyers** : 100 %
+- **Limite par versement** : [à vérifier — pas de limite explicite mentionnée pour les SCPI dans les conditions publiées]
+
+### Fonds euros — Règles spécifiques
+
+- **Fonds Euro Général** : 100 % possible sans contrainte minimale d'UC — taux unique non conditionné à la part d'UC (2,75 % net en 2025)
+- **Bonus 2026-2027** : jusqu'à +1,50 % (hypothèse 4,25 %) — conditions : minimum 10 000 EUR et 45 % de l'encours en UC — non garanti (source : lucya.com/rendement-des-fonds-euros-2025/)
+- **Fonds Euro Private Strategies** : accessible uniquement par versements libres (non programmés), montant minimum 500 EUR — le montant en UC au moment du versement doit être au moins 2 fois le montant investi dans ce fonds — ne peut pas dépasser 1/3 de l'encours total du contrat — frais de gestion 3 % / an (inclus dans la performance nette affichée)
+- **Garantie Fonds Euro Général** : 99,3 % (garantie permanente du capital hors frais de gestion de 0,70 % / an)
+- **Garantie Fonds Euro Private Strategies** : 97 % du capital à terme
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->

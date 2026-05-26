@@ -94,11 +94,18 @@ derniere-verification: 2026-05-26
 - **Arbitrages automatiques en gestion horizon** : annuels, sans frais (réajustement de la répartition selon le profil)
 - **Contrainte 30 %** : en gestion libre, si le cumul de l'épargne sur les supports UC soumis au plafond (Annexe 2) dépasse 30 %, l'arbitrage entrant vers ces supports est refusé — l'adhérent doit redéfinir la répartition pour rester dans les limites
 
-### Contraintes fonds euros
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat (ni SCPI, ni SCI externe, ni OPCI). Les seuls supports immobiliers sont deux sociétés civiles propriétaires : SC Carac Générations Immo ISR et SC Carac Perspectives Immo ISR.
+
+### Fonds euros — Règles spécifiques
 
 - **Accès au fonds euros** : libre en gestion libre, sans condition de répartition minimale en UC
-- **Limitation des mouvements** : le Conseil d'administration du GERP Carac peut voter la limitation des mouvements entrants (versements, transferts) et sortants (arbitrages) vers/depuis le fonds euros en cas de conditions économiques défavorables (clause de protection, art. 6.1 note d'information) — délai maximum de 3 mois, renouvelable une fois
-- **100 % fonds euros** : possible en gestion libre (aucune contrainte de 50 % UC minimum selon note d'information juillet 2025)
+- **100 % fonds euros possible** : oui, en gestion libre (aucune contrainte de minimum UC selon note d'information juillet 2025)
+- **Limitation des mouvements** : le Conseil d'administration du GERP Carac peut voter la suspension des mouvements entrants (versements, transferts) et sortants (arbitrages) vers/depuis le fonds euros en cas de conditions économiques défavorables (clause de protection, art. 6.1 note d'information) — délai maximum de 3 mois, renouvelable une fois
+- **Contrainte 30 %** : en gestion libre, certains supports UC (PE et SC immobiliers) sont plafonnés à 30 % des versements cumulés — cette contrainte ne concerne pas le fonds euros lui-même
+- **Rachat total en cours d'année** : [à vérifier] — aucune règle explicite de perte d'intérêts annuels trouvée dans les documents disponibles
+- **Effet cliquet** : intérêts définitivement acquis chaque année (capital garanti brut de frais de gestion)
 
 ### Gestion profilée à horizon retraite
 

@@ -92,6 +92,25 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Clause bénéficiaire** : standard / libre / démembrée
 - **Délai de renonciation** : 30 jours calendaires
 
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : altaprofits.com — informations non détaillées publiquement -->
+
+- **Nombre de supports immobiliers** : 8 (SCPI, SCI, OPCI confondus)
+- **Plafond par versement** : Non communiqué [à vérifier dans les conditions générales]
+- **Plafond cumulé** : Non communiqué [à vérifier]
+- **Pénalité de sortie** : Non communiqué [à vérifier]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+- **Frais supplémentaires sur supports immobiliers** : 0,10 % / an supplémentaire (s'ajoute aux 0,60 % de gestion UC standard)
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : altaprofits.com -->
+
+- **Eurossima** : accessible à 100 % sans condition d'UC — aucun plafond en pourcentage communiqué
+- **Netissima** : accessible à 100 % sans condition d'UC pour l'accès standard
+- **Bonus de taux Netissima** : 30 % minimum en UC requis pour bénéficier de la bonification de taux (+1,50 % ponctuelle) — limite de 500 000 EUR par versement
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

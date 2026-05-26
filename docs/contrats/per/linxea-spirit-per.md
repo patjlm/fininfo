@@ -83,12 +83,16 @@ derniere-verification: 2026-05-26
 - **Arbitrage fonds euros → SCPI** : possible (permet d'atteindre > 50 % en SCPI via arbitrages successifs)
 
 ### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI
 - **Limite cumulée** : 1 000 000 EUR net de désinvestissements sur l'ensemble des SCPI du contrat
 - **Limites spécifiques** : Efimmo et [Immorente](../../actifs/scpi/immorente.md) limitées à 50 000 EUR par acte, sous réserve d'enveloppe disponible
 - **Pénalité de sortie** : 3 % sur sommes brutes désinvesties si arbitrage ou rachat avant 3 ans
 - **Versements programmés sur SCPI** : non autorisés
+- **Arbitrage vers SCPI** : possible — depuis des UC ou depuis le Fonds Euro PER Nouvelle Génération (même règles que le contrat Spirit 2 Spirica — arbitrage vers SCPI confirmé, source : support.linxea.com/fr/articles/4787 applicable par analogie, aucun article dédié Spirit PER trouvé sur support.linxea.com)
+- **Arbitrage fonds euros → SCPI** : possible via le Fonds Euro PER Nouvelle Génération (accessible par arbitrage) — la limite de 50 % s'applique à chaque arbitrage
+- **SCPI accessibles uniquement en versement** : aucune restriction de ce type mentionnée dans les sources officielles
 - **Options d'arbitrage programmé sur SCPI** : non éligibles (sécurisation plus-values, limitation moins-values, investissement progressif, rééquilibrage automatique)
 - **Délai de jouissance** : loyers perçus dès le 1er jour du mois suivant l'investissement
 - **Redistribution** : 100 % des loyers, réinvestis sur le fonds euros du contrat

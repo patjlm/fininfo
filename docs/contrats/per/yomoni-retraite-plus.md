@@ -129,6 +129,22 @@ derniere-verification: 2026-05-26
 - **Transfert sortant** : 1 % maximum si < 5 ans depuis l'adhésion, 0 % après 5 ans
 - **Délai de transfert sortant** : l'assureur verse les sommes dans un délai de 2 mois maximum
 
+### SCPI — Règles spécifiques
+
+Non applicable — aucune SCPI disponible sur ce contrat. L'exposition immobilière se fait uniquement via SC Y Immo (société civile gérée par Épopée Gestion, label ISR), disponible en gestion pilotée et en gestion libre.
+
+### Fonds euros — Règles spécifiques
+
+- **Fonds disponible** : Fonds Euro PER Nouvelle Génération (Spirica)
+- **Garantie** : 98 % du capital investi (hors frais de gestion)
+- **Plafond contractuel** : accessible jusqu'à 100 % du contrat (pas de plafond imposé en % — contrairement à d'autres contrats)
+- **Accès en gestion pilotée** : l'allocation vers le fonds euros est déterminée par le profil choisi (prudent, équilibré, dynamique) — l'épargnant ne peut pas y investir directement
+- **Accès en gestion libre** : l'épargnant peut y investir directement, sans contrainte de répartition minimale en UC
+- **Plafond absolu** : 5 000 000 EUR tous contrats Spirica confondus (fonds euros Spirica)
+- **Effet cliquet** : intérêts définitivement acquis chaque année (garantie 98 % permanente)
+- **Rachat total en cours d'année** : [à vérifier] — risque de perte de la valorisation annuelle non confirmé ou infirmé sur les documents Yomoni/Spirica disponibles
+- **Frais de gestion** : 2 % maximum / an (source : CGV Spirica)
+
 ### Différences avec Yomoni Retraite (PER bancaire)
 
 - **Yomoni Retraite** (bancaire, lancé 2020) : 100 % ETF, pas de fonds euros (part sécurisée en fonds obligataire), conservé au Crédit Agricole Titres, garantie FGDR 100 000 EUR, droits de succession classiques

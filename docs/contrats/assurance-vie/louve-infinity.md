@@ -118,6 +118,21 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 - **Garantie financière FGAP** : 70 000 EUR par personne et par assureur (90 000 EUR pour les rentes)
 
+### SCPI — Règles spécifiques
+
+- **Limite par versement ou arbitrage** : 55 % maximum du contrat en SCPI (toutes SCPI confondues) — la part peut temporairement dépasser 55 % si d'autres supports baissent en valeur (source : louveinvest.com)
+- **Redistribution des loyers** : 100 % des loyers bruts (source : louveinvest.com)
+- **Frais de souscription SCPI** : identiques à l'achat en direct (jusqu'à ~12 %), prélevés au moment du retrait des parts — non prélevés à l'entrée (source : louveinvest.com)
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+- **Délai de jouissance** : Non communiqué [à vérifier]
+- **Plafond cumulé** : Non communiqué précisément au-delà de la règle des 55 % [à vérifier]
+
+### Fonds euros — Règles spécifiques
+
+- **Plafond strict** : 10 % maximum de l'épargne du contrat — investissement majoritaire en fonds euros impossible (source : louveinvest.com)
+- **Garantie** : Corum EuroLife garanti à 100 % net de frais de gestion (source : louveinvest.com)
+- **Rachat total en cours d'année** : Non communiqué [à vérifier sur conditions générales Corum Life]
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

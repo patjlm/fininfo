@@ -71,6 +71,8 @@ derniere-verification: 2026-05-26
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 
+### Versements et arbitrages
+
 - **Versement initial minimum** : 150 EUR
 - **Versements libres minimum** : 150 EUR
 - **Versements programmés minimum** : 50 EUR / mois (modifiable ou résiliable à tout moment)
@@ -82,16 +84,38 @@ derniere-verification: 2026-05-26
   - Fonds euros Sécurité Infra Euro Retraite : 60 % max, plafond 1 M EUR
   - En gestion libre : 50 % minimum en UC obligatoire
   - En gestion pilotée : 70 % minimum en UC (profil prudent, horizon > 10 ans)
-- **Conditions gestion pilotée** :
-  - 3 profils : Prudent, Équilibré, Dynamique
-  - Surcoût : 0,37 % / an max (allocation)
-  - Frais totaux : 0,90 % / an (Prudent) à 1,02 % / an (Dynamique) sous-jacents inclus
-  - Composition : ETF iShares ISR + FCPR (private equity) + fonds euros
-  - Désensibilisation progressive à l'approche de la retraite
-  - Performance 2025 : Prudent +6,69 %, Équilibré +7,43 %, Dynamique +8,18 % (horizon 15 ans, net de frais)
-  - Performance 2024 : Prudent +10,45 %, Équilibré +11,65 %, Dynamique +14,53 % (horizon 15 ans)
-  - Performance 3 ans : Prudent +30,37 %, Équilibré +34,63 %, Dynamique +41,64 % (horizon 15 ans)
-  - Pas de montant minimum spécifique (même que le contrat : 150 EUR)
+
+### SCPI — Règles spécifiques
+
+- **% max par versement en SCPI** : Non communiqué [à vérifier dans la notice MATLA ou auprès de BoursoBank]
+- **% max cumulé de l'épargne en SCPI** : Non communiqué [à vérifier — la règle générale impose 50 % min en UC, ce qui plafonne l'immobilier + fonds euros à 50 % au total]
+- **Arbitrage fonds euros → SCPI** : Non communiqué [à vérifier — en gestion libre, les arbitrages sont gratuits et en ligne, mais l'applicabilité aux SCPI spécifiquement n'est pas précisée dans les documents publics]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+- **Pénalité de sortie SCPI** : Non communiquée [à vérifier dans la notice ou les annexes SCPI]
+- **Valorisation SCPI** : hebdomadaire (confirmé dans l'annexe financière Oradéa Vie)
+- **Revenus SCPI** : Non communiqué (réinvestissement ou distribution) [à vérifier]
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en gestion libre** : plafonné — 40 % max du contrat pour Sécurité Retraite Euro, 60 % max pour Sécurité Infra Euro Retraite ; 50 % minimum en UC obligatoire (le fonds euros ne peut donc pas dépasser 50 % de l'encours total en gestion libre)
+- **Accès en gestion pilotée** : 30 % max de fonds euros (profil prudent, horizon > 10 ans)
+- **Accès en arbitrage** : possible — les arbitrages sont gratuits et en ligne en gestion libre
+- **Conditions de sortie** : pas de règle de perte d'intérêts identifiée dans la documentation publique [à vérifier dans les conditions générales Oradéa Vie]
+
+### Gestion pilotée
+
+- 3 profils : Prudent, Équilibré, Dynamique
+- Surcoût : 0,37 % / an max (allocation)
+- Frais totaux : 0,90 % / an (Prudent) à 1,02 % / an (Dynamique) sous-jacents inclus
+- Composition : ETF iShares ISR + FCPR (private equity) + fonds euros
+- Désensibilisation progressive à l'approche de la retraite
+- Performance 2025 : Prudent +6,69 %, Équilibré +7,43 %, Dynamique +8,18 % (horizon 15 ans, net de frais)
+- Performance 2024 : Prudent +10,45 %, Équilibré +11,65 %, Dynamique +14,53 % (horizon 15 ans)
+- Performance 3 ans : Prudent +30,37 %, Équilibré +34,63 %, Dynamique +41,64 % (horizon 15 ans)
+- Pas de montant minimum spécifique (même que le contrat : 150 EUR)
+
+### Sortie et transfert
+
 - **Modes de sortie** :
   - Capital (en une fois ou fractionné)
   - 5 options de rente (classique avec/sans réversion 0-100 %, Rente Retraite Sérénité)

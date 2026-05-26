@@ -78,6 +78,7 @@ derniere-verification: 2026-05-26
 
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
+<!-- Sections SCPI et Fonds euros ajoutées le 2026-05-26 ; certaines données marquées [à vérifier] car non trouvées dans les documents publics Cardif -->
 
 ### Versements
 
@@ -107,6 +108,24 @@ derniere-verification: 2026-05-26
 - **Immobilier + Private Assets cumulés** : max 10 000 000 EUR et max 50 % de la valeur de rachat
 - **Fonds alternatifs (Harmony Prime)** : max 30 % de l'encours du contrat
 - **Investissement minimum par support** : Non communiqué
+
+### SCPI — Règles spécifiques
+
+> La SCPI Accimmo Pierre n'est disponible que lors d'opérations commerciales ponctuelles, sous conditions. Les contraintes ci-dessous s'appliquent lorsque le support est accessible.
+
+- **% max par versement en SCPI** : Non communiqué [à vérifier sur le site Cardif ou en agence BNP Paribas]
+- **% max cumulé de l'épargne en SCPI** : max 50 % de la valeur de rachat (règle globale immobilier + private assets)
+- **Plafond absolu par support** : 500 000 EUR par contrat
+- **Arbitrage fonds euros → SCPI** : Non communiqué [à vérifier]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+- **Pénalité de sortie SCPI** : Non communiquée [à vérifier]
+- **Disponibilité** : uniquement lors d'opérations commerciales — non disponible en permanence
+
+### Fonds euros — Règles spécifiques
+
+- **Accès en arbitrage** : possible depuis les UC vers le fonds euros (sécurisation progressive automatique en gestion pilotée dans les 3 ans avant l'échéance)
+- **Accès depuis fonds euros** : arbitrage depuis fonds euros vers UC possible en gestion libre ; en transfert sortant, une réduction de 15 % max peut être appliquée à la part investie en fonds euros dans le calcul de la valeur de transfert (conformément à la réglementation)
+- **Conditions de sortie** : pas de règle de perte d'intérêts en cours d'année identifiée dans la documentation publique disponible [à vérifier dans les conditions générales Cardif Retraite]
 
 ### Gestion pilotée
 

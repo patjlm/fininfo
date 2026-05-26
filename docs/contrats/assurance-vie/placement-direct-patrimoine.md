@@ -138,6 +138,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Limites d'investissement** : 100 % fonds euros possible ; rendement du fonds euros bonifié selon la part d'UC (paliers à 40 % et 60 % d'UC)
 - **SCPI** : 4 SCPI sans frais d'entrée, aucune limite d'investissement (en montant ni en pourcentage), aucune commission de retrait retenue sur le contrat (source : [PDF SCPI Placement Direct](https://static.placement-direct.fr/documents/scpi-du-contrat-placement-direct-patrimoine.pdf))
 - **Conditions gestion pilotée** : surcoût +0,25 % / an ; profils disponibles : prudent, équilibré, dynamique (horizon de placement)
+
+### SCPI — Règles spécifiques
+
+- **Limite par versement** : aucune — pas de limite en montant ni en pourcentage du versement (source : [PDF SCPI Placement Direct Patrimoine](https://static.placement-direct.fr/documents/scpi-du-contrat-placement-direct-patrimoine.pdf))
+- **Commission de retrait** : la potentielle commission de retrait mentionnée dans le DIC du support n'est pas retenue sur le contrat (source : PDF officiel)
+- **Redistribution des loyers** : 100 % des dividendes générés réinvestis sur les mêmes supports
+- **Frais d'entrée** : 0 % sur les 4 SCPI disponibles
+- **Versements programmés sur SCPI** : [à vérifier — non mentionné dans les documents disponibles]
+- **Arbitrage SCPI** : [à vérifier — aucune restriction mentionnée dans les documents disponibles, contrairement aux contrats SwissLife]
+
+### Fonds euros — Règles spécifiques
+
+- **Rendement conditionnel** : taux différenciés par paliers d'UC (< 40 %, 40–60 %, ≥ 60 %) — rendement maximal 4,70 % en 2025 si UC ≥ 60 %
+- **Pas de % UC minimum requis** : 100 % fonds euros possible, mais rendement minimal (2,80 % en 2025) si UC < 40 %
+- **Garantie en capital** : 100 % avec effet cliquet — intérêts définitivement acquis chaque année
+
 - **Conditions gestion profilée à horizon** : allocation auto-ajustée selon la durée restante avant l'échéance choisie
 - **Rachat partiel minimum** : Non communiqué [à vérifier]
 - **Avance sur contrat** : Non communiqué [à vérifier]

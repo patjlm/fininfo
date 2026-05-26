@@ -49,6 +49,7 @@ derniere-verification: 2026-05-26
 <!-- Source : https://www.goodvest.fr/le-per-goodvest , https://www.goodvest.fr/fonds-euros -->
 
 - **Fonds euros Generali sur PER** : aucun
+- **Contraintes d'accès** : non applicable — contrat sans fonds euros (100 % UC obligatoire)
 - **Raison historique** : Goodvest considère qu'aucun fonds euros classique ne respecte les exigences de l'Accord de Paris
 - **Alternative** : fonds obligataires ISR en remplacement (voir supports)
 - **Fonds Euro Objectif Climat (Spirica)** : disponible sur Goodlife (assurance-vie), pas confirmé sur le PER [à vérifier]
@@ -133,6 +134,23 @@ derniere-verification: 2026-05-26
 - **Pas de SCPI en direct** (mais fonds immobiliers SCI/FCPR disponibles en gestion pilotée)
 - **Pas de titres vifs**
 - **Allocation contrainte** : uniquement les supports ISR sélectionnés par Goodvest
+
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/fonds-dinvestissement-durables (aucune SCPI dans la liste des supports) -->
+
+- Non applicable — aucune SCPI disponible sur ce contrat
+- Des fonds immobiliers durables (SCI, FCPR) sont disponibles en gestion pilotée (Territoires Avenir, SC Pierre Impact, SC Terra Europe, Novaxia R, Terres Invest, Iroko Next) mais il ne s'agit pas de SCPI classiques
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/le-per-goodvest, https://www.goodvest.fr/tarifs -->
+
+- Non applicable — contrat sans fonds euros
+- Goodvest ne propose aucun fonds euros Generali sur le PER : Goodvest considère qu'aucun fonds euros classique ne respecte les exigences de l'Accord de Paris
+- 100 % des encours sont investis en unités de compte (ETF, OPCVM, fonds immobiliers, dettes privées ISR)
+- Alternative : fonds obligataires ISR à capital non garanti (dont Goldman Sachs Green Bond Short Duration, Mirova Euro Short Term Sustainable Bond)
+- Note : le Fonds Euro Objectif Climat (Spirica, Article 9, garanti à 98 %) est disponible sur Goodlife (assurance-vie), pas sur ce PER
 
 ### Transfert
 <!-- Source : https://www.goodvest.fr/transfert-per -->

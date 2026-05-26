@@ -61,7 +61,7 @@ derniere-verification: 2026-05-26
 - **Performance 2025** : 3,08 %
 - **Performance 2024** : 3,13 %
 - **Performance cumulée 5 ans** : 13,29 %
-- **Contraintes d'accès** : aucune contrainte d'UC minimale requise — 100 % investissable sur le fonds euros ; plafond de 5 000 000 EUR tous contrats Spirica confondus
+- **Contraintes d'accès** : aucune — 100 % investissable sur le fonds euros, pas d'obligation d'investir en UC ; plafond de 5 000 000 EUR tous contrats Spirica confondus
 - **Garantie** : capital garanti à 98 % (net de frais de gestion) — pas de garantie de fidélité
 - **Note fonds euros** : 5/5 (source : S'investir)
 
@@ -121,23 +121,26 @@ derniere-verification: 2026-05-26
 - **Arbitrages automatiques (gestion pilotée à horizon)** : 0 %, réalisés automatiquement par le gestionnaire au moins tous les 6 mois
 - **Arbitrages entre Profils de gestion pilotée** : montant minimum 500 EUR ou totalité du profil ; solde minimum 500 EUR après arbitrage
 
-### Contraintes SCPI
+### SCPI — Règles spécifiques
 
-- **Plafond SCPI** : 1 000 000 EUR de versements cumulés nets sur les supports SCPI
-- **Pénalité de désinvestissement** : 3 % sur les sommes brutes rachetées si désinvestissement d'un support SCPI dans les 3 ans suivant l'investissement
-- **Distribution des loyers** : 100 %
-- **Contrainte par support** : certaines SCPI ont des limites par acte (ex : Efimmo et [Immorente](../../actifs/scpi/immorente.md) : 50 000 EUR max par acte)
+- **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI [à vérifier — par analogie avec les CGU Spirica standard ; à confirmer sur l'avenant SCPI]
+- **Limite cumulée** : 1 000 000 EUR de versements cumulés nets sur l'ensemble des SCPI du contrat
+- **Limites spécifiques par SCPI** : Efimmo et [Immorente](../../actifs/scpi/immorente.md) : 50 000 EUR max par acte
+- **Versements programmés sur SCPI** : non autorisés
+- **Arbitrage fonds euros → SCPI** : possible [à vérifier — autorisé sur le contrat Spirica Spirit PER, à confirmer sur meilleurtaux Liberté PER]
+- **Pénalité de sortie** : 3 % sur les sommes brutes rachetées si désinvestissement dans les 3 ans suivant l'investissement ; 0 % au-delà
+- **Redistribution des loyers** : 100 %
 
 ### Contraintes FCPR / Private Equity
 
 - **Pénalité de désinvestissement** : 5 % sur les sommes brutes rachetées si désinvestissement d'un support FCPR dans les 5 ans suivant l'investissement ; 0 % au-delà
 - **Supports concernés** : fonds de capital-risque non cotés (FCPR)
 
-### Contraintes fonds euros
+### Fonds euros — Règles spécifiques
 
-- **Fonds Euro PER Nouvelle Génération** : accessible à hauteur de 100 % — aucune obligation d'UC
-- **Plafond absolu** : 5 000 000 EUR tous contrats Spirica confondus
-- **Différé de sortie** : désinvestissements du fonds euros peuvent être différés jusqu'à 6 mois si le TME français est supérieur au taux de rendement brut de l'année précédente ET si les rachats/arbitrages sortants depuis le fonds euros dépassent 10 % de l'actif au 1er janvier de la même année civile
+- **Accès en arbitrage** : possible — le fonds euros est accessible en entrée et en sortie par arbitrage en gestion libre
+- **Plafond** : 5 000 000 EUR tous contrats Spirica confondus — aucune obligation d'UC (100 % fonds euros possible)
+- **Différé de désinvestissement** : les désinvestissements peuvent être différés jusqu'à 6 mois si le TME français est supérieur au taux de rendement brut de l'année précédente ET si les rachats/arbitrages sortants depuis le fonds euros dépassent 10 % de l'actif au 1er janvier de la même année civile
 
 ### Gestion pilotée à horizon (mode par défaut)
 

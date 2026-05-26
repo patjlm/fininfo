@@ -97,6 +97,23 @@ derniere-verification: 2026-05-26
 - **Fonds euros** : 60 % max du contrat (allocation définie par l'algorithme)
 - **SCPI** : non disponibles dans le PER
 
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.nalo.fr/notre-tarif (SCPI 3 % max uniquement pour Nalo Flex) -->
+
+- Non applicable — aucune SCPI disponible sur ce contrat
+- Les SCPI sont disponibles uniquement dans Nalo Flex (assurance-vie), pas dans le PER Nalo
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.nalo.fr/per-plan-epargne-retraite, https://www.nalo.fr/notre-tarif -->
+
+- **Limite d'accès** : 60 % max du contrat (40 % minimum en UC obligatoire)
+- **Accès en gestion pilotée** : allocation définie automatiquement par l'algorithme Nalo selon l'âge et l'horizon retraite — pas de choix manuel de la part fonds euros ; la part augmente progressivement à l'approche de la retraite
+- **Accès en gestion libre** : accès possible dans la limite de 60 % du contrat [à vérifier sur documentation contractuelle]
+- **Accès en arbitrage** : [à vérifier — non communiqué publiquement sur le site officiel]
+- **Conditions particulières** : [à vérifier — règles de rachat total et perte d'intérêts non communiquées publiquement sur le site officiel]
+
 ### Transfert
 <!-- Source : https://www.nalo.fr/transfert-de-per -->
 

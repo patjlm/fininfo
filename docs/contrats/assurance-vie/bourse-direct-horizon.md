@@ -99,6 +99,20 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avance sur contrat** : Non communiqué
 - **Clause bénéficiaire** : standard / libre
 
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : boursedirect.fr -->
+
+- **SCPI disponibles** : aucune — ce contrat ne propose pas de SCPI (uniquement OPCI et SCI comme supports immobiliers)
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : boursedirect.fr -->
+
+- **Eurossima** : accessible à 100 % sans condition d'UC — plafond en montant : 50 000 EUR l'année d'adhésion, puis 25 000 EUR par année civile les années suivantes
+- **Netissima** : accessible sans condition d'UC — 50 % max du contrat
+- **Aucun minimum d'UC requis** pour accéder à l'un ou l'autre des fonds euros
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

@@ -39,12 +39,12 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
    - Chaque support doit avoir son ISIN quand disponible
    - Pour les ETF : créer un lien `[ISIN](../../actifs/etf/<ISIN>.md)` si la fiche existe. Si elle n'existe pas, utiliser le skill `write-etf` pour la créer, puis ajouter le lien.
 4. **Documenter les contraintes spécifiques** — c'est la valeur ajoutée :
-   - Règles d'arbitrage (ex : « arbitrage du fonds euros vers SCPI interdit, versement uniquement »)
-   - Limites d'investissement (ex : « 40 % SCPI maximum », « 25 % minimum en UC pour accéder au fonds euros boosté »)
+   - **Contraintes fonds euros** (OBLIGATOIRE) : % min d'UC requis pour y accéder ? % max du contrat autorisé ? Rendement conditionnel selon % UC ? Accessible en arbitrage ou versement initial seulement ? Perte des intérêts en cas de rachat total en cours d'année ?
+   - **Contraintes SCPI** (OBLIGATOIRE si le contrat en propose) : % max par versement/arbitrage ? % max cumulé ? Arbitrage fonds euros → SCPI possible ou interdit ? Versements programmés autorisés ? Délai avant premier arbitrage ? Pénalité de sortie avant X ans ? Plafond par SCPI ?
    - Montants minimums par opération (versement initial, versements libres, arbitrage)
    - Conditions de la gestion pilotée (surcoûts, profils disponibles)
    - Conditions spécifiques au type (voir table ci-dessous)
-   - Pénalités ou délais spécifiques
+   - Pénalités ou délais spécifiques (PE, fonds datés, etc.)
 5. **Remplir les frais dans le frontmatter** — chaînes avec `%` et contexte si nécessaire :
    - PER / AV : `frais-versement`, `frais-gestion-uc`, `frais-arbitrage`
    - Format : `"X %"` ou `"X % (précision)"` si conditions multiples

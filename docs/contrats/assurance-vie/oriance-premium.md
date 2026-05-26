@@ -80,6 +80,21 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Délai de renonciation** : 30 jours calendaires
 - **Note importante** : manque de transparence documentaire — la notice d'information n'est fournie qu'après la souscription ; de nombreuses informations nécessitent de contacter un conseiller en agence
 
+### SCPI — Règles spécifiques
+
+- **SCPI disponible** : 1 seule — Amundi Delta Capital Santé (taux de distribution locataire : 85 %)
+- **Limite par versement** : Non communiqué [à vérifier en agence Crédit Agricole]
+- **Plafond cumulé** : Non communiqué [à vérifier en agence]
+- **Frais de souscription** : Non communiqué [à vérifier — manque de transparence documentaire]
+- **Délai de jouissance** : Non communiqué [à vérifier en agence]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier en agence]
+
+### Fonds euros — Règles spécifiques
+
+- **Contraintes d'accès** : aucune contrainte de pourcentage minimum en UC mentionnée sur le site officiel (source : credit-agricole.fr)
+- **Garantie** : Fonds Euro CA garanti à 99,20 % hors frais et coûts de garanties (source : credit-agricole.fr)
+- **Rachat total en cours d'année** : Non communiqué [à vérifier en agence — manque de transparence documentaire]
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

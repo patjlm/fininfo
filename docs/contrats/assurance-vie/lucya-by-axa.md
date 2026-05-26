@@ -56,7 +56,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
     - 3,15 % si part d'UC ≥ 40 % et < 60 %
     - 3,75 % si part d'UC > 50 %
   - Performance cumulée 5 ans : Non communiquée
-- **Contraintes d'accès** : aucune contrainte minimale d'UC pour accéder aux fonds euros — les taux sont bonifiés selon la part d'UC détenue
+- **Contraintes d'accès** : aucune contrainte minimale d'UC pour accéder aux fonds euros — les taux sont bonifiés selon la part d'UC détenue (bonus disponible dès 30 % d'UC pour le Fonds Général)
+- **Bonus 2026-2027** : jusqu'à +1,85 % sur le Fonds Général (hypothèse de taux 4,60 %) — conditions : minimum 10 000 EUR versés et 45 % de l'encours en UC — non garanti
 - **Note fonds euros** : 4/5 (source : sinvestir.fr)
 
 ## Unités de compte
@@ -79,6 +80,15 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Arbitrage minimum** : Non communiqué
 - **Règles d'arbitrage** : arbitrages illimités et gratuits (hors ETF à 0,10 %) ; aucune contrainte spécifique d'arbitrage vers les fonds euros mentionnée
 - **Limites d'investissement** : 100 % fonds euros possible ; aucune SCPI disponible
+
+### Fonds euros — Règles spécifiques
+
+- **Taux bonifiés Fonds Général** : selon la part d'UC détenue — 2,40 % si ≥ 30 % et < 40 % UC, 2,85 % si ≥ 40 % et < 50 % UC, 3,40 % si > 50 % UC (2025)
+- **Taux bonifiés Fonds Croissance** : 2,65 % si ≥ 30 % et < 40 % UC, 3,15 % si ≥ 40 % et < 60 % UC, 3,75 % si > 50 % UC (2025)
+- **Pas de % UC minimum requis** : 100 % fonds euros possible ; aucun seuil minimum d'UC pour accéder aux fonds — les taux sont simplement bonifiés selon la part d'UC
+- **Bonus 2026-2027** : jusqu'à +1,85 % sur le Fonds Général — conditions : minimum 10 000 EUR versés et 45 % de l'encours en UC — non garanti (source : lucya.com/rendement-des-fonds-euros-2025/)
+- **Frais de performance Fonds Croissance** : 10 % sur les plus-values
+- **Garantie Fonds Croissance** : 100 % du capital net de frais de gestion à l'échéance de 10 ans
 - **Conditions gestion déléguée** :
   - Gestion déléguée Lucya : 3 profils (Modérée, Équilibrée, Dynamique) — horizon recommandé 3, 5 et 8 ans respectivement — surcoût +0,25 % / an — performances 2024 : Modérée +9,66 %, Équilibrée +9,94 %, Dynamique +10,95 % — performances 2025 (au 10/04/2026) : Modérée +3,13 %, Équilibrée +5,10 %, Dynamique +7,74 %
   - Gestion déléguée Sélection LIVE (AXA IM Select) : 3 niveaux (LIVE 2, LIVE 5, LIVE 8) — conditions et performances non communiquées

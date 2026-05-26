@@ -55,6 +55,9 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2024 : 2,50 %
   - Performance 2025 : 3,00 % (net de frais de gestion, hors prélèvements fiscaux et sociaux)
   - Performance cumulée 5 ans : 11,9 %
+- **Contraintes d'accès** :
+  - Suravenir Rendement 2 : 70 % maximum du contrat — pas de condition UC minimum
+  - Suravenir Opportunités 2 : 100 % possible sans condition UC — accessible uniquement par versement (pas par arbitrage)
 - **Note fonds euros** : 4/5 (source : sinvestir.fr)
 
 ## Unités de compte
@@ -245,43 +248,66 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 
+### Versements et retraits
+
 - **Versement initial minimum** : 100 EUR (par compartiment : 100 EUR en gestion libre, 1 000 EUR en mandat d'arbitrage)
 - **Versements libres minimum** : 100 EUR (par compartiment)
 - **Versements programmés minimum** : 25 EUR / mois (ou 25 EUR / trimestre, 25 EUR / semestre, 25 EUR / an) — minimum 25 EUR par support
-- **Arbitrage minimum** : 100 EUR (solde minimum restant sur chaque support : 100 EUR, sauf désinvestissement total)
 - **Rachat partiel minimum** : 100 EUR (solde minimum restant sur le contrat : 50 EUR en gestion libre, 1 000 EUR en mandat d'arbitrage)
 - **Rachat partiel programmé minimum** : 100 EUR (mensuel, trimestriel, semestriel ou annuel) — solde minimum restant : supérieur à 50 EUR ; solde minimum par UC : 25 EUR — disponible uniquement si valeur de rachat > 5 000 EUR, sans versements programmés ni avance en cours
-- **Règles d'arbitrage** :
-  - Suravenir Opportunités 2 : accessible uniquement par versement — arbitrage vers ce fonds euros interdit
-  - Suravenir Rendement 2 : accessible par versement et par arbitrage
-  - Arbitrage entre compartiments : minimum 100 EUR, solde minimum restant 50 EUR (libre) ou 1 000 EUR (mandat)
-  - Arbitrages en sortie de fonds euros ou d'UC immobilières peuvent être différés jusqu'à 6 mois maximum
-  - Arbitrages programmés (en ligne, avant 23h le jour ouvré ou le samedi) : effet le 1er jour ouvré suivant
-- **Limites d'investissement** :
-  - Suravenir Rendement 2 : 70 % maximum du contrat
-  - Suravenir Opportunités 2 : 100 % possible
-  - Pas de condition de minimum UC pour accéder aux fonds euros
-- **Conditions gestion pilotée (mandat d'arbitrage)** :
-  - Gestionnaire : OTEA Capital (CIF)
-  - Encours minimum : 1 000 EUR
-  - Profils disponibles : Défensif, Équilibré, Dynamique, Offensif (performances 2025 : +2,80 %, +4,35 %, +5,13 %, +4,08 %)
-  - Surcoût : +0,20 % / an (frais de gestion UC totaux : 0,80 % / an)
-  - Le souscripteur ne peut pas intervenir lui-même sur le compartiment en mandat d'arbitrage
-  - En cas d'ouverture du mandat : les supports éligibles au mandat ne sont plus accessibles sur le compartiment libre
+- **Avance sur contrat** : possible, sous réserve accord de Suravenir — conditions sur demande auprès du distributeur
+- **Conversion en rente** : possible avant 85 ans — choix entre réversion, annuités garanties, rentes par paliers croissants/décroissants, garantie dépendance
+- **Clause bénéficiaire** : standard (clause générale) ou nominative — modifiable à tout moment par lettre simple ou acte authentique ; démembrée possible
+- **Garantie complémentaire décès (option)** : couvre la moins-value du contrat — maximum 100 000 EUR par contrat — souscription uniquement à l'adhésion (12 à 75 ans) — prime mensuelle de 0,15 ‰ à 5,15 ‰ selon l'âge
+- **Durée du contrat** : viagère (jusqu'au décès) ou à durée fixe (minimum 8 ans, maximum 85 ans moins l'âge du souscripteur)
+- **Délai de renonciation** : 30 jours calendaires à compter de la date d'information de conclusion du contrat
+
+### Arbitrages
+
+- **Arbitrage minimum** : 100 EUR (solde minimum restant sur chaque support : 100 EUR, sauf désinvestissement total)
+- **Suravenir Opportunités 2** : accessible uniquement par versement — arbitrage vers ce fonds euros interdit
+- **Suravenir Rendement 2** : accessible par versement et par arbitrage
+- **Arbitrage entre compartiments** : minimum 100 EUR, solde minimum restant 50 EUR (libre) ou 1 000 EUR (mandat)
+- **Arbitrages différés** : sorties de fonds euros ou d'UC immobilières peuvent être différées jusqu'à 6 mois maximum
+- **Arbitrages programmés** (en ligne, avant 23h le jour ouvré ou le samedi) : effet le 1er jour ouvré suivant
 - **Options d'arbitrages programmés disponibles** :
   - Rééquilibrage automatique (mensuel, trimestriel, semestriel ou annuel — le 20 du mois)
   - Investissement progressif (minimum 1 000 EUR à arbitrer depuis le(s) support(s) de départ)
   - Sécurisation des plus-values (seuil de déclenchement : minimum 5 % du capital net investi)
   - Stop-loss relatif (seuil de déclenchement : minimum 5 % de moins-value)
-  - Dynamisation des plus-values (fonds euros vers UC — déclenchement si cumul des revaluorisations > 100 EUR)
+  - Dynamisation des plus-values (fonds euros vers UC — déclenchement si cumul des revalorisations > 100 EUR)
   - Combinaison possible : sécurisation des plus-values + stop-loss relatif uniquement
-- **Avance sur contrat** : possible, sous réserve accord de Suravenir — conditions sur demande auprès du distributeur
-- **Conversion en rente** : possible avant 85 ans — choix entre réversion, annuités garanties, rentes par paliers croissants/décroissants, garantie dépendance
-- **Clause bénéficiaire** : standard (clause générale) ou nominative — modifiable à tout moment par lettre simple ou acte authentique ; démembrée possible
-- **Garantie complémentaire décès (option)** : couvre la moins-value du contrat — maximum 100 000 EUR par contrat — souscription uniquement à l'adhésion (12 à 75 ans) — prime mensuelle de 0,15 ‰ à 5,15 ‰ selon l'âge
-- **Supports SCPI / SCI / OPCI** : coupons et loyers réinvestis dans le fonds euros Suravenir Rendement 2 (compartiment libre) — taux de redistribution des loyers SCPI : 85 %
-- **Durée du contrat** : viagère (jusqu'au décès) ou à durée fixe (minimum 8 ans, maximum 85 ans moins l'âge du souscripteur)
-- **Délai de renonciation** : 30 jours calendaires à compter de la date d'information de conclusion du contrat
+
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+
+- **Limite cumulée** : 100 % de l'encours possible sur des supports immobiliers SCPI, SCI ou OPCI
+- **Limite par SCPI** : 50 % de l'encours total du contrat et 50 000 EUR par contrat (pour la plupart des SCPI)
+- **Limites spécifiques** : Remake Live, Laffitte Pierre, Novapierre 1 et Transitions Europe limitées à 10 % de l'encours dans la limite de 10 000 EUR par contrat (source : support.linxea.com/fr/articles/4788)
+- **Minimum** : au minimum 1 part par SCPI
+- **Pénalité de sortie** : Non communiquée — aucune pénalité mentionnée dans les documents officiels [à vérifier]
+- **Versements programmés sur SCPI** : non autorisés (source : support.linxea.com/fr/articles/4818)
+- **Arbitrage vers SCPI** : possible en gestion libre (SCPI accessibles en gestion mixte uniquement — pas en mandat d'arbitrage OTEA Capital)
+- **Arbitrage fonds euros → SCPI** : possible depuis Suravenir Rendement 2 (accessible par arbitrage) — interdit depuis Suravenir Opportunités 2 (accessible uniquement par versement) — l'article support.linxea.com/fr/articles/4788 ne mentionne pas explicitement l'arbitrage vers SCPI, mais la règle générale du contrat permet les arbitrages depuis le Rendement 2 [à confirmer avec Linxea]
+- **SCPI accessibles uniquement en versement** : aucune restriction de ce type mentionnée dans les sources officielles
+- **Délai de jouissance** : pas de délai de jouissance — loyers accessibles dès l'investissement (source : page Linxea Avenir 2)
+- **Redistribution des loyers** : 85 % des loyers redistribués chaque mois, réinvestis sur le fonds euros Suravenir Rendement 2
+
+### Fonds euros — Règles spécifiques
+
+- **Suravenir Rendement 2** : 70 % maximum du contrat — accessible par versement et par arbitrage — garanti à 99,4 %
+- **Suravenir Opportunités 2** : 100 % possible — accessible uniquement par versement libre ou programmé (pas par arbitrage) — garanti à 97 %
+- **Contrainte UC** : aucune — les deux fonds euros sont accessibles sans obligation d'investir en UC
+- **Rachats différés** : arbitrages en sortie de fonds euros peuvent être différés jusqu'à 6 mois maximum
+
+### Gestion pilotée (mandat d'arbitrage)
+
+- **Gestionnaire** : OTEA Capital (CIF)
+- **Encours minimum** : 1 000 EUR
+- **Profils disponibles** : Défensif, Équilibré, Dynamique, Offensif (performances 2025 : +2,80 %, +4,35 %, +5,13 %, +4,08 %)
+- **Surcoût** : +0,20 % / an (frais de gestion UC totaux : 0,80 % / an)
+- Le souscripteur ne peut pas intervenir lui-même sur le compartiment en mandat d'arbitrage
+- En cas d'ouverture du mandat : les supports éligibles au mandat ne sont plus accessibles sur le compartiment libre
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
@@ -338,3 +364,5 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 - [Suravenir — Site officiel assureur](https://www.suravenir.fr/)
 - [Suravenir — Rapport SFCR 2025 (solvabilité au 31/12/2025)](https://www.suravenir.fr/wp-content/uploads/pdf/SFCR_2025.pdf)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
+- [Linxea Support — Conditions SCPI/SCI/OPCI Avenir 2](https://support.linxea.com/fr/articles/4788-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-avenir-2)
+- [Linxea Support — Versements programmés sur SCPI](https://support.linxea.com/fr/articles/4818-est-ce-que-je-peux-faire-des-versements-programmes-sur-les-scpi-proposees-par-linxea)

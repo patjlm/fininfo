@@ -81,6 +81,18 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avance sur contrat** : disponible — minimum 150 EUR, maximum 80 % de l'encours du fonds euros — 0 % de frais de mise en place — taux d'intérêt : le plus élevé entre (TME + 1 %) et (rendement fonds euros N-1 + 1 %)
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : placement.meilleurtaux.com, la-france-mutualiste.fr -->
+
+- **Contraintes d'accès** : aucune — 100 % fonds euros possible (pas d'obligation d'investir en UC)
+- **Plafond** : aucun plafond en montant ou en pourcentage communiqué
+
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+
+- **SCPI disponibles** : aucune — ce contrat ne propose pas de SCPI
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

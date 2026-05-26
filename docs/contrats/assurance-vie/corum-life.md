@@ -119,15 +119,36 @@ Note : CORUM USA n'est pas disponible dans le contrat Corum Life (aucun DIC CORU
 - **Règles d'arbitrage** : 0 % de frais d'arbitrage
 - **Délai de rachat** : maximum 2 mois (capital disponible à tout moment)
 - **Limites d'investissement** :
-  - SCPI : 55 % maximum du contrat (toutes SCPI confondues)
+  - SCPI : 55 % maximum par versement (toutes SCPI confondues)
   - Fonds obligataires : 100 % possible
-  - Fonds euros (Corum EuroLife) : 25 % maximum — investissement à 100 % en fonds euros impossible
+  - Fonds euros (Corum EuroLife) : 25 % maximum par versement — investissement à 100 % en fonds euros impossible
 - **Conditions gestion profilée** : 4 formules prédéfinies (Essentiel, Entreprises, Immo, Rosetta) + gestion mixte (combinaison libre + profilée) possible — 0 % de surcoût
 - **Garantie décès** : 100 % des sommes investies en SCPI, obligataire et fonds mixte garantis jusqu'à 65 ans ; diminue de 5 % par an entre 66 et 75 ans — gratuite
 - **Rachat partiel minimum** : Non communiqué [à vérifier dans la note d'information]
 - **Avance sur contrat** : Non communiqué [à vérifier]
 - **Clause bénéficiaire** : standard / libre [à vérifier]
 - **Délai de jouissance SCPI** : 5 mois (identique à l'achat en direct)
+
+### SCPI — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : corum.fr/assurance-vie/corum-life/placements et corum.fr/assurance-vie/corum-life/frais -->
+
+- **Plafond par versement** : 55 % maximum du montant de chaque versement sur les SCPI (toutes SCPI confondues : Origin, XL, Eurion)
+- **Frais de souscription SCPI** : ~12 % intégrés dans le prix des parts (prélevés par la société de gestion, non par Corum Life)
+- **Frais de sortie SCPI** : 0 % (Corum Life ne prélève aucun frais de rachat)
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+- **Délai de jouissance** : 5 mois (identique à l'achat en direct de parts)
+- **Redistribution loyers** : 100 % des loyers bruts versés
+- **CORUM USA** : non disponible dans le contrat Corum Life
+
+### Fonds euros — Règles spécifiques
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : corum.fr/assurance-vie/corum-life/placements -->
+
+- **Plafond par versement** : 25 % maximum du montant de chaque versement sur le fonds euros Corum EuroLife
+- **Accès à 100 % impossible** : le fonds euros est plafonné à 25 % — obligation d'investir au moins 75 % en UC
+- **Frais de gestion fonds euros** : 0,60 % / an (prélevés par Corum Life)
+- **Frais souscription fonds obligataires** : jusqu'à 5 % lors de chaque versement ou arbitrage vers ces supports (frais prélevés par les gestionnaires des fonds, non par Corum Life)
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->

@@ -150,6 +150,22 @@ Source : [DIC Garance Épargne gestion libre, 10/04/2025](https://www.garance.co
   - 100 000 EUR → 300 EUR offerts
   - 500 000 EUR → 1 000 EUR offerts
 
+### SCPI — Règles spécifiques
+
+- **SCPI disponible** : 1 seule — Iroko Zen (SCPI00004669)
+- **Taux redistribution des loyers** : 100 % (source : sinvestir.fr)
+- **Limite par versement** : Non communiqué [à vérifier sur conditions générales Garance]
+- **Plafond cumulé** : Non communiqué [à vérifier]
+- **Frais de souscription** : Non communiqué [à vérifier — les frais internes SCPI sont en sus des 0,70 % du contrat]
+- **Délai de jouissance** : Non communiqué [à vérifier]
+- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
+
+### Fonds euros — Règles spécifiques
+
+- **Accès sans contrainte UC** : 100 % fonds euros possible — aucun quota d'UC obligatoire (source : Garance)
+- **Rachat total / partiel** : Non communiqué [à vérifier sur conditions générales Garance]
+- **Garantie** : Actif Général Garance garanti à 99,30 % (source : tableau officiel Garance)
+
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
 

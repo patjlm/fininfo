@@ -184,17 +184,44 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 
+### Versements et retraits
+
 - **Versement initial minimum** : 500 EUR (gestion libre) / 1 000 EUR (gestion pilotée)
 - **Versements libres minimum** : 300 EUR
 - **Versements programmés minimum** : 50 EUR / mois
-- **Arbitrage minimum** : Non communiqué
-- **Règles d'arbitrage** : Arbitrage 0 % en ligne sauf pour les ETF (0,15 % par transaction), SCPI et SCI
-- **Limites d'investissement** : Aucune limite spécifique communiquée — 100 % fonds euros possible sur les deux fonds
-- **Conditions gestion pilotée** : 4 profils OTEA Capital (Défensif, Equilibré, Dynamique, Agressif) — +0,20 % / an — minimum 1 000 EUR — performances 2025 : Défensif +2,84 %, Equilibré +3,47 %, Dynamique +3,01 %, Agressif +2,78 %
 - **Rachat partiel minimum** : 500 EUR
 - **Avance sur contrat** : Non communiqué
 - **Clause bénéficiaire** : Standard / libre / démembrée [à vérifier]
 - **Private equity** : minimum 5 000 EUR — frais d'entrée 0 % — désinvestissement uniquement par rachat partiel ou total
+
+### Arbitrages
+
+- **Arbitrage minimum** : 300 EUR
+- **Frais d'arbitrage en ligne** : 0 % (hors ETF à 0,15 % par transaction, SCPI et SCI)
+- **Arbitrage fonds euros → SCPI** : Non communiqué [à vérifier]
+
+### SCPI — Règles spécifiques
+
+- **Limite cumulée en SCPI** : 50 % maximum de l'encours du contrat sur des SCPI
+- **Limite par SCPI** : 25 % maximum de l'encours du contrat sur une même SCPI, plafond 100 000 EUR par foyer fiscal
+- **Limite par SCI/SC** : 40 % maximum de l'encours du contrat sur une même SCI ou SC
+- **Minimum par SCPI** : 10 EUR ; minimum par SCI : 50 EUR
+- **Pénalité de sortie** : Non communiquée [à vérifier]
+- **Versements programmés sur SCPI** : non autorisés (source : support.linxea.com/fr/articles/4818)
+- **Délai de jouissance** : loyers perçus dès le 2ème mois suivant l'investissement
+- **Redistribution des loyers** : 100 % des loyers redistribués — au choix sur SCPI ou sur fonds euros
+
+### Fonds euros — Règles spécifiques
+
+- **Apicil Euro Garanti** : 100 % possible sans condition UC — garanti à 99,4 %
+- **EuroFlex** : 100 % possible sans condition UC — garanti à 98,4 %
+- **Contrainte UC** : aucune — 100 % fonds euros possible sur les deux fonds
+- **Arbitrage vers fonds euros** : Non communiqué [à vérifier]
+
+### Gestion pilotée
+
+- 4 profils OTEA Capital (Défensif, Équilibré, Dynamique, Agressif) — +0,20 % / an — minimum 1 000 EUR
+- Performances 2025 : Défensif +2,84 %, Équilibré +3,47 %, Dynamique +3,01 %, Agressif +2,78 %
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
@@ -238,3 +265,5 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - [Linxea — ETF disponibles sur Linxea Zen](https://www.linxea.com/assurance-vie/linxea-zen/supports-disponibles-sur-linxea-zen/trackers-etf/)
 - [Linxea — Fonds immobiliers disponibles sur Linxea Zen](https://www.linxea.com/assurance-vie/linxea-zen/supports-disponibles-sur-linxea-zen/fonds-immobiliers-linxea-zen/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
+- [Linxea Support — Conditions SCPI/SCI/OPCI Linxea Zen](https://support.linxea.com/fr/articles/4790-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-zen)
+- [Linxea Support — Versements programmés sur SCPI](https://support.linxea.com/fr/articles/4818-est-ce-que-je-peux-faire-des-versements-programmes-sur-les-scpi-proposees-par-linxea)

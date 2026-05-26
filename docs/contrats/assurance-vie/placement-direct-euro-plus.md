@@ -84,6 +84,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Minimum 30 % en UC obligatoire (condition d'accès au fonds euros)
   - Maximum 50 000 EUR sur le fonds euros par adhérent
 - **Conditions gestion déléguée** : gestion professionnelle par SwissLife Banque Privée ; surcoût +0,40 % / an
+
+### SCPI — Règles spécifiques
+
+- **SCPI disponibles** : 13 selon sinvestir.fr — liste et règles non publiées sur le site officiel du distributeur [à vérifier]
+- **Limite par versement** : [à vérifier — règles SwissLife pour ce contrat Euro+ non publiées en ligne]
+- **Plafond par SCPI** : [à vérifier]
+- **Arbitrage SCPI** : [à vérifier]
+- **Versements programmés sur SCPI** : [à vérifier]
+- **Redistribution des loyers** : 100 % (source : sinvestir.fr — à vérifier sur documentation officielle)
+
+### Fonds euros — Règles spécifiques
+
+- **Accès conditionné** : minimum 30 % d'UC obligatoire pour accéder au fonds euros SwissLife Euro+
+- **Plafond** : maximum 50 000 EUR par adhérent sur le fonds euros
+- **Garantie** : 99,4 % (avant frais de gestion — soit 100 % après déduction des 0,60 % de frais annuels)
+- **Rachat total en cours d'année** : frais de gestion calculés au prorata prélevés lors de la sortie totale — pas de pénalité supplémentaire [à vérifier]
 - **Avance sur contrat** : jusqu'à 80 % de l'épargne en fonds euros ; taux 4,54 % (2026)
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
 - **Souscription non disponible pour** : mineurs, majeurs protégés, co-souscripteurs, personnes de plus de 85 ans, non-résidents français
