@@ -7,7 +7,7 @@ assureur: Generali Vie
 frais-versement: "0 %"
 frais-gestion-uc: "0,60 % (0,45 % pour encours ≥ 300 000 EUR)"
 frais-arbitrage: "0 %"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Altaprofits Vie
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Altaprofits (courtier en ligne, CIF réglementé AMF)
 - **Assureur** : Generali Vie (filiale de Generali France, groupe Generali — présent en France depuis près de 200 ans — ratio SCR : Non communiqué [à vérifier])
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 1999
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,60 % / an (contrat < 300 000 EUR) — 0,45 % / an (contrat ≥ 300 000 EUR)
@@ -39,92 +39,97 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Arbitrage** : 0 %
 - **Surcoût gestion pilotée** : +0,30 % / an supplémentaire
 - **Frais de rachat** : 0 %
-- **Taxe sur transactions financières (TTF)** : 0,40 % sur titres vifs éligibles (montant investi)
-- **Note frais** : 4,65/5 (source : sinvestir.fr)
+- **Taxe sur transactions financières (TTF)** : 0,40 % sur titres vifs éligibles (montant investi) — exonérée en 2026
+- **Note frais** : 4,25/5 (source : sinvestir.fr)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Eurossima** (garanti à 100 % — 100 % possible)
   - Performance 2024 : 1,70 %
   - Performance 2025 : 1,67 % (frais de gestion 0,60 %/an) / 1,82 % (frais de gestion 0,75 %/an)
   - Performance cumulée 5 ans : 7,42 %
-  - Contraintes d'accès : aucune
+  - Contraintes d'accès : aucune pour l'accès standard
 - **Netissima** (garanti à 100 % — 100 % possible)
   - Performance 2024 : 3,00 % à 3,50 %
   - Performance 2025 : 3,00 %
   - Performance cumulée 5 ans : 11,58 %
-  - Contraintes d'accès : aucune
+  - Contraintes d'accès : aucune pour l'accès standard ; pour bénéficier du bonus de taux (+1,50 % offre ponctuelle) : 30 % minimum en UC requis à la date d'investissement et au 31 décembre de chaque année
 - **Note fonds euros** : 4,5/5 (source : sinvestir.fr)
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : ~500 (environ 450+ selon le site officiel, 500 selon sinvestir.fr)
-- **ETF** : 82-83
-- **OPCVM** : ~272
-- **SCPI** : 3 (taux de redistribution des loyers : 90 %)
+- **Nombre total d'UC** : 450+ (source : altaprofits.com, données au 27/01/2026)
+- **ETF** : 82
+- **OPCVM** : 272
+- **Supports immobiliers (SCPI/SCI/OPCI)** : 8
 - **Titres vifs (actions)** : oui — environ 90 titres cotés
-- **Private equity** : oui (5 fonds)
+- **Private equity** : oui
 - **Produits structurés** : oui
 - **Fonds ISR** : 62 fonds labellisés ISR
-- **Fonds croissance** : Générations Croiss@nce durable (performance 2025 : 3,40 % nette)
+- **Fonds croissance** : Générations Croiss@nce durable (frais de gestion : 0,75 %/an)
 - **Rééquilibrage automatique** : oui
-- **Note UC** : 3,5/5 (source : sinvestir.fr)
+- **Note UC** : 4,5/5 (source : sinvestir.fr)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 300 EUR
 - **Versements libres minimum** : 300 EUR
 - **Versements programmés minimum** : 50 EUR / mois — 150 EUR / trimestre — 300 EUR / semestre — 600 EUR / an
 - **Arbitrage minimum** : 75 EUR (hors titres vifs) ; solde minimum restant par support après arbitrage : 15 EUR
-- **Règles d'arbitrage** : arbitrage gratuit et illimité entre tous supports ; pas de contrainte spécifique fonds euros vers SCPI mentionnée
-- **Limites d'investissement** : 100 % fonds euros possible (Eurossima et/ou Netissima) ; pas de limite maximale SCPI communiquée [à vérifier]
+- **Règles d'arbitrage** : arbitrage gratuit et illimité entre tous supports
+- **Limites d'investissement** : 100 % fonds euros possible (Eurossima et/ou Netissima) ; pas de limite maximale sur les supports immobiliers communiquée
 - **Conditions gestion pilotée** :
   - 11 profils disponibles via Lazard Frères Gestion et Generali Wealth Solutions
   - Frais supplémentaires : +0,30 % / an
   - Montant minimum : Non communiqué [à vérifier]
-- **Rachat partiel minimum** : Non communiqué [à vérifier]
-- **Avance sur contrat** : Non communiqué [à vérifier]
+- **Rachat partiel minimum** : 1 500 EUR (solde restant par support : 15 EUR minimum)
+- **Rachat partiel programmé minimum** : 150 EUR / mois — 450 EUR / trimestre — 900 EUR / semestre — 1 800 EUR / an
+- **Délai de disponibilité** : après 30 jours suivant la souscription
+- **Avance sur contrat** : 60 % maximum de la valorisation — durée 3 ans renouvelable une fois (9 ans maximum) — contrat de minimum 6 mois révolu requis — avec intérêts
 - **Clause bénéficiaire** : standard / libre / démembrée
+- **Délai de renonciation** : 30 jours calendaires
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR / bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 3,9/5 (1 532 avis — source : sinvestir.fr)
 - **App mobile** : non
 - **Contact** : téléphone (01 44 77 12 14 — lun-ven 9h-18h), email (information@altaprofits.fr), formulaire de contact sur le site
 - **Ergonomie** : fonctionnelle mais vieillissante (source : sinvestir.fr)
-- **Note SAV** : 4/5 (source : sinvestir.fr)
+- **Note SAV** : 4,5/5 (source : sinvestir.fr)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,33/5 (source : sinvestir.fr)
+- **Note globale** : 4,55/5 (source : sinvestir.fr)
 - **Points forts** :
   - 0 % de frais de versement, d'arbitrage et de rachat
   - Frais de gestion UC dégressifs selon l'encours (0,45 % dès 300 000 EUR)
   - Deux fonds euros accessibles sans contrainte, 100 % fonds euros possible
   - Netissima performant : 3,00 % net en 2025
-  - Offre étendue (~500 UC) incluant titres vifs, private equity, produits structurés
-  - 82-83 ETF disponibles
+  - Offre étendue (450+ UC) incluant titres vifs, private equity, produits structurés
+  - 82 ETF disponibles
+  - 8 supports immobiliers (SCPI/SCI/OPCI)
   - Versement initial accessible dès 300 EUR
   - Gestion pilotée avec 11 profils (Lazard Frères Gestion et Generali Wealth Solutions)
   - Assureur solide : Generali Vie (groupe Generali, présence mondiale)
+  - Avance sur contrat disponible (jusqu'à 60 % de la valorisation)
 - **Points faibles** :
-  - Seulement 3 SCPI disponibles dans le contrat AV (taux de redistribution 90 % seulement)
   - Pas d'application mobile
   - Plateforme web vieillissante
   - Note clients limitée (3,9/5) sur un grand nombre d'avis
-  - Taxe sur transactions financières (0,40 %) sur les titres vifs éligibles
+  - Rachat partiel minimum élevé : 1 500 EUR
+  - Taxe sur transactions financières (0,40 %) sur les titres vifs éligibles (exonérée en 2026)
 - **Services complémentaires** : PER, SCPI (hors AV), produits structurés, private equity, contrat de capitalisation, FCPI, FIP, GFI
 
 ## Sources

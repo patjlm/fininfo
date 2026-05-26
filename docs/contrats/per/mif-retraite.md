@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,60 %"
 frais-arbitrage: "0 % (1 % vers fonds euros)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # MIF Retraite
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué et assuré par la [MIF](https://www.mifassur.com/) (Mutuelle d'Ivry la Fraternelle). Contrat groupe souscrit par l'ADERM (Association pour le Développement de l'Épargne Retraite Mutualiste). Voir aussi la fiche [PER (enveloppe)](../../enveloppes/per.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : MIF (Mutuelle d'Ivry la Fraternelle)
 - **Assureur** : MIF (solvabilité : 229 %)
@@ -30,7 +30,7 @@ derniere-verification: 2026-05-16
 - **Adhésion** : 10 EUR (frais ADERM)
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC (gestion libre)** : 0,60 %/an
@@ -43,7 +43,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 4,5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponible** : Fonds euros MIF Retraite (actif cantonné, garanti à 100 % — 70 % max du contrat)
 - **Performance 2022** : 2,50 %
@@ -59,7 +59,7 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : 37 (approche sélective "best in class")
 - **ETF** : 7
@@ -71,7 +71,7 @@ derniere-verification: 2026-05-16
 - **Note UC** : 2,5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Versements
 
@@ -124,8 +124,9 @@ derniere-verification: 2026-05-16
 - **Transfert sortant 2025+** : possiblement 0 % quelle que soit l'ancienneté [à vérifier]
 
 ## Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.mifassur.com/retraite/mif-per-retraite/gestion-libre/ -->
+<!-- Note : site mifassur.com indisponible (504) le 2026-05-26 — liste non re-vérifiable ce jour -->
 
 [liste partielle — 6 supports sur 7 identifiés avec ISIN — le site mifassur.com charge la liste dynamiquement (JavaScript), non extractible par WebFetch]
 
@@ -140,8 +141,9 @@ derniere-verification: 2026-05-16
 | [ETF à identifier] | [ISIN à compléter] | [à compléter] | [à compléter] |
 
 ## Liste des SCPI disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.mifassur.com/retraite/mif-per-retraite/investir-en-scpi-per/ -->
+<!-- Note : site mifassur.com indisponible (504) le 2026-05-26 — liste non re-vérifiable ce jour -->
 
 | Nom | Société de gestion | Perf. 2025 | Perf. 2024 | Perf. 2023 | Contraintes spécifiques |
 |---|---|---|---|---|---|
@@ -151,7 +153,7 @@ derniere-verification: 2026-05-16
 | [Immorente](../../actifs/scpi/immorente.md) | Sofidy | 5,00 % | 5,04 % | 5,00 % | 90 % loyers reversés trimestriellement sur fonds euros Retraite |
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 2,7/5 (32 avis)
 - **App mobile** : oui
@@ -164,7 +166,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,2/5
 - **Points forts** :

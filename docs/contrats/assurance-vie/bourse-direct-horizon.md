@@ -7,7 +7,7 @@ assureur: Generali Vie
 frais-versement: "0 %"
 frais-gestion-uc: "0,65 % (0,85 % en gestion pilotée)"
 frais-arbitrage: "0 %"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Bourse Direct Horizon
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Bourse Direct (courtier en ligne, ORIAS n° 08044344)
 - **Assureur** : Generali Vie
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 1996
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,65 % / an (gestion libre) ; 0,85 % / an (gestion pilotée)
@@ -40,7 +40,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note frais** : 4,9/5 (source : S'investir)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** :
   - Eurossima (garanti à 100 % — 100 % possible du contrat)
@@ -51,16 +51,18 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Performance 2025** :
   - Eurossima : 1,67 %
   - Netissima : 3,00 %
+- **Objectif 2026-2027** :
+  - Netissima : +4,50 % (objectif communiqué par Generali Vie)
 - **Performance cumulée 5 ans** :
   - Eurossima : 7,42 %
   - Netissima : 11,58 %
 - **Contraintes d'accès** :
   - Eurossima : accessible à 100 % dans la limite de 50 000 EUR l'année d'adhésion, puis 25 000 EUR par année civile les années suivantes
   - Netissima : 50 % max du contrat
-- **Note fonds euros** : 3,5/5 (source : S'investir)
+- **Note fonds euros** : 4,25/5 (source : S'investir)
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : plus de 646
 - **ETF** : 149
@@ -73,15 +75,15 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - ETN cryptomonnaies
   - OPCI/SCI immobiliers (dont ALTIXIA VALEUR P — FR0013442845, OPCIMMO P — FR0011066802, SOFIDY PIERRE EUROPE — FR0013260262)
   - 13 fonds datés (échéances 2026-2031, dont Carmignac, Sycomore)
-- **Note UC** : 3,5/5 (source : S'investir)
+- **Note UC** : 2,5/5 (source : S'investir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 300 EUR
 - **Versements libres minimum** : 50 EUR
 - **Versements programmés minimum** : 50 EUR / mois
-- **Arbitrage minimum** : Non communiqué
+- **Arbitrage minimum** : 50 EUR (source : boursedirect.fr)
 - **Règles d'arbitrage** : 0 € de frais d'arbitrage ; pas de restriction particulière mentionnée sur les arbitrages entre supports
 - **Limites d'investissement** :
   - Netissima : 50 % max du contrat
@@ -93,44 +95,44 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Profil Équilibré : objectif 50 % actions
   - Profil Dynamique : objectif 85 % actions
   - Frais de gestion UC : 0,85 % / an (vs 0,65 % en gestion libre)
-- **Rachat partiel minimum** : Non communiqué
+- **Rachat partiel minimum** : 1 000 EUR (source : boursedirect.fr)
 - **Avance sur contrat** : Non communiqué
 - **Clause bénéficiaire** : standard / libre
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR/bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 2,5/5 (1 359 avis) (source : S'investir)
 - **App mobile** : oui (application mobile moderne et pratique)
 - **Contact** : téléphone (01 56 88 40 44, lun-ven 9h-18h30), mail (clients uniquement), courrier, 4 agences en France
 - **Ergonomie** : interface web vieillotte ; application mobile moderne et pratique (source : S'investir)
-- **Note SAV** : 3/5 (source : S'investir)
+- **Note SAV** : 4/5 (source : S'investir)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 3,98/5 (source : S'investir)
+- **Note globale** : 4/5 (source : S'investir)
 - **Points forts** :
   - Accessible dès 300 EUR
   - 0 % de frais sur versements et arbitrages
   - Frais de gestion UC parmi les plus bas du marché (0,65 %)
   - Plus de 646 supports disponibles dont 149 ETF et 103 titres vifs
-  - Performance du fonds euros Netissima intéressante (3 % en 2025)
+  - Performance du fonds euros Netissima attractive (3 % en 2025, objectif +4,50 % pour 2026-2027)
   - Rééquilibrage automatique disponible
   - Application mobile moderne
 - **Points faibles** :
-  - Aucune SCPI disponible
+  - Aucune SCPI disponible (uniquement OPCI/SCI immobiliers)
   - Performance du fonds euros Eurossima décevante (1,67 % en 2025)
   - Limites d'accès à Eurossima restrictives (50 000 EUR la 1ère année, 25 000 EUR / an ensuite)
   - Interface web vieillotte
-  - Avis clients mitigés sur le service client
+  - Avis clients mitigés (2,5/5 sur 1 359 avis)
   - Frais de gestion pilotée + frais des fonds sélectionnés généralement élevés
 - **Services complémentaires** : CTO (compte-titres ordinaire), PEA, PER
 

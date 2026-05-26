@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,60 %"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Suravenir PER
@@ -16,19 +16,20 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par [Linxea](https://www.linxea.com), assuré par Suravenir (groupe Arkéa). Voir les [règles générales du PER](../../enveloppes/per.md).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea
 - **Assureur** : Suravenir, groupe Arkéa (solvabilité : 263,7 %)
 - **Type** : Assurantiel
-- **Modes de gestion** : gestion libre, gestion pilotée (mandat d'arbitrage), gestion à horizon retraite (par défaut)
+- **Modes de gestion** : gestion libre, gestion pilotée (mandat d'arbitrage OTEA Capital), gestion à horizon retraite (par défaut, sans surcoût)
 - **Disponibilité** : en ligne
 - **Versement minimum** : 1 000 EUR (réduit à 50 EUR en cas de transfert entrant)
 - **Année de création** : 2020
 - **Association souscriptrice** : SEREP (Synergie Épargne Retraite Prévoyance)
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.linxea.com/retraite/suravenir-per/ et https://www.linxea.com/assurance-vie/gestion-pilotee/ -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,60 %/an
@@ -37,36 +38,43 @@ derniere-verification: 2026-05-16
 - **Arbitrage ETF** : 0,10 %
 - **Arbitrage titres vifs** : 0,60 %
 - **Rente** : frais sur encours de rente 0,80 %
-- **Surcoût gestion pilotée** : 0,30 %/an (soit 0,90 % total sur UC)
+- **Surcoût gestion pilotée OTEA Capital** : 0,20 %/an (soit 0,80 % total sur UC)
+- **Surcoût gestion horizon retraite** : 0 % (aucun frais supplémentaire par rapport à la gestion libre)
 - **Frais d'entrée** : 0 %
 - **Frais de dossier** : 0 %
 - **Frais de sortie** : 0 %
 - **Note frais** : 4,5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.linxea.com/retraite/suravenir-per/ -->
 
 - **Fonds disponibles** : Suravenir Rendement (garanti à 99,4 % — 100 % max du contrat)
-- **Performance 2024** : 3,00 %
-- **Performance 2025** : 3,00 %
+- **Performance 2024** : 3,00 % (net de frais de gestion)
+- **Performance 2025** : 3,00 % (net de frais de gestion)
 - **Performance cumulée 5 ans** : 12,25 %
 - **Contraintes d'accès** : aucune — 100 % fonds euros possible (pas de minimum en UC requis)
 - **Note fonds euros** : 4,5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.linxea.com/retraite/suravenir-per/ et API Morningstar (universe FEEUR$$ALL_5649) -->
 
 - **Nombre total d'UC** : + 340
 - **ETF** : 92 — [liste complète](#liste-des-etf-disponibles-92-supports)
-- **SCPI** : 15
+- **SCPI** : 13
+- **SCI** : 6
+- **SC** : 2
+- **OPCI** : 4
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (option gratuite)
-- **Autres supports** : fonds ISR, Private Equity (1 fonds), produits structurés, fonds datés à échéance, OPCI, SCI
+- **Autres supports** : fonds ISR (110 fonds labellisés), Private Equity (1 fonds), produits structurés, fonds datés à échéance
 - **Redistribution loyers SCPI** : 85 %
 - **Note UC** : 4/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.linxea.com/retraite/suravenir-per/ -->
 
 ### Versements
 
@@ -89,17 +97,19 @@ derniere-verification: 2026-05-16
 
 ### Gestion pilotée
 
-- **Gestionnaires** : OTEA Capital
-- **Profils disponibles** : défensif, équilibré, dynamique, agressif
-- **Surcoût** : 0,30 %/an (total 0,90 % sur UC)
-- **Encours minimum** : 1 000 EUR
-- **Changement de profil** : gratuit, possible à tout moment
+- **Gestionnaire** : OTEA Capital
+- **Profils disponibles** : défensif (obj. 3 %/an), équilibré (obj. 5 %/an), équilibré responsable (obj. 5 %/an), dynamique (obj. 6-7 %/an), agressif (obj. 8 %/an)
+- **Surcoût** : 0,20 %/an (total 0,80 % sur UC)
+- **Encours minimum** : 300 EUR
+- **Changement de profil** : gratuit, possible à tout moment (retour en gestion libre sans frais)
 
 ### Gestion à horizon retraite (mode par défaut)
 
 - **Profil par défaut** : équilibré horizon retraite
 - **Profils disponibles** : prudent, équilibré, dynamique
 - **Principe** : sécurisation progressive de l'épargne à l'approche de la retraite
+- **Surcoût** : aucun (mêmes frais qu'en gestion libre)
+- **Encours minimum** : 500 EUR
 - **Changement de mode** : gratuit, possible à tout moment
 
 ### Transfert
@@ -115,7 +125,7 @@ derniere-verification: 2026-05-16
 - **Rachat total** : par formulaire à télécharger et renvoyer par email
 
 ## Liste des ETF disponibles (92 supports)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : API Morningstar (universe FEEUR$$ALL_5649) via skills/fetch-linxea-funds -->
 
 - Frais de transaction ETF : 0,10 % (entrée et sortie)
@@ -216,50 +226,64 @@ derniere-verification: 2026-05-16
 | Amundi EuroStoxx50 Dly 2x Lvrgd ETF Acc | [FR0010468983](../../actifs/etf/FR0010468983.md) | Trading - Leveraged/Inverse Actions |
 | Amundi Nasdaq-100 Daily 2x Lvrgd ETF Acc | [FR0010342592](../../actifs/etf/FR0010342592.md) | Trading - Leveraged/Inverse Actions |
 
-## Liste des SCPI / SCI / OPCI disponibles
-<!-- Mis à jour : 2026-05-16 -->
+## Liste des SCPI / SCI / SC / OPCI disponibles (25 supports)
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/fonds-immobiliers-suravenir-per/ -->
 
-[liste partielle — 15 SCPI attendues + SCI/OPCI ; compléter via la page Linxea]
+### SCPI (13)
 
-| Nom | Type | Contraintes spécifiques |
-|---|---|---|
-| [Immorente](../../actifs/scpi/immorente.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Primovie | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Rivoli Avenir Patrimoine | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Edissimmo | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| [Iroko Zen](../../actifs/scpi/iroko-zen.md) | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
-| [Remake Live](../../actifs/scpi/remake-live.md) | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers, plafond de souscription atteint (2026) |
-| [Transitions Europe](../../actifs/scpi/transitions-europe.md) | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers (Arkea REIM) |
-| Mistral Sélection | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| Laffitte Pierre | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers |
-| Novapierre 1 | SCPI | 10 000 EUR max, 10 % encours max, 85 % loyers |
-| Patrimmo Croissance | SCPI | 50 000 EUR max, 50 % encours max, pas de dividendes (capitalisation) |
-| [SCPI à compléter] | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| [SCPI à compléter] | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| [SCPI à compléter] | SCPI | 50 000 EUR max, 50 % encours max, 85 % loyers |
-| SCI Silver Avenir | SCI | [à compléter] |
-| SCI Territoires Avenir | SCI | [à compléter] |
-| SC Pierre Impact | SC | [à compléter] |
-| SC Novaxia R | SCI | [à compléter] |
-| SCI Perial Euro Carbone | SCI | [à compléter] |
-| SCI Capimmo | SCI | [à compléter] |
-| SC Pythagore | SC | [à compléter] |
-| SC Sofidy Convictions Immobilières | SC | [à compléter] |
-| SCI Linasens | SCI | [à compléter] |
-| SC ESG Tendances Pierre | SC | [à compléter] |
-| OPCI Dynapierre | OPCI | [à compléter] |
+| Nom | Contraintes spécifiques |
+|---|---|
+| [Atout Pierre Diversification](../../actifs/scpi/atout-pierre-diversification.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Efimmo](../../actifs/scpi/efimmo-1.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Immorente](../../actifs/scpi/immorente.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Laffitte Pierre](../../actifs/scpi/laffitte-pierre.md) | 10 000 EUR max, 10 % encours max, 85 % loyers |
+| [Patrimmo Commerce](../../actifs/scpi/patrimmo-commerce.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Patrimmo Croissance Impact](../../actifs/scpi/patrimmo-croissance-impact.md) | 50 000 EUR max, 50 % encours max, pas de dividendes (capitalisation) |
+| [PFO2](../../actifs/scpi/pfo2.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [SCPI Momentime](../../actifs/scpi/momentime.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| Praemia Hotels Europe | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Primovie](../../actifs/scpi/primovie.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Rivoli Avenir Patrimoine](../../actifs/scpi/rivoli-avenir-patrimoine.md) | 50 000 EUR max, 50 % encours max, 85 % loyers |
+| [Remake Live](../../actifs/scpi/remake-live.md) | 10 000 EUR max, 10 % encours max, 85 % loyers |
+| [Transitions Europe](../../actifs/scpi/transitions-europe.md) | 10 000 EUR max, 10 % encours max, 85 % loyers |
+
+### SCI (6)
+
+| Nom | Type |
+|---|---|
+| SCI Capimmo | SCI |
+| SCI Silver Avenir | SCI |
+| SCI Perial Euro Carbone | SCI |
+| SCI Territoires Avenir | SCI |
+| SOFIDY Convictions Immobilières | SCI |
+| Linasens | SCI |
+
+### SC (2)
+
+| Nom | Type |
+|---|---|
+| SC Pythagore | SC |
+| SC Pierre Impact | SC |
+
+### OPCI (4)
+
+| Nom | Type |
+|---|---|
+| OPCI Opcimmo P | OPCI |
+| OPCI Diversipierre | OPCI |
+| OPCI Sofidy Pierre Europe | OPCI |
+| OPCI Dynapierre | OPCI |
 
 > **Redistribution des loyers SCPI** : 85 % (Suravenir conserve 15 %)
 > **Investissement SCPI** : 97,5 % du prix de souscription
 > **Plafond par défaut** : 50 000 EUR par SCPI et 50 % de l'encours du contrat
-> **Exceptions** : [Remake Live](../../actifs/scpi/remake-live.md), Laffitte Pierre, Novapierre 1, [Transitions Europe](../../actifs/scpi/transitions-europe.md) — 10 000 EUR max et 10 % de l'encours
+> **Exceptions** : [Remake Live](../../actifs/scpi/remake-live.md), [Laffitte Pierre](../../actifs/scpi/laffitte-pierre.md), [Transitions Europe](../../actifs/scpi/transitions-europe.md) — 10 000 EUR max et 10 % de l'encours
 > **SCPI non éligibles aux versements programmés**
 > Pour la liste exhaustive et à jour : [Linxea — Fonds immobiliers Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/fonds-immobiliers-suravenir-per/)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis)
 - **App mobile** : non
@@ -272,16 +296,18 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : notes subjectives depuis simulateurs.sinvestir.fr -->
 
 - **Note globale** : 4,38/5
 - **Points forts** :
   - Accessible dès 1 000 EUR
   - Fonds euros performant (3 % en 2024-2025) avec possibilité d'investir à 100 %
-  - Plus de 340 unités de compte (92 ETF, 15 SCPI)
+  - Plus de 340 unités de compte (92 ETF, 13 SCPI, 4 OPCI, 6 SCI, 2 SC)
   - 0 % frais de versement, d'entrée, de dossier et de sortie
+  - Gestion horizon retraite sans surcoût (par défaut)
   - 1 fonds de Private Equity disponible
-  - Options d'arbitrage automatique gratuites
+  - Options d'arbitrage automatique gratuites (5 options)
   - Solvabilité élevée de l'assureur (263,7 %)
 - **Points faibles** :
   - 85 % des loyers SCPI reversés (vs 100 % chez Linxea Spirit PER / Spirica)
@@ -299,6 +325,7 @@ derniere-verification: 2026-05-16
 - [Linxea — ETF Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/trackers-etf/)
 - [Linxea — Fonds immobiliers Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/fonds-immobiliers-suravenir-per/)
 - [Linxea — Conditions SCPI Avenir 2](https://support.linxea.com/fr/articles/4788-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-avenir-2)
-- [Linxea — Gestion pilotée](https://www.linxea.com/assurance-vie/gestion-pilotee/)
+- [Linxea — Gestion pilotée OTEA Capital](https://www.linxea.com/assurance-vie/gestion-pilotee/)
 - [Linxea — Gestion horizon retraite](https://www.linxea.com/per/gestion-horizon-retraite/)
 - [Linxea — Documentation Suravenir PER](https://www.linxea.com/documentation/linxea-suravenir-per/)
+- API Morningstar (universe FEEUR$$ALL_5649) — liste ETF vérifiée le 2026-05-26

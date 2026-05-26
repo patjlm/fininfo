@@ -7,7 +7,7 @@ assureur: Suravenir (Crédit Mutuel Arkéa)
 frais-versement: "0 %"
 frais-gestion-uc: "0,60 % (0,80 % en mandat d'arbitrage)"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Avenir 2
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea
 - **Assureur** : Suravenir (filiale à 100 % du Crédit Mutuel Arkéa — SCR : 216 %, MCR : 519 % au 31/12/2025 — collecte brute record 6,4 Mds EUR en 2025 — actifs Solvabilité II : 65,0 Mds EUR)
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2001
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 % (hors SCPI, SCI, ETF, FCPR et actions)
 - **Gestion UC (compartiment libre)** : 0,60 % / an
@@ -42,10 +42,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Frais sur rentes (arrérage)** : 3 %
 - **Remise de titres en cas de rachat total, décès ou terme** : 1 % des fonds gérés réglés sous forme de titres
 - **Garantie complémentaire décès (option)** : de 0,15 ‰ à 5,15 ‰ / mois des capitaux sous risque en fonction de l'âge
-- **Note frais** : 5/5
+- **Note frais** : 4,5/5 (source : sinvestir.fr)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Suravenir Rendement 2** : garanti à 99,4 % — 70 % maximum du contrat — accessible par versement et par arbitrage
   - Performance 2024 : 2,20 %
@@ -55,27 +55,26 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2024 : 2,50 %
   - Performance 2025 : 3,00 % (net de frais de gestion, hors prélèvements fiscaux et sociaux)
   - Performance cumulée 5 ans : 11,9 %
-- **Note fonds euros** : 4,5/5
+- **Note fonds euros** : 4/5 (source : sinvestir.fr)
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC (hors supports immobiliers)** : 633 (source : API Morningstar, mai 2026)
+- **Nombre total d'UC (hors supports immobiliers)** : 631 (source : API Morningstar, mai 2026)
 - **ETF** : 117 (Amundi, BNP Paribas Easy, iShares, Xtrackers, WisdomTree, Invesco, JPMorgan, UBS, HSBC, State Street)
-- **OPCVM** : 516 (actions 340, obligations 87, allocation 69, titres hybrides 9, actifs réels 7, alternatifs 4)
-- **SCPI** : 11 (voir liste ci-dessous)
-- **SCI / OPCI / autres immobiliers** : environ 14 supports immobiliers au total (source : page Linxea)
+- **OPCVM** : 514 (actions 338, obligations 96, allocation 64, autres 16)
+- **Supports immobiliers** : 26 (13 SCPI, 6 SCI, 3 SC, 4 OPCI — source : page Linxea, mai 2026)
 - **Private equity (FCPR)** : oui
 - **Produits structurés** : oui
 - **Fonds datés à échéance** : oui (10 fonds)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (mensuel, trimestriel, semestriel ou annuel — déclenchement le 20 du mois)
-- **ISR / ESG** : 466 fonds SFDR article 8, 52 fonds SFDR article 9
+- **ISR / ESG** : 465 fonds SFDR article 8, 52 fonds SFDR article 9 (source : API Morningstar, mai 2026)
 - **SCPI : taux de redistribution des loyers** : 85 %
-- **Note UC** : 4,1/5
+- **Note UC** : 4/5 (source : sinvestir.fr)
 
 ### Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 | ISIN | Nom | Catégorie |
 |---|---|---|
@@ -197,12 +196,12 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | [IE00BYX2JD69](../../actifs/etf/IE00BYX2JD69.md) | iShares MSCI World SRI ETF EUR Acc | Actions Internationales Gdes Cap. Mixte |
 | [IE0008UEVOE0](../../actifs/etf/IE0008UEVOE0.md) | iShares iBonds Dec 2028Trm€CorpETFEURAcc | Obligations à échéance |
 
-### Supports immobiliers (SCPI / SCI / OPCI)
-<!-- Mis à jour : 2026-05-16 -->
+### Supports immobiliers (SCPI / SCI / SC / OPCI)
+<!-- Mis à jour : 2026-05-26 -->
 
 Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.com/assurance-vie/linxea-avenir2/supports-disponibles-sur-linxea-avenir-2/fonds-immobiliers-linxea-avenir/)
 
-**SCPI**
+**SCPI** (13)
 
 | Nom | Taux distribution 2025 |
 |---|---|
@@ -214,27 +213,37 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 | Patrimmo Commerce | 3,38 % |
 | Patrimmo Croissance Impact | -7,68 % |
 | PFO2 | 4,65 % |
-| Primofamily | 3,90 % |
+| Praemia Hotels Europe | 3,90 % |
 | Primovie | 4,04 % |
+| [Remake Live](../../actifs/scpi/remake-live.md) | 7,05 % |
 | Rivoli Avenir Patrimoine | 3,46 % |
+| Transitions Europe | 7,60 % |
 
-**SCI / OPCI et autres**
+**SCI / SC** (9)
 
-| Nom | Type |
+| Nom | Type | Rendement 2025 |
+|---|---|---|
+| Linasens | SCI | -1,55 % |
+| SC ESG Tendances Pierre | SC | 5,62 % |
+| SC Pierre Impact | SC | 2,75 % |
+| SC Pythagore | SC | 0,03 % |
+| SCI Capimmo | SCI | 0,36 % |
+| SCI Perial Euro Carbone | SCI | 1,32 % |
+| SCI Silver Avenir | SCI | 0,79 % |
+| SCI Territoires Avenir | SCI | 5,03 % |
+| SOFIDY Convictions Immobilières | SCI | 2,70 % |
+
+**OPCI** (4)
+
+| Nom | Rendement 2025 |
 |---|---|
-| SCI Capimmo | SCI |
-| SC Pythagore | SCI |
-| SCI Silver Avenir | SCI |
-| SCI Perial Euro Carbone | SCI |
-| SCI Territoires Avenir | SCI |
-| OPCI Opcimmo P | OPCI |
-| OPCI Diversipierre | OPCI |
-| OPCI SOFIDY Pierre Europe | OPCI |
-| OPCI Dynapierre | OPCI |
-| [Remake Live](../../actifs/scpi/remake-live.md) | [à vérifier] |
+| OPCI Diversipierre | 1,83 % |
+| OPCI Dynapierre | 0,75 % |
+| OPCI Opcimmo P | 0,13 % |
+| OPCI SOFIDY Pierre Europe | -0,66 % |
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 100 EUR (par compartiment : 100 EUR en gestion libre, 1 000 EUR en mandat d'arbitrage)
 - **Versements libres minimum** : 100 EUR (par compartiment)
@@ -255,7 +264,7 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 - **Conditions gestion pilotée (mandat d'arbitrage)** :
   - Gestionnaire : OTEA Capital (CIF)
   - Encours minimum : 1 000 EUR
-  - Profils disponibles : Non communiqué [à vérifier sur site Linxea]
+  - Profils disponibles : Défensif, Équilibré, Dynamique, Offensif (performances 2025 : +2,80 %, +4,35 %, +5,13 %, +4,08 %)
   - Surcoût : +0,20 % / an (frais de gestion UC totaux : 0,80 % / an)
   - Le souscripteur ne peut pas intervenir lui-même sur le compartiment en mandat d'arbitrage
   - En cas d'ouverture du mandat : les supports éligibles au mandat ne sont plus accessibles sur le compartiment libre
@@ -275,7 +284,7 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 - **Délai de renonciation** : 30 jours calendaires à compter de la date d'information de conclusion du contrat
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple), puis :
@@ -287,29 +296,29 @@ Source : [Linxea — Supports immobiliers Linxea Avenir 2](https://www.linxea.co
 - **Loi applicable** : droit français
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis — source : sinvestir.fr d'après données Linxea/Trustpilot)
 - **App mobile** : non
 - **Contact** : téléphone (01 45 67 34 22, lun-jeu 9h-18h, ven 9h-17h), email (serviceclient@linxea.com / gestion@linxea.com / reclamation@linxea.com), chat en ligne
 - **Ergonomie** : plateforme intuitive et agréable ; gestion 100 % en ligne
 - **Services complémentaires** : PER, SCPI, produits structurés, private equity, fonds datés à échéance, PEA assurantiel, assurance-vie luxembourgeoise, contrat de capitalisation
-- **Note SAV** : 4,5/5
+- **Note SAV** : 5/5 (source : sinvestir.fr)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,62/5 (source : sinvestir.fr)
+- **Note globale** : 4,5/5 (source : sinvestir.fr)
 - **Points forts** :
   - Accessible dès 100 EUR de versement initial et 25 EUR / mois en versements programmés
-  - 633 fonds + 117 ETF (hors supports immobiliers) — une des offres UC les plus larges du marché
+  - 631 fonds + 117 ETF (hors supports immobiliers) — une des offres UC les plus larges du marché
+  - 26 supports immobiliers (13 SCPI, 6 SCI, 3 SC, 4 OPCI) — liste étoffée avec Remake Live, Transitions Europe, SOFIDY Convictions Immobilières
   - 0 % de frais de versement et d'arbitrage en ligne (hors ETF à 0,10 %)
   - Deux fonds euros performants : Rendement 2 (2,10 %) et Opportunités 2 (3,00 %) en 2025
   - Suravenir Opportunités 2 accessible à 100 % du contrat sans condition de minimum UC
   - Assureur solide : Suravenir (SCR 216 %, MCR 519 %, collecte record 6,4 Mds EUR en 2025)
-  - Gestion pilotée OTEA Capital pour +0,20 % / an seulement
+  - Gestion pilotée OTEA Capital pour +0,20 % / an seulement (performance 2025 : +2,80 % défensif, +4,35 % équilibré, +5,13 % dynamique, +4,08 % offensif)
   - Nombreuses options d'arbitrages programmés (rééquilibrage, sécurisation, stop-loss, dynamisation)
-  - 14 supports immobiliers (SCPI, SCI, OPCI) disponibles
 - **Points faibles** :
   - Suravenir Opportunités 2 inaccessible par arbitrage (versement uniquement) — contrainte forte
   - Suravenir Rendement 2 limité à 70 % maximum du contrat

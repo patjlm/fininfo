@@ -7,7 +7,7 @@ assureur: APICIL Epargne
 frais-versement: "0 %"
 frais-gestion-uc: "0,60 %"
 frais-arbitrage: "0 % (0,15 % sur ETF)"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Zen
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea (CIF enregistré à l'ORIAS n°07031073)
 - **Assureur** : APICIL Epargne (groupe APICIL — solvabilité : Non communiqué)
@@ -28,22 +28,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2001
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,60 % / an
 - **Gestion fonds euros** :
   - Apicil Euro Garanti : 0,60 % / an maximum
-  - EuroFlex : 1,60 % / an maximum (soit 2 % selon grille affichée)
+  - EuroFlex : 1,60 % / an maximum
 - **Arbitrage** : 0 % en ligne (hors SCPI, SCI, ETF)
 - **Frais de transaction ETF** : 0,15 % par transaction
 - **Frais d'options de gestion** : 0,20 %
 - **Surcoût gestion pilotée OTEA Capital** : +0,20 % / an
 - **Frais de rachat** : 0 %
-- **Note frais** : 4,9/5
+- **Note frais** : 4,5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Apicil Euro Garanti** : garanti à 99,4 % — 100 % possible
   - Performance 2024 : 2,5 %
@@ -54,14 +54,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2025 : 3,25 % (net de frais de gestion)
   - Performance cumulée 5 ans : 6,59 %
 - **Contraintes d'accès** : Aucune contrainte (100 % fonds euros possible sur les deux fonds)
-- **Note fonds euros** : 3/5
+- **Note fonds euros** : 4,25/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : 376+ (378 via Morningstar + supports immobiliers)
+- **Nombre total d'UC** : 377+ (377 via Morningstar + supports immobiliers)
 - **ETF** : 50 (Amundi, iShares, First Trust)
-- **OPCVM** : 328 (actions 230, allocation 66, obligations 65, autres)
+- **OPCVM** : 327
 - **SCPI** : 20 (ex. [Iroko Zen](../../actifs/scpi/iroko-zen.md), [ActivImmo](../../actifs/scpi/activimmo.md), [Immorente](../../actifs/scpi/immorente.md), [Epargne Pierre](../../actifs/scpi/epargne-pierre.md), [Primopierre](../../actifs/scpi/primopierre.md), Primovie, PFO2...)
 - **SCI** : 7 (ex. SCI Capimmo, SOFIDY Convictions Immobilières, SCI VIAGÉNÉRATIONS...)
 - **OPCI** : 7 (ex. Diversipierre, Dynapierre, Opcimmo, Sofidy Pierre Europe...)
@@ -71,10 +71,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : non
 - **SCPI : taux de redistribution des loyers** : 100 %
-- **Note UC** : 4/5
+- **Note UC** : 5/5
 
 ### Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 | ISIN | Nom | Catégorie |
 |---|---|---|
@@ -114,7 +114,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | [LU1435356149](../../actifs/etf/LU1435356149.md) | Amundi USD High Yld Corp Bd ESG ETF Dis | Obligations USD Haut Rendement |
 | [LU1435356495](../../actifs/etf/LU1435356495.md) | Amundi USD High Yld Corp Bd ESG ETF HDis | Obligations Autres |
 | [LU1285960032](../../actifs/etf/LU1285960032.md) | Amundi USDCorpBdClmtPrsAlgdETFEURHdgDist | Obligations Autres |
-| [LU1681041114](../../actifs/etf/LU1681041114.md) | Amundi EUR Fl Rt Corp Bd ESG - DR (C) | Obligations EUR Emprunts Privés Court Terme |
+| [LU1681041114](../../actifs/etf/LU1681041114.md) | Amundi € Fl Rt Corp Bd ESG - DR (C) | Obligations EUR Emprunts Privés Court Terme |
 | [IE00BFD2H405](../../actifs/etf/IE00BFD2H405.md) | First Trust Cloud Computing ETF A USD | Actions Secteur Technologies |
 | [IE00BG0SSC32](../../actifs/etf/IE00BG0SSC32.md) | First Trust Dow Jones Internet ETF A USD | Actions Secteur Technologies |
 | [IE00B8X9NY41](../../actifs/etf/IE00B8X9NY41.md) | First Trust Eurozone AlphaDEX ETF A | Actions Zone Euro Flex Cap |
@@ -127,10 +127,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | [IE00B9M6RS56](../../actifs/etf/IE00B9M6RS56.md) | iShares JP Morgan $ EM Bond EURH ETF Dis | Obligations Marchés Emergents Dominante EUR |
 | [IE00B52VJ196](../../actifs/etf/IE00B52VJ196.md) | iShares MSCI Europe SRI ETF EUR Acc | Actions Europe Gdes Cap. Mixte |
 | [IE00BKTLJC87](../../actifs/etf/IE00BKTLJC87.md) | iShares Smart City Infra ETF USD Acc | Actions Secteur Infrastructures |
-| [IE00BYZTVV78](../../actifs/etf/IE00BYZTVV78.md) | iShares EUR Corp Bd 0-3yr ESG SRI ETF Dist | Obligations EUR Emprunts Privés Court Terme |
+| [IE00BYZTVV78](../../actifs/etf/IE00BYZTVV78.md) | iShares € Corp Bd 0-3yr ESG SRI ETF€Dist | Obligations EUR Emprunts Privés Court Terme |
 
 ### Supports immobiliers (SCPI / SCI / OPCI)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 **SCPI :**
 
@@ -182,7 +182,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | OPCI Preimium |
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 500 EUR (gestion libre) / 1 000 EUR (gestion pilotée)
 - **Versements libres minimum** : 300 EUR
@@ -190,33 +190,33 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Arbitrage minimum** : Non communiqué
 - **Règles d'arbitrage** : Arbitrage 0 % en ligne sauf pour les ETF (0,15 % par transaction), SCPI et SCI
 - **Limites d'investissement** : Aucune limite spécifique communiquée — 100 % fonds euros possible sur les deux fonds
-- **Conditions gestion pilotée** : 4 profils OTEA Capital (Défensif, Equilibré, Dynamique, Offensif) — +0,20 % / an — minimum 1 000 EUR — performances 2025 : Défensif +2,84 %, Equilibré +3,47 %, Dynamique +3,01 %, Offensif +2,78 %
+- **Conditions gestion pilotée** : 4 profils OTEA Capital (Défensif, Equilibré, Dynamique, Agressif) — +0,20 % / an — minimum 1 000 EUR — performances 2025 : Défensif +2,84 %, Equilibré +3,47 %, Dynamique +3,01 %, Agressif +2,78 %
 - **Rachat partiel minimum** : 500 EUR
 - **Avance sur contrat** : Non communiqué
 - **Clause bénéficiaire** : Standard / libre / démembrée [à vérifier]
 - **Private equity** : minimum 5 000 EUR — frais d'entrée 0 % — désinvestissement uniquement par rachat partiel ou total
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR/bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis)
 - **App mobile** : non
 - **Contact** : téléphone (01 45 67 34 22), email (serviceclient@linxea.com / gestion@linxea.com / reclamation@linxea.com), chat
 - **Ergonomie** : Intuitive et agréable
 - **Conseiller financier** : consultation gratuite disponible
-- **Note SAV** : 4,5/5
+- **Note SAV** : 5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,28/5
+- **Note globale** : 4,75/5
 - **Points forts** :
   - Frais de versement et d'arbitrage à 0 %
   - 2 fonds euros accessibles sans contrainte de quota UC

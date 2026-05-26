@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0 %"
 frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Corum PERLife
@@ -16,10 +16,10 @@ derniere-verification: 2026-05-16
 > PER assurantiel distribué par Corum L'Épargne, assuré par CORUM Life.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Corum L'Épargne
-- **Assureur** : CORUM Life (SIREN 852 264 332 — soumis à l'ACPR)
+- **Assureur** : CORUM Life (SIREN 852 264 332 — soumis à l'ACPR) — solvabilité 431 % [source sinvestir, mai 2026]
 - **Type** : Assurantiel (contrat d'assurance vie collectif à adhésion individuelle et facultative)
 - **Modes de gestion** : libre, profilée (4 formules), pilotée à horizon (3 profils) — modes non exclusifs, combinables simultanément
 - **Disponibilité** : en ligne (souscription 100 % en ligne) et via conseillers
@@ -28,7 +28,7 @@ derniere-verification: 2026-05-16
 - **Garantie plancher décès** : incluse gratuitement — 100 % des versements nets de frais investis en UC jusqu'à 65 ans révolus, dégressivité de 5 %/an entre 66 et 75 ans (95 % à 66 ans, 50 % à 75 ans), garantie cessant à 75 ans révolus
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : Note d'information valant conditions générales (mars 2026) — Article 10 et Annexe 2 -->
 
 **Frais prélevés par CORUM Life sur le contrat :**
@@ -52,7 +52,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.corum.fr/per/corum-perlife/corum-euro et notice mars 2026 Article 17 -->
 
 - **Fonds disponibles** : CORUM Euro (capital garanti diminué des frais de gestion de 0,60 %/an — 25 % max du contrat)
@@ -66,7 +66,7 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 4/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : Notice mars 2026 — Annexe 2 -->
 
 - **Nombre total d'UC à la carte** : 10 (3 SCPI + 4 fonds obligataires + 2 fonds Sienna Gestion + 1 fonds daté CBE) + 1 fonds euros = 11 supports ; + 1 fonds mixte (formule Rosetta uniquement)
@@ -82,7 +82,7 @@ derniere-verification: 2026-05-16
 - **Note UC** : 3/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : Notice mars 2026 — Articles 8, 13, 14, 24 -->
 
 - **Versement initial minimum** : 50 EUR (hors frais d'adhésion)
@@ -110,8 +110,8 @@ derniere-verification: 2026-05-16
 - **Sortie en capital fractionné** : possible sur 2 à 10 ans, fractions annuelles minimum, solde minimum 50 EUR après chaque fraction
 
 ## Liste des supports disponibles
-<!-- Mis à jour : 2026-05-16 -->
-<!-- Source : Notice mars 2026 — Annexe 2 (performances brutes 2024 et frais) -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Notice mars 2026 — Annexe 2 (performances brutes 2024 et frais) ; performances 2025 depuis https://www.corum.fr/nos-fonds-obligataires (du 30/12/2024 au 29/12/2025) -->
 
 ### Fonds euros
 
@@ -131,15 +131,16 @@ derniere-verification: 2026-05-16
 
 ### Fonds obligataires
 
-| Nom | ISIN | Perf. brute 2024 (A) | Frais de gestion (B, dont rétrocessions) | Perf. finale 2024 (A-B) | Risque SRI | Label |
-|---|---|---|---|---|---|---|
-| BCO (CORUM Butler Credit Opportunities) | IE00BMVX2J49 | 7,72 % | 1,71 % (dont 1,20 %) | 5,62 % | 2/7 | Article 8 |
-| CORUM BEHY (Butler European High Yield) | IE00BMCT1P08 | 9,12 % | 1,52 % (dont 1,00 %) | 7,21 % | 2/7 | Article 8 |
-| CORUM Visio | IE00BK72TN42 | 5,69 % | 1,30 % (dont 0,75 %) | 4,00 % | 2/7 | Article 8 |
-| CORUM Tellia | IE00BK72TL28 | 8,11 % | 1,70 % (dont 1,00 %) | 6,02 % | 2/7 | Label ISR |
-| CBE (CORUM Butler Entreprises) | IE000WOATID0 | 8,23 % | 1,00 % (dont 0,70 %) | 6,84 % | 3/7 | — |
+| Nom | ISIN | Perf. brute 2024 (A) | Frais de gestion (B, dont rétrocessions) | Perf. finale 2024 (A-B) | Perf. 2025 (brute) | Risque SRI | Label |
+|---|---|---|---|---|---|---|---|
+| BCO (CORUM Butler Credit Opportunities) | IE00BMVX2J49 | 7,72 % | 1,71 % (dont 1,20 %) | 5,62 % | 2,07 % | 2/7 | Article 8 |
+| CORUM BEHY (Butler European High Yield) | IE00BMCT1P08 | 9,12 % | 1,52 % (dont 1,00 %) | 7,21 % | 3,79 % | 2/7 | Article 8 |
+| CORUM Visio | IE00BK72TN42 | 5,69 % | 1,30 % (dont 0,75 %) | 4,00 % | 2,88 % | 2/7 | Article 8 |
+| CORUM Tellia | IE00BK72TL28 | 8,11 % | 1,70 % (dont 1,00 %) | 6,02 % | 2,77 % | 2/7 | Label ISR |
+| CBE (CORUM Butler Entreprises) | IE000WOATID0 | 8,23 % | 1,00 % (dont 0,70 %) | 6,84 % | Non communiqué | 3/7 | — |
 
 > Frais de souscription jusqu'à 5 % s'appliquent à chaque versement/arbitrage vers ces fonds.
+> Performances 2025 brutes (du 30/12/2024 au 29/12/2025) — source : https://www.corum.fr/nos-fonds-obligataires
 
 ### Fonds verts et solidaires (Sienna Gestion)
 
@@ -159,8 +160,8 @@ derniere-verification: 2026-05-16
 > Accessible uniquement via la formule Rosetta (20 % SCPI Origin + 80 % CORUM Rosetta). Frais de souscription jusqu'à 5 %.
 
 ## Gestion profilée — détail des formules
-<!-- Mis à jour : 2026-05-16 -->
-<!-- Source : Notice mars 2026 — Annexe 3 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : Notice mars 2026 — Annexe 3 ; vérification site officiel mai 2026 : toujours 4 formules -->
 
 | Formule | CORUM Origin | CORUM XL | BCO | CORUM BEHY | CORUM Visio | CORUM Rosetta | Perf. annualisée 5 ans |
 |---|---|---|---|---|---|---|---|
@@ -170,9 +171,10 @@ derniere-verification: 2026-05-16
 | **Rosetta** | 20 % | — | — | — | — | 80 % | 7,11 % (2025) |
 
 > Le souscripteur ne peut pas modifier la répartition interne d'une formule. Les formules peuvent être modifiées ou supprimées par CORUM Life à tout moment.
+> **Note** : sinvestir (mai 2026) mentionne « 6 formules » en gestion profilée, mais le site officiel CORUM et la notice mars 2026 en documentent 4. L'écart reste à clarifier — possibilité d'ajout de nouvelles formules non encore documentées officiellement [à vérifier].
 
 ## Gestion pilotée à horizon — profils
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : Notice mars 2026 — Annexe 4 -->
 
 Trois profils, avec sécurisation progressive automatique chaque octobre. Composition à 10 ans de la retraite (horizon max) et à l'échéance (horizon 0) :
@@ -186,7 +188,7 @@ Trois profils, avec sécurisation progressive automatique chaque octobre. Compos
 > Arbitrage automatique annuel (octobre) par CORUM Life, pouvant entraîner des frais de souscription sur les supports acquis. Le profil choisi peut être modifié à tout moment.
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 3,9/5 (101 avis)
 - **App mobile** : oui
@@ -196,7 +198,7 @@ Trois profils, avec sécurisation progressive automatique chaque octobre. Compos
 - **Note SAV** : 4,5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,3/5
 - **Points forts** :

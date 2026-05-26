@@ -7,7 +7,7 @@ assureur: Suravenir (Crédit Mutuel Arkea)
 frais-versement: "0 %"
 frais-gestion-uc: "0,75 % (0,85 % en gestion sous mandat)"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Fortuneo Vie
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Fortuneo (banque en ligne du groupe Crédit Mutuel Arkea)
 - **Assureur** : Suravenir (filiale du Crédit Mutuel Arkea)
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2000
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,75 % / an (gestion libre) ; 0,85 % / an (gestion sous mandat)
@@ -37,14 +37,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Surcoût gestion sous mandat** : + 0,10 % / an sur les UC (0,85 % total vs 0,75 % en gestion libre)
 - **Frais de rachat** : 0 % (sauf remise de titres lors d'un rachat total : 1 %)
 - **Autres frais** : 3 % de frais sur les versements de rente
-- **Note frais** : 4,4/5 (source : S'investir)
+- **Note frais** : 4,25/5 (source : S'investir)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** :
   - Suravenir Rendement 2 (garanti à 99,4 % net de frais — 100 % possible du contrat)
-  - Suravenir Opportunités 2 (garanti à 97 % net de frais — 70 % max du contrat)
+  - Suravenir Opportunités 2 (garanti à 97 % brut de frais — 70 % max du contrat)
 - **Performance 2024** :
   - Suravenir Rendement 2 : 2,20 %
   - Suravenir Opportunités 2 : 2,50 %
@@ -55,35 +55,46 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Suravenir Rendement 2 : 9,6 %
   - Suravenir Opportunités 2 : 11,9 %
 - **Contraintes d'accès** :
-  - Suravenir Rendement 2 : chaque versement doit comporter au minimum 30 % d'UC présentant un risque de perte en capital
-  - Suravenir Opportunités 2 : 70 % max du contrat ; bonification de taux selon la part d'UC détenue
-  - Les deux fonds euros sont **inéligibles aux arbitrages** (pas d'arbitrage possible entre fonds euros et UC, ni entre les deux fonds euros)
-- **Note fonds euros** : 4,5/5 (source : S'investir)
+  - Suravenir Rendement 2 : chaque versement doit comporter **au minimum 30 % d'UC** présentant un risque de perte en capital
+  - Suravenir Opportunités 2 : **70 % max du contrat** ; aucun minimum d'UC requis par versement ; bonification de taux selon la part d'UC détenue (voir performance 2025)
+  - Les deux fonds euros sont **inéligibles aux arbitrages** (accès uniquement lors des versements, pas par arbitrage depuis les UC)
+- **Note fonds euros** : 3,75/5 (source : S'investir)
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : plus de 200
-- **ETF** : environ 15 (dont MSCI World, S&P 500, CAC 40 et obligations)
-- **SCPI** : 3
-  - SCPI Patrimmo Commerce (Primonial REIM)
-  - SCPI Primovie (Primonial REIM)
-  - SCPI Transition Europe (Primonial REIM)
+- **ETF** : 11 (source : fortuneo.fr/assurance-vie/etf)
+  - Amundi MSCI World II UCITS ETF DIST (FR0010315770)
+  - Amundi S&P 500 II UCITS ETF EUR DIST (LU0496786574)
+  - Amundi CAC 40 UCITS ETF DIST (FR0007052782)
+  - Amundi Nasdaq-100 II UCITS ETF ACC (LU1829221024)
+  - Amundi MSCI Emerging Markets UCITS EUR ACC (FR0010429068)
+  - Amundi Japan Topix II UCITS ETF EUR Hedged Dist (FR0011475078)
+  - Amundi Global Equity Quality Income UCITS ETF DIST (LU0832436512)
+  - Amundi EUR Corporate Bond PAB NET Zero Ambition UCITS ETF ACC (LU1829219127)
+  - Amundi MSCI Water ESG Screened UCITS ETF DIST (FR0010527275)
+  - Lyxor DJ Global Titans 50 UCITS ETF - DIST (FR0007075494)
+  - Xtrackers Physical Gold EUR Hedged ETC (DE000A1EK0G3)
+- **SCPI** : 3 (toutes Primonial REIM, source : fortuneo.fr/assurance-vie/scpi-immobilier)
+  - SCPI Patrimmo Commerce (QS0002005299) — Commerce ; perf. 2024 : -8,01 %
+  - SCPI Primovie (QS0002005324) — Santé & éducation ; perf. 2024 : 2,94 %
+  - SCPI Transition Europe (FR001400EGA8) — Diversifiée ; perf. 2024 : 7,50 %
 - **SCI** : 3
-  - SCI Primonial Capimmo
-  - SCI Silver Avenir
-  - SCI Territoire Avenir
+  - SCI Primonial Capimmo (QS0002005277) — perf. 2024 : -14,05 %
+  - SCI Silver Avenir (FR0013526100) — perf. 2024 : 3,28 %
+  - SCI Territoire Avenir (FR001400A217) — perf. 2024 : 3,83 %
 - **SC** : 1
-  - SC Tendance Pierre
+  - SC Tendance Pierre (FR0014007X71) — perf. 2024 : non disponible
 - **OPCI** : 1
-  - OPCI Opcimmo
+  - OPCI Opcimmo (FR0011066802) — Bureaux ; perf. 2024 : -8,88 %
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui
-- **Autres supports** : plus de 100 fonds ISR (Investissement Socialement Responsable), FCPR (private equity)
+- **Autres supports** : plus de 100 fonds ISR (Investissement Socialement Responsable), fonds obligataires, FCPR (private equity)
 - **Note UC** : 4/5 (source : S'investir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 100 EUR (gestion libre) / 300 EUR (gestion sous mandat)
 - **Versements libres minimum** : 100 EUR
@@ -102,25 +113,25 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Clause bénéficiaire** : standard / libre
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR/bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 3,9/5 (14 756 avis)
 - **App mobile** : oui
 - **Contact** : formulaire de contact, téléphone (02 98 00 29 00), chat, mail (clients uniquement), courrier
 - **Ergonomie** : simple, agréable et efficace (source : S'investir)
-- **Note SAV** : 4/5 (source : S'investir)
+- **Note SAV** : 4,5/5 (source : S'investir)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,38/5 (source : S'investir)
+- **Note globale** : 4,25/5 (source : S'investir)
 - **Points forts** :
   - Accessible dès 100 EUR
   - Deux fonds euros performants avec bonification sur Suravenir Opportunités 2

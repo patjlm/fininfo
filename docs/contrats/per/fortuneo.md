@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,50 % (0,70 % gestion à horizon)"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Fortuneo PER
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par [Fortuneo](https://www.fortuneo.fr/), assuré par Suravenir. Réservé aux détenteurs d'un compte courant Fortuneo. Voir aussi la fiche [PER (enveloppe)](../../enveloppes/per.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Fortuneo (filiale Crédit Mutuel Arkéa)
 - **Assureur** : Suravenir — groupe Crédit Mutuel Arkéa (solvabilité : 263,7 %)
@@ -29,7 +29,7 @@ derniere-verification: 2026-05-16
 - **Label** : Label d'Excellence — Les Dossiers de l'Epargne / Minalea
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC (gestion libre)** : 0,50 %/an
@@ -44,7 +44,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 4,75/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponible** : Fonds Euros Retraite (garantie 99,3 % — 100 % max du contrat)
 - **Performance 2024** : 3,20 %
@@ -55,7 +55,7 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 4,5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : + 220
 - **ETF** : 11
@@ -69,12 +69,12 @@ derniere-verification: 2026-05-16
 - **Note UC** : 3,5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Versements
 
 - **Versement initial minimum** : 100 EUR
-- **Versements libres minimum** : 100 EUR [à vérifier]
+- **Versements libres minimum** : 100 EUR
 - **Versements programmés minimum** : 50 EUR/mois
 - **Versements programmés sur SCPI** : non autorisés
 
@@ -86,6 +86,7 @@ derniere-verification: 2026-05-16
 
 ### Options d'arbitrage automatique
 
+- **Rééquilibrage automatique** : maintien d'une répartition cible définie entre supports — arbitrage automatique entre supports sélectionnés — fréquence au choix (mensuelle, trimestrielle, semestrielle, annuelle) — gratuit
 - **Investissement progressif** : arbitrage programmé (mensuel, trimestriel, semestriel, annuel) — montant min. 100 EUR, déclenchement si encours ≥ 1 200 EUR sur les supports concernés — gratuit
 - **Stop-loss relatif (seuil évolutif)** : transfert automatique vers support sécurisé en cas de baisse — seuil min. 5 % — montant min. à arbitrer 100 EUR — gratuit
 - **Sécurisation des plus-values** : transfert automatique des gains vers support éligible — seuil min. 5 % de plus-value du capital net investi — montant min. 100 EUR — gratuit
@@ -102,25 +103,35 @@ derniere-verification: 2026-05-16
 
 - **Mode par défaut** : oui — gestion à horizon activée à la souscription
 - **Profils** : Prudent, Equilibré (défaut), Dynamique
-- **Profil Prudent** : exposition limitée aux actifs risqués, priorité à la stabilité — 2,67 % net en 2025 — performance annualisée depuis création : 2,05 % net (horizon 2+ ans)
-- **Profil Equilibré** : diversification entre sécurité et performance, risque modéré — 3,90 % net en 2025 — performance annualisée depuis création : 2,62 % net (horizon 2+ ans)
-- **Profil Dynamique** : forte exposition actions, espérance de rendement supérieure — 4,66 % net en 2025 — performance annualisée depuis création : 2,83 % net (horizon 2+ ans)
 - **Dimension responsable** : ≥ 80 % de fonds ayant des objectifs d'investissement durable (SFDR)
 - **Changement de profil** : gratuit, à tout moment
 - **Frais de gestion** : 0,70 %/an sur les UC (vs 0,50 % en gestion libre)
 - **Basculement vers gestion libre** : possible à tout moment, sans frais
 
+Performances 2025 nettes et annualisées depuis création (du 05/12/2024 au 31/12/2025) par horizon temporel :
+
+| Horizon jusqu'à la retraite | Prudent 2025 | Prudent annualisé | Equilibré 2025 | Equilibré annualisé | Dynamique 2025 | Dynamique annualisé |
+|---|---|---|---|---|---|---|
+| À partir de 2 ans | 2,67 % | 2,05 % | 3,90 % | 2,62 % | 4,66 % | 2,83 % |
+| 5 à 2 ans | 3,11 % | 2,19 % | 4,43 % | 2,58 % | 5,76 % | 3,35 % |
+| 10 à 5 ans | 3,98 % | 2,40 % | 5,72 % | 3,07 % | 7,54 % | 4,46 % |
+| 15 à 10 ans | 4,02 % | 1,55 % | 7,29 % | 4,11 % | 7,31 % | 4,28 % |
+| 20 à 15 ans | 3,94 % | 1,54 % | 7,35 % | 4,28 % | 7,04 % | 4,05 % |
+| Jusqu'à 20 ans | 3,14 % | 0,82 % | 6,96 % | 3,92 % | 6,65 % | 3,69 % |
+
 ### Transfert
 
-- **Transfert entrant** : possible depuis PERP, Madelin, PERCO, Article 83, autres PER — remboursement des frais de transfert jusqu'à 1 000 EUR pour un encours min. de 5 000 EUR
+- **Transfert entrant** : possible depuis PERP, Madelin, PERCO, Article 83, autres PER — remboursement des frais de transfert jusqu'à 1 000 EUR pour un encours min. de 5 000 EUR (offre valable jusqu'au 04/08/2026)
 - **Bonus ouverture** : 100 EUR pour un versement initial ≥ 2 000 EUR ; 200 EUR pour un versement initial ≥ 4 000 EUR (offre valable du 04/05/2026 au 30/06/2026)
 - **Transfert sortant** : 1 % max si contrat < 5 ans ; gratuit si contrat ≥ 5 ans (encadrement légal)
 
 ## Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.fortuneo.fr/per-plan-epargne-retraite/gestion-libre -->
+<!-- Source : https://www.fortuneo.fr/files/notice-per.pdf -->
 <!-- Source : https://mabanque.fortuneo.fr/document-assurance-vie/PERFSUPPORTPER -->
 <!-- Source : https://intra.suravenir.fr/web/suravenir.fr/perfs-des-uc-fortuneo-vie -->
+<!-- Note : FR0007054358, LU1681040223, IE000Y77LGG9 non trouvés dans la notice PDF officielle ; présence confirmée via PERFSUPPORTPER (document authentifié) -->
 
 | Nom | ISIN | Catégorie | Frais internes |
 |---|---|---|---|
@@ -140,7 +151,7 @@ derniere-verification: 2026-05-16
 - **Frais de gestion UC** : 0,50 %/an en gestion libre (prélevé par l'assureur, s'ajoute aux frais internes)
 
 ## Liste des supports immobiliers disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.fortuneo.fr/assurance-vie/scpi-immobilier -->
 
 ### SCPI
@@ -171,7 +182,7 @@ derniere-verification: 2026-05-16
 - **Contraintes de plafonnement** : 50 000 EUR max et 50 % de l'encours total par support [à vérifier — données issues du contrat Fortuneo Vie, applicabilité au PER à confirmer]
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 3,9/5 (14 756 avis — tous produits Fortuneo confondus)
 - **App mobile** : oui
@@ -185,7 +196,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 3,9/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,13/5
 - **Points forts** :
@@ -215,6 +226,7 @@ derniere-verification: 2026-05-16
 - [Fortuneo -- Gestion a horizon PER](https://www.fortuneo.fr/per-plan-epargne-retraite/gestion-horizon)
 - [Fortuneo -- Options de gestion PER](https://www.fortuneo.fr/per-plan-epargne-retraite/options)
 - [Fortuneo -- Transfert PER](https://www.fortuneo.fr/blog/transfert-per)
+- [Fortuneo -- Notice information PER (PDF)](https://www.fortuneo.fr/files/notice-per.pdf)
 - [Suravenir -- Lancement Fortuneo PER](https://www.suravenir.fr/lancement-fortuneo-per/)
 - [Fortuneo -- Supports immobiliers (SCPI, SCI, OPCI)](https://www.fortuneo.fr/assurance-vie/scpi-immobilier)
 - [Fortuneo -- SCPI éligibles (AV)](https://www.fortuneo.fr/faq/quelles-sont-les-scpi-eligibles-au-contrat-fortuneo-vie)

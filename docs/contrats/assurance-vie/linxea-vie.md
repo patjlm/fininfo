@@ -7,7 +7,7 @@ assureur: Generali Vie
 frais-versement: "0 %"
 frais-gestion-uc: "0,60 % (0,70 % sur titres vifs)"
 frais-arbitrage: "0 %"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Vie
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea (plus de 200 000 clients)
 - **Assureur** : Generali Vie (SA, capital 336,9 M EUR, RCS Paris 602 062 481, régulée ACPR)
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2001
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 % (hors SCPI, SCI, ETF, FCPR et actions)
 - **Gestion UC** : 0,60 % / an
@@ -43,7 +43,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note frais** : 4,75/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** :
   - **Netissima** (garanti à 99,25 % — 100 % possible jusqu'au 30/06/2026 ; 50 % max après cette date)
@@ -65,12 +65,13 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note fonds euros** : 4,5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : 715 (source Morningstar API, hors supports immobiliers) + 22 supports immobiliers
+- **Nombre total d'UC** : 713 (source Morningstar API, hors supports immobiliers) + 22 supports immobiliers
 - **ETF** : 140 (Amundi, iShares, BNP Paribas Easy, Xtrackers, Vanguard)
-- **OPCVM** : 575 (actions, obligations, allocation, alternatifs)
-- **SCPI** : 8 (taux de redistribution des loyers : 90 %)
+- **OPCVM** : 573 (actions, obligations, allocation, alternatifs)
+- **SCPI** : 7 (taux de redistribution des loyers : 90 %)
+- **SC** : 2 (taux de redistribution des loyers : 90 %)
 - **SCI** : 8
 - **OPCI** : 5
 - **Titres vifs (actions)** : oui — 98 titres européens
@@ -83,9 +84,9 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note UC** : 4,5/5
 
 ### Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-16.
+Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-26.
 
 | ISIN | Nom | Catégorie | TER |
 |---|---|---|---|
@@ -231,23 +232,28 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 | [IE0008UEVOE0](../../actifs/etf/IE0008UEVOE0.md) | iShares iBonds Dec 2028Trm€CorpETFEURAcc | Obligations à échéance | 0.12 % |
 
 ### Supports immobiliers (SCPI / SCI / OPCI)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-22 supports immobiliers au total (source : Linxea — page supports fonds immobiliers). Taux de redistribution des loyers SCPI : 90 %.
+22 supports immobiliers au total (7 SCPI + 2 SC + 8 SCI + 5 OPCI — source : Linxea — page supports fonds immobiliers). Taux de redistribution des loyers SCPI/SC : 90 %.
 
-**SCPI (8)**
+**SCPI (7)**
 
 | Nom | Taux distribution 2025 |
 |---|---|
 | Atream Hôtels | 5,00 % |
-| SC ESG Tendances Pierre | 5,62 % |
 | Altixia Cadence XII | 5,15 % |
 | Selectinvest 1 | 4,44 % |
 | [Primopierre](../../actifs/scpi/primopierre.md) | 3,62 % |
 | Epargne Foncière | 4,86 % |
 | Aestiam Horizon | 5,10 % |
-| SC Terres Invest | 3,01 % |
 | [Remake Live](../../actifs/scpi/remake-live.md) | 7,05 % |
+
+**SC (2)**
+
+| Nom | Taux distribution 2025 |
+|---|---|
+| SC ESG Tendances Pierre | 5,62 % |
+| SC Terres Invest | 3,01 % |
 
 **SCI (8)**
 
@@ -273,10 +279,10 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 | Altixia Valeur | -11,35 % |
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 300 EUR
-- **Versements libres minimum** : Non communiqué [à vérifier]
+- **Versements libres minimum** : 300 EUR
 - **Versements programmés minimum** : 50 EUR / mois
 - **Arbitrage minimum** : Non communiqué [à vérifier]
 - **Rachat partiel minimum** : 1 000 EUR
@@ -300,14 +306,14 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 - **Type de contrat** : contrat de groupe (adhésion à une association)
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR / bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis — source : sinvestir.fr d'après données Linxea/Trustpilot)
 - **App mobile** : non
@@ -316,14 +322,14 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 - **Note SAV** : 4,5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,65/5 (source : sinvestir.fr)
 - **Points forts** :
   - Deux fonds euros disponibles (Eurossima et Netissima) — accès 100 % sans condition UC possible
   - Bonus de rendement Netissima : jusqu'à 3,50 % en 2024 avec ≥ 50 % en UC (3,00 % sans condition)
   - 140 ETF disponibles avec 0 % de frais de transaction
-  - Plus de 700 UC totales incluant private equity, produits structurés, fonds datés
+  - 735 supports totaux (713 UC + 22 immobiliers) incluant private equity, produits structurés, fonds datés
   - 0 % de frais de versement et d'arbitrage en ligne
   - Versement initial accessible dès 300 EUR, programmé dès 50 EUR / mois
   - Choix entre deux gestionnaires pilotés : OTEA Capital et Carmignac

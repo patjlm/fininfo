@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,60 %"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # PER Placement-direct
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par [Placement Direct](https://www.placement-direct.fr) (filiale SwissLife), assuré par SwissLife Assurance Retraite (FRPS).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Placement Direct (filiale du groupe SwissLife)
 - **Assureur** : SwissLife Assurance Retraite — FRPS, filiale à 100 % de SwissLife Assurance et Patrimoine (SCR SLAP 2024 : 147,7 %)
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Année de création** : 2020
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,60 %
@@ -41,7 +41,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 4/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** : Actif général de SwissLife Assurance Retraite (garanti à 100 % — 100 % du contrat possible)
 - **Performance 2024** (nette de frais de gestion, brute de PS) :
@@ -59,13 +59,13 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : + 1 000
-- **ETF** : 57 (58 identifiés — voir liste ci-dessous)
+- **ETF** : 57 [à vérifier — guide officiel mentionne 59 sur Placement-direct Vie, même gamme SwissLife] (voir liste ci-dessous)
 - **SCPI** : 13 (limité à 40 % du versement, max 50 000 EUR par SCPI)
 - **SCI** : 12 (voir liste ci-dessous)
-- **OPCI** : 2 (sans limite d'investissement)
+- **OPCI** : 2 [à vérifier — non listés explicitement sur la page allocation libre mai 2026]
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (options d'arbitrage automatique gratuites)
 - **Autres supports** : fonds obligataires, fonds monétaires, matières premières
@@ -73,10 +73,10 @@ derniere-verification: 2026-05-16
 - **Note UC** : 4,5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 900 EUR (minimum 30 EUR par support)
-- **Versements libres minimum** : 900 EUR (minimum 30 EUR par support)
+- **Versements libres minimum** : 100 EUR (minimum 30 EUR par support) — confirmé sur site officiel mai 2026
 - **Versements programmés minimum** :
   - 100 EUR / mois
   - 300 EUR / trimestre
@@ -90,22 +90,22 @@ derniere-verification: 2026-05-16
 - **Limites d'investissement** :
   - SCPI : 40 % du versement maximum, 50 000 EUR max par SCPI
   - SC/SCI : 40 % du versement maximum [à vérifier]
-  - OPCI : sans limite
+  - OPCI : sans limite [à vérifier]
   - Fonds euros : 100 % possible (mais rendement dégradé si UC < 40 %)
 - **Conditions gestion pilotée** :
-  - 3 profils : Sérénité (défensif), Harmonie (équilibré), Ambition (dynamique)
-  - Gestion à horizon retraite : allocation sécurisée automatiquement à l'approche de la retraite
-  - Gérée par SwissLife Asset Managers
+  - 3 profils : Sérénité (risque 3,5/7), Harmonie (risque 3,9/7), Ambition (risque 4,1/7)
+  - Gestion à horizon retraite : allocation sécurisée automatiquement chaque année à l'approche de la retraite
+  - Âge de départ prévisionnel à renseigner (entre 62 et 80 ans)
+  - Fonds utilisés : gamme SLF (Swiss Life Funds) et SLGP
   - Surcoût : 0,20 % (total 0,80 %/an)
   - Performances non communiquées publiquement
 - **Transfert entrant** : sans frais de versement (0 %)
 - **Transfert sortant** : 1 % si < 5 ans, gratuit après 5 ans (loi PACTE)
 
 ## Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.swisslife.fr/content/dam/france/dici-des-opc/Liste%20UC%20-%20Darjeeling%20032022.pdf (liste officielle SwissLife, mars 2022) -->
 <!-- Source : https://www.placement-direct.fr/retraite/per-placement-direct/allocation-libre -->
-<!-- Source : https://www.placement-direct.fr/actualites/un-tour-du-monde-dopportunites-avec-les-fonds-indiciels-trackers -->
 <!-- Source : https://www.placement-direct.fr/guides-epargne/etf-assurance-vie -->
 
 
@@ -218,7 +218,7 @@ derniere-verification: 2026-05-16
 |---|---|---|---|
 | Amundi S&P 500 UCITS ETF Acc | [LU1135865084](../../actifs/etf/LU1135865084.md) | Actions US (S&P 500) | 0,09 %/an |
 | Amundi DJ Industrial Average UCITS ETF Dist | [FR0007056841](../../actifs/etf/FR0007056841.md) | Actions US (Dow Jones) | 0,50 %/an |
-| Amundi Nasdaq-100 UCITS ETF Acc | LU1829221028 | Actions US (Nasdaq-100) | 0,22 %/an |
+| Amundi Core Nasdaq-100 Swap UCITS ETF Acc | [LU1829221024](../../actifs/etf/LU1829221024.md) | Actions US (Nasdaq-100) | 0,22 %/an |
 
 ### ETF Actions Japon
 
@@ -258,7 +258,7 @@ derniere-verification: 2026-05-16
 | Amundi CAC 40 Daily (-2x) Inverse UCITS ETF Acc | [FR0010411884](../../actifs/etf/FR0010411884.md) | CAC 40 Inverse x2 | 0,60 %/an |
 
 ## Liste des SCPI / SCI / OPCI disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.placement-direct.fr/retraite/per-placement-direct/allocation-libre -->
 
 - Redistribution loyers SCPI : 100 %
@@ -304,7 +304,7 @@ derniere-verification: 2026-05-16
 | Viagénérations | SCI | Equitim |
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,4/5 (78 avis)
 - **App mobile** : oui
@@ -316,7 +316,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,5/5
 - **Points forts** :
@@ -343,8 +343,10 @@ derniere-verification: 2026-05-16
 - [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
 - [Placement-direct -- Page produit PER](https://www.placement-direct.fr/retraite/per-placement-direct)
 - [Placement-direct -- Allocation libre PER](https://www.placement-direct.fr/retraite/per-placement-direct/allocation-libre)
+- [Placement-direct -- Pilotage retraite PER](https://www.placement-direct.fr/retraite/per-placement-direct/pilotage-retraite)
 - [Placement-direct -- Allocation libre Vie](https://www.placement-direct.fr/assurance-vie/placement-direct-vie/allocation-libre)
 - [Placement-direct -- Taux assurance-vie 2025 (fonds euros)](https://www.placement-direct.fr/actualites/taux-assurance-vie-2025)
+- [Placement-direct -- Guide ETF assurance-vie](https://www.placement-direct.fr/guides-epargne/etf-assurance-vie)
 - [Placement-direct -- Un tour du monde d'opportunités avec les fonds indiciels trackers](https://www.placement-direct.fr/actualites/un-tour-du-monde-dopportunites-avec-les-fonds-indiciels-trackers)
 - [SwissLife -- Annexe frais PER Placement-direct (avril 2025)](https://www.swisslife.fr/content/dam/france/annexes-frais/partenaires/Annexe%20Frais%20-%20PER%20Placement-direct.pdf)
 - [SwissLife -- Taux fonds euros 2025 (communiqué presse)](https://www.swisslife.fr/swiss-life-en-france/espace-presse/taux-de-rendement-net-2025-fonds-euros-swiss-life.html)

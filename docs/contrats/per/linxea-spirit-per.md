@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,50 %"
 frais-arbitrage: "0 % (0,10 % ETF, 0,60 % titres vifs)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Spirit PER
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par [Linxea](https://www.linxea.com/), assuré par Spirica. Voir aussi la fiche [PER (enveloppe)](../../enveloppes/per.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea
 - **Assureur** : Spirica — filiale 100 % Crédit Agricole Assurances (solvabilité : 157 % au 31/12/2025)
@@ -28,7 +28,7 @@ derniere-verification: 2026-05-16
 - **Adhésion** : 10 EUR de frais associatifs (Association Retraite Falguière)
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,50 %/an
@@ -41,7 +41,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponible** : Fonds Euro PER Nouvelle Génération (garantie 98 % — 100 % max du contrat, plafonné à 5 M EUR)
 - **Performance 2024** : 3,13 %
@@ -53,7 +53,7 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : + 700
 - **ETF** : 80 — [liste complète](#liste-des-etf-disponibles-80-supports)
@@ -66,7 +66,7 @@ derniere-verification: 2026-05-16
 - **Note UC** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Versements
 
@@ -105,8 +105,8 @@ derniere-verification: 2026-05-16
 
 - **Gestionnaires** : OTEA Capital (architecture ouverte, exclusivité Linxea) et Yomoni (gestion indicielle ETF)
 - **Profils OTEA Capital** : Défensif, Équilibré, Équilibré Responsable, Dynamique, Agressif (5 profils)
-- **Performance OTEA Capital 2025** : Défensif 2,89 % ; Équilibré 4,54 % ; Dynamique 4,56 % ; Agressif 3,69 %
-- **Performance OTEA Capital 2024** : Défensif 4,25 % ; Équilibré 6,69 % ; Dynamique 9,51 % ; Agressif 12,77 %
+- **Performance OTEA Capital 2025** : Défensif 2,89 % ; Équilibré 4,54 % ; Équilibré Responsable 4,63 % ; Dynamique 4,56 % ; Agressif 3,69 %
+- **Performance OTEA Capital 2024** : Défensif 4,25 % ; Équilibré 6,69 % ; Équilibré Responsable non communiqué ; Dynamique 9,51 % ; Agressif 12,77 %
 - **Profils Yomoni** : Défensif, Équilibré, Tonique, Offensif (4 profils)
 - **Performance Yomoni 2025** : Défensif 3,64 % ; Équilibré 4,30 % ; Tonique 6,89 % ; Offensif 9,83 %
 - **Performance Yomoni 2024** : Défensif 5,60 % ; Équilibré 7,88 % ; Tonique 14,44 % ; Offensif 19,64 %
@@ -125,7 +125,7 @@ derniere-verification: 2026-05-16
 - **Transfert sortant** : 1 % max si contrat < 5 ans ; gratuit si contrat ≥ 5 ans (encadrement légal)
 
 ## Liste des ETF disponibles (80 supports)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : API Morningstar (universe FEEUR$$ALL_5650) via skills/fetch-linxea-funds -->
 
 - Frais de transaction ETF : 0,10 % (entrée et sortie)
@@ -216,7 +216,7 @@ derniere-verification: 2026-05-16
 | Xtrackers S&P 500 Inv Dly Swap ETF 1C | [LU0322251520](../../actifs/etf/LU0322251520.md) | Trading - Leveraged/Inverse Actions |
 
 ## Liste des SCPI / SCI / OPCI disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.linxea.com/retraite/linxea-spirit-per/supports-disponibles-sur-linxea-spirit-per/fonds-immobiliers-linxea-spirit-per/ -->
 
 - Redistribution loyers SCPI : 100 % (réinvestis sur le fonds euros du contrat)
@@ -233,7 +233,7 @@ derniere-verification: 2026-05-16
 | [Activimmo](../../actifs/scpi/activimmo.md) | SCPI | Logistique — 5,50 % TD 2024 |
 | Altixia Cadence XII | SCPI | Diversifiée — 5,73 % TD 2024 |
 | Atream Hôtels | SCPI | Hôtellerie — 5,05 % TD 2024 |
-| Edissimmo | SCPI | Bureaux — 4,27 % TD 2024 |
+| Edissimo | SCPI | Bureaux — 4,27 % TD 2024 |
 | Efimmo | SCPI | Bureaux — 5,07 % TD 2024, 50 000 EUR max par acte |
 | Épargne Foncière | SCPI | Bureaux — 4,52 % TD 2024 |
 | [Épargne Pierre](../../actifs/scpi/epargne-pierre.md) | SCPI | Diversifiée — 5,28 % TD 2024 |
@@ -282,7 +282,7 @@ derniere-verification: 2026-05-16
 | OPCI Preim ISR | OPCI | non communiqué |
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis)
 - **App mobile** : non
@@ -295,7 +295,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,88/5
 - **Points forts** :

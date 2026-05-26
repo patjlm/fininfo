@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "1,35 %"
 frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Nalo PER
@@ -17,18 +17,19 @@ derniere-verification: 2026-05-16
 > Règles générales du PER : voir [enveloppe PER](../../enveloppes/per.md).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Nalo (filiale du groupe Apicil depuis 2023)
 - **Assureur** : Apicil Épargne Retraite (solvabilité : 218 %)
 - **Type** : Assurantiel (contrat d'assurance de groupe multisupports)
-- **Modes de gestion** : pilotée uniquement (pas de gestion libre disponible dans le PER)
+- **Modes de gestion** : gestion pilotée à horizon + gestion libre (depuis 2025)
 - **Disponibilité** : en ligne exclusivement
 - **Versement minimum** : 500 EUR
 - **Année de création** : 2022
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.nalo.fr/notre-tarif -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 1,35 % / an (0,90 % mandat Nalo + 0,45 % assureur)
@@ -38,40 +39,45 @@ derniere-verification: 2026-05-16
 - **Sortie** : 0 %
 - **Rente (arrérages)** : 1,50 %
 - **Surcoût gestion pilotée** : inclus dans les frais de gestion (pas de surcoût additionnel)
-- **Frais tout compris** : 0,85 % / an (profil défensif) à 1,60 % / an (profil offensif)
+- **Frais tout compris** : 0,85 % / an (profil défensif) à 1,60 % / an (profil offensif, plafonné)
+- **Prélèvement** : trimestriel, déduit de la valeur du contrat (prorata en cas de rachat)
 - **Note frais** : 3/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** : Fonds Euros Apicil Garanti (garanti à 100 % — 60 % max du contrat)
-- **Performance 2025** : 1,45 %
-- **Performance 2024** : 1,30 %
-- **Performance cumulée 5 ans** : 5,20 %
-- **Contraintes d'accès** : allocation définie par l'algorithme en gestion pilotée (pas de choix manuel de la part fonds euros) ; la part fonds euros augmente automatiquement à l'approche de la retraite
+- **Performance 2025** : 1,45 % (source : sinvestir.fr — à vérifier sur site Apicil)
+- **Performance 2024** : 1,30 % (source : sinvestir.fr — à vérifier sur site Apicil)
+- **Performance cumulée 5 ans** : 5,20 % (source : sinvestir.fr)
+- **Contraintes d'accès** :
+  - En gestion pilotée : allocation définie par l'algorithme, pas de choix manuel de la part fonds euros ; la part fonds euros augmente automatiquement à l'approche de la retraite
+  - En gestion libre : accès possible dans la limite de 60 % du contrat [à vérifier]
 - **Note fonds euros** : 3/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.nalo.fr/nos-portefeuilles (liste non différenciée PER/AV) et https://www.nalo.fr/notre-tarif -->
 
-- **Nombre total d'UC** : ~75 supports (environ 45 ETF actions + 30 ETF obligations + 1 ETF matières premières + 1 fonds euros) — sélection gérée algorithmiquement
+- **Nombre total d'UC** : ~75 supports (environ 45 ETF actions + 30 ETF obligations + 1 ETF matières premières + 1 fonds euros)
 - **ETF Actions** : ~45
 - **ETF Obligations** : ~30
 - **ETF Matières premières** : 1
-- **SCPI** : non disponibles dans le PER Nalo (confirmation officielle page tarifs)
+- **SCPI** : non disponibles dans le PER Nalo (SCPI uniquement dans Nalo Flex assurance-vie — confirmé sur page tarifs : SCPI 3 % max uniquement pour Nalo Flex)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (sécurisation progressive en gestion pilotée)
-- **Autres supports** : fonds ISR, fonds obligataires, fonds thématiques
+- **Autres supports** : fonds ISR (Investissement Socialement Responsable), fonds obligataires
 - **Note UC** : 3/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.nalo.fr/per-plan-epargne-retraite, https://www.nalo.fr/notre-tarif -->
 
 ### Modes de gestion
 
-- **Gestion pilotée uniquement** : l'algorithme construit un portefeuille sur mesure selon l'âge, l'horizon de retraite, la situation patrimoniale et la sensibilité au risque ; pas de profils types « prudent / équilibré / dynamique »
-- **Pas de gestion libre** : contrairement à l'assurance-vie Nalo Patrimoine, le PER ne propose pas la gestion libre
-- **Sécurisation progressive** : automatique, réduit l'exposition actions à l'approche de la retraite au profit d'obligations et du fonds euros
+- **Gestion pilotée à horizon** : l'algorithme construit un portefeuille sur mesure selon l'âge, l'horizon de retraite, la situation patrimoniale et la sensibilité au risque ; sécurisation progressive automatique à l'approche de la retraite
+- **Gestion libre** : disponible dans le PER Nalo (ajout récent) — les épargnants choisissent eux-mêmes les supports [à confirmer sur la documentation contractuelle]
+- **Sécurisation progressive** : automatique en gestion pilotée, réduit l'exposition actions au profit d'obligations et du fonds euros
 - **Pas de multiprojet** : contrairement à l'assurance-vie Nalo Patrimoine, le PER ne propose pas la fonctionnalité Multiprojet
 
 ### Versements
@@ -92,9 +98,10 @@ derniere-verification: 2026-05-16
 - **SCPI** : non disponibles dans le PER
 
 ### Transfert
+<!-- Source : https://www.nalo.fr/transfert-de-per -->
 
 - **Transfert entrant** :
-  - Accepté depuis PER, PERP, Madelin, PERCO (si salarié ayant quitté l'entreprise), art. 83, Préfon, CRH
+  - Accepté depuis PER, PERP, Madelin, PERCO (si salarié ayant quitté l'entreprise), art. 83, Préfon, CRH, PER bancaires ou assurantiels
   - 0 % de frais chez Nalo (frais éventuels facturés par l'ancien gestionnaire : plafonnés à 1 % si contrat < 5 ans, gratuit si >= 5 ans ; anciens contrats PERP/Madelin : jusqu'à 5 % si < 10 ans, gratuit si >= 10 ans)
   - Démarches prises en charge intégralement par l'équipe Nalo
   - Versement initial minimum : 500 EUR (requis pour ouvrir le contrat avant le transfert)
@@ -102,10 +109,10 @@ derniere-verification: 2026-05-16
 - **Transfert sortant** : 1 % max de l'encours si contrat < 5 ans ; gratuit si contrat >= 5 ans
 
 ## Supports utilisés en gestion pilotée
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.nalo.fr/nos-portefeuilles — liste non différenciée PER/AV ; ISIN issus de la vérification précédente 2026-05-16 -->
 
-> La page https://www.nalo.fr/nos-portefeuilles ne distingue pas explicitement les supports PER des supports assurance-vie. Les listes ci-dessous sont issues de la dernière vérification disponible. Les ISIN sont à reconfirmer sur le site officiel.
+> La page https://www.nalo.fr/nos-portefeuilles ne distingue pas explicitement les supports PER des supports assurance-vie. Les listes ci-dessous sont issues de la dernière vérification disponible (2026-05-26). Les ISIN sont à reconfirmer sur le site officiel.
 
 ### ETF Actions (~45)
 
@@ -197,7 +204,7 @@ derniere-verification: 2026-05-16
 | Fonds Euros Apicil Garanti | Fonds euros | Capital garanti (60 % max) |
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,3/5 (145 avis)
 - **App mobile** : non
@@ -206,29 +213,29 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,8/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 3,56/5
+- **Note globale** : 3,56/5 (source : sinvestir.fr)
 - **Points forts** :
   - Accessible dès 500 EUR (versement initial et transfert)
   - 0 % de frais d'entrée, de sortie et d'arbitrage
-  - Frais tout compris jusqu'à 1,60 % / an
+  - Frais tout compris plafonné à 1,60 % / an
   - Gestion pilotée sur mesure sans profils types
   - Sécurisation progressive automatique personnalisée
   - Service client réactif et bien noté (4,8/5)
   - Transfert entrant pris en charge intégralement
+  - Gestion libre désormais disponible (ajout récent)
 - **Points faibles** :
-  - Pas de gestion libre (gestion pilotée uniquement dans le PER)
-  - Investissement limité aux ETF (pas de SCPI, pas de Private Equity, pas de titres vifs)
+  - Investissement limité aux ETF (pas de SCPI dans le PER, pas de Private Equity, pas de titres vifs)
   - Fonds euros peu performant (1,45 % en 2025 vs moyenne marché > 2,5 %)
   - Frais de gestion UC élevés (1,35 % + ~0,25 % ETF = ~1,60 % tout compris)
   - Pas d'application mobile
-- **Services complémentaires** : assurance-vie (Nalo Patrimoine)
+- **Services complémentaires** : assurance-vie (Nalo Patrimoine, Nalo Flex)
 
 ## Sources
 
-- [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
-- [Nalo -- Page produit PER](https://www.nalo.fr/per-plan-epargne-retraite)
-- [Nalo -- Nos portefeuilles (liste des supports)](https://www.nalo.fr/nos-portefeuilles)
-- [Nalo -- Tarifs](https://www.nalo.fr/notre-tarif)
-- [Nalo -- Transfert de PER](https://www.nalo.fr/transfert-de-per)
+- [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per) (notes et avis subjectifs uniquement)
+- [Nalo -- Page produit PER](https://www.nalo.fr/per-plan-epargne-retraite) (modes de gestion, montants minimums, supports)
+- [Nalo -- Nos portefeuilles (liste des supports)](https://www.nalo.fr/nos-portefeuilles) (listes ETF — non différencié PER/AV)
+- [Nalo -- Tarifs](https://www.nalo.fr/notre-tarif) (frais de gestion UC/fonds euros, SCPI limité à Nalo Flex)
+- [Nalo -- Transfert de PER](https://www.nalo.fr/transfert-de-per) (conditions, délais, frais de transfert)

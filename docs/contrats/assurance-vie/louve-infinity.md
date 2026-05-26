@@ -7,7 +7,7 @@ assureur: Corum Life
 frais-versement: "0 %"
 frais-gestion-uc: "0,39 %"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Louve Infinity
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Louve Invest (courtier SCPI en ligne)
 - **Assureur** : Corum Life — compagnie d'assurance filiale du groupe Corum (solvabilité : Non communiqué)
@@ -28,7 +28,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2021
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,39 % / an
@@ -41,17 +41,17 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note frais** : 5/5 (source : sinvestir.fr)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponible** : Corum EuroLife (garanti à 100 % net de frais de gestion — 10 % maximum du contrat)
 - **Performance 2024** : 4,65 % (net de frais de gestion, hors prélèvements fiscaux et sociaux)
 - **Performance 2025** : 4,10 % (net de frais de gestion, hors prélèvements fiscaux et sociaux)
-- **Performance cumulée 2023+2024+2025** : 13,20 %
+- **Performance cumulée 2023+2024+2025** : 13,20 % (source : sinvestir.fr)
 - **Contraintes d'accès** : 10 % maximum de l'épargne du contrat — investissement à 100 % en fonds euros impossible
-- **Note fonds euros** : 5/5 (source : sinvestir.fr)
+- **Note fonds euros** : 4/5 (source : sinvestir.fr)
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : 20
 - **ETF** : 8
@@ -60,10 +60,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : non
 - **SCPI : redistribution des loyers** : 100 % des loyers bruts versés
-- **Note UC** : 3,5/5 (source : sinvestir.fr)
+- **Note UC** : 4,5/5 (source : sinvestir.fr)
 
 ### Détail des supports disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 **ETF (8)**
 
@@ -80,28 +80,28 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 **SCPI (7)**
 
-| Nom | Société de gestion |
-|---|---|
-| CORUM Origin | CORUM AM |
-| CORUM XL | CORUM AM |
-| CORUM Eurion | CORUM AM |
-| [Épargne Pierre Europe](../../actifs/scpi/epargne-pierre-europe.md) | Altand Voisin |
-| Cristal Life | Inter Gestion |
-| [Sofidynamic](../../actifs/scpi/sofidynamic.md) | Sofidy |
-| [Epsicap Nano](../../actifs/scpi/epsicap-nano.md) | Epsicap |
+| Nom | Société de gestion | Perf. 2025 (PGA) |
+|---|---|---|
+| CORUM Origin | CORUM AM | 6,50 % |
+| CORUM XL | CORUM AM | 5,30 % |
+| CORUM Eurion | CORUM AM | 5,73 % |
+| [Épargne Pierre Europe](../../actifs/scpi/epargne-pierre-europe.md) | Atland Voisin | 6,75 % |
+| Cristal Life | Inter Gestion | 7,51 % |
+| [Sofidynamic](../../actifs/scpi/sofidynamic.md) | Sofidy | 14,04 % |
+| [Epsicap Nano](../../actifs/scpi/epsicap-nano.md) | Epsicap | 8,27 % |
 
 **Fonds obligataires (5)**
 
-| Nom | Performance 2025 |
-|---|---|
-| BCO | Non communiqué |
-| CORUM BEHY | 3,79 % |
-| CORUM Visio | 2,88 % |
-| Sienna Obligations Vertes ISR | 0,71 % |
-| Sienna Solidaire ISR | 2,07 % |
+| Nom | Société de gestion | Performance 2025 |
+|---|---|---|
+| BCO | CORUM Butler AM | 2,07 % |
+| CORUM BEHY | CORUM Butler AM | 3,79 % |
+| CORUM Visio | CORUM Butler AM | 2,88 % |
+| Sienna Obligations Vertes ISR | Sienna Gestion | 0,71 % |
+| Sienna Solidaire ISR | Sienna Gestion | 2,07 % |
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 5 000 EUR
 - **Versements libres minimum** : Non communiqué [à vérifier]
@@ -119,14 +119,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Garantie financière FGAP** : 70 000 EUR par personne et par assureur (90 000 EUR pour les rentes)
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR / bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (289 avis — source : sinvestir.fr)
 - **App mobile** : non
@@ -136,9 +136,9 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note SAV** : 5/5 (source : sinvestir.fr)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,5/5 (source : sinvestir.fr)
+- **Note globale** : 4,55/5 (source : sinvestir.fr)
 - **Points forts** :
   - Frais de gestion UC très compétitifs : 0,39 % / an
   - Fonds euros très performant : 4,10 % en 2025, 13,20 % cumulé sur 3 ans

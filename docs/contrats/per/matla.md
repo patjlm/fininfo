@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,50 %"
 frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # MATLA
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par BoursoBank, assuré par Oradéa Vie (Société Générale Assurances).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : [BoursoBank](https://www.boursobank.com)
 - **Assureur** : Oradéa Vie — Société Générale Assurances (solvabilité : 132 %)
@@ -29,7 +29,7 @@ derniere-verification: 2026-05-16
 - **Philosophie** : 100 % ETF indiciels ISR (BlackRock iShares) en gestion pilotée
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,50 % / an
@@ -42,7 +42,7 @@ derniere-verification: 2026-05-16
 - **Note frais** : 5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** :
   - Sécurité Retraite Euro (garanti 100 % — 40 % max du contrat)
@@ -58,18 +58,18 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 4/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : 70+ (dont ~11 en gestion pilotée)
 - **ETF / fonds indiciels** : 11 (gamme ISR BlackRock iShares uniquement ; certains transformés en fonds indiciels avec frais légèrement supérieurs)
 - **SCPI / SCI / SC** : 5 supports immobiliers (Mistral Sélection, [Sofidynamic](../../actifs/scpi/sofidynamic.md), ESG Tendances Pierre, SCI Convictions Immobilières, SC Terres Invest)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (en gestion pilotée)
-- **Autres supports** : OPCVM (50+), fonds à échéance datée (6), Private Equity / dette privée (3 FCPR)
+- **Autres supports** : OPCVM (50+), fonds à échéance datée (7), Private Equity / dette privée (3 FCPR)
 - **Note UC** : 2/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 150 EUR
 - **Versements libres minimum** : 150 EUR
@@ -88,7 +88,9 @@ derniere-verification: 2026-05-16
   - Frais totaux : 0,90 % / an (Prudent) à 1,02 % / an (Dynamique) sous-jacents inclus
   - Composition : ETF iShares ISR + FCPR (private equity) + fonds euros
   - Désensibilisation progressive à l'approche de la retraite
-  - Performance 2023-2025 : +34,63 % net de frais (profil Équilibré, horizon 15 ans)
+  - Performance 2025 : Prudent +6,69 %, Équilibré +7,43 %, Dynamique +8,18 % (horizon 15 ans, net de frais)
+  - Performance 2024 : Prudent +10,45 %, Équilibré +11,65 %, Dynamique +14,53 % (horizon 15 ans)
+  - Performance 3 ans : Prudent +30,37 %, Équilibré +34,63 %, Dynamique +41,64 % (horizon 15 ans)
   - Pas de montant minimum spécifique (même que le contrat : 150 EUR)
 - **Modes de sortie** :
   - Capital (en une fois ou fractionné)
@@ -97,7 +99,7 @@ derniere-verification: 2026-05-16
 - **Transfert sortant** : 1 % du capital si < 5 ans d'ancienneté, gratuit au-delà
 
 ## Liste des ETF / fonds indiciels disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://s.brsimg.com/content/pdf/matla/boursorama-an-financiere.pdf (annexe financière, liste au 29/01/2026) -->
 
 > Tous les ETF sont des iShares by BlackRock, labellisés ISR / ESG Enhanced CTB. Certains sont transformés en fonds indiciels au sein du contrat (frais légèrement supérieurs aux ETF cotés).
@@ -129,7 +131,7 @@ derniere-verification: 2026-05-16
 > **Note** : 9 ETF actions + 5 ETF obligations = 14 ETF identifiés dans l'annexe financière. Certaines sources mentionnent 11 ETF effectivement investis (17 en gestion pilotée). La disponibilité peut varier entre gestion libre (~6 trackers) et gestion pilotée.
 
 ## Liste des supports immobiliers disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.boursobank.com/epargne/plan-epargne-retraite-individuel-perin-matla/gl-perin -->
 
 | Nom | Type | Société de gestion | Notes |
@@ -142,8 +144,22 @@ derniere-verification: 2026-05-16
 
 > **Note** : les SCPI et SCI n'ont pas de code ISIN standard (instruments non cotés). La SCPI [Immorente](../../actifs/scpi/immorente.md) (Sofidy) n'est plus référencée dans le contrat depuis mai 2026.
 
+## Liste des fonds à échéance datée disponibles
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.boursobank.com/epargne/plan-epargne-retraite-individuel-perin-matla/gl-perin -->
+
+| Nom | Échéance |
+|---|---|
+| Oddo BHF Global Target 2028 CR-EUR | 2028 |
+| EdR SICAV Millesima Select 2028 A | 2028 |
+| Sycoyield 2030 RC – SRI | 2030 |
+| Amundi Buy & Watch High Yield 2029 | 2029 |
+| Tikehau 2029 R-Acc | 2029 |
+| Oddo BHF Global Target 2029 CR-EUR | 2029 |
+| Sycoyield 2032 RC – SRI | 2032 |
+
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,5/5 (51 070 avis)
 - **App mobile** : oui
@@ -152,7 +168,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,2/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,9/5
 - **Points forts** :

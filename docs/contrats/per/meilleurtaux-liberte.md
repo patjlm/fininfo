@@ -6,9 +6,9 @@ distributeur: Meilleurtaux Placement
 assureur: Spirica
 frais-versement: "0 %"
 frais-gestion-uc: "0,50 %"
-frais-arbitrage: "0 % (0,10 % ETF, 0,60 % titres vifs)"
+frais-arbitrage: "0 % (0,06 % ETF depuis 18/05/2026, 0,60 % titres vifs)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # meilleurtaux Liberté PER
@@ -17,7 +17,7 @@ derniere-verification: 2026-05-16
 > Règles générales du PER : voir [enveloppe PER](../../enveloppes/per.md).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Meilleurtaux Placement (SAS au capital de 100 000 EUR, n° ORIAS 07 031 613)
 - **Assureur** : Spirica (filiale à 100 % du Crédit Agricole Assurances, solvabilité : 151,6 %)
@@ -31,28 +31,29 @@ derniere-verification: 2026-05-16
 - **Éligibilité** : personnes physiques majeures, non soumises à un régime de protection juridique, résidentes en France métropolitaine ou DOM
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
-<!-- Source : CG9402 – 30/09/2025, art. 5 Dispositions essentielles et art. 2.2.3 / 2.3.3 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : CG9402 – 30/09/2025, art. 5 Dispositions essentielles et art. 2.2.3 / 2.3.3 ; site Meilleurtaux Placement (placement.meilleurtaux.com) -->
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,50 % / an (0,125 % par trimestre, prélevé par diminution du nombre d'UC)
 - **Gestion fonds euros Nouvelle Génération** : 2 % / an maximum
 - **Gestion Support Croissance Allocation Long Terme** : 1 % / an (prélevé annuellement lors du calcul de la valeur liquidative)
 - **Arbitrage en ligne** : 0 % (gestion libre et entre modes de gestion)
-- **Arbitrage ETF** : 0,10 %
-- **Arbitrage titres vifs** : 0,60 %
+- **Arbitrage ETF/trackers** : 0,06 % (majoration/minoration du cours de clôture) — était 0,10 % avant le 18/05/2026
+- **Arbitrage titres vifs/actions** : 0,60 % (majoration/minoration du cours de clôture)
 - **Arbitrage par courrier** : 2 gratuits / an civile sur l'ensemble du contrat, puis 15 EUR forfaitaires par opération
 - **Frais d'arbitrage en gestion pilotée à horizon** : 0 % (arbitrages automatiques du gestionnaire)
-- **Rente** : frais de gestion annuels de la rente : 2 % maximum
+- **Rente** : frais de gestion annuels de la rente : 2 % maximum ; frais d'arrérages : 0 %
 - **Surcoût gestion pilotée Pilot** : 0,40 % / an (profils prudent, équilibré, dynamique) ; 0,50 % / an (profil audacieux), prélevés trimestriellement (0,10 % à 0,125 % / trimestre), en sus des frais de gestion UC
 - **Surcoût gestion pilotée à horizon** : 0 % (aucun frais supplémentaire)
 - **Frais associatifs** : 10 EUR à l'adhésion
 - **Frais de transfert entrant** : 0 %
 - **Frais de transfert sortant** : 1 % maximum si contrat < 5 ans ; 0 % si contrat >= 5 ans
+- **Pénalité FCPR** : 5 % sur les sommes brutes rachetées si désinvestissement d'un support FCPR dans les 5 ans suivant l'investissement ; 0 % au-delà
 - **Note frais** : 4,5/5 (source : S'investir)
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : CG9402 – 30/09/2025, art. 5.1.1 et 5.2.1 ; site Meilleurtaux Placement -->
 
 - **Fonds disponibles** :
@@ -65,7 +66,7 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 5/5 (source : S'investir)
 
 ## Support Croissance Allocation Long Terme
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : CG9402 – 30/09/2025, art. 5.1.3 -->
 
 - **Nature** : support à capital partiellement garanti (80 % des sommes versées nettes de frais à l'échéance), exprimé en Parts de provision de diversification
@@ -76,7 +77,7 @@ derniere-verification: 2026-05-16
 - **Sortie** : pas de sortie directe en rente ; à l'échéance, arbitrage automatique vers un autre support éligible
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : site Meilleurtaux Placement ; données S'investir pour les comptages -->
 
 - **Nombre total d'UC** : plus de 670
@@ -90,7 +91,7 @@ derniere-verification: 2026-05-16
 - **Note UC** : 5/5 (source : S'investir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : CG9402 – 30/09/2025, art. 2, 3, 4, 5, 6 -->
 
 ### Versements
@@ -115,7 +116,7 @@ derniere-verification: 2026-05-16
 - **Arbitrage minimum** : 500 EUR (ou totalité du support si solde inférieur)
 - **Réinvestissement minimum par support** : 100 EUR (si montant à réinvestir < 100 EUR, totalité réinvestie sur un seul support)
 - **Solde minimum par support après arbitrage** : 50 EUR (sinon arbitrage de la totalité)
-- **Arbitrage en ligne** : gratuit (hors ETF 0,10 % et titres vifs 0,60 %)
+- **Arbitrage en ligne** : gratuit (hors ETF/trackers 0,06 % depuis 18/05/2026 et titres vifs 0,60 %)
 - **Arbitrage par courrier** : 2 gratuits / an civile sur le contrat, puis 15 EUR par opération
 - **Arbitrages automatiques (gestion pilotée à horizon)** : 0 %, réalisés automatiquement par le gestionnaire au moins tous les 6 mois
 - **Arbitrages entre Profils de gestion pilotée** : montant minimum 500 EUR ou totalité du profil ; solde minimum 500 EUR après arbitrage
@@ -126,6 +127,11 @@ derniere-verification: 2026-05-16
 - **Pénalité de désinvestissement** : 3 % sur les sommes brutes rachetées si désinvestissement d'un support SCPI dans les 3 ans suivant l'investissement
 - **Distribution des loyers** : 100 %
 - **Contrainte par support** : certaines SCPI ont des limites par acte (ex : Efimmo et [Immorente](../../actifs/scpi/immorente.md) : 50 000 EUR max par acte)
+
+### Contraintes FCPR / Private Equity
+
+- **Pénalité de désinvestissement** : 5 % sur les sommes brutes rachetées si désinvestissement d'un support FCPR dans les 5 ans suivant l'investissement ; 0 % au-delà
+- **Supports concernés** : fonds de capital-risque non cotés (FCPR)
 
 ### Contraintes fonds euros
 
@@ -169,7 +175,7 @@ derniere-verification: 2026-05-16
 - **Transfert sortant** : 1 % maximum si contrat < 5 ans (5e anniversaire de l'adhésion) ; 0 % si contrat >= 5 ans ; délai de traitement 2 mois maximum ; toute nouvelle opération sur l'adhésion est bloquée dès réception de la demande
 
 ## Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere -->
 
 ~80 ETF disponibles — frais d'arbitrage ETF : 0,10 %
@@ -262,7 +268,7 @@ derniere-verification: 2026-05-16
 > Liste reconstituée à partir de l'annexe financière Spirica et croisée avec l'API Morningstar du contrat Linxea Spirit PER (même assureur Spirica, gamme ETF quasi identique). Consulter l'[annexe financière officielle](https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere) pour la liste à jour.
 
 ## Liste des SCPI disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica -->
 
 | Nom | Type | Société de gestion | Contraintes spécifiques |
@@ -292,7 +298,7 @@ derniere-verification: 2026-05-16
 > Contraintes communes : plafond 1 000 000 EUR cumulés, pénalité 3 % si désinvestissement < 3 ans, 100 % des loyers reversés. Voir [avenant SCPI Spirica](https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica).
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : S'investir (données subjectives) -->
 
 - **Avis clients** : 4,8/5 (22 462 avis)
@@ -303,13 +309,13 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,8/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : S'investir (données subjectives) -->
 
 - **Note globale** : 4,86/5
 - **Points forts** :
   - Accessible dès 500 EUR
-  - 0 % de frais d'entrée et d'arbitrage en ligne
+  - 0 % de frais d'entrée et d'arbitrage en ligne (0,06 % sur ETF depuis 18/05/2026)
   - Frais de gestion UC très compétitifs (0,50 % / an)
   - Fonds euros performant (3,08 % en 2025) accessible à 100 % sans contrainte d'UC
   - Large gamme d'UC (plus de 670 supports) avec 80 ETF, 137 titres vifs, 21 SCPI

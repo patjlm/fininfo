@@ -90,6 +90,9 @@ Ces conventions s'appliquent à tous les skills qui créent ou mettent à jour d
 
 - **Données subjectives** (notes, avis, points forts/faibles, appréciations) : utilisables telles quelles, en citant sinvestir comme source
 - **Données objectives** (frais, performances, nombre de supports, conditions, contraintes) : DOIVENT être vérifiées et sourcées depuis le site officiel du distributeur ou de l'assureur. Ne pas reprendre les chiffres sinvestir sans vérification
+- **`importantPoints`** (texte libre) : peut contenir des chiffres obsolètes même quand les champs structurés sont à jour — ne pas reprendre tel quel, utiliser uniquement comme point de départ
+- **Assureur/distributeur** : peuvent être confondus ou inversés dans sinvestir — toujours vérifier sur le site officiel avant d'utiliser ces valeurs
+- **Modes de gestion** : sinvestir peut indiquer "Gestion libre & pilotée" pour un contrat qui ne propose que la gestion déléguée — vérifier sur le site officiel
 
 ### Génération du slug
 

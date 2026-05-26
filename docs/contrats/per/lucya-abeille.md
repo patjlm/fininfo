@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,60 % (0,80 % sous mandat)"
 frais-arbitrage: "0 % (0,10 % sur ETF)"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Lucya Abeille PER
@@ -16,7 +16,7 @@ derniere-verification: 2026-05-16
 > PER individuel assurantiel distribué par [Lucya (assurancevie.com)](https://www.assurancevie.com/nos-contrats/evolution-per/), assuré par Abeille Retraite Professionnelle (ex Aviva). Anciennement « Evolution PER ». Voir aussi la fiche [PER (enveloppe)](../../enveloppes/per.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Lucya (assurancevie.com) — exclusivité en ligne
 - **Assureur** : Abeille Retraite Professionnelle, ex Aviva — groupe Aéma (solvabilité : 216 %)
@@ -28,7 +28,7 @@ derniere-verification: 2026-05-16
 - **Récompenses** : Label « Meilleur PER » — Challenges ; Label d'Excellence 2025 — Dossiers de l'Épargne
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 %
 - **Gestion UC (gestion libre / évolutive)** : 0,60 %/an
@@ -38,12 +38,12 @@ derniere-verification: 2026-05-16
 - **Frais opérations financières ETF** : 0,10 % à l'investissement et au désinvestissement
 - **Frais supports immobiliers** : 0 % à 2,95 % selon le support
 - **Sortie / rachat** : 0 %
-- **Rente** : 3 % sur arrérages
+- **Rente** : 3 % sur arrérages + frais de gestion annuels de 1 % maximum
 - **Autres frais** : /
 - **Note frais** : 4,5/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponible** : Abeille RP Garantie Retraite (garantie 100 % — 100 % max du contrat)
 - **Performance 2024** : 2,96 % (net de frais de gestion, brut de prélèvements sociaux)
@@ -54,9 +54,9 @@ derniere-verification: 2026-05-16
 - **Note fonds euros** : 4,5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : + 300 (page liste-supports) / environ 250 (page principale — chiffres divergents selon les pages du site)
+- **Nombre total d'UC** : environ 250 (site officiel)
 - **ETF** : 26 ETF purs (source PDF nov 2025) — la page liste-supports indique « près de 40 ETF et fonds indiciels » (ETF + fonds indiciels confondus)
 - **SCPI** : 0 (aucune SCPI disponible)
 - **SCI / OPCI / supports immobiliers** : 4 supports (SC, SCP, OPCI) — voir section dédiée
@@ -66,7 +66,7 @@ derniere-verification: 2026-05-16
 - **Note UC** : 1/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Versements
 
@@ -114,9 +114,8 @@ derniere-verification: 2026-05-16
 - **Capital** : possible en totalité (100 %) ou partiellement
 - **Rachat partiel minimum** : 750 EUR [à vérifier — donnée de la notice]
 - **Rente viagère** : possible, table de mortalité garantie à l'adhésion
-- **Rente minorée** : disponible (rente réduite pendant 5 ou 10 ans, puis rente majorée ensuite)
-- **Réversion** : possible (combinable avec rente minorée)
-- **Frais de rente** : 3 % sur arrérages
+- **Options de rente** : simple, réversible (50-100 %, par tranches de 10 %), avec annuités garanties, majorée/minorée (±30 % pendant 5 ou 10 ans, combinable avec réversion)
+- **Frais de rente** : 3 % sur arrérages + frais de gestion annuels de 1 % maximum (prélevés sur la revalorisation)
 - **Option irrévocable** : si rente choisie de manière irrévocable, retour en capital impossible
 
 ### Transfert
@@ -129,11 +128,12 @@ derniere-verification: 2026-05-16
 - 6 cas légaux : acquisition résidence principale, invalidité, décès du conjoint, surendettement, expiration droits chômage, cessation activité non salariée
 
 ## Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source PDF : https://www.assurancevie.com/assets/files/web/documents/per/evolution_vie_per/liste_supports_financiers.pdf (au 25/11/2025) -->
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
+| Amundi CAC 40 UCITS ETF Acc | FR0013380607 | Actions France |
 | Amundi Euro Government Bond 15+Y UCITS ETF Acc | [LU1287023268](../../actifs/etf/LU1287023268.md) | Obligations Souveraines EUR Long Terme |
 | Amundi Euro Government Bond 3-5Y UCITS ETF Acc | [LU1650488494](../../actifs/etf/LU1650488494.md) | Obligations Souveraines EUR Moyen Terme |
 | Amundi Euro Government Bond 7-10Y UCITS ETF Acc | [LU1287023185](../../actifs/etf/LU1287023185.md) | Obligations Souveraines EUR |
@@ -143,9 +143,11 @@ derniere-verification: 2026-05-16
 | Amundi Index Solutions - Amundi Japan Topix UCITS ETF-C EUR Hedged | [LU1681037864](../../actifs/etf/LU1681037864.md) | Actions Japon (couvert EUR) |
 | Amundi MSCI EMU UCITS ETF Acc | [LU1646361276](../../actifs/etf/LU1646361276.md) | Actions Zone Euro |
 | Amundi MSCI Robotics & AI UCITS ETF Acc | [LU1861132840](../../actifs/etf/LU1861132840.md) | Actions Monde Thématique (Robotique & IA) |
-| Amundi MSCI World UCITS ETF DR USD Acc | IE000BI80T95 | Actions Monde |
+| Amundi MSCI World UCITS ETF DR USD Acc | IE000BI8OT95 | Actions Monde |
 | Amundi Nasdaq-100 II UCITS ETF Acc | [LU1829221024](../../actifs/etf/LU1829221024.md) | Actions USA Technologie |
-| Amundi S&P 500 II UCITS ETF | LU2115085064 | Actions USA |
+| Amundi Nasdaq-100 II UCITS ETF H Acc | LU1954152853 | Actions USA Technologie (couvert EUR) |
+| Amundi S&P 500 II UCITS ETF Acc | LU1135865084 | Actions USA |
+| Amundi S&P 500 II UCITS ETF EUR Hedged Acc | LU0959211326 | Actions USA (couvert EUR) |
 | Amundi Smart Overnight Return UCITS ETF Acc | [LU1190417599](../../actifs/etf/LU1190417599.md) | Monétaire |
 | BNP Paribas Easy MSCI Europe Min TE Track Classic Cap | LU1291099395 | Actions Europe |
 | BNP Paribas Easy MSCI Japan Min TE ex CW Track Classic Cap | LU1291101985 | Actions Japon |
@@ -153,7 +155,7 @@ derniere-verification: 2026-05-16
 | iShares $ High Yield Corp Bond ESG SRI UCITS ETF EUR Hedged (Acc) | [IE00BMDFDY08](../../actifs/etf/IE00BMDFDY08.md) | Obligations High Yield USD (couvert EUR) |
 | iShares J.P. Morgan $ EM Bond UCITS ETF EUR Hedged (Acc) | [IE00BJ5JPH63](../../actifs/etf/IE00BJ5JPH63.md) | Obligations Émergents (couvert EUR) |
 | iShares US Aggregate Bond UCITS ETF EUR Hedged (Acc) | [IE00BDFJYM28](../../actifs/etf/IE00BDFJYM28.md) | Obligations Aggregate USD (couvert EUR) |
-| iShares VII PLC - iShares € Govt Bond 1-5yr ETF EUR Acc | [IE00B3VTMJ91](../../actifs/etf/IE00B3VTMJ91.md) | Obligations Souveraines EUR Court Terme |
+| iShares VII PLC - iShares € Govt Bond 1-3yr ETF EUR Acc | [IE00B3VTMJ91](../../actifs/etf/IE00B3VTMJ91.md) | Obligations Souveraines EUR Court Terme |
 | iShares VII PLC - iShares € Govt Bond 3-7yr ETF EUR Acc | [IE00B3VTML14](../../actifs/etf/IE00B3VTML14.md) | Obligations Souveraines EUR Moyen Terme |
 | JPMorgan ETFs Ireland ICAV - JPM EUR 1-5yr IG Corporate Bond Active UCITS ETF EUR (acc) | [IE00BF59RW70](../../actifs/etf/IE00BF59RW70.md) | Obligations Corporate EUR |
 | JPMorgan ETFs Ireland ICAV - JPM USD IG Corporate Bond Active UCITS ETF EUR Hedged (acc) | [IE0000J0F3C5](../../actifs/etf/IE0000J0F3C5.md) | Obligations Corporate USD (couvert EUR) |
@@ -163,27 +165,27 @@ derniere-verification: 2026-05-16
 - **Note** : la page liste-supports indique « près de 40 ETF et fonds indiciels » — ce chiffre inclut des fonds indiciels non cotés en plus des 26 ETF purs listés ci-dessus
 
 ## Liste des supports immobiliers disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source PDF : https://www.assurancevie.com/assets/files/web/documents/per/evolution_vie_per/liste_supports_financiers.pdf (au 25/11/2025) -->
 <!-- Source web : https://www.assurancevie.com/nos-contrats/zoom-sur-le-support-immobilier-d-evolution-per.html -->
 
 - Aucune SCPI disponible — uniquement SC, SCP et OPCI
-- **Note** : divergence entre le PDF (nov 2025) et la page web dédiée — la page web indique SC Pierre Impact (BNP Paribas, 2026) ; Primonial Capimmo et Tangram part 2A figuraient encore dans le PDF nov 2025 mais ne sont plus mentionnés sur la page web. Vérifier l'ouverture réelle à la souscription sur le site.
+- **Note** : divergence entre le PDF (nov 2025) et la page web dédiée — la page web indique SC Pierre Impact (BNP Paribas, 2 %) et affiche seulement 4 supports (LF Multimmo, Experimmo, Pythagore, Pierre Impact) ; Primonial Capimmo et Tangram part 2A sont dans le PDF nov 2025 mais ne sont plus mis en avant sur la page web. Vérifier l'ouverture réelle à la souscription.
 
 | Nom | Type | ISIN | Frais d'entrée | Contraintes spécifiques |
 |---|---|---|---|---|
 | LF Multimmo part LF Philosophale 2-A | SCP | FR0013522208 | 1 % | Fenêtre de souscription ; 30 % max combiné avec SC Pythagore |
 | OFI Invest ISR Experimmo A ISR | OPCI | FR0013418761 | 2,95 % | Ouvert en permanence ; label ISR ; versements programmés possibles |
-| Primonial Capimmo | SCI | FR0014004GX5 | Non communiqué | Fenêtre de souscription (commissaire de justice) — présent PDF nov 2025 |
+| Primonial Capimmo | SCI | FR0014004GX5 | Non communiqué | Fenêtre de souscription (commissaire de justice) — présent PDF nov 2025, absent page web |
 | Pythagore | SC | FR0014000F47 | 0 % | Fenêtre de souscription ; 30 % max combiné avec SCP LF Multimmo |
 | SC Pierre Impact | SC | Non communiqué | 2 % | Fenêtre de souscription ; BNP Paribas Real Estate ; profil de risque 2/7 — mentionné page web, absent PDF nov 2025 |
-| Tangram part 2A | SC | FR0014008B03 | Non communiqué | Fenêtre de souscription — présent PDF nov 2025 |
+| Tangram part 2A | SC | FR001400B6D3 | Non communiqué | Fenêtre de souscription — présent PDF nov 2025, absent page web |
 
 - **Versements programmés SC/SCP** : non possibles (seulement possibles sur l'OPCI OFI Invest ISR Experimmo A)
 - **Frais supports immobiliers** : 0 % à 2,95 % selon le support
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,3/5 (15 avis)
 - **App mobile** : non
@@ -197,7 +199,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,9/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,98/5
 - **Points forts** :
@@ -211,7 +213,7 @@ derniere-verification: 2026-05-16
   - Transfert entrant simplifié, géré intégralement par Lucya
 - **Points faibles** :
   - Aucune SCPI disponible (uniquement SC/SCP/OPCI)
-  - Offre UC modérée (environ 250-300 supports) vs concurrents premium (700+ chez Linxea Spirit PER)
+  - Offre UC modérée (environ 250 supports) vs concurrents premium (700+ chez Linxea Spirit PER)
   - Seulement 26 ETF purs (vs 80 chez Linxea Spirit PER)
   - Pas de titres vifs
   - Pas d'options d'arbitrage automatique sur le PER

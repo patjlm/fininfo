@@ -6,8 +6,8 @@ distributeur: Linxea
 assureur: Spirica (Crédit Agricole Assurances)
 frais-versement: "0 %"
 frais-gestion-uc: "0,50 %"
-frais-arbitrage: "0 % (0,10 % sur ETF, 0,60 % sur titres vifs)"
-derniere-verification: 2026-05-16
+frais-arbitrage: "0 % (0,06 % sur ETF, 0,10 % sur ETC, 0,60 % sur titres vifs)"
+derniere-verification: 2026-05-26
 ---
 
 # Linxea Spirit 2
@@ -17,10 +17,10 @@ derniere-verification: 2026-05-16
 Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea (plus de 200 000 clients)
-- **Assureur** : Spirica (filiale à 100 % de Crédit Agricole Assurances — SCR : 157 %, MCR : 465 % au 31/12/2025 — 337 000 contrats actifs, 18,5 Md€ d'AUM, 4,2 Md€ de collecte 2025)
+- **Assureur** : Spirica (filiale à 100 % de Crédit Agricole Assurances — SCR : 157 %, MCR : 465 % au 31/12/2025 — 337 000 contrats actifs, 18,5 Md€ d'AUM, 4,167 Md€ de collecte 2025)
 - **Type** : Multisupports individuel
 - **Modes de gestion** : Libre, pilotée (OTEA Capital ou Yomoni), mixte
 - **Disponibilité** : En ligne exclusivement
@@ -28,22 +28,23 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Année de création** : 2001
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement** : 0 % (hors SCPI, SCI, ETF, FCPR et actions)
 - **Gestion UC** : 0,50 % / an
 - **Gestion fonds euros** : 2 % maximum / an
-- **Arbitrage** : 0 % en ligne (hors ETF et titres vifs)
-- **Arbitrage ETF** : 0,10 % par transaction
+- **Arbitrage** : 0 % en ligne (hors ETF, ETC et titres vifs)
+- **Arbitrage ETF** : 0,06 % par transaction
+- **Arbitrage ETC** : 0,10 % par transaction
 - **Arbitrage titres vifs (actions)** : 0,60 % par transaction
 - **Surcoût gestion pilotée OTEA Capital** : +0,20 % / an
 - **Surcoût gestion pilotée Yomoni** : +0,70 % / an sur les UC
 - **Frais de rachat** : 0 %
-- **Autres frais** : 0 % sur options de gestion et de sortie (hors ETF et actions)
-- **Note frais** : 4,5/5
+- **Autres frais** : 0 % sur options de gestion et de sortie (hors ETF, ETC et actions)
+- **Note frais** : 4,75/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds Euro Nouvelle Génération** : garanti à 98 % — 100 % possible — accessible par versement et arbitrage
   - Performance 2024 : 3,13 %
@@ -57,25 +58,25 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note fonds euros** : 5/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : 586 (Morningstar, hors supports immobiliers) + 43 supports immobiliers
+- **Nombre total de supports** : 930+ (source : Linxea — ETF, OPCVM, actions, SCPI/SCI/OPCI, private equity, structurés)
 - **ETF** : 80 (Amundi, iShares, BNP Paribas Easy, Vanguard, Xtrackers, WisdomTree)
-- **OPCVM** : 506 (actions 328, obligations 86, allocation 73, actifs réels 6, alternatifs 4, autres)
-- **SCPI / SCI / OPCI** : 43 supports immobiliers (21 SCPI, 10 SCI, 8 OPCI, 3 autres)
-- **Private equity** : 3 fonds (EdR Private Equity Opportunities, Eurazeo Private Value Europe 3, FCPR Oddo BHF Global Private Equity)
+- **OPCVM** : 505 (actions 387, obligations 95, allocation 76, actifs réels 9, alternatifs 4, autres 8, préservation du capital 2) — source Morningstar
+- **SCPI / SCI / OPCI** : 43 supports immobiliers (21 SCPI, 10 SCI, 8 OPCI, 4 autres) — source Linxea Spirit 2 page supports
+- **Private equity** : 3 fonds minimum (EdR Private Equity Opportunities, Eurazeo Private Value Europe 3, FCPR Oddo BHF Global Private Equity) — seuil d'accès 1 000 EUR
 - **Titres vifs (actions)** : oui — 138 titres
 - **Produits structurés** : oui
-- **Fonds datés à échéance** : oui
+- **Fonds datés à échéance** : 21 (source Morningstar, catégorie "Obligations à échéance")
 - **Fonds croissance** : oui (garantie partielle)
 - **Rééquilibrage automatique** : oui
-- **ISR / ESG** : 402 fonds article SFDR 8, 51 fonds article SFDR 9 ; 23 % de fonds responsables
+- **ISR / ESG** : 401 fonds article SFDR 8, 51 fonds article SFDR 9 ; 23 % de fonds responsables
 - **Versements programmés sur ETF** : oui
 - **SCPI : taux de redistribution des loyers** : 100 % (variables à capital variable)
 - **Note UC** : 5/5
 
 ### Liste des ETF disponibles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 | ISIN | Nom | Catégorie |
 |---|---|---|
@@ -161,7 +162,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | [IE00BF20LF40](../../actifs/etf/IE00BF20LF40.md) | iShares MSCI Europe Mid Cap ETF EUR Acc | Actions Europe Moyennes Cap. |
 
 ### Supports immobiliers (SCPI / SCI / OPCI)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 43 supports immobiliers au total (source : Linxea Spirit 2 — page supports officiels).
 
@@ -228,7 +229,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | Terra Europe | 4,52 % |
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Versement initial minimum** : 500 EUR
 - **Versements libres minimum** : 100 EUR
@@ -238,7 +239,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Règles d'arbitrage** :
   - Fonds Euro Objectif Climat : accessible uniquement par versement libre ou programmé — pas par arbitrage
   - Fonds Euro Nouvelle Génération : accessible par versement et par arbitrage
-  - Arbitrage en ligne : 0 % de frais (hors ETF à 0,10 % et actions à 0,60 %)
+  - Arbitrage en ligne : 0 % de frais (hors ETF à 0,06 %, ETC à 0,10 % et actions à 0,60 %)
 - **Limites d'investissement** :
   - 100 % fonds euros possible (Nouvelle Génération et/ou Objectif Climat)
   - Investissement maximum combiné sur les deux fonds euros : 5 000 000 EUR
@@ -246,7 +247,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - OTEA Capital : 5 profils (Défensif, Équilibré, Équilibré responsable, Dynamique, Agressif) — gestion active — surcoût +0,20 % / an
     - Performances 2025 : Défensif +2,89 %, Équilibré +4,54 %, Dynamique +4,56 %, Agressif +3,69 %
   - Yomoni : 4 profils (Défensif, Équilibré, Tonique, Offensif) — 100 % ETF/fonds indiciels — surcoût +0,70 % / an
-    - Performances 2025 : Défensif +1,73 %, Équilibré +3,58 %, Tonique +6,78 %, Offensif +9,72 %
+    - Performances 2025 : Défensif +3,64 %, Équilibré +4,30 %, Tonique +6,89 %, Offensif +9,83 %
   - Gestion mixte : combinaison libre + pilotée possible
 - **Offre bonus fonds euros 2026-2027** : jusqu'à +1,50 % de rendement net supplémentaire pour versements ≥ 100 000 EUR (sous condition d'investissement en UC)
 - **SCPI / SCI : liquidité** : garantie par Spirica, jouissance au 1er jour du mois suivant l'investissement
@@ -255,40 +256,40 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Assurance-vie pour mineur** : oui, 100 % digitale
 
 ## Fiscalité
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avant 8 ans** : PFU 30 % (12,8 % IR + 17,2 % PS) ou barème IR + PS
 - **Après 8 ans** : abattement annuel 4 600 EUR (célibataire) / 9 200 EUR (couple) puis 24,7 % (7,5 % + 17,2 % PS) ou barème IR + PS
 - **Transmission** : abattement 152 500 EUR / bénéficiaire (versements avant 70 ans) ; 30 500 EUR tous bénéficiaires confondus (versements après 70 ans)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,6/5 (1 339 avis — source sinvestir.fr d'après données Linxea/Trustpilot)
 - **App mobile** : non
 - **Contact** : téléphone (01 45 67 34 22, lun-jeu 9h-18h, ven 9h-17h), email (serviceclient@linxea.com / gestion@linxea.com / reclamation@linxea.com), chat en ligne
 - **Ergonomie** : plateforme intuitive et agréable ; gestion 100 % en ligne
 - **Services complémentaires** : PER, SCPI en direct, produits structurés, private equity, fonds datés à échéance, PEA assurantiel, assurance-vie luxembourgeoise, contrat de capitalisation
-- **Note SAV** : 4,5/5
+- **Note SAV** : 5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Note globale** : 4,8/5 (source : sinvestir.fr)
+- **Note globale** : 4,95/5 (source : sinvestir.fr)
 - **Points forts** :
   - Frais de gestion UC parmi les plus bas du marché (0,50 % / an)
   - Deux fonds euros performants et accessibles à 100 % (Nouvelle Génération 3,08 %, Objectif Climat 3,26 % en 2025)
-  - Offre UC très large : 586 fonds Morningstar + 43 supports immobiliers + titres vifs
-  - 80 ETF disponibles avec versements programmés
+  - Offre UC très large : 930+ supports (585 fonds Morningstar + 43 supports immobiliers + 138 titres vifs)
+  - 80 ETF disponibles avec versements programmés — frais parmi les plus bas du marché (0,06 %)
   - 100 % des loyers SCPI reversés ; liquidité garantie par Spirica
-  - 0 % de frais de versement et d'arbitrage en ligne (hors ETF et actions)
+  - 0 % de frais de versement et d'arbitrage en ligne (hors ETF, ETC et actions)
   - Gestion pour mineurs 100 % digitale
   - Assureur solide : Spirica (Crédit Agricole Assurances, SCR 157 %)
 - **Points faibles** :
   - Versement initial minimum de 500 EUR (vs 100-300 EUR chez certains concurrents)
   - Fonds Euro Objectif Climat inaccessible par arbitrage (versement uniquement)
   - Pas d'application mobile
-  - Frais d'arbitrage sur ETF (0,10 %) et actions (0,60 %)
+  - Frais d'arbitrage sur ETF (0,06 %), ETC (0,10 %) et actions (0,60 %)
   - Frais de gestion du fonds euros élevés en affichage (2 % max), compensés par des performances nettes compétitives
 
 ## Sources

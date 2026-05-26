@@ -8,7 +8,7 @@ frais-versement: "0 %"
 frais-gestion-uc: "0,40 %"
 frais-arbitrage: "0 %"
 source: simulateurs.sinvestir.fr
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Goodvest PER
@@ -18,22 +18,23 @@ derniere-verification: 2026-05-16
 > Règles générales du PER : voir [enveloppe PER](../../enveloppes/per.md).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Goodvest (fintech française fondée en 2020 par Joseph Choueifaty et Antoine Bénéteau)
 - **Assureur** : Generali (solvabilité : 159,7 %)
 - **Type** : Assurantiel
 - **Modes de gestion** : gestion pilotée à horizon retraite uniquement (pas de gestion libre)
 - **Disponibilité** : en ligne uniquement
-- **Versement minimum** : 300 EUR
-- **Année de création** : 2023
+- **Versement minimum** : 300 EUR (avec versements programmés) ou 1 000 EUR (sans)
+- **Année de création** : 2023 (lancement le 19/06/2023)
 
 ## Frais
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/tarifs -->
 
 - **Versement** : 0 %
 - **Gestion UC (assureur Generali)** : 0,40 % / an
-- **Gestion fonds euros** : non applicable (pas de fonds euros)
+- **Gestion fonds euros** : non applicable sur le PER (pas de fonds euros Generali)
 - **Arbitrage** : 0 %
 - **Rente** : 0,50 %
 - **Surcoût gestion pilotée (Goodvest)** : 0,90 % / an
@@ -44,34 +45,45 @@ derniere-verification: 2026-05-16
 - **Note frais** : 3/5
 
 ## Fonds euros
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/le-per-goodvest , https://www.goodvest.fr/fonds-euros -->
 
-- **Fonds disponibles** : aucun
-- **Raison** : Goodvest considère qu'aucun fonds euros ne respecte les exigences de l'Accord de Paris
-- **Alternative** : fonds obligataires ISR en remplacement
+- **Fonds euros Generali sur PER** : aucun
+- **Raison historique** : Goodvest considère qu'aucun fonds euros classique ne respecte les exigences de l'Accord de Paris
+- **Alternative** : fonds obligataires ISR en remplacement (voir supports)
+- **Fonds Euro Objectif Climat (Spirica)** : disponible sur Goodlife (assurance-vie), pas confirmé sur le PER [à vérifier]
+  - Article 9 SFDR, capital garanti à 98 % hors frais
+  - Rendement 2023-2024 : 3,31 % net de frais de gestion
+  - Assureur : Spirica (distinct de Generali pour le PER)
 - **Note fonds euros** : 1/5
 
 ## Unités de compte
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/fonds-dinvestissement-durables , https://www.goodvest.fr/informations-durabilite -->
 
-- **Nombre total d'UC** : 21+ (offre volontairement restreinte, sélection ISR stricte)
+- **Nombre total d'UC** : 30+ (offre volontairement restreinte, sélection ISR stricte)
   - ETF actions et obligations verts
   - OPCVM actions et obligations ISR/Article 9
-  - Fonds immobiliers durables (SCI/FCPR)
+  - Fonds immobiliers durables (SCI, SCPI, FCPR)
+  - Dettes privées (FCPR infrastructure verte, financement décarbonation)
   - Produits structurés à impact (Goodvest)
   - Fonds obligataires ISR (dont Goodvest x Team for the Planet)
-- **SCPI** : 0
+- **SCPI** : 0 (mais SCI/FCPR immobiliers disponibles)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (gestion pilotée)
-- **Labels des fonds** : ISR, Greenfin (label du ministère de l'Ecologie), Finansol, Toward Sustainability
+- **Labels des fonds** : ISR, Greenfin (label du ministère de l'Écologie), Finansol, Toward Sustainability
 - **Exclusions** : énergies fossiles, tabac, armement, violations du Pacte Mondial ONU
 - **Analyse carbone** : empreinte carbone mesurée via Carbon4 Finance
+- **Impact vs conventionnel** : -26 % d'émissions CO₂e, -27 % d'impact sur la biodiversité
+- **Certification** : B-Corp
+- **Classification SFDR** : 94 % minimum des UC en Article 8 ou 9
 - **Note UC** : 3/5
 
 ## Thématiques d'investissement ISR
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/le-per-goodvest -->
 
-- 7 thèmes au choix (combinables) :
+- Thèmes au choix (combinables), dont :
   - Transition écologique
   - Solutions climatiques
   - Emploi et solidarité
@@ -79,12 +91,16 @@ derniere-verification: 2026-05-16
   - Accès à l'eau
   - Forêts
   - Santé
+  - Infrastructures vertes [à vérifier disponibilité PER]
+  - Immobilier durable [à vérifier disponibilité PER]
+  - Private equity [à vérifier disponibilité PER]
 - L'allocation est construite selon le profil de risque et les thématiques choisies
 - Tous les thèmes ne sont pas accessibles dans tous les profils (certains trop risqués pour les profils prudents) [à vérifier]
 - Plus de 100 combinaisons d'allocations possibles [à vérifier]
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/le-per-goodvest , https://www.goodvest.fr/tarifs -->
 
 ### Versements
 
@@ -97,13 +113,14 @@ derniere-verification: 2026-05-16
 ### Gestion pilotée (mode unique)
 
 - **Type** : gestion pilotée à horizon retraite (sécurisation progressive à l'approche de la retraite)
-- **3 profils de risque** :
-  - Prudent (~10 % actions / ~90 % obligations) [à vérifier — répartition peut varier avec l'horizon]
-  - Volontaire (~48 % actions / ~52 % obligations) [à vérifier]
-  - Audacieux (~85 % actions / ~15 % obligations) [à vérifier]
-- **Attribution du profil** : Goodvest évalue les objectifs financiers et la tolérance au risque du client
+- **3 profils de risque sur le PER** (les répartitions ci-dessous sont indicatives, elles évoluent avec l'horizon retraite) :
+  - Prudent [à vérifier répartition exacte actions/obligations]
+  - Volontaire [à vérifier répartition exacte actions/obligations]
+  - Audacieux [à vérifier répartition exacte actions/obligations]
+- **Attribution du profil** : Goodvest évalue les objectifs financiers et la tolérance au risque du client via un questionnaire
 - **Pas de gestion libre** : l'épargnant ne peut pas choisir lui-même les supports
-- **Surcoût** : inclus dans les frais totaux (0,90 % / an pour Goodvest)
+- **Surcoût** : 0,90 % / an (frais Goodvest, confirmé sur le site officiel)
+- **Note** : l'assurance-vie Goodvie propose 5 profils (Prudent, Modéré, Volontaire, Ambitieux, Audacieux) ; le PER n'en propose que 3
 
 ### Arbitrages
 
@@ -112,36 +129,46 @@ derniere-verification: 2026-05-16
 
 ### Limites d'investissement
 
-- **Pas de fonds euros** : 100 % UC obligatoire
-- **Pas de SCPI**
+- **Pas de fonds euros Generali sur le PER** : 100 % UC obligatoire (hors éventuel fonds euros futur)
+- **Pas de SCPI en direct** (mais fonds immobiliers SCI/FCPR disponibles en gestion pilotée)
 - **Pas de titres vifs**
 - **Allocation contrainte** : uniquement les supports ISR sélectionnés par Goodvest
 
 ### Transfert
+<!-- Source : https://www.goodvest.fr/transfert-per -->
 
-- **Transfert entrant** : possible depuis PER, PERP, Madelin, PREFON/COREM ; démarches 100 % en ligne ; Goodvest contacte l'ancien gestionnaire
+- **Transfert entrant** : possible depuis PER individuel, PERP, Madelin, PREFON/COREM ; démarches 100 % en ligne ; Goodvest et Generali gèrent la clôture de l'ancien contrat
 - **Délai moyen de transfert** : ~4 mois
 - **Transfert sortant** : 1 % max si contrat < 5 ans ; gratuit si contrat >= 5 ans (réglementation)
 - **Conservation fiscale** : l'historique des versements et la déductibilité sont préservés
 
 ## Supports utilisés en gestion pilotée
-<!-- Mis à jour : 2026-05-16 -->
-<!-- Source : https://www.goodvest.fr/informations-durabilite , https://www.goodvest.fr/fonds-dinvestissement-durables -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/fonds-dinvestissement-durables -->
 
 > Gestion pilotée uniquement — l'épargnant ne choisit pas individuellement les supports.
+> Tous les fonds ne sont pas nécessairement alloués dans tous les profils.
 
-### ETF (6)
+### ETF actions (6)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | [LU1377382368](../../actifs/etf/LU1377382368.md) | Actions Europe bas carbone | Article 8 |
+| BNP Paribas Easy Low Carbon 100 Europe (Goodlife) | LU2194448424 | Actions Europe bas carbone | Article 8 |
 | Amundi Index MSCI USA SRI Climate UCITS ETF | [IE000R85HL30](../../actifs/etf/IE000R85HL30.md) | Actions USA ISR | Article 8 |
 | Amundi Index MSCI Emerging Markets SRI PAB UCITS ETF DR (C) | [LU1861138961](../../actifs/etf/LU1861138961.md) | Actions Marchés émergents ISR | Article 8 |
 | Amundi MSCI Water ESG Filtered DR UCITS ETF | [FR0010527275](../../actifs/etf/FR0010527275.md) | Actions Eau mondial | Article 8 |
-| Amundi Euro Government Green Bond DR UCITS ETF | [LU2356220926](../../actifs/etf/LU2356220926.md) | Obligations vertes EUR souveraines | Article 9 |
 | BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped | LU1291108485 | Actions Monde ISR | Article 8 |
 
-### OPCVM (9)
+### ETF obligations (3)
+
+| Nom | ISIN | Catégorie | SFDR |
+|---|---|---|---|
+| Amundi Euro Government Green Bond DR UCITS ETF | [LU2356220926](../../actifs/etf/LU2356220926.md) | Obligations vertes EUR souveraines | Article 9 |
+| BNP Paribas Easy JPM ESG Green Social Bond | LU2365458574 | Obligations vertes et sociales | Article 9 |
+| BNP Paribas Easy Sustainable EUR Government Bond | LU2607531345 | Obligations souveraines EUR durables | Article 8 |
+
+### OPCVM actions (8)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
@@ -150,25 +177,42 @@ derniere-verification: 2026-05-16
 | Pictet Timber I EUR | LU0340558823 | Actions Forêts / filière bois | Article 9 |
 | Pictet Health I EUR | LU0255978693 | Actions Santé | Article 9 |
 | Insertion Emplois Dynamique N (Mirova) | FR0013314606 | Actions Emploi et solidarité | Article 9 |
-| GS Green Bond Short Duration R Cap EUR (Goldman Sachs AM) | LU1922483455 | Obligations vertes court terme | Article 9 |
-| Mirova Euro Short Term Sustainable Bond Fund I/A | LU2478819050 | Obligations durables court terme | Article 9 |
 | Dorval European Climate Initiative N | FR0013334372 | Actions Europe transition écologique | Article 9 |
 | Goodvest Planet Ambition CS (Sycomore AM) | FR001400M5U6 | Actions Monde transition écologique | Article 9 |
+| BNP Paribas Easy MSCI USA SRI (Goodlife) | Non communiqué [à vérifier] | Actions USA ISR | Article 8 |
 
-### Fonds obligataires (1)
+### OPCVM obligations (2)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
-| Goodvest x Team for the Planet | FR0014012I08 | Obligations ISR / impact | Article 9 |
+| GS Green Bond Short Duration R Cap EUR (Goldman Sachs AM) | LU1922483455 | Obligations vertes court terme | Article 9 |
+| Mirova Euro Short Term Sustainable Bond Fund I/A | LU2478819050 | Obligations durables court terme | Article 9 |
 
-### Fonds immobiliers (2)
+### Fonds obligataires à impact (1)
+
+| Nom | ISIN | Catégorie | SFDR |
+|---|---|---|---|
+| Goodvest x Team for the Planet by Ecofi | FR0014012I08 | Obligations ISR / impact | Article 9 |
+
+### Fonds immobiliers (6)
+
+| Nom | ISIN | Catégorie | SFDR |
+|---|---|---|---|
+| Territoires Avenir | FR001400A217 | Immobilier durable | Article 9 |
+| SC Pierre Impact | FR0014009XS9 | Immobilier durable | Article 9 |
+| SC Terra Europe | FR001400M279 | Immobilier durable | Article 9 |
+| Novaxia R | FR0014002KE1 | Immobilier durable | Article 9 |
+| Terres Invest | FR001400J1C8 | Immobilier durable | Article 9 |
+| Iroko Next | FR001400CVY1 | Immobilier diversifié | Article 8 |
+
+### Dettes privées (2)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | FCPR Eiffel Infrastructures Vertes C | FR001400BCG0 | Infrastructure verte / dette privée | Article 9 |
-| Territoires Avenir | FR001400A217 | Immobilier durable | Article 9 |
+| FCPR Tikehau Financement Décarbonation | FR001400HLW5 | Décarbonation / dette privée | Article 8 |
 
-### Produits structurés (4 au 2026-05-16)
+### Produits structurés (4 au 2026-05-26)
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
@@ -180,20 +224,36 @@ derniere-verification: 2026-05-16
 > Note : les produits structurés ont des échéances définies et tournent régulièrement. La liste ci-dessus est celle disponible au moment de la mise à jour.
 
 ## Performances de la gestion pilotée
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.goodvest.fr/performances -->
-<!-- Performances nettes des frais de gestion Goodvest, frais administratifs et frais des supports sous-jacents. Brutes de prélèvements sociaux et fiscaux. Données backtestées jusqu'au 19/07/2021, puis réelles. -->
+<!-- Performances nettes des frais de gestion Goodvest, frais administratifs et frais des supports sous-jacents. Brutes de prélèvements sociaux et fiscaux. PER lancé le 19/06/2023 — performances réelles depuis cette date uniquement. -->
 
-| Profil | 2024 | 2025 | Cumulé (depuis 2010) | Annualisé |
+### Performances PER (depuis le 19/06/2023)
+
+| Profil | 2023 (partiel) | 2024 | 2025 | Annualisé (depuis lancement) |
 |---|---|---|---|---|
-| Prudent | +1,87 % | +0,06 % | +44,42 % | +2,32 % / an |
-| Volontaire | +3,21 % | +0,30 % | +107,36 % | +4,66 % / an |
-| Audacieux | +5,67 % | +1,13 % | +185,34 % | +6,77 % / an |
+| Prudent | +2,86 % | +4,62 % | +0,64 % | +3,19 % / an |
+| Volontaire | +2,66 % | +5,11 % | +0,62 % | +3,30 % / an |
+| Audacieux | +2,24 % | +5,88 % | +1,34 % | +3,72 % / an |
+
+### Performances Goodvie (assurance-vie, backtestées depuis 2010)
+
+> Les performances de l'assurance-vie Goodvie (5 profils, données backtestées depuis 2010) sont distinctes du PER. Données ci-dessous pour référence.
+
+| Profil | 2023 | 2024 | 2025 | Annualisé (depuis 2010) |
+|---|---|---|---|---|
+| Prudent | +6,38 % | +1,87 % | +0,06 % | +2,32 % / an |
+| Modéré | +7,46 % | +2,49 % | +0,16 % | +3,19 % / an |
+| Volontaire | +8,99 % | +3,21 % | +0,30 % | +4,66 % / an |
+| Ambitieux | +11,54 % | +4,08 % | +0,25 % | +5,74 % / an |
+| Audacieux | +12,77 % | +5,67 % | +1,13 % | +6,77 % / an |
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.goodvest.fr/le-per-goodvest , simulateurs.sinvestir.fr -->
 
-- **Avis clients** : 4,9/5 (418 avis)
+- **Avis Trustpilot** : 4,9/5
+- **Avis Google** : 4,9/5
 - **App mobile** : non
 - **Contact** : téléphone (01 89 20 31 67), email (hello@goodvest.fr)
 - **Chat** : non
@@ -202,26 +262,29 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,8/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source avis : simulateurs.sinvestir.fr -->
 
 - **Note globale** : 3,16/5
 - **Points forts** :
   - Accessible dès 300 EUR en gestion pilotée
   - 0 % de frais d'entrée, de versement et d'arbitrage
   - Frais tout compris compétitifs (1,55 % à 1,75 % / an)
-  - PER 100 % ISR aligné sur l'Accord de Paris
-  - 7 thématiques d'investissement responsable au choix
-  - Avis clients très positifs (4,9/5)
+  - PER 100 % ISR aligné sur l'Accord de Paris, certification B-Corp
+  - Thématiques d'investissement responsable au choix (transition écologique, eau, forêts, santé, etc.)
+  - Avis clients très positifs (4,9/5 Trustpilot et Google)
   - Rééquilibrage automatique et sécurisation à horizon retraite
   - Aucune rétrocession sur les fonds
+  - Gamme de supports élargie (fonds immobiliers, dettes privées)
 - **Points faibles** :
-  - Pas de fonds euros (pas de garantie en capital)
+  - Pas de fonds euros Generali sur le PER (pas de garantie en capital)
   - Pas de gestion libre (gestion pilotée uniquement)
   - Offre UC restreinte (sélection ISR stricte)
-  - Pas de SCPI
+  - Pas de SCPI en direct
   - Pas d'app mobile
   - Note globale modeste (3,16/5) en raison de l'offre limitée
-- **Services complémentaires** : assurance-vie (Goodvie)
+  - PER récent (depuis juin 2023) : peu d'historique de performances réelles
+- **Services complémentaires** : assurance-vie (Goodvie), Goodlife (fonds euros climat via Spirica), Goodvest First (gestion privée)
 
 ## Sources
 
@@ -232,3 +295,4 @@ derniere-verification: 2026-05-16
 - [Goodvest -- Performances](https://www.goodvest.fr/performances)
 - [Goodvest -- Fonds disponibles](https://www.goodvest.fr/fonds-dinvestissement-durables)
 - [Goodvest -- Informations durabilité](https://www.goodvest.fr/informations-durabilite)
+- [Goodvest -- Fonds euros (Goodlife/Spirica)](https://www.goodvest.fr/fonds-euros)

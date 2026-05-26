@@ -37,6 +37,7 @@ Le comparatif sinvestir.fr fournit la liste des contrats et des avis. Récupére
    - Pour les autres contrats : utiliser le skill `fetch-support-lists` ou vérifier manuellement sur le site du distributeur
    - Comparer avec la liste existante dans la fiche : ajouter les nouveaux supports, retirer ceux qui n'apparaissent plus
    - Chaque support doit avoir son ISIN quand disponible
+   - Pour les ETF : créer un lien `[ISIN](../../actifs/etf/<ISIN>.md)` si la fiche existe. Si elle n'existe pas, utiliser le skill `write-etf` pour la créer, puis ajouter le lien.
 4. **Documenter les contraintes spécifiques** — c'est la valeur ajoutée :
    - Règles d'arbitrage (ex : « arbitrage du fonds euros vers SCPI interdit, versement uniquement »)
    - Limites d'investissement (ex : « 40 % SCPI maximum », « 25 % minimum en UC pour accéder au fonds euros boosté »)
