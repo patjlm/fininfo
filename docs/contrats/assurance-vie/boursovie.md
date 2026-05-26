@@ -32,7 +32,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Versement** : 0 %
 - **Gestion UC** : 0,75 % / an maximum
-- **Gestion fonds euros** : 0,75 % / an maximum (Eurocroissance : 0,75 % / an)
+- **Gestion fonds euros** : 0,75 % / an maximum
 - **Arbitrage** : 0 %
 - **Frais de performance** : 15 % sur le fonds croissance Générations Croissance Durable (source : sinvestir)
 - **Surcoût gestion pilotée** : 0 € de frais supplémentaires sur la gestion pilotée (seuls les frais des fonds sélectionnés s'appliquent)
@@ -76,12 +76,12 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Terres agricoles** : SC Terres Invest (risque 2/7, max 30 % de l'encours toutes SCI confondues, durée recommandée 10 ans, gestion Vatel Capital) — source : BoursoBank
 - **SICAV/FCP** : 380+
 - **Titres vifs (actions)** : oui — 100+ titres (101 selon sinvestir)
-- **Private equity (FCPR)** : oui — Eurazeo, Amundi, ODDO BHF
-  - Eurazeo Entrepreneurs Club 3 : durée 10 ans (jusqu'au 14/05/2035), cible 5,40 % net, min 10 000 EUR, risque 6/7, souscriptions jusqu'à décembre 2026
-  - Eurazeo Private Value Europe 3 : durée longue, cible 5 % net, min 20 000 EUR, risque 3/7
+- **Private equity (FCPR)** : oui — Eurazeo
+  - Eurazeo Entrepreneurs Club 3 : durée 5 ans, cible 5,40 % net, min 10 000 EUR, risque 6/7, souscriptions jusqu'à décembre 2026 (source : BoursoBank)
+  - Eurazeo Private Value Europe 3 : durée 8 ans, cible 5 % net, min 20 000 EUR, risque 3/7 (source : BoursoBank)
 - **Produits structurés** : oui — capital garanti à 100 % à l'échéance (ex : Horizon Taux Avril 2038 — 12 ans max, coupon an 2 : 11,50 % brut, coupon an 3–12 : 8,25 % brut conditionnel ; Opportunité EuroStoxx 50 — 10 ans max, 6,75 % brut / 6,00 % net par an) — source : BoursoBank
 - **Rééquilibrage automatique** : oui
-- **Exécution des arbitrages** : J+1 (source : BoursoBank — pages produits structurés et Générations Croissance Durable)
+- **Exécution des arbitrages** : J+1 si ordre passé avant 16h, J+2 après 16h (source : BoursoBank)
 - **Note UC** : 4/5 (source : sinvestir)
 
 ## Conditions et contraintes spécifiques
@@ -91,7 +91,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Versements libres minimum** : 25 EUR (source : BoursoBank — pages UC et supports immobiliers)
 - **Versements programmés minimum** : 50 EUR / mois (source : BoursoBank — page Générations Croissance Durable)
 - **Arbitrage minimum** : Non communiqué [à vérifier]
-- **Règles d'arbitrage** : 0 % de frais — exécution en J+1 (source : BoursoBank)
+- **Règles d'arbitrage** : 0 % de frais sur tous les supports y compris les ETF — exécution en J+1 si ordre avant 16h, J+2 après 16h (source : BoursoBank)
 - **Limites d'investissement** :
   - SCPI : maximum 200 000 EUR par produit (source : BoursoBank)
   - SCI / SC Terres Invest : maximum 30 % de l'encours du contrat, toutes SCI confondues (source : BoursoBank)

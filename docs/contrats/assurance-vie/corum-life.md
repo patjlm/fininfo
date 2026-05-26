@@ -69,11 +69,11 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 **SCPI (3)**
 
-| Nom | TRI depuis origine |
-|---|---|
-| [Corum Origin](../../actifs/scpi/corum-origin.md) | 6,94 % |
-| [Corum XL](../../actifs/scpi/corum-xl.md) | 5,77 % |
-| [Corum Eurion](../../actifs/scpi/corum-eurion.md) | 6,50 % |
+| Nom | TRI depuis origine | Rendement 2025 |
+|---|---|---|
+| [Corum Origin](../../actifs/scpi/corum-origin.md) | 6,94 % | 6,50 % |
+| [Corum XL](../../actifs/scpi/corum-xl.md) | 5,77 % | 5,30 % |
+| [Corum Eurion](../../actifs/scpi/corum-eurion.md) | 6,50 % | 5,73 % |
 
 Note : CORUM USA n'est pas disponible dans le contrat Corum Life (aucun DIC CORUM USA listé dans la documentation officielle du contrat — source : corum.fr/assurance-vie/corum-life/documentation, mars 2026).
 

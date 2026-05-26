@@ -3,7 +3,7 @@ nom: EasyBourse
 type: contrat-cto
 slug: easybourse
 courtier: EasyBourse
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # EasyBourse — Compte-Titres
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-17
 > Compte-titres proposé par [EasyBourse](https://www.easybourse.com/) (France). Filiale à 100 % de La Banque Postale, courtier en ligne régulé par l'AMF. Voir aussi la fiche [CTO (enveloppe)](../../enveloppes/cto.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : EasyBourse SAS — filiale à 100 % de La Banque Postale (Groupe La Poste), capital de 10 000 000 EUR
 - **Pays / régulation** : France — AMF (Autorité des Marchés Financiers)
@@ -22,7 +22,7 @@ derniere-verification: 2026-05-17
 - **Année de création** : 2008
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Formules tarifaires
 
@@ -32,9 +32,11 @@ EasyBourse propose cinq formules adaptées à différents profils d'investisseur
 |---|---|---|---|---|---|
 | **Public cible** | 18-30 ans | Débutants | Intermédiaires | Actifs | Très actifs |
 | **Courtage Euronext** | 2 EUR ≤ 500 EUR, puis 0,45 % | 2 EUR ≤ 500 EUR, puis 0,45 % | 2 EUR ≤ 500 EUR, puis 0,45 % | 9 EUR ≤ 5 000 EUR, puis 0,20 % | 10 EUR ≤ 10 000 EUR, puis 0,10 % (max 50 EUR) |
+| **Courtage Xetra (Francfort)** | 11 EUR ≤ 4 000 EUR, puis 0,25 % | 11 EUR ≤ 4 000 EUR, puis 0,25 % | 11 EUR ≤ 4 000 EUR, puis 0,25 % | 11 EUR ≤ 4 000 EUR, puis 0,25 % | 11 EUR ≤ 4 000 EUR, puis 0,25 % |
 | **Courtage US (NYSE/Nasdaq)** | 6 EUR ≤ 6 000 EUR, puis 0,12 % | Non disponible | 6 EUR ≤ 6 000 EUR, puis 0,12 % | 6 EUR ≤ 6 000 EUR, puis 0,12 % | 6 EUR ≤ 6 000 EUR, puis 0,12 % |
-| **Min. ordres/mois** | Aucun la 1re année | 1 (sinon 3 EUR/mois) | 1 (sinon 3 EUR/mois) | 1 (sinon 5 EUR/mois) | 15 (sinon 5 EUR/ordre manquant) |
+| **Min. ordres/mois** | Aucun la 1re année | 1 (sinon 3 EUR/mois) | 1 (sinon 3 EUR/mois) | 1 (sinon 5 EUR/mois) | 15 (sinon 5 EUR/ordre manquant, max 25 EUR) |
 | **Marchés Euronext Growth / Access** | Oui | Non | Oui | Oui | Oui |
+| **ProRealTime** | Non | Non | Non | Non | Gratuit (si ≥ 1 ordre/mois), sinon 15 EUR/mois |
 | **Dépôt minimum** | 50 EUR | 200 EUR | 200 EUR | 200 EUR | 200 EUR |
 
 ### Frais par type d'instrument (formule EasyDécouverte/EasyPremium)
@@ -52,13 +54,13 @@ EasyBourse propose cinq formules adaptées à différents profils d'investisseur
 - **Frais — ETF européens** :
   - Ordre de 10 EUR : 2 EUR
   - Ordre de 100 EUR : 2 EUR
-  - Ordre de 500 EUR : 0 EUR si ETF de la sélection EasyTrade (1 ordre/mois/ETF), sinon 2 EUR
-  - Ordre de 1 000 EUR : 0 EUR si ETF de la sélection EasyTrade, sinon 4,50 EUR
+  - Ordre de 500 EUR : remboursé si ETF de la sélection EasyTrade et ordre ≥ 400 EUR (CTO) ou ≥ 100 EUR (PEA), sinon 2 EUR
+  - Ordre de 1 000 EUR : remboursé si ETF de la sélection EasyTrade, sinon 4,50 EUR
 - **Frais de change** : 0,12 %
 - **Frais divers** :
   - Droits de garde : gratuits
   - Frais d'ouverture / clôture : gratuits
-  - Frais d'inactivité : 3 EUR/mois si aucun ordre exécuté (EasyDécouverte/EasyPremium), 5 EUR/mois (EasyExpert)
+  - Frais d'inactivité : 3 EUR/mois si aucun ordre exécuté (EasyDécouverte/EasyPremium), 5 EUR/mois (EasyExpert), 5 EUR par ordre manquant max 25 EUR (EasyIntense)
   - Transfert sortant : 25 EUR/ligne
   - Transfert depuis La Banque Postale : gratuit
   - Changement de formule : 1 gratuit/an, puis 80 EUR
@@ -67,53 +69,59 @@ EasyBourse propose cinq formules adaptées à différents profils d'investisseur
 - **Note frais** : 2,5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : + 10 000 (Euronext Paris, Bruxelles, Amsterdam + NYSE, Nasdaq via Equiduct selon formule)
 - **ETF** : + 800
 - **Obligations** : oui
-- **OPCVM / SICAV / FCP** : oui
+- **OPCVM / SICAV / FCP** : oui — ~ 400 OPCVM avec droits d'entrée à 0 %, dont 150 éligibles PEA
 - **Produits dérivés** : turbos, warrants, certificats (offre EasyTrade à 0 EUR de courtage sur + 20 000 produits de bourse)
-- **Crypto** : oui — uniquement via ETF/ETN crypto, pas de cryptos en direct
+- **Crypto** : oui — uniquement via ETF/ETN crypto (dont VanEck), pas de cryptos en direct
 - **Fractions d'actions/ETF** : non
 - **Investissement programmé (DCA)** : uniquement sur les OPC (pas sur actions ni ETF)
 - **Rémunération des liquidités** : non
-- **Plateforme de trading** : application mobile et site web — graphiques dynamiques personnalisables, Equity Trade Analysis (aide à la décision), consensus d'experts (recommandations FactSet)
+- **Plateforme de trading** : application mobile et site web — graphiques dynamiques personnalisables, Equity Trade Analysis (aide à la décision), consensus d'experts (recommandations FactSet) ; ProRealTime disponible (15 EUR/mois, gratuit EasyIntense sous condition de ≥ 1 ordre/mois)
 - **Note produits** : 3/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention directe — titres inscrits au nom du client
-- **Transfert de compte** : oui — 25 EUR/ligne (gratuit depuis La Banque Postale, délai 2-3 semaines)
+- **Transfert de compte** : oui — 25 EUR/ligne (gratuit depuis La Banque Postale, délai 2-3 semaines) ; offre promo jan–août 2026 : remboursement jusqu'à 2 000 EUR des frais de transfert entrant depuis un établissement externe (valorisation > 3 000 EUR)
 - **IFU fourni** : oui
 - **Déclaration compte étranger** : non nécessaire (compte domicilié en France)
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** : au marché, à cours limité, à la meilleure limite, à seuil de déclenchement (stop), à plage de déclenchement
-- **Marchés accessibles** : Euronext Paris, Bruxelles, Amsterdam + plateforme Equiduct ; NYSE, Nasdaq (sauf formule EasyDécouverte) ; Euronext Growth et Access (sauf EasyDécouverte)
+- **Marchés accessibles** :
+  - Euronext Paris, Bruxelles, Amsterdam (ordres en ligne) + plateforme Equiduct
+  - Xetra / Francfort (ordres en ligne) — 11 EUR ≤ 4 000 EUR, puis 0,25 %
+  - NYSE, Nasdaq (sauf formule EasyDécouverte) — 6 EUR ≤ 6 000 EUR, puis 0,12 %
+  - Euronext Growth et Access (sauf EasyDécouverte)
+  - Autres places européennes (Londres, Madrid, Zurich, Milan…) : ordres par téléphone uniquement
+- **EasyTrade (ETF sans frais)** : sélection d'environ 27 ETF (Amundi + VanEck) — remboursement des frais de courtage à l'achat, limité à 1 ordre/mois/ETF ; montant minimum : 400 EUR (CTO) / 100 EUR (PEA) ; environ 19 ETF éligibles PEA sur cette sélection ; également ~400 OPCVM avec droits d'entrée à 0 % (dont 150 éligibles PEA)
 - **Restrictions** : pas de fractions d'actions/ETF ; investissement programmé limité aux OPC ; formule EasyDécouverte sans accès aux marchés US ni aux compartiments Growth/Access
 - **Enveloppes disponibles** : CTO individuel, CTO joint, PEA, PEA-PME, PEA jeune
 - **Particularités fiscales** : compte français — PFU 30 % (12,8 % IR + 17,2 % PS) sur plus-values et dividendes, ou option barème progressif
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 3,9/5 (~ 570 avis)
 - **Contact** :
-  - Téléphone clients : 01 456 19 000 (lundi-vendredi, 8h-20h)
-  - Téléphone non-clients : 0800 802 200 (gratuit)
+  - Téléphone clients : 01 456 19 000 (lundi-vendredi, 8h-20h hors jours fériés)
+  - Téléphone non-clients : 0800 802 200 (gratuit, lundi-vendredi, 9h-20h hors jours fériés)
   - Email : service.client@easybourse.com
-  - Courrier : 49 rue Horace Vernet, 92130 Issy-les-Moulineaux
+  - Courrier : EasyBourse Service Client, TSA 20537, 75281 Paris Cedex 06
 - **Conseillers** : basés en France (Limoges et Grenoble)
 - **Test SAV** : réponse en quelques secondes via le chat (test sinvestir)
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,07/5
 - **Points forts** :
@@ -122,7 +130,9 @@ EasyBourse propose cinq formules adaptées à différents profils d'investisseur
   - Service client basé en France, réactif et accessible par téléphone
   - Compte français — IFU fourni, pas de déclaration de compte étranger
   - Détention directe des titres
-  - Sélection EasyTrade : ETF Amundi à 0 EUR de courtage (1 ordre/mois/ETF)
+  - Sélection EasyTrade : ~27 ETF (Amundi + VanEck) sans frais de courtage à l'achat (1 ordre/mois/ETF), ~400 OPCVM à 0 % de droits d'entrée
+  - Accès à Xetra (Francfort) en ligne
+  - ProRealTime disponible (gratuit avec EasyIntense)
   - Label d'Excellence des Dossiers de l'Épargne
 - **Points faibles** :
   - Frais de courtage peu compétitifs face aux néo-courtiers
@@ -130,14 +140,20 @@ EasyBourse propose cinq formules adaptées à différents profils d'investisseur
   - Investissement programmé limité aux OPC (pas de DCA sur actions/ETF)
   - Pas de rémunération des liquidités
   - Frais d'inactivité si aucun ordre passé dans le mois
-  - Marchés étrangers limités (pas de places asiatiques, pas de DAX/LSE en direct)
-- **Services complémentaires** : PEA, PEA-PME, PEA jeune ; outils d'analyse (graphiques dynamiques, Equity Trade Analysis, consensus FactSet) ; offre EasyTrade (+ 20 000 produits à 0 EUR de courtage)
+  - Marchés étrangers limités (pas de places asiatiques, LSE/Madrid uniquement par téléphone)
+  - EasyTrade : montant minimum 400 EUR par ordre (CTO) pour remboursement des frais
+- **Services complémentaires** : PEA, PEA-PME, PEA jeune ; outils d'analyse (graphiques dynamiques, Equity Trade Analysis, consensus FactSet) ; offre EasyTrade (+ 20 000 produits à 0 EUR de courtage) ; ProRealTime (trading avancé)
 
 ## Sources
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
 - [EasyBourse — Brochure tarifaire (PDF)](https://documents.easybourse.com/formulaires_clients/brochure-tarifaire-bourse.pdf)
+- [EasyBourse — Brochure présentation (PDF)](https://documents.easybourse.com/formulaires_clients/brochure-easybourse-bourse.pdf)
 - [EasyBourse — Offre](https://www.easybourse.com/offre)
-- [EasyBourse — Contact](https://www.easybourse.com/offre/contact)
+- [EasyBourse — Contact](https://www.easybourse.com/offre/contact/)
 - [EasyBourse — EasyTrade](https://www.easybourse.com/easytrade/offre)
+- [EasyBourse — ETF Amundi sans frais](https://www.easybourse.com/trackers/free_trade/amundi)
+- [EasyBourse — ETF VanEck sans frais](https://www.easybourse.com/trackers/free_trade/vaneck)
+- [EasyBourse — ProRealTime](https://infos.prorealtime.easybourse.com/)
 - [Trustpilot — EasyBourse](https://www.trustpilot.com/review/easybourse.com)
+- [MoneyVox — EasyBourse](https://www.moneyvox.fr/epargne/easybourse/bourse-en-ligne)

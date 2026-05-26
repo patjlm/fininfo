@@ -3,7 +3,7 @@ nom: Yomoni Retraite
 type: contrat-per
 slug: yomoni-retraite
 distributeur: Yomoni
-assureur: Crédit Agricole Titres (teneur de compte)
+assureur: au choix du client pour la rente (Suravenir partenaire par défaut — groupe Arkéa)
 frais-versement: "0 %"
 frais-gestion-uc: "0,30 %"
 frais-arbitrage: "0 %"
@@ -20,7 +20,7 @@ derniere-verification: 2026-05-26
 
 - **Distributeur** : Yomoni
 - **Teneur de compte** : Crédit Agricole Titres (conservation des titres)
-- **Rente viagère** : assurée par toute société d'assurance au choix du client — aucun prestataire imposé (source : CGV art. 6.2)
+- **Rente viagère** : assurée par toute société d'assurance au choix du client — aucun prestataire imposé par les CGV (source : CGV art. 6.2) ; Suravenir (groupe Arkéa) est le partenaire de référence mis en avant par sinvestir
 - **Type** : Bancaire (compte-titres)
 - **Modes de gestion** : gestion pilotée à horizon OU gestion pilotée (deux formules disponibles, pas de gestion libre)
 - **Disponibilité** : 100 % en ligne
@@ -35,7 +35,7 @@ derniere-verification: 2026-05-26
 
 - **Versement** : 0 % (source : CGV annexe 2)
 - **Frais de gestion du mandat (Yomoni)** : 0 %/an — Yomoni ne facture pas de frais de mandat (source : CGV annexe 2)
-- **Frais de gestion opérationnelle / droits de garde (Crédit Agricole Titres)** : 0,30 %/an, prélevés trimestriellement sur la base de l'évaluation en fin de trimestre (source : CGV annexe 2)
+- **Frais de gestion opérationnelle / droits de garde (Crédit Agricole Titres)** : 0,30 %/an, calculés et prélevés trimestriellement au prorata temporis sur la base des capitaux en fin de trimestre (source : CGV annexe 2)
 - **Frais des supports sous-jacents** : jusqu'à 1,30 %/an (fonds Yomoni actions) ; 0,10 %/an (fonds obligataires)
 - **Total tout compris** : 1,60 % max/an (source : sinvestir.fr)
 - **Gestion fonds euros** : N/A (pas de fonds euros — PER bancaire)
@@ -43,7 +43,7 @@ derniere-verification: 2026-05-26
 - **Retrait anticipé** : 0 % (source : CGV annexe 2)
 - **Transfert entrant** : 0 % (source : CGV annexe 2)
 - **Transfert sortant** : 0 % si contrat ≥ 5 ans ; 1 % max si < 5 ans (source : CGV art. 8 et annexe 2)
-- **Rente viagère** : dépend de l'assureur choisi par le client (aucun tarif imposé dans les CGV — frais à convenir avec la société d'assurance retenue)
+- **Rente viagère** : dépend de l'assureur choisi par le client — aucun tarif imposé dans les CGV ; frais à convenir avec la société d'assurance retenue ; Suravenir (groupe Arkéa) partenaire de référence — frais sur encours de rente : ~0,80 %/an (source : sinvestir.fr [à vérifier directement auprès de Suravenir])
 - **Surcoût gestion pilotée** : 0 % — aucun frais supplémentaire (source : CGV annexe 2)
 - **Note frais** : 3/5
 

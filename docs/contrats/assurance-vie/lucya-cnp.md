@@ -59,6 +59,7 @@ Source : [Dispositions particulières fonds euros CNP Lucya Euros B — en vigue
 - **Performance 2023** : 2,38 % net (brut : Non communiqué)
 - **Performance 2024** : 2,38 % net (brut : Non communiqué)
 - **Performance 2025** : 2,33 % net (brut : 3,05 %)
+- **Performance cumulée 2023+2024+2025** : 6,99 % net (source : sinvestir.fr)
 - **Contraintes d'accès** : aucune — investissement à 100 % possible
 - **Note fonds euros** : 3,5/5 (source : sinvestir.fr)
 
@@ -71,7 +72,8 @@ Source : [Annexes financières Gestion Libre — 03/04/2026](https://lucya.com/a
 - **OPCVM** : 570
 - **ETF** : 15 (sans frais sur opération financière)
 - **Titres vifs** : oui — plus de 600 (frais de transaction : 0,07 % maximum — accessibles 30 jours après signature du contrat)
-- **Supports non cotés / immobilier (à fenêtre de commercialisation)** : 15 au total — 9 SCPI/fonds immobiliers + 6 private equity/obligataire (voir liste ci-dessous)
+- **SCPI** : 10 (redistribution 100 % des loyers — source : sinvestir.fr)
+- **Supports non cotés / immobilier (à fenêtre de commercialisation)** : 15 au total — 10 SCPI/fonds immobiliers + 5 private equity/crédit (voir liste ci-dessous)
 - **Rééquilibrage automatique** : oui
 - **Options de gestion automatique** : 4 options gratuites (investissement progressif, sécurisation des plus-values, stop-loss relatif, répartition constante)
 - **Note UC** : 5/5 (source : sinvestir.fr)
@@ -104,9 +106,10 @@ Source : [Annexes financières Gestion Libre — 03/04/2026](https://lucya.com/a
 
 Source : [Annexes financières Gestion Libre — 03/04/2026](https://lucya.com/app/uploads/2026/04/LUCYA_Annexes_financieres_Lucya_CNP_Gestion-Libre_03-04-2026.pdf)
 
-**SCPI et fonds immobiliers (9)** :
+**SCPI et fonds immobiliers (10)** :
 - AEW Commerces Europe (AEW — RCS 500156229)
-- Immo Evolutif (AEW — FR0011493451)
+- Immo Diversification ISR F (AEW — FR0011493451) — fonds immobilier
+- Immo Evolutif (AEW — RCS 449134857)
 - Activimmo (Alderan — RCS 853533594)
 - SCPI Transitions Europe (Arkea REIM — RCS 921457032)
 - Epargne Pierre (Atland-Voisin — RCS 794246975)
@@ -115,8 +118,7 @@ Source : [Annexes financières Gestion Libre — 03/04/2026](https://lucya.com/a
 - LF Opportunité Immo (La Française Real Estate Managers — RCS 752974089)
 - Immorente (Sofidy — RCS 347996209)
 
-**Fonds immobiliers et private equity non cotés (6)** :
-- Immo Diversification ISR F (AEW — FR0011493451) — fonds immobilier
+**Fonds private equity et crédit non cotés (5)** :
 - FCPR APEO Part A (Apax by Seven2 — FR0013533619) — private equity
 - Eiffel Private Credit Part A EUR (Eiffel Investment Group — FR001400Z8C3) — crédit privé
 - Eurazeo Private Value Europe 3 Part C (Eurazeo — FR0013301553) — private equity
@@ -140,12 +142,12 @@ Source : [Conditions générales Lucya CNP — Annexe 1 en vigueur au 01/04/2026
 
 ### SCPI — Règles spécifiques
 
-- **SCPI disponibles** : 9 supports immobiliers (SCPI et fonds immobiliers) à fenêtre de commercialisation — disponibilité définie par les sociétés de gestion (non permanente)
+- **SCPI disponibles** : 10 supports immobiliers (SCPI et fonds immobiliers) à fenêtre de commercialisation — disponibilité définie par les sociétés de gestion (non permanente)
+- **Redistribution des loyers** : 100 % des loyers SCPI redistribués (source : sinvestir.fr) — zéro délai de jouissance (loyers courent dès le premier jour du mois de l'investissement) (source : ADI, 14 avril 2026)
 - **Limite par versement** : [à vérifier — aucune limite en % explicitement mentionnée dans les conditions générales disponibles]
 - **Frais de rachat UC non cotés** : jusqu'à 5 % maximum sur les supports à fenêtre de commercialisation (dont SCPI) — jusqu'à 20 % sur les UC non cotés à faible liquidité mentionnés à l'art. L. 132-5-4 du Code des assurances (source : conditions générales 01/04/2026)
 - **Frais d'arbitrage en désinvestissement** : jusqu'à 5 % maximum sur supports avec dispositions particulières (dont SCPI)
 - **Versements programmés sur SCPI** : [à vérifier — les supports à fenêtre de commercialisation sont par nature à souscription périodique]
-- **Redistribution des loyers** : [à vérifier — non mentionné explicitement dans les documents disponibles]
 
 ### Fonds euros — Règles spécifiques
 

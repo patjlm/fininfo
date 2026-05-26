@@ -50,8 +50,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Performance cumulée 5 ans** : 14,22 % (source : sinvestir.fr)
 - **Contraintes d'accès** : Aucune — 100 % accessible sans obligation d'investissement en UC
 - **Offres promotionnelles en cours** :
-  - +1,50 % de rendement net supplémentaire pour versements entre le 01/04 et le 30/06/2026 (minimum 5 000 EUR, sans contrainte d'UC)
-  - 150 EUR offerts (code BIENVENUEMTP2026) pour versements entre le 08/04 et le 30/06/2026 (minimum 5 000 EUR, 30 % minimum en UC — clients non déjà assurés La France Mutualiste)
+  - +1,50 % de rendement net supplémentaire pour versements en juin 2026 (minimum 5 000 EUR, sans contrainte d'UC — perte du bonus en cas de rachat total, réduction prorata si désinvestissement partiel)
+  - 150 EUR offerts (code BIENVENUEMTP2026) pour versements entre le 08/04 et le 30/06/2026 (minimum 5 000 EUR, 30 % minimum en UC — clients non déjà assurés La France Mutualiste, engagement 1 an sans rachat)
 - **Note fonds euros** : 5/5 (source : sinvestir.fr)
 
 ## Unités de compte

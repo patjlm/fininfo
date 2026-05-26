@@ -63,11 +63,12 @@ derniere-verification: 2026-05-26
 - **ETF cotés** : 0 (aucun ETF coté en bourse)
 - **SCPI** : 0
 - **Titres vifs** : non
-- **Rééquilibrage automatique** : non (gestion libre) ; annuel automatique (gestion profilée à horizon)
+- **Rééquilibrage automatique** : non (gestion libre) ; semestriel automatique (gestion profilée à horizon, Art. 5.1 note d'information)
 - **Supports ISR** : quasi-totalité classés SFDR article 8 ou 9 (70 % article 8, 30 % article 9)
 - **Supports immobiliers (SC)** : SC Carac Perspectives Immo ISR, SC Carac Générations Immo ISR
-- **Private equity (FCPR)** : Eurazeo Private Value Europe 3, Eiffel Infrastructures Vertes, Tikehau Défense et Sécurité (gestion profilée uniquement)
-- **Limite supports soumis au plafond 30 %** : PE (Eurazeo, Eiffel) + immobilier (Carac Générations Immo ISR, Carac Perspectives Immo ISR) — cumul des versements limité à 30 %
+- **Private equity (FCPR)** : Eurazeo Private Value Europe 3, Eiffel Infrastructures Vertes, Tikehau Défense et Sécurité
+- **Limite supports soumis au plafond 30 % (versements)** : Eiffel Infrastructures Vertes, Eurazeo Private Value Europe 3, SC Carac Générations Immo ISR, SC Carac Perspectives Immo ISR — cumul des versements alloués à ces supports limité à 30 % strictement (Annexe 2)
+- **Contrainte supplémentaire après arbitrage** : SC Carac Générations Immo ISR — le cumul de l'épargne-retraite sur ce support doit rester ≤ 30 % après tout arbitrage entrant ou sortant (Annexe 2)
 - **Frais de gestion à 1 %** : supports private equity (Eiffel Infrastructures Vertes, Eurazeo Private Value Europe 3, Tikehau Défense et Sécurité)
 - **Sociétés de gestion** : CPR AM, EdR AM, Thematics AM, Mirova, Dorval, Comgest, AllianceBernstein, Carmignac, Franklin Templeton, Lazard, Candriam, Tikehau Capital, Ecofi, ATREAM, Eurazeo, Eiffel Investment Group, Natixis IM, Pictet AM, JPMorgan AM, FIL Investment Management, Vontobel AM
 - **Note UC** : 0/5
@@ -91,8 +92,9 @@ derniere-verification: 2026-05-26
 - **Au-delà du 12e** : 1 % du montant arbitré
 - **Changement de profil horizon** : 1 fois / an, sans frais
 - **Changement de mode de gestion** : possible une fois par an, sans frais (libre vers horizon et inversement)
-- **Arbitrages automatiques en gestion horizon** : annuels, sans frais (réajustement de la répartition selon le profil)
-- **Contrainte 30 %** : en gestion libre, si le cumul de l'épargne sur les supports UC soumis au plafond (Annexe 2) dépasse 30 %, l'arbitrage entrant vers ces supports est refusé — l'adhérent doit redéfinir la répartition pour rester dans les limites
+- **Arbitrages automatiques en gestion horizon** : semestriels, sans frais (réajustement de la répartition selon le profil et la durée restante avant liquidation, Art. 5.1 note d'information)
+- **Contrainte 30 % (versements)** : en gestion libre, le cumul des versements alloués à Eiffel, Eurazeo, SC Carac Générations Immo ISR et SC Carac Perspectives Immo ISR ne peut excéder strictement 30 % — si un arbitrage entrant conduirait à dépasser ce seuil, l'adhérent doit redéfinir sa répartition
+- **Contrainte 30 % (épargne totale)** : le cumul de l'épargne-retraite sur SC Carac Générations Immo ISR doit rester ≤ 30 % après tout arbitrage entrant ou sortant (Annexe 2)
 
 ### SCPI — Règles spécifiques
 
@@ -103,8 +105,8 @@ Non applicable — aucune SCPI disponible sur ce contrat (ni SCPI, ni SCI extern
 - **Accès au fonds euros** : libre en gestion libre, sans condition de répartition minimale en UC
 - **100 % fonds euros possible** : oui, en gestion libre (aucune contrainte de minimum UC selon note d'information juillet 2025)
 - **Limitation des mouvements** : le Conseil d'administration du GERP Carac peut voter la suspension des mouvements entrants (versements, transferts) et sortants (arbitrages) vers/depuis le fonds euros en cas de conditions économiques défavorables (clause de protection, art. 6.1 note d'information) — délai maximum de 3 mois, renouvelable une fois
-- **Contrainte 30 %** : en gestion libre, certains supports UC (PE et SC immobiliers) sont plafonnés à 30 % des versements cumulés — cette contrainte ne concerne pas le fonds euros lui-même
-- **Rachat total en cours d'année** : [à vérifier] — aucune règle explicite de perte d'intérêts annuels trouvée dans les documents disponibles
+- **Contrainte 30 %** : en gestion libre, certains supports UC (Eiffel, Eurazeo, les deux SC immobilières) sont plafonnés à 30 % des versements cumulés — cette contrainte ne concerne pas le fonds euros lui-même, qui reste accessible sans limitation
+- **Rachat total en cours d'année** : en cas de sortie totale en cours d'année, l'adhérent renonce au bénéfice de la participation aux résultats techniques et financiers sur la période écoulée depuis la dernière affectation annuelle (note d'information, Art. 6.1)
 - **Effet cliquet** : intérêts définitivement acquis chaque année (capital garanti brut de frais de gestion)
 
 ### Gestion profilée à horizon retraite
@@ -112,7 +114,7 @@ Non applicable — aucune SCPI disponible sur ce contrat (ni SCPI, ni SCI extern
 - **Profils disponibles** : prudent, équilibré, dynamique, offensif horizon retraite
 - **Profil par défaut** : équilibré horizon retraite (loi PACTE)
 - **Frais supplémentaires** : 0 %
-- **Principe** : sécurisation progressive automatique à l'approche de la retraite ; arbitrage automatique annuel
+- **Principe** : sécurisation progressive automatique à l'approche de la retraite ; réajustement semestriel automatique de la répartition (Art. 5.1)
 - **En gestion profilée** : l'adhérent ne peut pas effectuer d'arbitrages libres
 - **Profil prudent** : fonds euros 30 % (>20 ans) → 88 % (1 an avant liquidation) ; PE min 6 % (>20 ans) → 2 % (5 ans) → 0 %
 - **Profil équilibré** : fonds euros 12 % (>20 ans) → 78 % (1 an avant liquidation)
@@ -164,7 +166,7 @@ Non applicable — aucune SCPI disponible sur ce contrat (ni SCPI, ni SCI extern
 |---|---|---|---|---|
 | Eiffel Infrastructures Vertes | FR001400BCG0 | Libre + Profilée | FCPR evergreen | Eiffel Investment Group |
 | Eurazeo Private Value Europe 3 | FR0013301546 | Libre + Profilée | FCPR evergreen | Eurazeo |
-| Tikehau Défense et Sécurité | FR00140102X7 | Profilée uniquement | FCPR evergreen | Tikehau Capital |
+| Tikehau Défense et Sécurité | FR00140102X7 | Libre + Profilée | FCPR evergreen | Tikehau Capital |
 
 ### Obligations — frais de gestion 0,90 %
 
@@ -214,7 +216,8 @@ Non applicable — aucune SCPI disponible sur ce contrat (ni SCPI, ni SCI extern
 
 Les sommes allouées aux UC sont investies sur le support monétaire (BNP Paribas Mois ISR — FR0007009808) pendant le délai de renonciation de 30 jours, puis transférées automatiquement et sans frais vers les supports choisis.
 
-- **Contrainte 30 %** : Eiffel, Eurazeo, Tikehau (PE) + Carac Générations Immo ISR + Carac Perspectives Immo ISR — cumul des versements limité à 30 % (après tout arbitrage entrant ou sortant)
+- **Contrainte 30 % (versements)** : Eiffel Infrastructures Vertes, Eurazeo Private Value Europe 3, SC Carac Générations Immo ISR, SC Carac Perspectives Immo ISR — cumul des versements alloués à ces 4 supports limité à 30 % strictement (Tikehau Défense et Sécurité non soumis)
+- **Contrainte 30 % (épargne totale)** : SC Carac Générations Immo ISR uniquement — l'épargne-retraite sur ce support doit rester ≤ 30 % après tout arbitrage entrant ou sortant
 - **Labels** : quasi-totalité classés SFDR article 8 ou 9 (70 % article 8, 30 % article 9)
 
 ## Expérience client

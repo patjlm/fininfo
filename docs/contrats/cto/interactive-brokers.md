@@ -22,7 +22,7 @@ derniere-verification: 2026-05-26
 - **Année de création** : 1978
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Frais — Actions françaises** (tarification dégressive) :
   - Ordre de 10 EUR : 1,25 EUR
@@ -43,7 +43,7 @@ derniere-verification: 2026-05-26
 - **Tarification fixe** : 3 EUR par transaction standard en Europe ; tarif par action aux US
 - **Frais de change** : 0,002 % (min 2 USD)
 - **Frais divers** :
-  - 1 retrait gratuit par mois, puis frais par retrait supplémentaire
+  - 1 retrait gratuit par mois, puis 8 € par retrait supplémentaire
   - Pas de frais de garde
   - Pas de frais d'inactivité
 - **Exemples concrets (scénario mixte)** : 6 ordres US × 0,35 USD + 6 ordres EU × 1,25 EUR + 2 USD frais de change = environ 11,60 EUR
@@ -88,9 +88,9 @@ derniere-verification: 2026-05-26
 - **PEA disponible** : oui — Interactive Brokers propose également un PEA pour les résidents français
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Avis clients (Trustpilot)** : 3/5 (+ 5 200 avis) *(source : sinvestir)*
+- **Avis clients (Trustpilot)** : 3/5 (environ 5 000 avis) *(source : sinvestir)*
 - **Contact** : téléphone (00800 42 276537), email (help@interactivebrokers.com), chat en ligne
 - **Test SAV** : attente de quelques secondes *(source : sinvestir)*
 - **Note SAV** : 3/5 *(source : sinvestir)*

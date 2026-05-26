@@ -50,19 +50,19 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Fonds euros
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Suravenir Rendement** : garanti en capital 100 % (fonds historique)
+- **Suravenir Rendement** : garanti en capital 100 % (fonds historique, mandat d'arbitrage uniquement)
 - **Suravenir Rendement 2** : garanti à 99,4 % (capital moins frais) — 80 % maximum du contrat
   - Performance 2024 : 2,20 %
-  - Performance 2025 : 2,10 %
+  - Performance 2025 : 2,10 % (gestion libre) / 2,50 % (mandat d'arbitrage)
   - Performance cumulée 5 ans : 9,6 %
 - **Suravenir Opportunités 2** : garanti à 97 % (capital moins frais et FAG max 3 %) — 70 % maximum — disponible lors de certaines périodes uniquement, non accessible en continu
   - Performance 2024 : 2,50 %
-  - Performance 2025 : 3,00 %
+  - Performance 2025 : 3,00 % (base) — bonifications conditionnelles selon % d'UC : jusqu'à 3,50 % (30-50 % UC), 4,00 % (50-70 % UC), 4,50 % (>70 % UC)
   - Performance cumulée 5 ans : 11,9 %
 - **Contraintes d'accès** :
-  - Suravenir Rendement 2 : 80 % maximum du contrat
+  - Suravenir Rendement 2 : 80 % maximum du contrat ; condition de 30 % minimum d'UC par versement [à vérifier sur yomoni.fr]
   - Suravenir Opportunités 2 : inéligible aux arbitrages — accessible uniquement par versement lors des périodes d'ouverture ; 70 % maximum
-  - En mandat d'arbitrage : accès uniquement à Suravenir Rendement et Suravenir Rendement 2
+  - En mandat d'arbitrage : accès uniquement à Suravenir Rendement et Suravenir Rendement 2 (Opportunités 2 non disponible)
 - **Valorisation** : quotidienne
 - **Note fonds euros** : 3,5/5 (source : sinvestir.fr)
 
@@ -162,10 +162,11 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
 
 ### Fonds euros — Règles spécifiques
 
-- **Suravenir Rendement 2** : 80 % maximum du contrat ; accessible en gestion libre et mandat d'arbitrage (source : yomoni.fr)
-- **Suravenir Opportunités 2** : 70 % maximum ; inéligible aux arbitrages — accessible uniquement par versement lors des périodes d'ouverture ; non disponible en continu (source : yomoni.fr)
+- **Suravenir Rendement 2** : 80 % maximum du contrat ; accessible en gestion libre et mandat d'arbitrage ; condition de 30 % minimum d'UC par versement [à vérifier sur yomoni.fr] (source : francetransactions.com, yomoni.fr)
+- **Suravenir Opportunités 2** : 70 % maximum ; inéligible aux arbitrages — accessible uniquement par versement lors des périodes d'ouverture ; non disponible en continu (source : yomoni.fr, notice Althéis n°3185)
 - **En mandat d'arbitrage** : accès uniquement à Suravenir Rendement et Suravenir Rendement 2 — Suravenir Opportunités 2 non disponible (source : yomoni.fr)
-- **Rachat total en cours d'année** : Non communiqué précisément [à vérifier sur notice Suravenir/Althéis n°3185]
+- **Taux différenciés 2025** : Suravenir Rendement 2 : 2,10 % en gestion libre / 2,50 % en mandat d'arbitrage (source : suravenir.fr)
+- **Rachat total du fonds euros en cours d'année** : revalorisation au prorata de la durée écoulée depuis le dernier versement de la participation aux bénéfices — pas de perte des intérêts (source : notice Althéis n°3185, point 3.a)
 
 ### Mandat d'arbitrage (gestion pilotée)
 - 10 profils de risque numérotés (Profil 2 Prudent à Profil 10 Audacieux)
@@ -231,7 +232,8 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
   - Accessible à partir de 1 000 EUR en mandat d'arbitrage
   - Frais all-in parmi les plus bas du marché pour un robo-advisor : ~1,60 % / an maximum
   - 10 profils de risque avec versions ESG disponibles
-  - Deux fonds euros disponibles dont Suravenir Opportunités 2 (3,00 % en 2025)
+  - Deux fonds euros disponibles dont Suravenir Opportunités 2 (3,00 % base en 2025, jusqu'à 4,50 % avec bonifications)
+  - Suravenir Rendement 2 : 2,50 % en mandat d'arbitrage (vs 2,10 % en gestion libre)
   - 0 % de frais de versement et d'arbitrage
   - Assureur solide : Suravenir (Crédit Mutuel Arkea)
   - Très bonne expérience client (avis 4,8/5)
@@ -240,7 +242,7 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
   - Pas de SCPI en direct (exposition immobilière uniquement via SC Y Immo)
   - Impossibilité de répartir un compartiment sur plusieurs profils de risque simultanément
   - Suravenir Opportunités 2 non disponible en continu et inaccessible par arbitrage
-  - Performances fonds euros 2025 modestes pour Suravenir Rendement 2 (2,10 %)
+  - Performances fonds euros 2025 modestes pour Suravenir Rendement 2 en gestion libre (2,10 %)
   - Pas de titres vifs
 - **Services complémentaires** : PEA, CTO, PER (Yomoni Retraite, Yomoni Retraite+), Private Equity (gestion privée), Produits structurés (gestion privée), Assurance-vie ESG, Assurance-vie enfant
 
@@ -248,8 +250,10 @@ Non applicable — aucune SCPI disponible sur ce contrat ; seul support immobili
 
 - [Avenue des Investisseurs — Comparatif Assurance Vie](https://www.avenuedesinvestisseurs.fr/comparatif-assurance-vie/) (mis à jour 17 septembre 2025)
 - [Yomoni — Page assurance vie](https://www.yomoni.fr/investir/assurance-vie)
+- [Yomoni — Fonds euros Suravenir Opportunités 2](https://www.yomoni.fr/investir/fonds-euro-suravenir-opportunites-2)
 - [Yomoni — Liste des supports d'investissement](https://www.yomoni.fr/legal/supports-investissement)
 - [Yomoni — Informations réglementaires](https://www.yomoni.fr/legal/informations-reglementaires)
 - [Yomoni — Grille tarifaire](https://www.yomoni.fr/tarifs)
 - [Suravenir / Althéis — Notice du contrat Yomoni Vie n°3185 (septembre 2025)](https://static.yomoni.fr/documents/yomonivie-notice.pdf)
+- [Suravenir — Taux de rendement 2025 des fonds en euros](https://www.suravenir.fr/suravenir-annonce-taux-de-rendement-fonds-euros-2025/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)

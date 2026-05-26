@@ -55,10 +55,10 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : +700 (gestion libre) / 25 (gestion profilée — ETF iShares Portfolio BlackRock)
-- **ETF** : 124 (source : sinvestir.fr — liste complète sur le site Finary)
+- **Nombre total d'UC** : +700 (gestion libre) / 25 (gestion profilée — ETF iShares Portfolio BlackRock) — liste mise à jour le 17/05/2026 (source : finary.com)
+- **ETF** : 100+ (source : finary.com — liste complète sur le site Finary)
 - **SCPI** : 0 (pas de SCPI disponibles)
-- **Actions directes (titres vifs)** : 93 — accessibles uniquement en cours de vie du contrat via versement libre (minimum 1 500 EUR par titre ; non sélectionnables à la souscription initiale)
+- **Actions directes (titres vifs)** : 95 — accessibles uniquement en cours de vie du contrat via versement libre (minimum 1 500 EUR par titre ; non sélectionnables à la souscription initiale)
 - **Private equity** : oui
 - **Fonds obligataires / OPCVM** : oui (dans les 700+ supports de gestion libre)
 - **Rééquilibrage automatique** : oui (en gestion profilée)
@@ -69,11 +69,11 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 Les 3 profils de gestion profilée utilisent exclusivement les ETF iShares Portfolio de BlackRock, composés chacun de 15 à 25 ETF sous-jacents exposant à plus de 8 000 actions et obligations mondiales.
 
-| Profil | Allocation | ETF iShares utilisé | TER ETF |
-|---|---|---|---|
-| Prudent | 50 % Netissima + 50 % iShares Moderate Portfolio | iShares Moderate Portfolio | 0,25 % |
-| Audacieux | 20 % Netissima + 80 % iShares Growth Portfolio | iShares Growth Portfolio | 0,25 % |
-| Aventurier | 100 % iShares Growth Portfolio | iShares Growth Portfolio | 0,25 % |
+| Profil | Allocation | ETF iShares utilisé | ISIN | TER ETF |
+|---|---|---|---|---|
+| Prudent | 50 % Netissima + 50 % iShares Moderate Portfolio | iShares Moderate Portfolio UCITS | IE00BLLZQS08 | 0,25 % |
+| Audacieux | 20 % Netissima + 80 % iShares Growth Portfolio | iShares Growth Portfolio UCITS | IE00BLLZQ805 | 0,25 % |
+| Aventurier | 100 % iShares Growth Portfolio | iShares Growth Portfolio UCITS | IE00BLLZQ805 | 0,25 % |
 
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
@@ -87,14 +87,16 @@ Les 3 profils de gestion profilée utilisent exclusivement les ETF iShares Portf
   - Pas de SCPI disponibles dans le contrat
   - Actions directes : minimum 1 500 EUR par titre, accessibles uniquement via versement libre en cours de vie (non disponibles à la souscription initiale)
   - Bascule entre gestion libre et gestion profilée : non disponible
-- **Conditions boost Netissima (jusqu'au 30/06/2026)** :
-  - 30 % minimum en UC requis à l'investissement ET au 31 décembre annuel
-  - Applicable aux nouveaux contrats et versements libres uniquement (versements programmés, transferts Pacte et rachats Generali exclus)
+- **Conditions boost Netissima** :
+  - Période d'investissement éligible : du 1er janvier au 30 juin 2026 inclus (boost appliqué sur les années 2026 et 2027)
+  - 30 % minimum en UC requis à l'investissement ET au 31 décembre de chaque année
+  - Applicable aux nouveaux contrats et versements libres uniquement (versements libres programmés, transferts Pacte et rachats Generali exclus)
   - Plafond par versement : 500 000 EUR
   - Rendement plafonné à 5,25 % brut de frais de gestion
   - En cas de retrait, les fonds bénéficiant du boost sont désinvestis en priorité (prorata temporis)
 - **Conditions gestion profilée** : 3 profils (Prudent, Audacieux, Aventurier) — TER ETF de 0,25 % / an inclus
-- **Transfert entrant** : non disponible (ni depuis Generali, ni depuis un autre assureur)
+- **Transfert entrant** : non disponible (ni depuis Generali, ni depuis un autre assureur — contraintes réglementaires)
+- **Transfert sortant** : non disponible (transfert vers un autre assureur non possible)
 - **Rachat partiel minimum** : Non communiqué [à vérifier] — procédure par formulaire à adresser à Generali Vie (TSA 70007, 75447 Paris Cedex 09)
 - **Rachat total** : clôture définitive du contrat
 - **Avance sur contrat** : Non communiqué [à vérifier]
@@ -108,7 +110,7 @@ Non applicable — aucune SCPI disponible sur ce contrat (source : Finary)
 ### Fonds euros — Règles spécifiques
 
 - **Accès sans contrainte UC hors boost** : 100 % fonds euros Netissima possible sans obligation d'UC (hors offre boostée)
-- **Condition boost 2026-2027** : 30 % minimum en UC requis au moment de l'investissement ET au 31 décembre de chaque année pour bénéficier du taux boosté (+1,50 % nets) — plafond 500 000 EUR par versement
+- **Condition boost 2026-2027** : investissement entre le 1er janvier et le 30 juin 2026 ; 30 % minimum en UC requis au moment de l'investissement ET au 31 décembre de chaque année pour bénéficier du taux boosté (+1,50 % nets) — plafond 500 000 EUR par versement
 - **Rachat avec boost** : en cas de retrait, les fonds bénéficiant du boost sont désinvestis en priorité (prorata temporis) — source : Finary Help
 
 ## Fiscalité
@@ -143,12 +145,12 @@ Non applicable — aucune SCPI disponible sur ce contrat (source : Finary)
   - Frais de gestion UC compétitifs : 0,50 % / an
   - 0 % sur versements, arbitrages et rachats
   - App mobile intégrée à l'agrégateur patrimonial Finary (suivi patrimoine unifié)
-  - Accès à 700+ supports en gestion libre dont 124 ETF, private equity et 93 actions directes
+  - Accès à 700+ supports en gestion libre dont 100+ ETF, private equity et 95 actions directes
   - Versement possible dès 150 EUR avec versements programmés (50 EUR / mois)
   - Boost Netissima jusqu'à 4,5 % nets en 2026-2027 (sous conditions)
 - **Points faibles** :
   - Pas de SCPI disponibles
-  - Actions directes non accessibles à la souscription initiale (minimum 1 500 EUR par titre, en cours de vie uniquement)
+  - Actions directes (95 titres) non accessibles à la souscription initiale (minimum 1 500 EUR par titre, en cours de vie uniquement)
   - Bascule entre gestion libre et gestion profilée impossible
   - En gestion profilée, versements programmés uniquement (150 EUR min.) — pas de versements libres ponctuels en gestion profilée
   - Arbitrages gérés via l'espace Generali (interface Finary pas encore unifiée)

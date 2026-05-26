@@ -3,7 +3,7 @@ nom: ProRealTime PEA
 type: contrat-pea
 slug: prorealtime
 courtier: ProRealTime (via Interactive Brokers)
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # ProRealTime — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA proposé par [ProRealTime](https://www.prorealtime.com/fr/pea) (France), avec tenue de compte et exécution des ordres assurées par Interactive Brokers (Irlande). Voir aussi la fiche [PEA (enveloppe)](../../enveloppes/pea.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : ProRealTime (réception-transmission d'ordres)
 - **Teneur de compte** : Interactive Brokers Ireland Limited
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Année de création** : 2001
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Grille tarifaire** (3 formules, actions/ETF France) :
   - **Tarif Standard** : 0,095 % de la valeur de la transaction (min. 4,95 EUR / max. 49 EUR)
@@ -50,13 +50,13 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 0/5 (aucun frais divers)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions éligibles PEA** :
-  - France : 627
-  - Europe (hors France) : 2 289
-  - Hors zone euro : 3 601
-- **ETF éligibles PEA** : 243
+  - France : 620
+  - Europe (hors France) : 2 298
+  - Hors zone euro : 3 603
+- **ETF éligibles PEA** : 241
 - **Fractions d'actions** : non
 - **Investissement programmé (DCA)** : non
 - **Smart routing** : oui — les ordres sont automatiquement envoyés sur la bourse offrant les meilleures conditions d'exécution (prix, rapidité, probabilité d'exécution)
@@ -70,7 +70,7 @@ derniere-verification: 2026-05-16
 - **Note produits** : 2/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe, fonds ségrégués sur des comptes bancaires exclusifs)
 - **Transfert de PEA** : possible (entrant et sortant)
@@ -79,7 +79,7 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Compte irlandais** : le PEA est domicilié en Irlande via Interactive Brokers — obligation de déclaration comme compte étranger chaque année (formulaire 3916 / 3916-bis)
 - **Marchés accessibles** : Euronext Paris, Euronext Amsterdam, Euronext Bruxelles, Euronext Lisbonne, Xetra, Borsa Italiana, BME (Espagne), et autres bourses européennes via Smart Routing
@@ -89,7 +89,7 @@ derniere-verification: 2026-05-16
 - **Accès à la plateforme Complete** : gratuit avec un compte actif
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,8/5 (1 089 avis)
 - **App mobile** : oui (ProRealTime Mobile)
@@ -101,12 +101,12 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,93/5
 - **Points forts** :
   - Plateforme de trading professionnelle avec outils d'analyse avancés (ProScreener, ProRealTrend, PRT Bands)
-  - Nombreux ETF et actions éligibles PEA (243 ETF, 4 000+ actions)
+  - Nombreux ETF et actions éligibles PEA (241 ETF, 4 000+ actions)
   - Détention directe des titres, fonds ségrégués
   - Droits de garde et frais de transfert à 0 EUR
   - Smart routing pour une meilleure exécution

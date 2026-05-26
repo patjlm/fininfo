@@ -11,7 +11,7 @@ derniere-verification: 2026-05-26
 > PEA proposé par [Saxo Banque](https://www.home.saxo/fr-fr/accounts/pea), succursale française de Saxo Bank A/S (Danemark). Voir aussi la fiche [PEA (enveloppe)](../../enveloppes/pea.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Saxo Banque — 10, rue de la Paix, 75002 Paris
 - **Maison mère** : Saxo Bank A/S (Geely Financials Denmark)
@@ -26,9 +26,9 @@ derniere-verification: 2026-05-26
 - **Année de création** : 2008 (lancement en France)
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Barème Classic** : 0,08 % du montant de l'ordre, minimum 2 EUR par ordre
+- **Barème Classic** : 0,08 % du montant de l'ordre, minimum 2 EUR par ordre (depuis la refonte tarifaire de janvier 2024)
 - **Barème Platinum / VIP** : tarifs réduits selon le volume d'activité (détails sur la plateforme)
 - **Plafond PEA (loi PACTE)** : 0,50 % du montant de l'ordre en ligne, 1,20 % par téléphone
 - **Grille tarifaire indicative (profil Classic)** :
@@ -37,19 +37,19 @@ derniere-verification: 2026-05-26
   - Ordre de 1 000 EUR : 2 EUR (minimum appliqué)
   - Ordre de 2 500 EUR : 2 EUR (0,08 % = 2 EUR)
   - Ordre de 5 000 EUR : 4 EUR (0,08 % appliqué)
-- **Frais de change** : 0,25 %
-- **Frais divers** : aucun frais d'inactivité, aucun frais de garde sur PEA [à vérifier]
+- **Frais de change** : 0,25 % (depuis refonte tarifaire mars 2024)
+- **Droits de garde** : 0 EUR sur PEA (confirmé brochure tarifaire officielle)
+- **Frais d'inactivité** : 0 EUR
 - **Supplément ordre par téléphone** : 50 EUR par ordre
-- **Droits de garde (custody fee)** : 0,15 %/an sur actions et ETF (profil Classic), calculés quotidiennement, débités mensuellement — TVA danoise de 25 % applicable pour les résidents UE
 - **Exemples concrets (profil Classic)** :
   - 3 ordres de 100 EUR/mois : 3 x 0,50 EUR = 1,50 EUR (plafond PACTE appliqué)
   - 3 ordres de 400 EUR/mois : 3 x 2 EUR = 6 EUR (minimum appliqué)
-- **Frais de transfert sortant** : 50 EUR par ISIN (max. 160 EUR)
+- **Frais de transfert sortant PEA** : 15 EUR par ligne (max. 150 EUR)
 - **Note frais de courtage** : 3,47/5
 - **Note frais divers** : 4,5/5
 
 ## Offres promotionnelles
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **70 actions EU sans frais** : 0 EUR de frais de courtage (achat et vente) sur 70 actions européennes (CAC 40 + 30 actions européennes) — nouveaux PEA ouverts ou transférés, du 23/02/2026 au 31/12/2026 — les commissions de change restent dues
 - **ETF Amundi gratuits** : 0 EUR de frais de courtage à l'achat sur + de 150 ETF Amundi (PEA et CTO) — sans limite de montant ni d'ordres — jusqu'au 31/12/2026 — frais de vente selon tarifs en vigueur
@@ -58,7 +58,7 @@ derniere-verification: 2026-05-26
 - **Parrainage** : 500 EUR de frais de courtage offerts au parrain et au filleul
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : actions éligibles au PEA (Euronext Paris + places européennes)
 - **ETF** : disponibles sur PEA (ETF éligibles PEA uniquement) — + de 150 ETF Amundi à 0 EUR de frais d'achat
@@ -71,7 +71,7 @@ derniere-verification: 2026-05-26
 - **Note produits** : 3,5/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe)
 - **Transfert de PEA** : possible — transfert entrant 100 % en ligne, remboursement des frais (max. 150 EUR)
@@ -80,7 +80,7 @@ derniere-verification: 2026-05-26
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** : marché, limite, stop, et ordres avancés
 - **Marchés accessibles** : Euronext (Paris, Amsterdam, Bruxelles, Lisbonne), Xetra (Francfort), Borsa Italiana (Milan), BME (Madrid), OMX (Copenhague, Stockholm, Helsinki), LSE (Londres) — dans la limite de l'éligibilité PEA
@@ -93,7 +93,7 @@ derniere-verification: 2026-05-26
 - **Intérêts sur liquidités** : rémunération des espèces non investies (taux variable selon niveau de compte et conditions de marché)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 3,5/5 (7 805 avis)
 - **App mobile** : oui (SaxoInvestor et SaxoTrader)
@@ -105,7 +105,7 @@ derniere-verification: 2026-05-26
 - **Note SAV** : 3,5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,12/5
 - **Points forts** :
@@ -117,7 +117,6 @@ derniere-verification: 2026-05-26
   - Transfert PEA 100 % en ligne et remboursé
 - **Points faibles** :
   - Frais un peu élevés pour les petits ordres (minimum 2 EUR pénalisant sous 2 500 EUR)
-  - Droits de garde annuels de 0,15 % (inexistants chez la plupart des courtiers en ligne français)
   - Plateforme orientée investisseurs expérimentés — peut intimider les débutants
   - Pas de fractions d'actions ni d'investissement programmé (DCA) sur PEA
   - Pas de PEA Jeunes
@@ -144,4 +143,6 @@ derniere-verification: 2026-05-26
 - [Saxo Banque — Conditions PEA](https://www.home.saxo/fr-fr/accounts/pea/terms-and-conditions)
 - [Saxo Banque — ETF Amundi](https://www.home.saxo/fr-fr/campaigns/amundi-etf)
 - [Saxo Banque — Communiqué PEA sans frais](https://www.home.saxo/fr-fr/content/commentaries/pr/press-release/saxo-banque-devoile-son-pea-sans-frais-26022026)
-- [Saxo Banque — Brochure tarifaire PEA](https://www.home.saxo/-/media/documents/regional/fr-fr/documents-legaux/brochure-tarifaire-pour-le-pea-web-241017.pdf)
+- [Saxo Banque — Brochure tarifaire PEA (2018)](https://www.home.saxo/-/media/documents/regional/fr-fr/documents-legaux/brochure-tarifaire-pour-le-pea-web-241017.pdf)
+- [Saxo Banque — Brochure tarifaire générale](https://www.home.saxo/-/media/documents/regional/fr-fr/manuals/brochure-tarifaire-generale.pdf)
+- [Saxo Banque — Autres frais et commissions](https://www.home.saxo/rates-and-conditions/commissions-charges-and-margin-schedule)

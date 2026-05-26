@@ -29,20 +29,25 @@ derniere-verification: 2026-05-26
 
 ## Frais
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : https://www.linxea.com/retraite/suravenir-per/ et https://www.linxea.com/assurance-vie/gestion-pilotee/ -->
+<!-- Source : Notice Suravenir PER n° 2240 REF 5257-4 (08.2024), https://www.linxea.com/retraite/suravenir-per/ -->
 
 - **Versement** : 0 %
-- **Gestion UC** : 0,60 %/an
+- **Gestion UC (gestion libre)** : 0,60 %/an
+- **Gestion UC (gestion à horizon retraite)** : 0,60 %/an
+- **Gestion UC (mandat d'arbitrage)** : 0,90 %/an
 - **Gestion fonds euros** : 0,80 %/an
-- **Arbitrage** : 0 % (hors SCPI, SCI, SCP, OPCI et ETF)
-- **Arbitrage ETF** : 0,10 %
+- **Arbitrage (gestion libre)** : 0 % des montants arbitrés
+- **Arbitrage automatique (gestion à horizon)** : 0 % des montants arbitrés
+- **Arbitrage ETF** : 0,10 % des montants investis/désinvestis
 - **Arbitrage titres vifs** : 0,60 %
+- **Changement de mode de gestion** : 0 %
 - **Rente** : frais sur encours de rente 0,80 %
-- **Surcoût gestion pilotée OTEA Capital** : 0,20 %/an (soit 0,80 % total sur UC)
-- **Surcoût gestion horizon retraite** : 0 % (aucun frais supplémentaire par rapport à la gestion libre)
-- **Frais d'entrée** : 0 %
+- **Surcoût gestion pilotée OTEA Capital (mandat d'arbitrage)** : +0,30 %/an sur UC (soit 0,90 % total)
+- **Surcoût gestion à horizon retraite** : 0 % (mêmes frais qu'en gestion libre)
+- **Frais de transfert entrant** : 0 % du capital transféré
+- **Frais de transfert sortant** : 1 % si contrat < 5 ans (disposition légale), 0 % au-delà
 - **Frais de dossier** : 0 %
-- **Frais de sortie** : 0 %
+- **Frais de rachat** : 0 %
 - **Note frais** : 4,5/5
 
 ## Fonds euros
@@ -84,10 +89,12 @@ derniere-verification: 2026-05-26
 
 ### Arbitrages
 
-- **Arbitrage minimum (options automatiques)** : 100 EUR
-- **Arbitrage minimum (mandat d'arbitrage)** : 20 EUR
-- **Frais d'arbitrage** : 0 % en gestion libre (hors SCPI/SCI/SCP/OPCI et ETF)
-- **Options d'arbitrage automatique gratuites** : sécurisation des plus-values, rééquilibrage automatique, et autres (5 options disponibles)
+- **Arbitrage minimum (gestion libre)** : 500 EUR
+- **Arbitrage minimum (options d'arbitrage programmé)** : 100 EUR
+- **Arbitrage minimum (mandat d'arbitrage)** : 20 EUR (montant minimum déclenché par Suravenir)
+- **Frais d'arbitrage** : 0 % en gestion libre ; 0 % en gestion à horizon ; 0,10 % sur ETF
+- **Options d'arbitrage programmé gratuites (5)** : rééquilibrage automatique, investissement progressif, sécurisation des plus-values, stop-loss relatif, dynamisation des plus-values
+- **Arbitrage en sortie du fonds euros** : peut être différé exceptionnellement jusqu'à 6 mois (clause contractuelle de préavis)
 
 ### Limites d'investissement
 
@@ -109,22 +116,26 @@ derniere-verification: 2026-05-26
 - **Accès en arbitrage** : possible — le fonds euros est accessible en entrée et en sortie par arbitrage en gestion libre
 - **Conditions** : 100 % du contrat investissable sur le fonds euros, aucune obligation d'UC
 
-### Gestion pilotée
+### Mandat d'arbitrage (OTEA Capital)
 
 - **Gestionnaire** : OTEA Capital
 - **Profils disponibles** : défensif (obj. 3 %/an), équilibré (obj. 5 %/an), équilibré responsable (obj. 5 %/an), dynamique (obj. 6-7 %/an), agressif (obj. 8 %/an)
-- **Surcoût** : 0,20 %/an (total 0,80 % sur UC)
-- **Encours minimum** : 300 EUR
-- **Changement de profil** : gratuit, possible à tout moment (retour en gestion libre sans frais)
+- **Frais de gestion UC** : 0,90 %/an (frais Suravenir 0,60 % + surcoût mandat 0,30 %)
+- **Encours minimum pour souscrire** : 1 000 EUR (puis minimum d'arbitrage 20 EUR)
+- **Encours minimum pour accès gestion pilotée Linxea** : 300 EUR
+- **Restriction** : en mandat d'arbitrage, l'adhérent ne peut pas effectuer lui-même des arbitrages
+- **Changement de mode** : gratuit (0 %), possible à tout moment
 
 ### Gestion à horizon retraite (mode par défaut)
 
-- **Profil par défaut** : équilibré horizon retraite
-- **Profils disponibles** : prudent, équilibré, dynamique
-- **Principe** : sécurisation progressive de l'épargne à l'approche de la retraite
-- **Surcoût** : aucun (mêmes frais qu'en gestion libre)
+- **Profil par défaut** : Equilibré Horizon Retraite (sauf mention contraire expresse à la souscription)
+- **Profils disponibles** : Prudent Horizon Retraite, Equilibré Horizon Retraite, Dynamique Horizon Retraite
+- **Principe** : arbitrage automatique trimestriel — sécurisation progressive à l'approche de la retraite
+- **Frais de gestion UC** : 0,60 %/an (identique à la gestion libre, aucun surcoût)
 - **Encours minimum** : 500 EUR
-- **Changement de mode** : gratuit, possible à tout moment
+- **Restriction** : en gestion à horizon, l'adhérent ne peut pas effectuer lui-même des arbitrages
+- **Changement de mode** : gratuit (0 %), possible à tout moment
+- **Gestion libre** : accessible uniquement si l'adhérent renonce expressément à la gestion à horizon
 
 ### Transfert
 
@@ -319,15 +330,16 @@ derniere-verification: 2026-05-26
   - Fonds euros performant (3 % en 2024-2025) avec possibilité d'investir à 100 %
   - Plus de 340 unités de compte (92 ETF, 13 SCPI, 4 OPCI, 6 SCI, 2 SC)
   - 0 % frais de versement, d'entrée, de dossier et de sortie
-  - Gestion horizon retraite sans surcoût (par défaut)
+  - Gestion à horizon retraite sans surcoût (mode par défaut)
+  - 5 options d'arbitrage programmé gratuites (rééquilibrage, investissement progressif, sécurisation, stop-loss, dynamisation)
   - 1 fonds de Private Equity disponible
-  - Options d'arbitrage automatique gratuites (5 options)
   - Solvabilité élevée de l'assureur (263,7 %)
 - **Points faibles** :
   - 85 % des loyers SCPI reversés (vs 100 % chez Linxea Spirit PER / Spirica)
   - Pas d'application mobile
   - Pas de titres vifs (actions en direct)
   - Frais de gestion UC (0,60 %) légèrement supérieurs à Linxea Spirit PER (0,50 %)
+  - Mandat d'arbitrage OTEA Capital : 0,90 %/an sur UC (surcoût +0,30 % vs gestion libre)
   - Certaines opérations nécessitent encore un formulaire papier
 - **Services complémentaires** : assurance-vie (Linxea Avenir 2), SCPI en direct, produits structurés, Private Equity, fonds datés à échéance, PEA assurantiel
 
@@ -347,9 +359,8 @@ derniere-verification: 2026-05-26
 - [Linxea — Supports disponibles Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/)
 - [Linxea — ETF Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/trackers-etf/)
 - [Linxea — Fonds immobiliers Suravenir PER](https://www.linxea.com/retraite/suravenir-per/supports-disponibles-sur-suravenir-per/fonds-immobiliers-suravenir-per/)
-- [Linxea — Conditions SCPI Avenir 2](https://support.linxea.com/fr/articles/4788-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-avenir-2)
-- [Linxea — Gestion pilotée OTEA Capital](https://www.linxea.com/assurance-vie/gestion-pilotee/)
 - [Linxea — Gestion horizon retraite](https://www.linxea.com/per/gestion-horizon-retraite/)
 - [Linxea — Documentation Suravenir PER](https://www.linxea.com/documentation/linxea-suravenir-per/)
+- Notice Suravenir PER n° 2240, REF 5257-4 (08.2024) — frais, conditions, gestion, arbitrage
 - API Morningstar (universe FEEUR$$ALL_5649) — liste ETF vérifiée le 2026-05-26
 - [Avenue des Investisseurs — Comparatif PER](https://www.avenuedesinvestisseurs.fr/per-plan-epargne-retraite/) (mis à jour 11 février 2026)

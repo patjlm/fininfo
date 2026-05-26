@@ -3,7 +3,7 @@ nom: monabanq PEA
 type: contrat-pea
 slug: monabanq
 courtier: monabanq
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # monabanq PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA proposé par [monabanq](https://www.monabanq.com/), banque en ligne filiale du Crédit Mutuel Alliance Fédérale (France). Voir aussi la fiche [PEA (enveloppe)](../../enveloppes/pea.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : monabanq
 - **Maison mère** : Crédit Mutuel Alliance Fédérale
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Année de création** : 2006
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Barème actions/ETF sur Euronext** : 0,25 % du montant de l'ordre (minimum 9,90 EUR)
 - **Plafonnement PEA (loi Pacte)** : 0,50 % du montant de l'ordre — le plafond s'applique quand le minimum de 9,90 EUR dépasse 0,50 %
@@ -54,7 +54,7 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 2,98/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : actions éligibles au PEA (Euronext Paris, Bruxelles, Amsterdam, Lisbonne)
 - **ETF** : ETF éligibles au PEA
@@ -89,7 +89,7 @@ derniere-verification: 2026-05-16
 | Amundi STOXX Europe 600 Basic Resources EUR (A) | [LU1834983634](../../actifs/etf/LU1834983634.md) | +21,87 % |
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe)
 - **Transfert de PEA** : possible (entrant et sortant)
@@ -99,7 +99,7 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Marchés accessibles** : Euronext (Paris, Bruxelles, Amsterdam, Lisbonne)
 - **Types d'ordres** : Non communiqué [à vérifier]
@@ -110,7 +110,7 @@ derniere-verification: 2026-05-16
 - **Plafond PEA (loi Pacte)** : les frais sont plafonnés à 0,50 % par ordre conformément au décret n° 2020-95 du 5 février 2020
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,4/5 (9 082 avis)
 - **App mobile** : oui
@@ -125,7 +125,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,05/5
 - **Points forts** :
@@ -145,7 +145,7 @@ derniere-verification: 2026-05-16
   - Frais de transfert sortant (15 EUR/ligne)
   - Nécessite un compte courant monabanq
   - Offre ETF/actions limitée aux valeurs éligibles PEA sur Euronext
-- **Services complémentaires** : compte courant, livrets d'épargne, assurance-vie, PER, CTO, SCPI, assurances
+- **Services complémentaires** : compte courant (rémunéré à 0,25 % brut/an sur le solde créditeur quotidien pour 18 EUR/an), livrets d'épargne, assurance-vie, PER, CTO, SCPI, assurances
 
 ## Sources
 

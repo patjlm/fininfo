@@ -63,15 +63,15 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Nombre total de supports** : 930+ (source : Linxea — ETF, OPCVM, actions, SCPI/SCI/OPCI, private equity, structurés)
 - **ETF** : 80 (Amundi, iShares, BNP Paribas Easy, Vanguard, Xtrackers, WisdomTree)
-- **OPCVM** : 505 (actions 387, obligations 95, allocation 76, actifs réels 9, alternatifs 4, autres 8, préservation du capital 2) — source Morningstar
-- **SCPI / SCI / OPCI** : 43 supports immobiliers (21 SCPI, 10 SCI, 8 OPCI, 4 autres) — source Linxea Spirit 2 page supports
+- **OPCVM** : 505 (actions 328, obligations 88, allocation 72, actifs réels 6, alternatifs 4, titres hybrides 4, préservation du capital 2, autres 1) — source Morningstar
+- **SCPI / SCI / OPCI** : 42 supports immobiliers (22 SCPI, 12 SCI, 8 OPCI) — source Linxea Spirit 2 page supports
 - **Private equity** : 3 fonds minimum (EdR Private Equity Opportunities, Eurazeo Private Value Europe 3, FCPR Oddo BHF Global Private Equity) — seuil d'accès 1 000 EUR
 - **Titres vifs (actions)** : oui — 138 titres
 - **Produits structurés** : oui
 - **Fonds datés à échéance** : 21 (source Morningstar, catégorie "Obligations à échéance")
 - **Fonds croissance** : oui (garantie partielle)
 - **Rééquilibrage automatique** : oui
-- **ISR / ESG** : 401 fonds article SFDR 8, 51 fonds article SFDR 9 ; 23 % de fonds responsables
+- **ISR / ESG** : 401 fonds article SFDR 8, 51 fonds article SFDR 9 ; 77 % de fonds responsables (art. 8 + 9)
 - **Versements programmés sur ETF** : oui
 - **SCPI : taux de redistribution des loyers** : 100 % (variables à capital variable)
 - **Note UC** : 5/5
@@ -165,12 +165,13 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ### Supports immobiliers (SCPI / SCI / OPCI)
 <!-- Mis à jour : 2026-05-26 -->
 
-43 supports immobiliers au total (source : Linxea Spirit 2 — page supports officiels).
+42 supports immobiliers au total (source : Linxea Spirit 2 — page supports officiels).
 
-**SCPI (21)**
+**SCPI (22)**
 
 | Nom | Taux distribution 2025 |
 |---|---|
+| Accès Valeur Pierre | 3,85 % |
 | [Activimmo](../../actifs/scpi/activimmo.md) | 5,49 % |
 | Altixia Cadence XII | 5,15 % |
 | Atream Hôtels | 5,00 % |
@@ -193,7 +194,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | Selectinvest 1 | 4,44 % |
 | [Transitions Europe](../../actifs/scpi/transitions-europe.md) | 7,60 % |
 
-**SCI (10)**
+**SCI (12)**
 
 | Nom | Taux distribution 2025 |
 |---|---|
@@ -203,9 +204,11 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | LF Multimmo Part Philosophale 2 | -1,49 % |
 | Linasens | -1,55 % |
 | Perial Euro Carbone | 1,32 % |
+| Pierre Impact | 2,75 % |
 | Silver Avenir | 0,79 % |
 | Sofidy Convictions Immobilières | 2,70 % |
 | Tangram | 3,55 % |
+| Terra Europe | 4,52 % |
 | Trajectoire Santé | 2,83 % |
 
 **OPCI (8)**
@@ -220,14 +223,6 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 | Preim ISR | -24,17 % |
 | Silver Generation | -13,06 % |
 | Sofidy Pierre Europe | -0,66 % |
-
-**Autres (3)**
-
-| Nom | Taux distribution 2025 |
-|---|---|
-| Accès Valeur Pierre | 3,85 % |
-| SC Pierre Impact | 2,75 % |
-| Terra Europe | 4,52 % |
 
 ## Conditions et contraintes spécifiques
 <!-- Mis à jour : 2026-05-26 -->
@@ -316,7 +311,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Points forts** :
   - Frais de gestion UC parmi les plus bas du marché (0,50 % / an)
   - Deux fonds euros performants et accessibles à 100 % (Nouvelle Génération 3,08 %, Objectif Climat 3,26 % en 2025)
-  - Offre UC très large : 930+ supports (585 fonds Morningstar + 43 supports immobiliers + 138 titres vifs)
+  - Offre UC très large : 930+ supports (585 fonds Morningstar + 42 supports immobiliers + 138 titres vifs)
   - 80 ETF disponibles avec versements programmés — frais parmi les plus bas du marché (0,06 %)
   - 100 % des loyers SCPI reversés ; liquidité garantie par Spirica
   - 0 % de frais de versement et d'arbitrage en ligne (hors ETF, ETC et actions)

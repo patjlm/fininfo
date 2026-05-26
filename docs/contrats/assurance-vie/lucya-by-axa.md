@@ -43,19 +43,25 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds Général Lucya by AXA** : garantie permanente du capital
-  - Performance 2024 : Non communiquée
+  - Performance 2024 (net de frais de gestion, hors PS et fiscalité) : entre 2,40 % et 3,40 % selon la part d'UC
+    - 2,40 % si part d'UC ≥ 30 % et < 40 %
+    - 2,85 % si part d'UC ≥ 40 % et < 50 %
+    - 3,40 % si part d'UC > 50 %
   - Performance 2025 (net de frais de gestion, hors PS et fiscalité) : entre 2,25 % et 3,40 % selon la part d'UC
     - 2,40 % si part d'UC ≥ 30 % et < 40 %
     - 2,85 % si part d'UC ≥ 40 % et < 50 %
     - 3,40 % si part d'UC > 50 %
-  - Performance cumulée 5 ans : Non communiquée
+  - Performance cumulée 2024-2025 : entre 4,80 % et 6,80 % selon la part d'UC
 - **Fonds Croissance** : garantie 100 % du capital net de frais de gestion à échéance 10 ans (eurocroissance) — combinaison obligations + actifs diversifiés (infrastructure, private equity, immobilier, forêts)
-  - Performance 2024 : Non communiquée
+  - Performance 2024 (net de frais de gestion, hors PS et fiscalité) : entre 2,65 % et 3,75 % selon la part d'UC
+    - 2,65 % si part d'UC ≥ 30 % et < 40 %
+    - 3,15 % si part d'UC ≥ 40 % et < 60 %
+    - 3,75 % si part d'UC > 50 %
   - Performance 2025 (net de frais de gestion, hors PS et fiscalité) : entre 2,50 % et 3,75 % selon la part d'UC
     - 2,65 % si part d'UC ≥ 30 % et < 40 %
     - 3,15 % si part d'UC ≥ 40 % et < 60 %
     - 3,75 % si part d'UC > 50 %
-  - Performance cumulée 5 ans : Non communiquée
+  - Performance cumulée 2024-2025 : entre 5,30 % et 7,50 % selon la part d'UC
 - **Contraintes d'accès** : aucune contrainte minimale d'UC pour accéder aux fonds euros — les taux sont bonifiés selon la part d'UC détenue (bonus disponible dès 30 % d'UC pour le Fonds Général)
 - **Bonus 2026-2027** : jusqu'à +1,85 % sur le Fonds Général (hypothèse de taux 4,60 %) — conditions : minimum 10 000 EUR versés et 45 % de l'encours en UC — non garanti
 - **Note fonds euros** : 4/5 (source : sinvestir.fr)
@@ -66,7 +72,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Nombre total d'UC** : ~850
 - **ETF** : 25 (couvrant les principaux indices boursiers)
 - **SCPI** : 0 (aucune SCPI disponible)
-- **Titres vifs** : Non communiqué [à vérifier]
+- **Titres vifs** : +300
 - **Rééquilibrage automatique** : non
 - **Autres supports** : private equity (FCPR), immobilier (OPCI), fonds obligataires, produits structurés, fonds ISR (labels ISR, Greenfin, Finansol, Relance)
 - **Note UC** : 3/5 (source : sinvestir.fr)
@@ -83,8 +89,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ### Fonds euros — Règles spécifiques
 
-- **Taux bonifiés Fonds Général** : selon la part d'UC détenue — 2,40 % si ≥ 30 % et < 40 % UC, 2,85 % si ≥ 40 % et < 50 % UC, 3,40 % si > 50 % UC (2025)
-- **Taux bonifiés Fonds Croissance** : 2,65 % si ≥ 30 % et < 40 % UC, 3,15 % si ≥ 40 % et < 60 % UC, 3,75 % si > 50 % UC (2025)
+- **Taux bonifiés Fonds Général** : selon la part d'UC détenue — 2,40 % si ≥ 30 % et < 40 % UC, 2,85 % si ≥ 40 % et < 50 % UC, 3,40 % si > 50 % UC (2024 et 2025)
+- **Taux bonifiés Fonds Croissance** : 2,65 % si ≥ 30 % et < 40 % UC, 3,15 % si ≥ 40 % et < 60 % UC, 3,75 % si > 50 % UC (2024 et 2025)
 - **Pas de % UC minimum requis** : 100 % fonds euros possible ; aucun seuil minimum d'UC pour accéder aux fonds — les taux sont simplement bonifiés selon la part d'UC
 - **Bonus 2026-2027** : jusqu'à +1,85 % sur le Fonds Général — conditions : minimum 10 000 EUR versés et 45 % de l'encours en UC — non garanti (source : lucya.com/rendement-des-fonds-euros-2025/)
 - **Frais de performance Fonds Croissance** : 10 % sur les plus-values
@@ -132,13 +138,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Seulement 25 ETF disponibles (vs 70+ chez les concurrents premium)
   - Aucune SCPI disponible
   - Pas d'application mobile
-  - Performances 2024 du fonds euros non communiquées
+  - Fonds euros lancé en 2023 : seulement 2 ans d'historique de performance
   - Nombre d'avis clients très faible (15)
 - **Services complémentaires** : PER, PEA assurantiel, contrat de capitalisation, SCPI (hors assurance-vie)
 
 ## Sources
 
-- [Lucya — Page produit Lucya by AXA](https://www.lucya.com/lucya-by-axa/) — frais, versements minimums, fonds euros 2025, supports UC
+- [Lucya — Page produit Lucya by AXA](https://www.lucya.com/lucya-by-axa/) — frais, versements minimums, supports UC
+- [Lucya — Rendements des fonds euros 2025](https://www.lucya.com/rendement-des-fonds-euros-2025/) — performances fonds euros 2024 et 2025, bonus 2026-2027
 - [Lucya — Gestion déléguée](https://www.lucya.com/gestion-deleguee/) — profils, performances 2024 et 2025
 - [assurancevie.com — Liste des supports Lucya by AXA](https://www.assurancevie.com/asv/nos-contrats/lucya-by-axa/liste-supports) — nombre d'ETF et supports UC
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie) — notes et avis subjectifs

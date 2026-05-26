@@ -196,9 +196,9 @@ derniere-verification: 2026-05-26
   - Garantie des dépôts : 100 000 EUR (système allemand)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Avis clients (Trustpilot)** : 3,4/5
+- **Avis clients (Trustpilot)** : 4,5/5 (2 152 avis) *(source : sinvestir)*
 - **Contact** :
   - Téléphone : +33 9 75 18 73 18
   - Email : clients@degiro.fr

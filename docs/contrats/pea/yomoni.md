@@ -3,7 +3,7 @@ nom: Yomoni PEA
 type: contrat-pea
 slug: yomoni
 courtier: Yomoni
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Yomoni — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA en gestion pilotée proposé par [Yomoni](https://www.yomoni.fr/) (France), via Crédit Agricole Titres.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Yomoni (société de gestion agréée AMF — GP-15000014)
 - **Maison mère** : Crédit Mutuel (actionnaire majoritaire)
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Année de création** : 2015
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Grille tarifaire** : pas de frais de courtage classiques — le PEA Yomoni fonctionne exclusivement en gestion pilotée avec des frais de gestion annuels tout compris
 - **Frais de gestion annuels** : 1,60 % / an tout compris (source : [yomoni.fr/tarifs](https://www.yomoni.fr/tarifs)), décomposés en :
@@ -43,14 +43,14 @@ derniere-verification: 2026-05-16
 - **Exemples concrets** :
   - Encours de 10 000 EUR : 160 EUR / an de frais totaux (1,60 % tout compris)
   - Encours de 50 000 EUR : 800 EUR / an de frais totaux
-- **Offres promotionnelles** (au 2026-05-16) :
+- **Offres promotionnelles** (au 2026-05-26) :
   - Code **TRANSFERTPEA** : remboursement 100 % des frais de transfert (jusqu'au 30/06/2026)
   - Code **PRINTEMPSPEA** : jusqu'à 200 EUR offerts pour ouverture ou transfert (jusqu'au 30/06/2026)
 - **Note frais de courtage** : 0/5 (sinvestir — pas de grille de courtage classique, frais de gestion élevés pour un PEA)
 - **Note frais divers** : 5/5 (sinvestir)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : non — pas d'achat d'actions individuelles, uniquement des ETF sélectionnés par l'équipe de gestion Yomoni
 - **Véhicule d'investissement** : fonds Yomoni Monde PEA (FR0014002RL1), compartiment de la SICAV Yomoni Funds — fonds de fonds investissant en ETF éligibles PEA
@@ -125,7 +125,7 @@ Source : [yomoni.fr/legal/reallocations](https://www.yomoni.fr/legal/reallocatio
 - **Note produits** : 2,5/5 (sinvestir)
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe)
 - **Transfert de PEA entrant** : oui — procédure en ligne, remboursement des frais de transfert (code TRANSFERTPEA)
@@ -135,7 +135,7 @@ Source : [yomoni.fr/legal/reallocations](https://www.yomoni.fr/legal/reallocatio
 - **Note propriété** : 5/5 (sinvestir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Gestion pilotée uniquement** : l'investisseur ne choisit pas les ETF ni ne passe d'ordres — l'équipe de gestion Yomoni construit et ajuste l'allocation
 - **Profil unique** : profil 10 (100 % actions) — pas de choix de profil de risque en PEA
@@ -151,10 +151,10 @@ Source : [yomoni.fr/legal/reallocations](https://www.yomoni.fr/legal/reallocatio
 - **Fiscalité** : voir [enveloppe PEA](../../enveloppes/pea.md)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,8/5 (3 897 avis — sinvestir)
-- **App mobile** : interface en ligne (web)
+- **App mobile** : oui — application iOS et Android (4,8/5)
 - **Contact** : téléphone (01 75 85 97 47), email (hello@yomoni.fr)
 - **Chat** : non
 - **Courrier** : non
@@ -162,7 +162,7 @@ Source : [yomoni.fr/legal/reallocations](https://www.yomoni.fr/legal/reallocatio
 - **Note SAV** : 4/5 (sinvestir)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,54/5 (sinvestir)
 - **Points forts** :

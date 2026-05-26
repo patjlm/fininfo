@@ -45,15 +45,17 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Fonds euros
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Apicil Euro Garanti** : garanti à 99,4 % — 100 % possible
+- **Apicil Euro Garanti** : garanti à 99,4 % — **50 % maximum** du contrat (50 % minimum en UC requis)
   - Performance 2024 : 2,5 %
   - Performance 2025 : 2,5 % (net de frais de gestion)
   - Performance cumulée 5 ans : 8,23 %
-- **EuroFlex** : garanti à 98,4 % — 100 % possible
+- **EuroFlex** : garanti à 98,4 % — 100 % possible sans condition UC
   - Performance 2024 : 1,0 %
   - Performance 2025 : 3,25 % (net de frais de gestion)
   - Performance cumulée 5 ans : 6,59 %
-- **Contraintes d'accès** : Aucune contrainte (100 % fonds euros possible sur les deux fonds)
+- **Contraintes d'accès** :
+  - Apicil Euro Garanti : 50 % maximum du contrat — 50 % min en UC requis
+  - EuroFlex : aucune contrainte — 100 % possible
 - **Note fonds euros** : 4,25/5
 
 ## Unités de compte
@@ -213,10 +215,11 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ### Fonds euros — Règles spécifiques
 
-- **Apicil Euro Garanti** : 100 % possible sans condition UC — garanti à 99,4 %
+- **Apicil Euro Garanti** : 50 % maximum du contrat — 50 % minimum en UC requis — garanti à 99,4 %
 - **EuroFlex** : 100 % possible sans condition UC — garanti à 98,4 %
-- **Contrainte UC** : aucune — 100 % fonds euros possible sur les deux fonds
-- **Arbitrage vers fonds euros** : Non communiqué [à vérifier]
+- **Arbitrage EuroFlex → Apicil Euro Garanti** : pénalité de 2 %
+- **Rachat partiel en cours d'année (Apicil Euro Garanti)** : taux de rémunération = 70 % du taux de rendement de l'année précédente, au prorata temporis
+- **Perte participation aux bénéfices** : pour les contrats souscrits après le 26/10/2020, tout rachat partiel ou total en cours d'année entraîne la perte de tout droit à la participation aux bénéfices sur la quote-part rachetée
 
 ### Gestion pilotée
 
@@ -246,7 +249,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note globale** : 4,75/5
 - **Points forts** :
   - Frais de versement et d'arbitrage à 0 %
-  - 2 fonds euros accessibles sans contrainte de quota UC
+  - EuroFlex accessible à 100 % sans contrainte UC, Apicil Euro Garanti jusqu'à 50 %
   - 100 % des loyers SCPI redistribués (vs 85 % standard)
   - Offre diversifiée : plus de 370 UC dont 50 ETF, 20 SCPI, private equity, produits structurés, fonds datés
   - Frais de gestion UC parmi les plus bas du marché (0,60 %)
@@ -264,6 +267,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - [Linxea — Linxea Zen (page produit)](https://www.linxea.com/assurance-vie/linxea-zen/)
 - [Linxea — ETF disponibles sur Linxea Zen](https://www.linxea.com/assurance-vie/linxea-zen/supports-disponibles-sur-linxea-zen/trackers-etf/)
 - [Linxea — Fonds immobiliers disponibles sur Linxea Zen](https://www.linxea.com/assurance-vie/linxea-zen/supports-disponibles-sur-linxea-zen/fonds-immobiliers-linxea-zen/)
+- [Linxea — Fonds euros Linxea Zen](https://www.linxea.com/assurance-vie/linxea-zen/supports-disponibles-sur-linxea-zen/fonds-euro/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
 - [Linxea Support — Conditions SCPI/SCI/OPCI Linxea Zen](https://support.linxea.com/fr/articles/4790-quelles-sont-les-conditions-pour-investir-sur-des-scpi-sci-opci-sur-le-contrat-linxea-zen)
 - [Linxea Support — Versements programmés sur SCPI](https://support.linxea.com/fr/articles/4818-est-ce-que-je-peux-faire-des-versements-programmes-sur-les-scpi-proposees-par-linxea)
+- [Linxea Support — Conditions d'accès fonds euros Apicil Euro Garanti et EuroFlex](https://support.linxea.com/fr/articles/4784-quelles-sont-les-conditions-pour-acceder-au-fonds-euro-apicil-euro-garanti-et-au-fonds-euro-euroflex)

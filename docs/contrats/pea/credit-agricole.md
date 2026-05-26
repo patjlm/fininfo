@@ -3,7 +3,7 @@ nom: Crédit Agricole
 type: contrat-pea
 slug: credit-agricole
 courtier: Crédit Agricole
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Crédit Agricole — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA proposé par le [Crédit Agricole](https://www.credit-agricole.fr/), banque mutualiste française. Voir aussi la fiche [PEA (enveloppe)](../../enveloppes/pea.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Crédit Agricole (banque de réseau)
 - **Maison mère** : Crédit Agricole S.A.
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Compte courant requis** : oui — un compte courant Crédit Agricole est nécessaire
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.credit-agricole.fr/particulier/epargne/bourse/service-de-bourse-en-ligne-invest-store.html -->
 <!-- Source : https://www.credit-agricole.fr/particulier/informations/tarifs.html -->
 
@@ -54,8 +54,8 @@ derniere-verification: 2026-05-16
 ### Invest Store Initial (formule de base)
 
 - **Abonnement** : gratuit (inclus dans l'abonnement banque en ligne)
-- **Grille tarifaire (Internet)** : 0,54 % du montant de l'ordre, minimum 6,40 EUR [à vérifier — peut varier selon la caisse]
-- **Droits de garde** : prélèvement semestriel basé sur la valorisation du portefeuille
+- **Grille tarifaire (Internet)** : 0,50 % du montant de l'ordre (plafond légal sur PEA)
+- **Droits de garde** : 5 EUR/ligne/an (PEA, PEA-PME, PEA Jeunes)
 
 ### Ordres passés en agence
 
@@ -71,7 +71,7 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 4,5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.credit-agricole.fr/particulier/epargne/bourse/service-de-bourse-en-ligne-invest-store.html -->
 
 - **Actions** : actions éligibles au PEA (françaises et européennes)
@@ -88,7 +88,7 @@ derniere-verification: 2026-05-16
 - **Note produits** : 3,5/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe, compte tenu en France)
 - **Transfert de PEA entrant** : oui — l'antériorité fiscale est conservée
@@ -98,7 +98,7 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Ordres minimum** : 0 EUR
 - **Types d'ordres** : marché, limite, ordres tactiques (Invest Store Intégral)
@@ -114,7 +114,7 @@ derniere-verification: 2026-05-16
 - **Restrictions** : pas de fractions d'actions, DCA limité aux OPCVM, pas de marchés internationaux hors Euronext
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 2,3/5 (4 081 avis)
 - **App mobile** : oui (CA Bourse + Ma Banque)
@@ -128,7 +128,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4,1/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,37/5
 - **Points forts** :
@@ -144,7 +144,7 @@ derniere-verification: 2026-05-16
 - **Points faibles** :
   - Tarifs variables d'une Caisse régionale à l'autre — difficile de comparer
   - Abonnement Invest Store Intégral de 96 EUR/an si < 12 ordres exécutés
-  - Invest Store Initial peu compétitif (min 6,40 EUR/ordre)
+  - Invest Store Initial peu compétitif (0,50 % = plafond légal + droits de garde 5 EUR/ligne/an)
   - DCA limité à 3 fonds OPCVM — pas d'achat programmé d'ETF ou d'actions
   - Pas de fractions d'actions
   - Marchés limités à Euronext (Paris, Amsterdam, Bruxelles)

@@ -61,13 +61,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : plus de 670
-- **ETF** : 80
-- **SCPI** : 21 [à vérifier — sinvestir.fr indique 18]
-- **Titres vifs (actions)** : oui — 136 titres
-- **Private equity** : 13 fonds FCPR
+- **Nombre total d'UC** : 707 (au 05/08/2025)
+- **ETF / trackers** : 68
+- **SCPI** : 22
+- **SCI** : 12 (dont SC MeilleurImmo en exclusivité Meilleurtaux)
+- **Titres vifs (actions)** : oui — 137 titres
+- **Private equity** : 9 fonds FCPR + 1 fonds de dette privée (ex : Blackstone Crédit Privé Europe SC)
 - **Fonds ISR** : 143
-- **SCI / OPCI** : inclus dans les supports immobiliers
+- **OPCI** : inclus dans les supports immobiliers
 - **Produits structurés (EMTN)** : oui
 - **Fonds datés à échéance** : oui (ex : Meilleurtaux Horizon 2031)
 - **Rééquilibrage automatique** : oui
@@ -75,11 +76,35 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **SCPI : taux de redistribution des loyers** : 100 %
 - **Note UC** : 5/5
 
-### Quelques supports spécifiques disponibles
+### SCPI disponibles (22 au 05/08/2025)
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : fiche produit Spirica (05/08/2025) + annexe financière AF4428/4430 (03/06/2024) -->
+
+- ACTIVIMMO (Alderan) — SCPI00004549 — Label ISR
+- Altixia Cadence XII (Altixia REIM) — SCPI00004469
+- Atream Hôtels (ATREAM) — SCPI00004279 — Label ISR
+- Edissimmo (Amundi) — SCPI00000409
+- Efimmo (Sofidy) — SCPI00000419
+- Epargne Foncière (La Française REM) — SCPI00000449
+- Epargne Pierre (Atland Voisin) — SCPI00003929 — Label ISR
+- Immorente (Sofidy) — SCPI00000619
+- LF Europimmo (La Française REM) — SCPI00004019
+- LF Grand Paris Patrimoine (La Française AM) — SCPI00001149
+- Patrimmo Commerce (Primonial REIM) — SCPI00003719
+- Patrimmo Croissance (Primonial REIM) — SCPI00004049
+- PF Grand Paris (Perial AM) — SCPI00000669 — Label ISR
+- PFO (Perial AM) — SCPI00000659 — Label ISR
+- PFO2 (Perial AM) — SCPI00001959 — Label ISR
+- PIERVAL SANTÉ (Euryale AM) — SCPI00003969
+- Primopierre (Primonial REIM) — SCPI00000999 — Label ISR
+- Primovie (Primonial REIM) — SCPI00003829 — Label ISR
+- Rivoli Avenir Patrimoine (Amundi) — SCPI00001019 — Label ISR
+- Sélectinvest 1 (La Française REM) — SCPI00001049
+- 2 SCPI supplémentaires ajoutées entre juin 2024 et août 2025 [à identifier — consulter l'annexe financière à jour]
+
+### Quelques autres supports spécifiques disponibles
 <!-- Mis à jour : 2026-05-26 -->
 
-- SC MeilleurImmo (SCI)
-- Blackstone Crédit Privé Europe SC
 - Sienna Dette Privée Défense Europe
 - Meilleurtaux Horizon 2031 (fonds daté)
 
@@ -110,7 +135,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ### SCPI — Règles spécifiques
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : Support Linxea (contrat Spirit 2 — même assureur Spirica) + page Meilleurtaux Liberté Vie -->
+<!-- Source : Fiche produit Meilleurtaux Liberté Vie (05/08/2025) + annexe financière Spirica -->
 
 - **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI
 - **Limite cumulée** : 1 000 000 EUR net de désinvestissements sur l'ensemble des SCPI du contrat
@@ -152,7 +177,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Points forts** :
   - Frais de gestion UC très compétitifs : 0,50 % / an
   - Deux fonds euros performants accessibles à 100 % (Nouvelle Génération 3,08 %, Objectif Climat 3,26 % en 2025)
-  - Offre UC très large : plus de 670 supports incluant 80 ETF, 21 SCPI, 136 titres vifs, 13 FCPR
+  - Offre UC très large : 707 supports incluant 68 ETF, 22 SCPI, 137 titres vifs, 9 FCPR + 1 fonds dette privée, 12 SCI
   - 100 % des loyers SCPI reversés
   - 0 % de frais de versement et d'arbitrage en ligne (hors ETF à 0,06 % depuis le 18/05/2026 et actions à 0,60 %)
   - Gestion pilotée par Marc Fiorentino et son comité d'experts
@@ -170,7 +195,9 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 ## Sources
 
 - [Meilleurtaux Placement — Page produit Meilleurtaux Liberté Vie](https://placement.meilleurtaux.com/assurance-vie/meilleure-assurance-vie/meilleurtaux-liberte-vie.html)
-- [Meilleurtaux Placement — Supports disponibles Meilleurtaux Liberté Vie](https://placement.meilleurtaux.com/assurance-vie/meilleure-assurance-vie/meilleurtaux-liberte-vie.html#tab4)
+- [Meilleurtaux Placement — Fiche produit officielle (05/08/2025)](https://placement.meilleurtaux.com/images/docs-av/meilleurtaux-liberte-vie/meilleurtaux-liberte-vie-fiche-produit.pdf)
+- [Meilleurtaux Placement — Annexe financière Meilleurtaux Liberté Vie](https://placement.meilleurtaux.com/images/docs-av/meilleurtaux-liberte-vie/meilleurtaux-liberte-vie-annexe-financiere.pdf)
+- [Spirica — Fiche tarifaire (mis à jour 01/08/2025)](https://www.spirica.fr/wp-content/uploads/2025/10/2025_4428_FTF.pdf)
 - [Spirica — Site officiel assureur](https://www.spirica.fr/)
 - [Spirica — Informations financières et solvabilité](https://www.spirica.fr/informations/)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)

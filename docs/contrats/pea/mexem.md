@@ -3,7 +3,7 @@ nom: MEXEM
 type: contrat-pea
 slug: mexem
 courtier: MEXEM
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # MEXEM — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA proposé par MEXEM (Chypre), courtier introducteur d'Interactive Brokers.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : MEXEM Ltd
 - **Maison mère** : Interactive Brokers (courtier introducteur — les comptes et fonds sont détenus chez Interactive Brokers)
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **CTO ouvert automatiquement** : oui (un CTO est ouvert en parallèle du PEA)
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://fr.mexem.com/plan-depargne-en-actions et https://www.mexem.com/fees -->
 
 - **Grille tarifaire** :
@@ -45,8 +45,8 @@ derniere-verification: 2026-05-16
   - Frais de garde : aucun
   - Frais d'inactivité : aucun
   - Frais de transfert sortant : gratuit (frais de transfert non facturés par MEXEM)
-  - Retrait espèces (SEPA) : 1er retrait du mois gratuit, puis 1 EUR
-  - Retrait espèces (WIRE) : 1er retrait du mois gratuit, puis 8 EUR
+  - Retrait espèces (SEPA) : 1er retrait des 30 derniers jours gratuit, puis 1 EUR
+  - Retrait espèces (WIRE) : 1er retrait des 30 derniers jours gratuit, puis 8 EUR
   - Ordre par téléphone : gratuit (même tarif qu'en ligne)
   - Traitement des dividendes : gratuit
 - **Exemples concrets** :
@@ -57,7 +57,7 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://fr.mexem.com/plan-depargne-en-actions -->
 
 - **Actions** : 4 000+ actions européennes éligibles au PEA
@@ -69,7 +69,7 @@ derniere-verification: 2026-05-16
 - **Note produits** : 2/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe — titres au nom du client, comptes ségrégués chez Interactive Brokers)
 - **Transfert de PEA** : possible (entrant et sortant)
@@ -78,7 +78,7 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Marchés accessibles (PEA)** : Euronext Paris (SBF), Euronext Amsterdam (AEB), Euronext Bruxelles (ENEXT.BE), Xetra (IBIS), Frankfurt (FWB), Borsa Italiana (BVME), Madrid (BM), Lisbonne (BVL), SIX Swiss Exchange (EBS), Stockholm (SFB), Oslo (OMXNO), Varsovie (WSE), Vienne (VSE), Budapest (BUX), LSE, Nasdaq Baltic — sous réserve d'éligibilité PEA des titres
 - **Types d'ordres** : marché, limite, stop et tous les types avancés disponibles sur TWS
@@ -88,7 +88,7 @@ derniere-verification: 2026-05-16
 - **Frais sur ordres sur Bolsa Madrid (BM)** : 0,06 %, minimum 3 EUR par ordre (exception au minimum standard de 1 EUR)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,7/5 (501 avis)
 - **App mobile** : oui (iOS et Android)
@@ -97,7 +97,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 4/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4/5
 - **Points forts** :

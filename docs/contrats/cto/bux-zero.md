@@ -3,7 +3,7 @@ nom: Bux Zero
 type: contrat-cto
 slug: bux-zero
 courtier: Bux Zero
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Bux Zero — Compte-Titres
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-17
 > Compte-titres proposé par BUX (Pays-Bas), filiale à 100 % d'ABN AMRO depuis juillet 2024.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : BUX B.V.
 - **Pays / régulation** : Pays-Bas — AFM (Autoriteit Financiële Markten)
@@ -26,7 +26,7 @@ derniere-verification: 2026-05-17
 - **Plateforme** : application mobile uniquement (iOS / Android) — pas de site web de trading
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/mois) et **BUX Prime** (7,99 EUR/mois). Les frais varient selon la formule choisie.
 
@@ -87,7 +87,7 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
 - **Note frais** : 4/5 (source : sinvestir)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : environ 1 000 disponibles (marchés européens et américains) (source : sinvestir)
 - **ETF** : environ 150 disponibles — equity, obligations, matières premières, ESG, thématiques (source : [BUX — ETFs](https://bux.com/fr/etfs/))
@@ -99,8 +99,8 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
 - **Rémunération des liquidités** (source : [BUX — Tarifs](https://bux.com/fr/tarifs/)) :
   - BUX Basic : 0 %
   - BUX Plus : 1,50 % jusqu'à 100 000 EUR
-  - BUX Prime : 1,75 % jusqu'à 100 000 EUR
-  - Calcul quotidien, versement mensuel (source : [BUX — Intérêts](https://bux.com/fr/education/features/interets-sur-largent-non-investi/))
+  - BUX Prime : 1,75 % jusqu'à 100 000 EUR / 1,65 % au-delà de 100 000 EUR
+  - Calcul quotidien, versement mensuel dans les deux premières semaines du mois suivant (source : [BUX — Intérêts](https://bux.com/fr/education/features/interets-sur-largent-non-investi/))
 - **Prêt de titres (securities lending)** : oui — opt-in via l'application, rémunération variable selon la formule (source : [BUX — Stock Lending](https://bux.com/fr/stock-lending/)) :
   - Actions (taux variable selon la demande) : 45,5 % du rendement brut (Prime) / 32,5 % (Basic, Plus)
   - ETF/ETC (taux fixe de 0,70 %/an, valide jusqu'au 1er juillet 2026) : 50 % (Prime) / 35,75 % (Basic, Plus)
@@ -110,7 +110,7 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
 - **Note produits** : 4/5 (source : sinvestir)
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention directe — instruments conservés auprès de BUX Custody (fondation néerlandaise passive), séparés du capital de BUX (source : [BUX — Sécurité](https://bux.com/fr/bux-security/))
 - **Ségrégation des actifs** : 100 % des instruments et liquidités conservés auprès de BUX Custody, sauvegardés même en cas de faillite de BUX
@@ -122,7 +122,7 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
 - **Note propriété** : 2,5/5 (source : sinvestir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** :
   - BUX Basic : ordre au marché, plan d'investissement
@@ -144,15 +144,15 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
   - Compte étranger à déclarer chaque année via 3916-bis
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 3,9/5 (1 718 avis) (source : sinvestir)
-- **Contact** : email (support@bux.com) et chat dans l'application — pas de téléphone, pas de courrier
+- **Contact** : email (support@getbux.com) et chat dans l'application — pas de téléphone, pas de courrier
 - **Test SAV** : pas de retour suite à un email de test (source : sinvestir)
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,65/5 (source : sinvestir)
 - **Points forts** :
@@ -182,7 +182,7 @@ BUX propose trois formules : **BUX Basic** (gratuit), **BUX Plus** (2,99 EUR/moi
 
 - [S'investir — Comparatif Compte-Titres](https://simulateurs.sinvestir.fr/les-comparateurs/compte-titres)
 - [BUX — Tarifs](https://bux.com/fr/tarifs/)
-- [BUX — Grille tarifaire (PDF)](https://bux.com/documents/Fee%20Schedule%20EN.pdf)
+- [BUX — Grille tarifaire (PDF)](https://bux.com/documents/Fee%20schedule%20PDF%20-%20FR.pdf)
 - [BUX — Liste des produits](https://bux.com/fr/centre-connaissances/liste-produits/)
 - [BUX — ETFs](https://bux.com/fr/etfs/)
 - [BUX — Plan d'investissement](https://bux.com/fr/plan-dinvestissement/)

@@ -3,7 +3,7 @@ nom: Hellobank! PEA
 type: contrat-pea
 slug: hellobank
 courtier: Hello bank!
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Hellobank! — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA proposé par [Hello bank!](https://www.hellobank.fr/) (filiale de BNP Paribas, France). Voir aussi la fiche [PEA (enveloppe)](../../enveloppes/pea.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Hello bank!
 - **Maison mère** : BNP Paribas
@@ -27,7 +27,7 @@ derniere-verification: 2026-05-16
 - **Condition d'accès** : être client Hello bank! (détenir un compte courant)
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **2 offres disponibles** : Start (ordres ≤ 3 000 EUR) et Active (ordres > 3 000 EUR)
 - **Plafond légal PEA** : 0,50 % du montant de l'ordre par Internet ; 1,20 % par tout autre moyen
@@ -65,7 +65,7 @@ derniere-verification: 2026-05-16
 
 ### Frais divers
 
-- **Changement d'offre Start/Active** : gratuit pour le premier changement annuel, 60 EUR au-delà
+- **Changement d'offre Start/Active** : gratuit pour le premier changement annuel, 120 EUR au-delà
 - **Transfert de PEA vers un autre établissement** : 15 EUR/ligne (maximum 150 EUR)
 - **Transfert vers une agence BNP Paribas** : gratuit
 
@@ -80,7 +80,7 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 2,99/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : actions éligibles au PEA (entreprises européennes)
 - **ETF** : trackers (ETF) éligibles au PEA, négociables sur Euronext
@@ -90,16 +90,16 @@ derniere-verification: 2026-05-16
 - **Note produits** : 2/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe, compte-titres + compte espèces associés)
 - **Transfert de PEA** : possible (sortant : 15 EUR/ligne, max 150 EUR)
 - **Déclaration compte étranger** : non (domiciliation France)
-- **IFU fourni** : non
+- **IFU fourni** : oui — émis par BNP Paribas SA (accessible dans l'app Hello bank! > Documents > Documents fiscaux, ou sur mabanque.bnpparibas.com) ; aucun IFU généré sur un PEA sans retrait
 - **Note propriété** : 4/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Ordres et marchés
 
@@ -135,9 +135,9 @@ derniere-verification: 2026-05-16
 - **Délai de transfert** : Non communiqué
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Avis clients (Trustpilot)** : 4,3/5 (8 823 avis)
+- **Avis clients (Trustpilot)** : 4,3/5 (~9 400 avis)
 - **App mobile** : oui (Hello bank! + Bourse sur mobile)
 - **Contact** :
   - Téléphone : 0 800 848 400 (service et appel gratuits, du lundi au vendredi 8h-20h, samedi 8h-18h)
@@ -148,7 +148,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 5/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,57/5
 - **Points forts** :
@@ -160,7 +160,7 @@ derniere-verification: 2026-05-16
   - Droits de garde gratuits en Offre Active
   - Frais de change : aucun
 - **Points faibles** :
-  - IFU non fourni
+  - IFU émis par BNP Paribas SA (non au nom Hello bank!) — aucun IFU sur PEA sans retrait
   - Droits de garde élevés en Offre Start (0,40 % jusqu'à 50 000 EUR, prélevés en février au titre de l'année en cours)
   - Règlement des ordres : J+2
   - Pas de PEA-PME ni PEA Jeunes
@@ -173,5 +173,5 @@ derniere-verification: 2026-05-16
 
 - [S'investir -- Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
 - [Hello bank! -- Offres et tarifications Bourse](https://www.hellobank.fr/fr/offre/bourse/offres-et-tarifications/)
-- [Hello bank! -- Plaquette tarifs (PDF)](https://www.hellobank.fr/content/dam/hellobank/rsc/contrib/pdf/tarifs-hellobank.pdf)
+- [Hello bank! -- Plaquette tarifs (PDF, 1er juin 2025)](https://www.hellobank.fr/rsc/contrib/pdf/tarifs-hellobank.pdf)
 - [Hello bank! -- Tarifs](https://www.hellobank.fr/fr/tarifs/)

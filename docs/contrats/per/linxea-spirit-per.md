@@ -109,13 +109,14 @@ derniere-verification: 2026-05-26
 
 - **Gestionnaires** : OTEA Capital (architecture ouverte, exclusivité Linxea) et Yomoni (gestion indicielle ETF)
 - **Profils OTEA Capital** : Défensif, Équilibré, Équilibré Responsable, Dynamique, Agressif (5 profils)
-- **Performance OTEA Capital 2025** : Défensif 2,89 % ; Équilibré 4,54 % ; Équilibré Responsable 4,63 % ; Dynamique 4,56 % ; Agressif 3,69 %
-- **Performance OTEA Capital 2024** : Défensif 4,25 % ; Équilibré 6,69 % ; Équilibré Responsable non communiqué ; Dynamique 9,51 % ; Agressif 12,77 %
+- **Performance OTEA Capital 2025** : Défensif 2,80 % ; Équilibré 4,35 % ; Équilibré Responsable 5,04 % ; Dynamique 5,13 % ; Agressif 4,08 %
+- **Performance OTEA Capital 2024** : Défensif 4,29 % ; Équilibré 6,97 % ; Équilibré Responsable non communiqué ; Dynamique 9,74 % ; Agressif 13,07 %
 - **Profils Yomoni** : Défensif, Équilibré, Tonique, Offensif (4 profils)
 - **Performance Yomoni 2025** : Défensif 3,64 % ; Équilibré 4,30 % ; Tonique 6,89 % ; Offensif 9,83 %
 - **Performance Yomoni 2024** : Défensif 5,60 % ; Équilibré 7,88 % ; Tonique 14,44 % ; Offensif 19,64 %
 - **Gestion pilotée à horizon retraite** : profils Défensif, Équilibré (par défaut), Dynamique (arbitrage automatique trimestriel selon âge et profil de risque)
 - **Performance horizon retraite 2025 (Équilibré)** : 2,30 %
+- **Performance horizon retraite 2024 (Équilibré)** : 6,69 %
 - **Minimum pour gestion pilotée** : 1 000 EUR sur le contrat
 - **Minimum par profil (versement libre)** : 500 EUR
 - **Minimum par profil (versements programmés)** : 200 EUR

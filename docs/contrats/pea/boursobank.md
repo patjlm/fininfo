@@ -28,14 +28,14 @@ derniere-verification: 2026-05-26
 - **Note generale** : 4/5
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Droits de garde** : 0 EUR
 - **4 forfaits disponibles** (Euronext Paris, Bruxelles, Amsterdam) :
 
 ### Forfait Decouverte
   - Ordres jusqu'a 500 EUR : 1,99 EUR
-  - Ordres au-dela de 500 EUR : 0,50 % du montant
+  - Ordres au-dela de 500 EUR : 0,50 % du montant (ex. 1 000 EUR → 4,99 EUR)
   - Abonnement : 0 EUR (aucune condition)
   - Frais d'inactivite : 0 EUR
   - Streaming temps reel Euronext : 0 EUR
@@ -64,13 +64,18 @@ derniere-verification: 2026-05-26
 - **Note frais divers** : 5/5
 
 ## BoursoMarkets (0 EUR de courtage)
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Principe** : 0 EUR de frais de courtage a l'achat et a la vente sur une selection de produits
-- **ETF eligibles** : ETF iShares (BlackRock) — 0 EUR de courtage achat + vente
-- **OPCVM** : 0 % de droits d'entree — BlackRock, Amundi, Edmond de Rothschild AM, ODDO BHF AM, Sycomore AM
-- **Condition** : ordre d'achat a partir de 200 EUR (pour les ETF)
-- **Offre permanente** : sans conditions d'abonnement
+- **Principe** : 0 EUR de frais de courtage a l'achat sur plus de 45 000 produits financiers repartis en 8 classes d'actifs
+- **ETF** : ETF iShares (BlackRock) — 0 EUR de courtage achat + vente
+- **Crypto ETN** : CoinShares — 0 EUR de courtage
+- **OPCVM** : 0 % de droits d'entree (BlackRock, Amundi, Edmond de Rothschild AM, ODDO BHF AM, Sycomore AM et autres)
+- **Produits structures** (turbos, warrants, certificats) — 0 EUR
+- **Crowdfunding immobilier** : Homunity — 0 EUR
+- **SCPI** : Swiss Life Asset Managers — 0 EUR
+- **Private equity** (FCPR, FIP-FCPI) — 0 EUR
+- **Condition ETF** : ordre d'achat a partir de 200 EUR pour les ETF
+- **Offre permanente** : sans conditions d'abonnement, sans compte minimum
 - **Produits identifies** par un badge specifique dans l'interface
 
 ## Produits et fonctionnalites

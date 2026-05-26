@@ -24,7 +24,7 @@ derniere-verification: 2026-05-26
 - **Type** : Assurantiel (contrat d'assurance de groupe multisupports)
 - **Modes de gestion** : gestion pilotée à horizon + gestion libre (depuis 2025)
 - **Disponibilité** : en ligne exclusivement
-- **Versement minimum** : 500 EUR
+- **Versement minimum** : 1 000 EUR (500 EUR en cas de transfert entrant)
 - **Année de création** : 2022
 
 ## Frais
@@ -34,21 +34,22 @@ derniere-verification: 2026-05-26
 - **Versement** : 0 %
 - **Gestion UC** : 1,35 % / an (0,90 % mandat Nalo + 0,45 % assureur)
 - **Gestion fonds euros** : 0,85 % / an (0,15 % Nalo + 0,70 % assureur)
-- **Frais ETF** : ~0,25 % / an en moyenne
+- **Frais ETF** : 0,33 % / an (actions, moyenne) ; 0,28 % / an (obligations, moyenne)
 - **Arbitrage** : 0 %
 - **Sortie** : 0 %
 - **Rente (arrérages)** : 1,50 %
 - **Surcoût gestion pilotée** : inclus dans les frais de gestion (pas de surcoût additionnel)
 - **Frais tout compris** : 0,85 % / an (profil défensif) à 1,60 % / an (profil offensif, plafonné)
 - **Prélèvement** : trimestriel, déduit de la valeur du contrat (prorata en cas de rachat)
+- **Frais d'adhésion** : 8 EUR / an (prélevés par l'assureur sur les frais de gestion du contrat)
 - **Note frais** : 3/5
 
 ## Fonds euros
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Fonds disponibles** : Fonds Euros Apicil Garanti (garanti à 100 % — 60 % max du contrat)
-- **Performance 2025** : 1,45 % (source : sinvestir.fr — à vérifier sur site Apicil)
-- **Performance 2024** : 1,30 % (source : sinvestir.fr — à vérifier sur site Apicil)
+- **Performance 2025** : 1,45 % (source : nalo.fr/nos-portefeuilles)
+- **Performance 2024** : 1,30 % (source : sinvestir.fr)
 - **Performance cumulée 5 ans** : 5,20 % (source : sinvestir.fr)
 - **Contraintes d'accès** :
   - En gestion pilotée : allocation définie par l'algorithme, pas de choix manuel de la part fonds euros ; la part fonds euros augmente automatiquement à l'approche de la retraite
@@ -59,7 +60,7 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.nalo.fr/nos-portefeuilles (liste non différenciée PER/AV) et https://www.nalo.fr/notre-tarif -->
 
-- **Nombre total d'UC** : ~75 supports (environ 45 ETF actions + 30 ETF obligations + 1 ETF matières premières + 1 fonds euros)
+- **Nombre total d'UC** : ~76 supports (environ 45 ETF actions + 30 ETF obligations + 1 ETF matières premières + 1 fonds euros ; les SCPI listées sur nos-portefeuilles sont réservées à Nalo Flex AV)
 - **ETF Actions** : ~45
 - **ETF Obligations** : ~30
 - **ETF Matières premières** : 1
@@ -82,7 +83,7 @@ derniere-verification: 2026-05-26
 
 ### Versements
 
-- **Versement initial minimum** : 500 EUR
+- **Versement initial minimum** : 1 000 EUR (500 EUR en cas de transfert entrant)
 - **Versements libres minimum** : 50 EUR
 - **Versements programmés minimum** : 50 EUR / mois (fréquence mensuelle, trimestrielle ou semestrielle)
 - **Ajustement** : montant et périodicité modifiables à tout moment, sans frais
@@ -121,7 +122,7 @@ derniere-verification: 2026-05-26
   - Accepté depuis PER, PERP, Madelin, PERCO (si salarié ayant quitté l'entreprise), art. 83, Préfon, CRH, PER bancaires ou assurantiels
   - 0 % de frais chez Nalo (frais éventuels facturés par l'ancien gestionnaire : plafonnés à 1 % si contrat < 5 ans, gratuit si >= 5 ans ; anciens contrats PERP/Madelin : jusqu'à 5 % si < 10 ans, gratuit si >= 10 ans)
   - Démarches prises en charge intégralement par l'équipe Nalo
-  - Versement initial minimum : 500 EUR (requis pour ouvrir le contrat avant le transfert)
+  - Versement initial minimum : 500 EUR (requis pour ouvrir le contrat en cas de transfert — le montant minimal standard est de 1 000 EUR)
   - Délai moyen : 2 à 3 mois (délai légal max : 3 mois)
 - **Transfert sortant** : 1 % max de l'encours si contrat < 5 ans ; gratuit si contrat >= 5 ans
 
@@ -234,7 +235,7 @@ derniere-verification: 2026-05-26
 
 - **Note globale** : 3,56/5 (source : sinvestir.fr)
 - **Points forts** :
-  - Accessible dès 500 EUR (versement initial et transfert)
+  - Accessible dès 500 EUR en cas de transfert (1 000 EUR pour un nouveau contrat)
   - 0 % de frais d'entrée, de sortie et d'arbitrage
   - Frais tout compris plafonné à 1,60 % / an
   - Gestion pilotée sur mesure sans profils types
@@ -253,6 +254,7 @@ derniere-verification: 2026-05-26
 
 - [S'investir -- Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per) (notes et avis subjectifs uniquement)
 - [Nalo -- Page produit PER](https://www.nalo.fr/per-plan-epargne-retraite) (modes de gestion, montants minimums, supports)
-- [Nalo -- Nos portefeuilles (liste des supports)](https://www.nalo.fr/nos-portefeuilles) (listes ETF — non différencié PER/AV)
+- [Nalo -- Nos portefeuilles (liste des supports)](https://www.nalo.fr/nos-portefeuilles) (listes ETF — non différencié PER/AV ; performance fonds euros 2025)
 - [Nalo -- Tarifs](https://www.nalo.fr/notre-tarif) (frais de gestion UC/fonds euros, SCPI limité à Nalo Flex)
 - [Nalo -- Transfert de PER](https://www.nalo.fr/transfert-de-per) (conditions, délais, frais de transfert)
+- [Nalo -- Plaquette tarifaire PER (PDF)](https://27036557.fs1.hubspotusercontent-eu1.net/hubfs/27036557/Document%20du%20site%20Nalo.fr/plaquette-tarifaire-PER-Nalo.pdf) (frais officiels, versement minimum, frais ETF par catégorie, frais d'adhésion)

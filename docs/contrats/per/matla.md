@@ -38,7 +38,7 @@ derniere-verification: 2026-05-26
 - **Rente** : Non communiqué
 - **Surcoût gestion pilotée** : 0,37 % / an max (allocation financière)
 - **Frais adhésion** : 10 EUR (pris en charge par l'assureur et BoursoBank)
-- **Frais totaux gestion pilotée** : 0,90 % (Prudent) à 1,02 % (Dynamique) tout compris (contrat + allocation + sous-jacents ETF)
+- **Frais totaux gestion pilotée** : 0,90 % (Prudent), 0,98 % (Équilibré), 1,02 % (Dynamique) tout compris (contrat + allocation + sous-jacents ETF) — fourchette 0,93 % à 1,06 % selon horizon
 - **Note frais** : 5/5
 
 ## Fonds euros
@@ -87,20 +87,22 @@ derniere-verification: 2026-05-26
 
 ### SCPI — Règles spécifiques
 
-- **% max par versement en SCPI** : Non communiqué [à vérifier dans la notice MATLA ou auprès de BoursoBank]
-- **% max cumulé de l'épargne en SCPI** : Non communiqué [à vérifier — la règle générale impose 50 % min en UC, ce qui plafonne l'immobilier + fonds euros à 50 % au total]
-- **Arbitrage fonds euros → SCPI** : Non communiqué [à vérifier — en gestion libre, les arbitrages sont gratuits et en ligne, mais l'applicabilité aux SCPI spécifiquement n'est pas précisée dans les documents publics]
-- **Versements programmés sur SCPI** : Non communiqué [à vérifier]
-- **Pénalité de sortie SCPI** : Non communiquée [à vérifier dans la notice ou les annexes SCPI]
-- **Valorisation SCPI** : hebdomadaire (confirmé dans l'annexe financière Oradéa Vie)
-- **Revenus SCPI** : Non communiqué (réinvestissement ou distribution) [à vérifier]
+- **Plafond par SCPI** : 100 000 EUR par fonds SCPI
+- **Plafond par SCI** : 100 000 EUR par fonds SCI
+- **Versements programmés sur SCPI/SCI** : interdits (opérations libres uniquement)
+- **Arbitrage fonds euros → SCPI** : possible (les arbitrages sont gratuits en gestion libre)
+- **Délai avant rachat/arbitrage sortant SCPI** : 5 ans révolus depuis l'investissement (blocage spécifique au PER MATLA, plus long que pour l'assurance-vie)
+- **Prix d'entrée SCPI** : valeur de réalisation + 2 % (spread d'entrée)
+- **Prix de sortie SCPI** : valeur de réalisation − 2 % (spread de sortie)
+- **Revenus SCPI** : réinvestis automatiquement (pas de distribution en numéraire dans l'enveloppe PER)
+- **SCI/SC** : pas de loyers distribués — performance capitalisée dans le prix de la part
 
 ### Fonds euros — Règles spécifiques
 
 - **Accès en gestion libre** : plafonné — 40 % max du contrat pour Sécurité Retraite Euro, 60 % max pour Sécurité Infra Euro Retraite ; 50 % minimum en UC obligatoire (le fonds euros ne peut donc pas dépasser 50 % de l'encours total en gestion libre)
 - **Accès en gestion pilotée** : 30 % max de fonds euros (profil prudent, horizon > 10 ans)
 - **Accès en arbitrage** : possible — les arbitrages sont gratuits et en ligne en gestion libre
-- **Conditions de sortie** : pas de règle de perte d'intérêts identifiée dans la documentation publique [à vérifier dans les conditions générales Oradéa Vie]
+- **Bonus 2026-2027** : +2 % sur Sécurité en euros pour les versements effectués entre le 31/12/2025 et le 30/12/2026 avec au moins 50 % d'UC ; l'épargne arbitrée ou sortie en cours d'année ne bénéficie pas de la majoration
 
 ### Gestion pilotée
 
@@ -109,7 +111,7 @@ derniere-verification: 2026-05-26
 - Frais totaux : 0,90 % / an (Prudent) à 1,02 % / an (Dynamique) sous-jacents inclus
 - Composition : ETF iShares ISR + FCPR (private equity) + fonds euros
 - Désensibilisation progressive à l'approche de la retraite
-- Performance 2025 : Prudent +6,69 %, Équilibré +7,43 %, Dynamique +8,18 % (horizon 15 ans, net de frais)
+- Performance 2025 : Prudent +5,97 %, Dynamique +7,32 % (horizon 15 ans, net de frais de gestion) — fourchette tous horizons : +3,1 % à +7,3 %
 - Performance 2024 : Prudent +10,45 %, Équilibré +11,65 %, Dynamique +14,53 % (horizon 15 ans)
 - Performance 3 ans : Prudent +30,37 %, Équilibré +34,63 %, Dynamique +41,64 % (horizon 15 ans)
 - Pas de montant minimum spécifique (même que le contrat : 150 EUR)
@@ -218,6 +220,7 @@ derniere-verification: 2026-05-26
 - [BoursoBank — Gestion pilotée horizon retraite](https://www.boursobank.com/epargne/plan-epargne-retraite-individuel-perin-matla/horizon-retraite)
 - [BoursoBank — Gestion libre](https://www.boursobank.com/epargne/plan-epargne-retraite-individuel-perin-matla/gl-perin)
 - [BoursoBank — Frais PER MATLA](https://www.boursobank.com/aide-en-ligne/plan-epargne-retraite/comment-fonctionne-le-plan-epargne-retraite/comment-adherer-au-plan-epargne-retraite/question/quels-sont-les-frais-applicables-au-perin-matla-32295445)
+- [BoursoBank — Supports immobiliers (contraintes SCPI/SCI)](https://www.boursobank.com/epargne/assurance-vie/gestion-libre/supports-immobiliers)
 - [BoursoBank — Transfert épargne retraite](https://www.boursobank.com/epargne/transfert-compte-epargne-retraite-perin)
 - [BoursoBank — Performances 2025](https://www.boursobank-group.com/fr/espace-presse/communiques-de-presse/matla-le-perin-le-moins-cher-du-marche-1-affiche-des-performances-2025-jusqu-a-7-3-2-)
 - [Enveloppe PER — Règles générales](../../enveloppes/per.md)

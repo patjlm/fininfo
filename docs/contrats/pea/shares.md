@@ -3,7 +3,7 @@ nom: Shares
 type: contrat-pea
 slug: shares
 courtier: Shares
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Shares — PEA
@@ -11,13 +11,13 @@ derniere-verification: 2026-05-16
 > PEA proposé par [Shares](https://www.shares.io/fr/app) (France).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Shares Financial Assets (SAS, RCS Paris 914 036 793)
 - **Maison mère** : Shares (SAS, RCS Paris 898 574 140)
 - **Pays / régulation** : France — ACPR (agrément N° 17183), AMF (PSAN N° E2023-071)
 - **Domiciliation du compte** : France
-- **Compte espèces** : ModulR Finance B.V. (établissement de monnaie électronique, De Nederlandsche Bank N° 81852401) — fonds ségrégués mais non couverts par le FGDR
+- **Compte espèces** : ModulR Finance B.V. (établissement de monnaie électronique, agréé De Nederlandsche Bank N° 81852401) — fonds ségrégués mais non couverts par le FGDR
 - **Type de gestion** : libre + pilotée
 - **PEA classique** : oui
 - **PEA-PME** : non
@@ -30,7 +30,7 @@ derniere-verification: 2026-05-16
 - **Note générale** : 3,5/5
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Grille tarifaire PEA** (source : page frais officielle) :
   - Ordre de 100 à 200 EUR : 0,5 % (soit 0,50 EUR pour 100 EUR)
@@ -51,18 +51,18 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : non — le PEA Shares ne permet d'investir que dans des ETF
 - **ETF** : 78 ETF éligibles PEA (liste complète ci-dessous)
 - **Émetteurs** : Amundi (50), BNP Paribas (13), iShares (15)
-- **Fractions d'actions** : oui
-- **Investissement programmé (DCA)** : non disponible sur PEA selon sinvestir [à vérifier — le site mentionne des plans d'investissement programmés pour le CTO]
+- **Fractions d'actions** : oui (minimum d'achat 2 EUR, minimum de vente 1,01 EUR)
+- **Investissement programmé (DCA)** : oui — ordres d'achat récurrents disponibles sur PEA (fréquence configurable dans l'app, 0 % de frais sur les achats)
 - **Plateforme de trading** : application mobile uniquement — interface moderne mais fonctionnalités limitées
 - **Note produits** : 3/5
 
 ### Liste des ETF éligibles PEA (78)
-<!-- Mis à jour : 2026-05-16 — Source : https://app-support.shares.io/instruments/kids/FR.html#pea -->
+<!-- Mis à jour : 2026-05-26 — Source : https://app-support.shares.io/instruments/kids/FR.html#pea -->
 
 #### Amundi (50)
 
@@ -158,7 +158,7 @@ derniere-verification: 2026-05-16
 | [DE000A2QP398](../../actifs/etf/DE000A2QP398.md) | Stoxx Europe 600 Technology | STEC |
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui — détention directe, les titres appartiennent à l'investisseur et sont protégés en cas d'insolvabilité de Shares
 - **Garantie des titres** : FGDR jusqu'à 70 000 EUR (instruments financiers)
@@ -168,10 +168,10 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Ordre minimum** : 100 EUR — impossible de passer des ordres inférieurs
-- **Types d'ordres** : Non communiqué
+- **Ordre minimum** : 100 EUR — impossible de passer des ordres inférieurs (sauf fractions : minimum 2 EUR à l'achat, 1,01 EUR à la vente)
+- **Types d'ordres** : ordres au marché uniquement (pas d'ordres limites ni stop)
 - **Marchés accessibles** : ETF éligibles PEA uniquement (pas d'actions en direct sur le PEA)
 - **Univers d'investissement PEA** : restreint à 78 ETF — pas d'actions individuelles
 - **Gestion pilotée** :
@@ -179,15 +179,16 @@ derniere-verification: 2026-05-16
   - Frais : 1 % / an sur les encours
   - Portefeuilles jusqu'à 20 actifs (hors crypto)
   - Ajustement selon l'évolution des marchés
+- **Investissement programmé** : ordres d'achat récurrents disponibles sur PEA — fréquence configurable dans l'app ; 0 % de frais sur les achats, frais normaux sur les ventes
 - **Transfert entrant** : possible — processus simplifié selon le site
 - **Transfert sortant** : possible — délai Non communiqué
 - **Restrictions** :
   - Pas d'actions individuelles sur le PEA (ETF uniquement)
   - Seulement 78 ETF disponibles
-  - Ordre minimum 100 EUR (contraignant pour les petits investisseurs)
+  - Ordre minimum 100 EUR pour les ordres classiques (contraignant pour les petits investisseurs)
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4/5 (89 avis)
 - **App mobile** : oui — interface moderne, réseau social intégré
@@ -196,7 +197,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 3/5
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,13/5
 - **Points forts** :
@@ -206,13 +207,14 @@ derniere-verification: 2026-05-16
   - Propriété directe des titres + garantie FGDR 70 000 EUR
   - IFU fourni, pas de déclaration de compte étranger
   - Fractions d'actions disponibles
+  - Investissement programmé (DCA) disponible sur PEA
   - Application mobile moderne avec réseau social intégré
 - **Points faibles** :
   - Univers d'investissement restreint (78 ETF, pas d'actions en direct)
-  - Ordre minimum de 100 EUR (pénalisant pour les petits investisseurs)
+  - Ordres au marché uniquement (pas d'ordres limites ni stop)
+  - Ordre classique minimum de 100 EUR (pénalisant pour les petits investisseurs)
   - Pas de PEA-PME ni PEA Jeunes
   - Se développe lentement — moyens limités selon sinvestir
-  - Investissement programmé (DCA) non disponible sur PEA [à vérifier]
   - SAV perfectible (note 3/5)
 - **Services complémentaires** : CTO (ouvert automatiquement), crypto (via Shares Digital Assets), réseau social intégré
 
@@ -221,6 +223,7 @@ derniere-verification: 2026-05-16
 - [S'investir — Comparatif PEA](https://simulateurs.sinvestir.fr/les-comparateurs/pea)
 - [Shares — Page produit (app)](https://www.shares.io/fr/app)
 - [Shares — Grille tarifaire](https://www.shares.io/fr/terms/fees)
+- [Shares — Conditions PEA](https://www.shares.io/fr/terms/pea)
 - [Shares — Centre de réglementation](https://www.shares.io/fr/regulatory-and-privacy-hub)
 - [Shares — Liste des instruments et DIC (FR)](https://app-support.shares.io/instruments/kids/FR.html#pea)
 - [Enveloppe PEA — Règles générales](../../enveloppes/pea.md)

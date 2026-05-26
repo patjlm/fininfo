@@ -55,42 +55,51 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Suravenir Rendement 2 : 9,6 %
   - Suravenir Opportunités 2 : 11,9 %
 - **Contraintes d'accès** :
-  - Suravenir Rendement 2 : chaque versement doit comporter **au minimum 30 % d'UC** présentant un risque de perte en capital
-  - Suravenir Opportunités 2 : **70 % max du contrat** ; aucun minimum d'UC requis par versement ; bonification de taux selon la part d'UC détenue (voir performance 2025)
-  - Les deux fonds euros sont **inéligibles aux arbitrages** (accès uniquement lors des versements, pas par arbitrage depuis les UC)
+  - Suravenir Rendement 2 : chaque versement doit comporter **au minimum 30 % d'UC** présentant un risque de perte en capital (la part en fonds euros est donc limitée à 70 % par versement)
+  - Suravenir Opportunités 2 : **70 % max du contrat** ; aucun minimum d'UC requis par versement ; bonification de taux selon la part d'UC détenue au niveau du contrat (voir performance 2025)
+  - Les deux fonds euros sont **inéligibles aux arbitrages** — uniquement accessibles lors des versements
 - **Note fonds euros** : 3,75/5 (source : S'investir)
 
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : plus de 200
-- **ETF** : 11 (source : fortuneo.fr/assurance-vie/etf)
-  - Amundi MSCI World II UCITS ETF DIST (FR0010315770)
-  - Amundi S&P 500 II UCITS ETF EUR DIST (LU0496786574)
-  - Amundi CAC 40 UCITS ETF DIST (FR0007052782)
-  - Amundi Nasdaq-100 II UCITS ETF ACC (LU1829221024)
-  - Amundi MSCI Emerging Markets UCITS EUR ACC (FR0010429068)
-  - Amundi Japan Topix II UCITS ETF EUR Hedged Dist (FR0011475078)
-  - Amundi Global Equity Quality Income UCITS ETF DIST (LU0832436512)
-  - Amundi EUR Corporate Bond PAB NET Zero Ambition UCITS ETF ACC (LU1829219127)
-  - Amundi MSCI Water ESG Screened UCITS ETF DIST (FR0010527275)
-  - Lyxor DJ Global Titans 50 UCITS ETF - DIST (FR0007075494)
+- **Nombre total d'UC** : plus de 200 (source : PDF supports Fortuneo Vie au 26.05.2026)
+- **ETF** : 11 ETF/ETC (source : fortuneo.fr/assurance-vie/etf et PDF supports au 26.05.2026)
+  - Amundi MSCI World Swap II UCITS ETF Dist (FR0010315770)
+  - Amundi Core S&P 500 Swap UCITS ETF EUR Dist (LU0496786574)
+  - Amundi CAC 40 UCITS ETF Dist (FR0007052782)
+  - Amundi Core Nasdaq-100 Swap UCITS ETF Acc (LU1829221024)
+  - Amundi MSCI Emerging Markets II UCITS ETF EUR Acc (FR0010429068)
+  - Amundi Japan TOPIX II UCITS ETF EUR Hedged Dist (FR0011475078)
+  - LYXOR SG Global Quality Income NTR UCITS ETF D-EUR (LU0832436512)
+  - Amundi EUR Corporate Bond Climate Paris Aligned UCITS ETF Acc (LU1829219127)
+  - Amundi MSCI Water UCITS ETF Dist (FR0010527275)
+  - Amundi DJ Global Titans 50 UCITS ETF Dist (FR0007075494)
   - Xtrackers Physical Gold EUR Hedged ETC (DE000A1EK0G3)
-- **SCPI** : 3 (toutes Primonial REIM, source : fortuneo.fr/assurance-vie/scpi-immobilier)
-  - SCPI Patrimmo Commerce (QS0002005299) — Commerce ; perf. 2024 : -8,01 %
-  - SCPI Primovie (QS0002005324) — Santé & éducation ; perf. 2024 : 2,94 %
-  - SCPI Transition Europe (FR001400EGA8) — Diversifiée ; perf. 2024 : 7,50 %
+- **SCPI** : 3 (source : PDF supports Fortuneo Vie au 26.05.2026)
+  - SCPI Patrimmo Commerce (QS0002005299) — Primonial REIM — Commerce ; perf. brute 2024 : 1,12 % (nette : -0,88 %)
+  - SCPI Primovie (QS0002005324) — Primonial REIM — Santé & éducation ; perf. brute 2024 : 1,40 % (nette : -0,40 %)
+  - SCPI Transition Europe (FR001400EGA8) — Arkéa REIM — Diversifiée ; perf. brute 2024 : 9,16 % (nette : 6,83 %)
 - **SCI** : 3
-  - SCI Primonial Capimmo (QS0002005277) — perf. 2024 : -14,05 %
-  - SCI Silver Avenir (FR0013526100) — perf. 2024 : 3,28 %
-  - SCI Territoire Avenir (FR001400A217) — perf. 2024 : 3,83 %
+  - SCI Capimmo (QS0002005277) — Primonial REIM ; perf. brute 2024 : 3,54 % (nette : 0,34 %)
+  - SCI Silver Avenir (FR0013526100) — Arkéa REIM ; perf. brute 2024 : 2,39 % (nette : 0,79 %)
+  - SCI Territoires Avenir (FR001400A217) — Primonial REIM ; perf. brute 2024 : 8,21 % (nette : 5,52 %)
 - **SC** : 1
-  - SC Tendance Pierre (FR0014007X71) — perf. 2024 : non disponible
+  - ESG Tendances Pierre (FR001400X71) — Swiss Life AM ; perf. brute annuelle 2024 : ND ; perf. brute 5 ans annualisée : 5,63 %
 - **OPCI** : 1
-  - OPCI Opcimmo (FR0011066802) — Bureaux ; perf. 2024 : -8,88 %
+  - OPCI Opcimmo P (FR0011066802) — Amundi Immobilier — Bureaux ; perf. brute 2024 : 2,23 % (nette : 0,13 %)
+- **Fonds immobiliers** : 1
+  - Immobilier 21 AC (FR0010541821) — Gestion 21 ; perf. brute 2024 : 11,61 % (nette : 9,41 %)
+- **Fonds capital investissement (FCPR)** : 5
+  - Isatis Capital Vie et Retraite (FR0013222353)
+  - Eurazeo Private Value Europe 3 C (FR0013301553)
+  - Eiffel Infrastructures Vertes C (FR001400BCG0)
+  - Mirova Green Impact Private Equity B4 (FR001400DOB2)
+  - EdR Private Equity Opportunities A (FR001400JH55)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui
-- **Autres supports** : plus de 100 fonds ISR (Investissement Socialement Responsable), fonds obligataires, FCPR (private equity)
+- **Redistribution loyers SCPI** : 85 % (réinvestis sur le fonds euros Suravenir Rendement 2) (source : S'investir)
+- **Autres supports** : fonds obligations, fonds actions, fonds mixtes (voir PDF complet des supports)
 - **Note UC** : 4/5 (source : S'investir)
 
 ## Conditions et contraintes spécifiques
@@ -150,16 +159,18 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Note globale** : 4,25/5 (source : S'investir)
 - **Points forts** :
   - Accessible dès 100 EUR
-  - Deux fonds euros performants avec bonification sur Suravenir Opportunités 2
+  - Deux fonds euros avec bonification de taux sur Suravenir Opportunités 2 (jusqu'à 4,50 % en 2025 si ≥ 70 % d'UC)
   - 0 % de frais sur versements et arbitrages (sauf ETF à 0,10 %)
   - Tous les services d'une banque en ligne (compte courant, bourse, épargne)
   - Rééquilibrage automatique disponible
+  - 5 FCPR (capital investissement) disponibles
 - **Points faibles** :
-  - Peu de SCPI (3 seulement, toutes Primonial REIM)
+  - Peu de SCPI (3 seulement, dont 2 Primonial REIM aux performances 2024 négatives nettes)
   - Les fonds euros sont inéligibles aux arbitrages (versement uniquement)
   - Suravenir Rendement 2 requiert au minimum 30 % d'UC par versement
   - Frais de gestion UC à 0,75 % (dans la moyenne haute des contrats en ligne)
-  - Frais de gestion Suravenir Opportunités 2 élevés (jusqu'à 3 %)
+  - Frais de gestion Suravenir Opportunités 2 élevés (jusqu'à 3 %) ; plafonné à 70 % du contrat
+  - Bonification Opportunités 2 calculée sur la part d'UC du contrat entier — effort UC important pour atteindre 4,50 %
 - **Services complémentaires** : ensemble des services bancaires Fortuneo (compte courant, bourse, Livret+, PER)
 
 ## Sources
@@ -170,4 +181,5 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - [Fortuneo — ETF](https://www.fortuneo.fr/assurance-vie/etf)
 - [Fortuneo — Gestion sous mandat](https://www.fortuneo.fr/assurance-vie/gestion-sous-mandat)
 - [Fortuneo — Tarifs](https://www.fortuneo.fr/tarifs)
+- [Fortuneo — PDF supports Fortuneo Vie (26.05.2026)](https://mabanque.fortuneo.fr/document-assurance-vie/PERFSUPPORT)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)

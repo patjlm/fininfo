@@ -52,7 +52,7 @@ derniere-verification: 2026-05-26
 - **Contraintes d'accès** : non applicable — contrat sans fonds euros (100 % UC obligatoire)
 - **Raison historique** : Goodvest considère qu'aucun fonds euros classique ne respecte les exigences de l'Accord de Paris
 - **Alternative** : fonds obligataires ISR en remplacement (voir supports)
-- **Fonds Euro Objectif Climat (Spirica)** : disponible sur Goodlife (assurance-vie), pas confirmé sur le PER [à vérifier]
+- **Fonds Euro Objectif Climat (Spirica)** : disponible uniquement sur Goodlife (assurance-vie), pas disponible sur le PER Generali
   - Article 9 SFDR, capital garanti à 98 % hors frais
   - Rendement 2023-2024 : 3,31 % net de frais de gestion
   - Assureur : Spirica (distinct de Generali pour le PER)
@@ -62,14 +62,14 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.goodvest.fr/fonds-dinvestissement-durables , https://www.goodvest.fr/informations-durabilite -->
 
-- **Nombre total d'UC** : 30+ (offre volontairement restreinte, sélection ISR stricte)
+- **Nombre total d'UC** : 26 environ (offre volontairement restreinte, sélection ISR stricte) : 5 ETF actions, 2 ETF obligations, 7 OPCVM actions, 2 OPCVM obligations, 1 fonds obligataire ISR, 1 dette privée, 4 fonds immobiliers, 4 produits structurés
   - ETF actions et obligations verts
   - OPCVM actions et obligations ISR/Article 9
-  - Fonds immobiliers durables (SCI, SCPI, FCPR)
-  - Dettes privées (FCPR infrastructure verte, financement décarbonation)
+  - Fonds immobiliers durables (SCI, FCPR)
+  - Dettes privées (FCPR infrastructure verte)
   - Produits structurés à impact (Goodvest)
   - Fonds obligataires ISR (dont Goodvest x Team for the Planet)
-- **SCPI** : 0 (mais SCI/FCPR immobiliers disponibles)
+- **SCPI** : 0 (mais fonds immobiliers SCI/FCPR disponibles)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (gestion pilotée)
 - **Labels des fonds** : ISR, Greenfin (label du ministère de l'Écologie), Finansol, Toward Sustainability
@@ -77,14 +77,14 @@ derniere-verification: 2026-05-26
 - **Analyse carbone** : empreinte carbone mesurée via Carbon4 Finance
 - **Impact vs conventionnel** : -26 % d'émissions CO₂e, -27 % d'impact sur la biodiversité
 - **Certification** : B-Corp
-- **Classification SFDR** : 94 % minimum des UC en Article 8 ou 9
+- **Classification SFDR** : 19 supports en Article 9 (objectif d'investissement durable) — source : goodvest.fr/le-per-goodvest
 - **Note UC** : 3/5
 
 ## Thématiques d'investissement ISR
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.goodvest.fr/le-per-goodvest -->
 
-- Thèmes au choix (combinables), dont :
+- Thèmes au choix (combinables) sur le PER :
   - Transition écologique
   - Solutions climatiques
   - Emploi et solidarité
@@ -92,11 +92,11 @@ derniere-verification: 2026-05-26
   - Accès à l'eau
   - Forêts
   - Santé
-  - Infrastructures vertes [à vérifier disponibilité PER]
-  - Immobilier durable [à vérifier disponibilité PER]
-  - Private equity [à vérifier disponibilité PER]
+  - Infrastructures vertes
+  - Immobilier durable
+  - Private equity
 - L'allocation est construite selon le profil de risque et les thématiques choisies
-- Tous les thèmes ne sont pas accessibles dans tous les profils (certains trop risqués pour les profils prudents) [à vérifier]
+- Tous les thèmes ne sont pas accessibles dans tous les profils (certains trop risqués pour les profils prudents)
 - Plus de 100 combinaisons d'allocations possibles [à vérifier]
 
 ## Conditions et contraintes spécifiques
@@ -121,7 +121,7 @@ derniere-verification: 2026-05-26
 - **Attribution du profil** : Goodvest évalue les objectifs financiers et la tolérance au risque du client via un questionnaire
 - **Pas de gestion libre** : l'épargnant ne peut pas choisir lui-même les supports
 - **Surcoût** : 0,90 % / an (frais Goodvest, confirmé sur le site officiel)
-- **Note** : l'assurance-vie Goodvie propose 5 profils (Prudent, Modéré, Volontaire, Ambitieux, Audacieux) ; le PER n'en propose que 3
+- **Note** : l'assurance-vie Goodvie propose 5 profils (Prudent, Modéré, Volontaire, Ambitieux, Audacieux) ainsi que des nouvelles formules (Basique, Essentiel, Impact 360°) depuis 2025 ; le PER n'en propose que 3
 
 ### Arbitrages
 
@@ -131,16 +131,19 @@ derniere-verification: 2026-05-26
 ### Limites d'investissement
 
 - **Pas de fonds euros Generali sur le PER** : 100 % UC obligatoire (hors éventuel fonds euros futur)
-- **Pas de SCPI en direct** (mais fonds immobiliers SCI/FCPR disponibles en gestion pilotée)
+- **Pas de SCPI en direct** (mais fonds immobiliers SCI/FCPR disponibles en gestion pilotée : 4 fonds)
 - **Pas de titres vifs**
 - **Allocation contrainte** : uniquement les supports ISR sélectionnés par Goodvest
+- **Thématiques au choix** : transition écologique, forêts, accès à l'eau, solutions climatiques, santé, infrastructures vertes, immobilier durable, private equity (certaines thématiques peuvent ne pas être disponibles selon le profil de risque)
 
 ### SCPI — Règles spécifiques
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.goodvest.fr/fonds-dinvestissement-durables (aucune SCPI dans la liste des supports) -->
 
 - Non applicable — aucune SCPI disponible sur ce contrat
-- Des fonds immobiliers durables (SCI, FCPR) sont disponibles en gestion pilotée (Territoires Avenir, SC Pierre Impact, SC Terra Europe, Novaxia R, Terres Invest, Iroko Next) mais il ne s'agit pas de SCPI classiques
+- Des fonds immobiliers durables (SCI, FCPR) sont disponibles en gestion pilotée sur le PER : Territoires Avenir, Novaxia R, Terres Invest, Iroko Next (4 fonds)
+- SC Pierre Impact et SC Terra Europe sont désormais réservés à Goodlife (assurance-vie) et ne sont pas disponibles sur le PER
+- Il ne s'agit pas de SCPI classiques mais de fonds immobiliers (SCI/FCPR) à impact
 
 ### Fonds euros — Règles spécifiques
 <!-- Mis à jour : 2026-05-26 -->
@@ -150,7 +153,7 @@ derniere-verification: 2026-05-26
 - Goodvest ne propose aucun fonds euros Generali sur le PER : Goodvest considère qu'aucun fonds euros classique ne respecte les exigences de l'Accord de Paris
 - 100 % des encours sont investis en unités de compte (ETF, OPCVM, fonds immobiliers, dettes privées ISR)
 - Alternative : fonds obligataires ISR à capital non garanti (dont Goldman Sachs Green Bond Short Duration, Mirova Euro Short Term Sustainable Bond)
-- Note : le Fonds Euro Objectif Climat (Spirica, Article 9, garanti à 98 %) est disponible sur Goodlife (assurance-vie), pas sur ce PER
+- Note : le Fonds Euro Objectif Climat (Spirica, Article 9, garanti à 98 %) est disponible sur Goodlife (assurance-vie uniquement), pas sur ce PER Generali
 
 ### Transfert
 <!-- Source : https://www.goodvest.fr/transfert-per -->
@@ -167,26 +170,26 @@ derniere-verification: 2026-05-26
 > Gestion pilotée uniquement — l'épargnant ne choisit pas individuellement les supports.
 > Tous les fonds ne sont pas nécessairement alloués dans tous les profils.
 
-### ETF actions (6)
+### ETF actions (5)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | [LU1377382368](../../actifs/etf/LU1377382368.md) | Actions Europe bas carbone | Article 8 |
-| BNP Paribas Easy Low Carbon 100 Europe (Goodlife) | LU2194448424 | Actions Europe bas carbone | Article 8 |
 | Amundi Index MSCI USA SRI Climate UCITS ETF | [IE000R85HL30](../../actifs/etf/IE000R85HL30.md) | Actions USA ISR | Article 8 |
 | Amundi Index MSCI Emerging Markets SRI PAB UCITS ETF DR (C) | [LU1861138961](../../actifs/etf/LU1861138961.md) | Actions Marchés émergents ISR | Article 8 |
 | Amundi MSCI Water ESG Filtered DR UCITS ETF | [FR0010527275](../../actifs/etf/FR0010527275.md) | Actions Eau mondial | Article 8 |
 | BNP Paribas Easy MSCI World SRI S-Series PAB 5% Capped | LU1291108485 | Actions Monde ISR | Article 8 |
 
-### ETF obligations (3)
+### ETF obligations (2)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | Amundi Euro Government Green Bond DR UCITS ETF | [LU2356220926](../../actifs/etf/LU2356220926.md) | Obligations vertes EUR souveraines | Article 9 |
 | BNP Paribas Easy JPM ESG Green Social Bond | LU2365458574 | Obligations vertes et sociales | Article 9 |
-| BNP Paribas Easy Sustainable EUR Government Bond | LU2607531345 | Obligations souveraines EUR durables | Article 8 |
 
-### OPCVM actions (8)
+> Note : BNP Paribas Easy Sustainable EUR Government Bond (LU2607531345) est réservé à Goodlife (assurance-vie) — non disponible sur le PER.
+
+### OPCVM actions (7)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
@@ -197,7 +200,6 @@ derniere-verification: 2026-05-26
 | Insertion Emplois Dynamique N (Mirova) | FR0013314606 | Actions Emploi et solidarité | Article 9 |
 | Dorval European Climate Initiative N | FR0013334372 | Actions Europe transition écologique | Article 9 |
 | Goodvest Planet Ambition CS (Sycomore AM) | FR001400M5U6 | Actions Monde transition écologique | Article 9 |
-| BNP Paribas Easy MSCI USA SRI (Goodlife) | Non communiqué [à vérifier] | Actions USA ISR | Article 8 |
 
 ### OPCVM obligations (2)
 
@@ -212,23 +214,24 @@ derniere-verification: 2026-05-26
 |---|---|---|---|
 | Goodvest x Team for the Planet by Ecofi | FR0014012I08 | Obligations ISR / impact | Article 9 |
 
-### Fonds immobiliers (6)
+### Fonds immobiliers (4)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | Territoires Avenir | FR001400A217 | Immobilier durable | Article 9 |
-| SC Pierre Impact | FR0014009XS9 | Immobilier durable | Article 9 |
-| SC Terra Europe | FR001400M279 | Immobilier durable | Article 9 |
 | Novaxia R | FR0014002KE1 | Immobilier durable | Article 9 |
 | Terres Invest | FR001400J1C8 | Immobilier durable | Article 9 |
 | Iroko Next | FR001400CVY1 | Immobilier diversifié | Article 8 |
 
-### Dettes privées (2)
+> Note : SC Pierre Impact (FR0014009XS9) et SC Terra Europe (FR001400M279) sont réservés à Goodlife (assurance-vie) — non disponibles sur le PER.
+
+### Dettes privées (1)
 
 | Nom | ISIN | Catégorie | SFDR |
 |---|---|---|---|
 | FCPR Eiffel Infrastructures Vertes C | FR001400BCG0 | Infrastructure verte / dette privée | Article 9 |
-| FCPR Tikehau Financement Décarbonation | FR001400HLW5 | Décarbonation / dette privée | Article 8 |
+
+> Note : FCPR Tikehau Financement Décarbonation (FR001400HLW5) est réservé à Goodlife (assurance-vie) — non disponible sur le PER.
 
 ### Produits structurés (4 au 2026-05-26)
 
@@ -293,7 +296,7 @@ derniere-verification: 2026-05-26
   - Avis clients très positifs (4,9/5 Trustpilot et Google)
   - Rééquilibrage automatique et sécurisation à horizon retraite
   - Aucune rétrocession sur les fonds
-  - Gamme de supports élargie (fonds immobiliers, dettes privées)
+  - Gamme de supports ISR sélective : fonds immobiliers (4), dettes privées (1), produits structurés (4)
 - **Points faibles** :
   - Pas de fonds euros Generali sur le PER (pas de garantie en capital)
   - Pas de gestion libre (gestion pilotée uniquement)

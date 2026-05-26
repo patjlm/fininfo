@@ -209,6 +209,7 @@ Source : [DIC Garance Épargne gestion libre, 10/04/2025](https://www.garance.co
 - [Garance — Tableau rendements fonds euros GEP 2025](https://www.garance.com/app/uploads/2026/02/Tableau-relatif-aux-rendements-et-frais-de-gestion-euros-du-contrat-GEP-2025.pdf)
 - [Garance — DIC générique (10/04/2025)](https://www.garance.com/app/uploads/2025/06/KID_GARANCE_EPARGNE_GENERIC_FR_EUR_20250410_113237.pdf)
 - [Garance — DIC Gestion libre (10/04/2025)](https://www.garance.com/app/uploads/2025/06/KID_GARANCE_EPARGNE_Gestion_libre_FR_EUR_20250410_113311.pdf)
+- [Garance — DIC Support en euros (02/06/2025)](https://www.garance.com/app/uploads/2025/06/KID_Support_en_euros_GARANCE_EPARGNE__FR_EUR_20250602_143512.pdf)
 - [Garance — Communiqué taux 2025](https://www.garance.com/presse/communique-de-presse/taux-2025-garance-maintient-des-performances-elevees-et-durables)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)
 - [ACPR — Bulletin n°173 : situation des assureurs Solvabilité II en France fin 2024](https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/ndeg-173-la-situation-des-assureurs-soumis-solvabilite-ii-en-france-fin-2024)

@@ -68,7 +68,7 @@ derniere-verification: 2026-05-26
 - **Nombre total d'UC** : 112 (liste des supports en vigueur au 19/05/2026 -- susceptible d'évoluer)
 - **ETF gestion libre** : 28 (dont 3 ETF obligataires) + 8 ETF accessibles uniquement en gestion pilotée (mandat d'arbitrage)
 - **SCPI** : 1 (Accimmo Pierre -- disponible lors d'opérations commerciales uniquement, sous conditions)
-- **OPCI/SCI** : 1 OPCI (BNP Paribas Diversipierre P -- disponible lors d'opérations commerciales uniquement) ; 1 OPCI (AXA Aedificandi AC)
+- **OPCI/SCI** : 3 OPCI (BNP Paribas Diversipierre P -- opérations commerciales ; AXA Aedificandi AC -- gestion libre ; Pierre Impact -- opérations commerciales, Article 9 SFDR)
 - **Titres vifs** : non
 - **Private equity** : non
 - **Rééquilibrage automatique** : non

@@ -3,15 +3,15 @@ nom: BoursoBank
 type: contrat-cto
 slug: boursobank
 courtier: BoursoBank
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # BoursoBank — Compte-Titres
 
-> Compte-titres proposé par [BoursoBank](https://www.boursobank.com/) (France). Banque en ligne filiale de Société Générale, élue banque la moins chère depuis 18 années consécutives. Voir aussi la fiche [CTO (enveloppe)](../../enveloppes/cto.md) pour les règles générales.
+> Compte-titres proposé par [BoursoBank](https://www.boursobank.com/) (France). Banque en ligne filiale de Société Générale, élue banque la moins chère depuis de nombreuses années consécutives. Voir aussi la fiche [CTO (enveloppe)](../../enveloppes/cto.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : BoursoBank (ex-Boursorama Banque) — filiale de Société Générale
 - **Pays / régulation** : France — ACPR (Autorité de contrôle prudentiel et de résolution) et AMF
@@ -22,7 +22,7 @@ derniere-verification: 2026-05-17
 - **Année de création** : 1995 (Boursorama, renommé BoursoBank en 2023)
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Offres tarifaires
 
@@ -31,9 +31,9 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 | Caractéristique | Découverte | Classic (CTO uniquement) | Trader | Ultimate Trader |
 |---|---|---|---|---|
 | **Abonnement mensuel** | 0 EUR | 0 EUR | 0 EUR | Oui (facturation si < 30 ordres/mois, hors 1er mois) |
-| **Frais Euronext** | 1,99 EUR (jusqu'à 500 EUR), 0,60 % au-delà | Non communiqué | 16,65 EUR (jusqu'à 7 750 EUR), 0,22 % au-delà | Non communiqué |
+| **Frais Euronext** | 1,99 EUR (jusqu'à 500 EUR), 0,60 % au-delà | 5,50 EUR (jusqu'à 1 000 EUR), 0,48 % au-delà (min. 8,95 EUR) | 16,65 EUR (jusqu'à 7 750 EUR), 0,22 % au-delà | 9,90 EUR (jusqu'à 10 000 EUR), 0,12 % au-delà |
 | **Frais marchés US** | 6,95 EUR (jusqu'à 6 000 EUR), 0,12 % au-delà | Non communiqué | Non communiqué | Non communiqué |
-| **Boursomarkets** | 0 EUR sur ETF iShares et produits partenaires | 0 EUR | 0 EUR | 0 EUR |
+| **Boursomarkets** | 0 EUR à l'achat (>= 500 EUR) sur ETF iShares et produits partenaires ; vente au tarif standard | 0 EUR à l'achat (>= 500 EUR) ; vente au tarif standard | idem | idem |
 
 - **Réduction** : -1 EUR de frais de courtage par ordre exécuté sur warrants, certificats et turbos des émetteurs partenaires
 - **PEA** : frais plafonnés à 0,50 % du montant total de l'ordre (obligation réglementaire)
@@ -53,23 +53,23 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 - **Frais — ETF européens** :
   - Ordre de 10 EUR : impossible (montant minimum d'achat ETF : 200 EUR)
   - Ordre de 100 EUR : impossible (montant minimum d'achat ETF : 200 EUR)
-  - Ordre de 500 EUR : 1,99 EUR (ou 0 EUR via Boursomarkets sur ETF iShares)
-  - Ordre de 1 000 EUR : 6,00 EUR (0,60 %) (ou 0 EUR via Boursomarkets sur ETF iShares)
+  - Ordre de 500 EUR : 1,99 EUR (ou 0 EUR à l'achat via Boursomarkets sur ETF iShares éligibles)
+  - Ordre de 1 000 EUR : 6,00 EUR (0,60 %) (ou 0 EUR à l'achat via Boursomarkets sur ETF iShares éligibles)
 - **Frais de change** : aucun
 - **Frais divers** : aucun (pas de droits de garde, pas de frais d'inactivité, pas de frais de retrait)
-- **TTF** : 0,4 % sur achats d'actions de sociétés dont la capitalisation dépasse 1 milliard d'euros
+- **TTF** : 0,4 % sur achats d'actions de sociétés dont la capitalisation dépasse 1 milliard d'euros (en vigueur depuis le 1er avril 2025)
 - **Exemples concrets (scénario mixte)** : actions : 6 x 6,95 EUR = 41,70 EUR + ETF : 3 x 1,99 EUR = 5,97 EUR = 47,67 EUR minimum (les 3 ordres ETF à 100 EUR ne sont pas pris en compte car inférieurs au minimum de 200 EUR)
-- **Grille tarifaire complète** : [BoursoBank — Brochure tarifaire (PDF)](https://www.boursorama.com/content/brochure_tarifaire/boursorama_bt.pdf)
+- **Grille tarifaire complète** : [BoursoBank — Brochure tarifaire (PDF)](https://www.boursorama.com/content/brochure_tarifaire/boursorama_bt.pdf) (mise à jour le 15/04/2026)
 - **Note frais** : 2,5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : + 3 500 actions internationales (France, Europe, États-Unis)
-- **ETF** : + 450 ETF/ETN (+ 1 500 selon sinvestir)
+- **ETF** : + 450 ETF/ETN
 - **Fonds (OPCVM)** : + 1 200
 - **Produits dérivés** : warrants, turbos, certificats
-- **Crypto** : via ETN uniquement (CoinShares via Boursomarkets) — pas de crypto en direct
+- **Crypto** : via ETN uniquement (CoinShares via Boursomarkets — 5 cryptoactifs : Bitcoin, Ethereum, XRP, Solana, Cardano) — pas de crypto en direct
 - **Fractions d'actions/ETF** : non
 - **Investissement programmé (DCA)** : oui — sur une sélection de 8 fonds, à partir de 10 EUR/mois, maximum 300 EUR/mois, frais de 0,59 %/an
 - **Rémunération des liquidités** : non
@@ -78,7 +78,7 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 - **Note produits** : 3,5/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention directe — titres détenus au nom du client
 - **Transfert de compte** : oui — frais de transfert remboursés 2x (plafond 3 000 EUR)
@@ -87,18 +87,19 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres (Euronext)** : marché, limite, seuil de déclenchement (stop), plage de déclenchement (stop-limite)
 - **Types d'ordres (marchés européens hors Euronext)** : ordre limité avec validité jour uniquement
 - **Marchés accessibles** : Euronext (Paris, Bruxelles, Amsterdam, Lisbonne), marchés européens hors Euronext, marchés américains (NYSE, NASDAQ) — accessible aux résidents fiscaux français sans démarche complémentaire
 - **Montant minimum par ordre** : 20 EUR (actions, obligations) / 200 EUR (ETF, ETN, ETC)
+- **Contrainte Boursomarkets** : gratuité à l'achat uniquement pour les ordres >= 500 EUR ; la vente est facturée au tarif standard du forfait choisi (changement en vigueur depuis le 6 mai 2025)
 - **Restrictions** : pas d'introductions sur marchés étrangers, pas de marché primaire obligataire, pas de crypto en direct, résidents étrangers et personnes morales exclus des marchés US
 - **Fiscalité** : choix entre prélèvement forfaitaire unique (PFU) à 30 % ou barème progressif de l'impôt sur le revenu
 - **Produits complexes** : questionnaire d'adéquation MIFID2 obligatoire pour warrants, turbos, certificats, actions sur marchés non réglementés, FIP/FCPI/FCPR, SRD
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,5/5 (49 497 avis)
 - **Contact** : téléphone, chatbot Eliott — pas d'email ni de courrier
@@ -106,15 +107,14 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,25/5
 - **Points forts** :
   - Courtier français régulé — sécurité et simplicité de déclaration d'impôts (IFU fourni)
   - Bon service client (Trustpilot 4,5/5)
   - Banque complète (AV, PER, PEA, livrets) — centralisation de tous les produits
-  - 0 EUR de frais de courtage sur ETF iShares et produits partenaires via Boursomarkets
-  - Élue banque la moins chère depuis 18 années consécutives
+  - 0 EUR de frais de courtage à l'achat (>= 500 EUR) sur ETF iShares et produits partenaires via Boursomarkets
   - Pas de droits de garde ni de frais d'inactivité
   - Outils d'analyse et horaires étendus
 - **Points faibles** :
@@ -124,6 +124,7 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
   - Montant minimum de 200 EUR pour acheter des ETF/ETN/ETC
   - Offre crypto limitée (ETN uniquement, pas de crypto en direct)
   - Frais de courtage sur actions US élevés (6,95 EUR minimum)
+  - Boursomarkets : gratuité à l'achat seulement (>= 500 EUR), vente facturée au tarif standard depuis mai 2025
 - **Services complémentaires** : AV, PER, PEA, banque complète, The Corner (analyses), flux d'analyses quotidiennes, newsletter Bourse hebdomadaire, alertes sur cours, horaires étendus, vidéos, podcasts et webinaires
 
 ## Sources
@@ -134,3 +135,5 @@ BoursoBank propose 4 forfaits de courtage pour Euronext (Paris, Bruxelles, Amste
 - [BoursoBank — Brochure tarifaire (PDF)](https://www.boursorama.com/content/brochure_tarifaire/boursorama_bt.pdf)
 - [BoursoBank — Frais de courtage (FAQ)](https://www.boursobank.com/aide-en-ligne/bourse/comment-investir-en-bourse/fonctionnement-de-la-bourse/question/quels-sont-les-frais-de-courtage-chez-boursobank-17227195)
 - [BoursoBank — Produits financiers négociables (FAQ)](https://www.boursobank.com/aide-en-ligne/bourse/comment-investir-en-bourse/fonctionnement-de-la-bourse/question/quels-sont-les-produits-financiers-negociables-et-commercialises-chez-boursobank-16876496)
+- [BoursoBank — Comptes pour mineur (FAQ)](https://www.boursobank.com/aide-en-ligne/offre-jeune/comment-gerer-mon-compte-offre-jeune/question/quel-type-de-compte-puis-je-ouvrir-a-mon-enfant-26853)
+- [Moneyvox — Nouveau seuil minimum ETF BoursoBank](https://www.moneyvox.fr/banque-en-ligne/actualites/107805/un-nouveau-seuil-minimum-pour-achat-etf-chez-boursobank)

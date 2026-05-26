@@ -11,19 +11,19 @@ derniere-verification: 2026-05-26
 > Compte-titres proposé par Bourse Direct (France).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Bourse Direct
 - **Pays / régulation** : France — Autorité des Marchés Financiers (AMF), Autorité de Contrôle Prudentiel et de Résolution (ACPR)
 - **Domiciliation du compte** : France
 - **Pays disponibles** : 1 (France uniquement)
 - **Dépôt initial minimum** : 0 EUR (1 000 EUR recommandé)
-- **CTO enfant** : non — CTO individuel ou joint uniquement (PEA Jeunes disponible séparément)
+- **CTO enfant** : oui — compte-titres pour mineur disponible (représenté par le(s) parent(s) jusqu'à la majorité)
 - **Année de création** : 1996 (30 ans d'existence)
 - **Types de comptes** : individuel, joint (couples mariés/pacsés), indivision
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Frais — Actions françaises (Euronext Paris, Amsterdam, Bruxelles)** :
   - Ordre jusqu'à 500 EUR : 0,99 EUR
@@ -49,15 +49,22 @@ derniere-verification: 2026-05-26
   - Autres marchés : 0,48 % minimum 41,90 EUR
 - **Frais de change** : taux Bourse Direct + 0,08 % par opération
 - **Frais divers** :
-  - Droits de garde : 0,036 % / an (hors Euronext Paris, Bruxelles, Amsterdam)
+  - Droits de garde : 0,036 % / an (hors Euronext Paris, Bruxelles, Amsterdam) — facturés trimestriellement
   - Droits de garde Euronext : 0 EUR
   - Tenue de compte : 0 EUR
   - Ouverture / clôture : 0 EUR
   - Frais d'inactivité : 0 EUR
-  - Souscription / rachat OPCVM : 0 EUR
+  - Souscription / rachat OPCVM (sélection 0%) : 0 EUR ; hors sélection : 10,76 EUR (Euroclear)
   - Ordres par téléphone : majoration de 9,90 EUR
+  - Virement d'espèces vers une autre banque en France : 6 EUR
+  - Virement d'espèces vers une banque UE : 15 EUR
+  - Virement d'espèces hors UE : 25 EUR
+  - Transfert sortant de titres cotés en France : 15 EUR / ligne
+  - Transfert sortant de titres cotés à l'étranger (CTO) : 25 EUR / ligne
+  - Frais de conservation PTP (sociétés US cotées de type partnership) : 300 EUR / mois
+  - SRD — Commission de règlement différé : 0,023 % / jour / position (gratuit sur A/R intraday) ; report : 0,24 % minimum 11,90 EUR
 - **Offre spéciale ETF Amundi** : 0 EUR de frais de courtage sur le 1er ordre d'achat par mois sur une sélection d'ETF Amundi (ordres de 200 à 100 000 EUR, du 01/05/2026 au 30/04/2027)
-- **Offre spéciale Morgan Stanley** : 0 EUR de frais sur warrants, certificats, turbos (ordres >= 500 EUR) ; 2,50 EUR pour ordres < 500 EUR
+- **Offre spéciale Morgan Stanley** : 0 EUR de frais de courtage sur l'ensemble des warrants, certificats et turbos de la gamme Morgan Stanley (exclusivité Bourse Direct en France, sans condition de montant)
 - **Exemples concrets (scénario mixte)** :
   - Actions US : 6 x 8,50 EUR = 51 EUR
   - Frais de conversion : 3 x 100 x 0,08 % + 3 x 500 x 0,08 % = 1,44 EUR
@@ -67,7 +74,7 @@ derniere-verification: 2026-05-26
 - **Note frais** : 2,5/5 *(source : sinvestir)*
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : + 10 000 disponibles (françaises, européennes, internationales)
 - **ETF** : + 1 500 disponibles
@@ -82,16 +89,17 @@ derniere-verification: 2026-05-26
 - **Note produits** : 3/5 *(source : sinvestir)*
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention directe (titres détenus en nom propre)
-- **Transfert de compte** : oui — 100 % des frais de transfert remboursés (jusqu'à 200 EUR pour CTO, 150 EUR pour PEA)
+- **Transfert entrant** : oui — 100 % des frais facturés par l'établissement d'origine remboursés (jusqu'à 200 EUR pour CTO)
+- **Transfert sortant** : 15 EUR / ligne pour titres cotés en France ; 25 EUR / ligne pour titres cotés à l'étranger
 - **IFU fourni** : oui
 - **Déclaration compte étranger** : non (compte domicilié en France)
 - **Note propriété** : 5/5 *(source : sinvestir)*
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Montant minimum d'un ordre** : 10 EUR à l'achat (CTO) ; 80 EUR pour PEA/PEA-PME/PEA-Jeunes
 - **Types d'ordres** : marché, limite, stop, stop suiveur, à seuil de déclenchement
@@ -110,7 +118,7 @@ derniere-verification: 2026-05-26
 - **Fiscalité des plus-values** : flat tax 31,40 % dès le 1er euro ; option barème progressif avec abattements pour durée de détention (50 % de 2 à 8 ans, 65 % au-delà de 8 ans) pour titres acquis avant 2018
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 2,6/5 (1 309 avis)
 - **Contact** :
@@ -134,13 +142,16 @@ derniere-verification: 2026-05-26
   - 4 agences physiques en France
   - Investissement programmé (DCA) disponible dès 1 EUR
   - Large offre : + 10 000 actions, + 1 500 ETF, + 6 000 OPCVM
+  - CTO enfant disponible
+  - Gamme Morgan Stanley (warrants/certificats/turbos) à 0 EUR de frais — exclusivité Bourse Direct
 - **Points faibles** :
   - Plateforme moins agréable que certains concurrents
   - Service client moins bien réputé (Trustpilot 2,6/5)
   - Frais sur marchés étrangers (hors US) élevés
   - Pas de fractions d'actions/ETF
   - Pas de rémunération des liquidités
-- **Services complémentaires** : assurance vie, PEA, PEA-PME, PEA Jeunes ; outils payants (ProRealTime, Wincharts 2.0, coaching bourse) ; séminaires et webinaires de formation ; bulletin des marchés
+  - Frais de virement sortant (6 EUR vers France, 15 EUR UE, 25 EUR hors UE)
+- **Services complémentaires** : assurance vie, PEA, PEA-PME, PEA Jeunes, CTO enfant ; outils payants (ProRealTime, Wincharts 2.0, coaching bourse) ; séminaires et webinaires de formation ; bulletin des marchés (Morning Meeting)
 
 ### Avis Avenue des Investisseurs
 <!-- Mis à jour : 2026-05-26 -->

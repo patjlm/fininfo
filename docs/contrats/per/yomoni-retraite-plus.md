@@ -32,9 +32,10 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : CGV CG9410 - 01/11/2023 (Spirica) -->
 <!-- Source : https://www.spirica.fr/wp-content/uploads/2023/10/YOMONI_Retraite_fiche_transparence_frais_14092023.pdf -->
+<!-- Source : https://www.yomoni.fr/tarifs -->
 
 - **Versement** : 0 % (initial, libres, programmés, transferts entrants)
-- **Frais associatifs** : 10 EUR à la première adhésion (Association Retraite Falguière)
+- **Frais associatifs** : 10 EUR à la première adhésion (Association Retraite Falguière) — 0 EUR en promotion sur le site
 - **Gestion UC** : 0,50 % maximum/an (0,125 % prélevés trimestriellement) — Yomoni applique 0,30 % en pratique
 - **Gestion fonds euros** : 2 % maximum/an (Fonds Euro PER Nouvelle Génération)
 - **Gestion support Croissance Allocation Long Terme** : 1,00 % maximum/an + frais de performance 10 % de la performance annuelle positive
@@ -42,8 +43,8 @@ derniere-verification: 2026-05-26
 - **Gestion pilotée à horizon / désensibilisation / sous mandat** : 0 % de surcoût contractuel Spirica — le surcoût Yomoni de 0,70 % est facturé en dehors du contrat
 - **Support de rente (encours)** : 2 % maximum/an
 - **Arrérage de rente** : 0 %
-- **Frais tout compris enveloppe ETF** : 1,60 % max/an (0,30 % Spirica UC + 0,70 % Yomoni + ~0,60 % TER ETF sous-jacents)
-- **Frais tout compris enveloppe multi-actifs** : 2,20 % max/an
+- **Frais tout compris enveloppe ETF (tous profils)** : 1,60 % max/an (0,30 % Spirica UC + 0,70 % Yomoni + ~0,60 % TER ETF sous-jacents)
+- **Frais tout compris enveloppe multi-actifs** : selon le profil — Prudent : 2,20 % max/an ; Équilibré : 2,06 % max/an ; Dynamique : 2,04 % max/an (hors frais du fonds euros et hors commissions de performance sur actifs non cotés)
 - **Frais de gestion profils ETF (fiche Spirica)** : 0,80 % moy. (TER fonds)
 - **Frais de gestion profils multi-actifs (fiche Spirica)** : 1,39 % à 1,44 % moy. (TER fonds)
 - **Frais de sortie en capital** : 0 %
@@ -205,32 +206,37 @@ Non applicable — aucune SCPI disponible sur ce contrat. L'exposition immobili�
 
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->
+<!-- Source : sinvestir.fr, Avenue des Investisseurs (mis à jour 8 février 2026) -->
 
 - **Note globale** : 3,88/5 (source : sinvestir.fr)
 - **Points forts** :
   - Avis clients très positifs (4,8/5)
   - Multi-actifs : ETF, fonds euros, immobilier (SC Y Immo), Private Equity (FCPR APEO)
-  - Fonds euros performant (3,13 % en 2024, 3,08 % en 2025) accessible à 100 % du contrat
+  - Fonds euros performant (3,13 % en 2024, 3,08 % en 2025) accessible à 100 % du contrat sans contrainte UC
   - 0 % frais d'entrée, de versement, d'arbitrage et de sortie en capital
   - Frais tout compris compétitifs (1,60 % en ETF)
   - Désensibilisation progressive désactivable
   - Seul acteur proposant à la fois un PER bancaire et un PER assurantiel en ETF
   - Gestion libre contractuellement disponible pour les investisseurs autonomes
+  - Considéré comme « le PER en gestion pilotée de référence » (Avenue des Investisseurs)
 - **Points faibles** :
   - Offre commerciale orientée gestion pilotée — gestion libre peu mise en avant
   - Choix très restreint d'unités de compte en gestion pilotée
-  - Frais multi-actifs jusqu'à 2,20 % / an
+  - Frais multi-actifs jusqu'à 2,20 % / an (profil Prudent)
   - Garantie fonds euros limitée à 98 % (vs 100 % fonds classiques)
   - Frais de gestion UC contractuels de 0,50 % max (0,30 % appliqués en pratique)
+- **Profil investisseur recommandé** : épargnant souhaitant déléguer la gestion, avec exposition à l'immobilier et au Private Equity dans la même enveloppe ; profil dynamique recommandé par ADI
 - **Services complémentaires** : CTO, PEA, Private Equity, assurance-vie, assurance-vie ESG
 
 ## Sources
 
 - [S'investir — Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
 - [Yomoni — Page produit PER Retraite+](https://www.yomoni.fr/investir/plan-epargne-retraite-per)
+- [Yomoni — Grille tarifaire PER assurantiel](https://www.yomoni.fr/tarifs)
 - [Yomoni — Blog lancement Retraite+](https://blog.yomoni.fr/yomoni-lance-yomoni-retraite-un-per-assurantiel-multi-actifs-etf-fonds-en-euros-immobilier-non-cote-en-gestion-pilotee-responsable/)
 - [Yomoni — Transfert PER](https://www.yomoni.fr/transfert-per)
 - [Yomoni — Conditions générales PER assurantiel (CG9410 - 01/11/2023)](https://static.yomoni.fr/documents/yomoniper-assurance-cgv.pdf)
 - [Yomoni — Réallocations gestion pilotée](https://www.yomoni.fr/legal/reallocations)
 - [Spirica — Fiche transparence frais](https://www.spirica.fr/wp-content/uploads/2023/10/YOMONI_Retraite_fiche_transparence_frais_14092023.pdf)
+- [Avenue des Investisseurs — Avis Yomoni Retraite+ (mis à jour 8 février 2026)](https://avenuedesinvestisseurs.fr/per-yomoni-avis/)
 - [Enveloppe PER — Règles générales](../../enveloppes/per.md)

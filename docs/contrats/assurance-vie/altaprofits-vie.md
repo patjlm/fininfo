@@ -55,20 +55,22 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Performance 2025 : 3,00 %
   - Performance cumulée 5 ans : 11,58 %
   - Contraintes d'accès : aucune pour l'accès standard ; pour bénéficier du bonus de taux (+1,50 % offre ponctuelle) : 30 % minimum en UC requis à la date d'investissement et au 31 décembre de chaque année
+  - Objectif 2026-2027 : 4,50 % net (dont 1,50 % de bonus conditionnel — non garanti) sous réserve de maintenir 30 % en UC
 - **Note fonds euros** : 4,5/5 (source : sinvestir.fr)
 
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : 450+ (source : altaprofits.com, données au 27/01/2026)
-- **ETF** : 82
-- **OPCVM** : 272
-- **Supports immobiliers (SCPI/SCI/OPCI)** : 8
+- **Nombre total d'UC** : 500+ (source : altaprofits.com)
+- **ETF** : 83
+- **OPCVM** : 271
+- **Supports immobiliers (SCPI/SCI/OPCI)** : 8 dont 3 SCPI
 - **Titres vifs (actions)** : oui — environ 90 titres cotés
 - **Private equity** : oui
 - **Produits structurés** : oui
 - **Fonds ISR** : 62 fonds labellisés ISR
 - **Fonds croissance** : Générations Croiss@nce durable (frais de gestion : 0,75 %/an)
+- **Redistribution loyers SCPI** : 90 % (réinvestis automatiquement) (source : sinvestir.fr)
 - **Rééquilibrage automatique** : oui
 - **Note UC** : 4,5/5 (source : sinvestir.fr)
 
@@ -96,7 +98,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : altaprofits.com — informations non détaillées publiquement -->
 
-- **Nombre de supports immobiliers** : 8 (SCPI, SCI, OPCI confondus)
+- **Nombre de supports immobiliers** : 8 dont 3 SCPI (SCPI, SCI, OPCI confondus)
 - **Plafond par versement** : Non communiqué [à vérifier dans les conditions générales]
 - **Plafond cumulé** : Non communiqué [à vérifier]
 - **Pénalité de sortie** : Non communiqué [à vérifier]
@@ -109,7 +111,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - **Eurossima** : accessible à 100 % sans condition d'UC — aucun plafond en pourcentage communiqué
 - **Netissima** : accessible à 100 % sans condition d'UC pour l'accès standard
-- **Bonus de taux Netissima** : 30 % minimum en UC requis pour bénéficier de la bonification de taux (+1,50 % ponctuelle) — limite de 500 000 EUR par versement
+- **Bonus de taux Netissima** : 30 % minimum en UC requis pour bénéficier de la bonification de taux (+1,50 % ponctuelle) — limite de 500 000 EUR par versement — objectif 4,50 % net pour 2026-2027 (non garanti)
 
 ## Fiscalité
 <!-- Mis à jour : 2026-05-26 -->
@@ -136,8 +138,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Frais de gestion UC dégressifs selon l'encours (0,45 % dès 300 000 EUR)
   - Deux fonds euros accessibles sans contrainte, 100 % fonds euros possible
   - Netissima performant : 3,00 % net en 2025
-  - Offre étendue (450+ UC) incluant titres vifs, private equity, produits structurés
-  - 82 ETF disponibles
+  - Offre étendue (500+ UC) incluant titres vifs, private equity, produits structurés
+  - 83 ETF disponibles
   - 8 supports immobiliers (SCPI/SCI/OPCI)
   - Versement initial accessible dès 300 EUR
   - Gestion pilotée avec 11 profils (Lazard Frères Gestion et Generali Wealth Solutions)
@@ -148,6 +150,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Plateforme web vieillissante
   - Note clients limitée (3,9/5) sur un grand nombre d'avis
   - Rachat partiel minimum élevé : 1 500 EUR
+  - Seulement 3 SCPI disponibles (sur 8 supports immobiliers au total)
+  - Loyers SCPI : seulement 90 % reversés (source : sinvestir.fr)
   - Taxe sur transactions financières (0,40 %) sur les titres vifs éligibles (exonérée en 2026)
 - **Services complémentaires** : PER, SCPI (hors AV), produits structurés, private equity, contrat de capitalisation, FCPI, FIP, GFI
 

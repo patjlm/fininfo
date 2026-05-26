@@ -112,7 +112,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Fonds euros (Corum EuroLife) : 10 % maximum — investissement majoritaire en fonds euros impossible
   - SCPI : 55 % maximum du contrat (toutes SCPI confondues)
   - ETF : pas de limite spécifique mentionnée
-- **Conditions gestion pilotée** : 0,21 % de surcoût annuel — profils disponibles non communiqués [à vérifier]
+- **Conditions gestion pilotée** : 0,21 % de surcoût annuel (total 0,56 % / an sur UC) — 4 profils disponibles : Défensif (ETF 45 % | Obl. 45 % | Fonds € 10 %), Prudent (ETF 35 % | SCPI 30 % | Obl. 25 % | Fonds € 10 %), Équilibré (ETF 40 % | SCPI 30 % | Obl. 20 % | Fonds € 10 %), Dynamique (ETF 68 % | Obl. 20 % | SCPI 12 %)
 - **Rachat partiel minimum** : Non communiqué [à vérifier]
 - **Avance sur contrat** : Non communiqué [à vérifier]
 - **Clause bénéficiaire** : Non communiqué [à vérifier]
@@ -146,7 +146,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Avis clients** : 4,6/5 (289 avis — source : sinvestir.fr)
 - **App mobile** : non
 - **Contact** : téléphone (01 76 42 13 16), email (contact@louveinvest.com)
-- **Chat en ligne** : non
+- **Chat en ligne** : oui
 - **Ergonomie** : interface simple et claire
 - **Note SAV** : 5/5 (source : sinvestir.fr)
 
@@ -186,6 +186,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 - [Avenue des Investisseurs — Meilleures AV pour SCPI](https://www.avenuedesinvestisseurs.fr/meilleure-assurance-vie-scpi-comparatif/) (mis à jour 14 avril 2026)
 - [Louve Invest — Assurance vie Louve Infinity](https://www.louveinvest.com/assurance-vie)
+- [Louve Invest — Gestion pilotée](https://www.louveinvest.com/assurance-vie/unite-de-compte-assurance-vie/assurance-vie-gestion-pilotee)
 - [Louve Invest — Liste des ETF](https://www.louveinvest.com/assurance-vie#Liste-ETF)
 - [Louve Invest — Liste des SCPI](https://www.louveinvest.com/assurance-vie#Liste-SCPI)
 - [S'investir — Comparatif Assurance Vie](https://simulateurs.sinvestir.fr/les-comparateurs/assurance-vie)

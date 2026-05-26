@@ -11,7 +11,7 @@ derniere-verification: 2026-05-26
 > Compte-titres proposé par [XTB](https://www.xtb.com/fr) (Pologne / succursale française). Courtier en ligne fondé en 2004, coté à la Bourse de Varsovie depuis 2016, avec plus de 2 millions de clients dans le monde. Voir aussi la fiche [CTO (enveloppe)](../../enveloppes/cto.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : XTB S.A. Succursale française — 20 Avenue André Prothin, 92400 Courbevoie — RCS Paris 522 758 689
 - **Pays / régulation** : Pologne (KNF) — succursale française contrôlée par l'AMF (article L.621-9 du Code monétaire et financier) et l'ACPR, sous le N° 11533 LS
@@ -22,7 +22,7 @@ derniere-verification: 2026-05-26
 - **Année de création** : 2004
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Frais — Actions françaises** :
   - Ordre de 10 EUR : 0 EUR
@@ -51,19 +51,19 @@ derniere-verification: 2026-05-26
 - **Note frais** : 4,5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
-- **Actions** : + 6 800 sur 14 marchés (bourses américaines et européennes)
-- **ETF** : + 2 000
+- **Actions** : 7 300+ sur 14 marchés (bourses américaines et européennes)
+- **ETF** : 2 000+
 - **Crypto** : non en direct — uniquement via CFD
 - **Fractions d'actions/ETF** : oui — à partir de 10 EUR, droits fiduciaires sur fractions (pas de droit de vote sur les fractions)
 - **Investissement programmé (DCA)** : oui — plans d'investissement (Investment Plans) disponibles, conçus pour l'investissement passif en ETF
-- **Rémunération des liquidités** : oui — taux préférentiel les 90 premiers jours (2,30 % p.a. pour EUR au 2026-05-17), puis taux standard ; jusqu'à 100 000 EUR tous comptes confondus ; taux variable mis à jour chaque semaine ; intérêts calculés quotidiennement, versés mensuellement
+- **Rémunération des liquidités** : oui — taux préférentiel les 90 premiers jours : 2,30 % p.a. pour EUR, 3,40 % p.a. pour USD (au 2026-05-26) ; puis taux standard ; jusqu'à 100 000 EUR/USD par devise tous comptes confondus ; taux variable mis à jour chaque semaine ; intérêts calculés quotidiennement, versés mensuellement
 - **Plateforme de trading** : xStation 5 (web et mobile) — outils d'analyse, cours en temps réel, contenus pédagogiques, webinaires
 - **Note produits** : 2,5/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention réelle pour les actions et ETF entiers (droits de propriété, dividendes) — conservation via BNP Paribas en France (compte en nom collectif) ; fractions d'actions : droits fiduciaires (pas de droit de vote)
 - **Transfert de compte** : oui — transfert sortant à 25 EUR/ISIN (actions cotées en Espagne : 0,10 % min. 100 EUR/ISIN) ; transfert entrant gratuit
@@ -73,7 +73,7 @@ derniere-verification: 2026-05-26
 - **Note propriété** : 3,5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** : marché, limite, stop — sur la plateforme xStation 5
 - **Marchés accessibles** : 14 bourses (États-Unis, Allemagne, France, Royaume-Uni, Pologne, et autres bourses européennes)
@@ -81,7 +81,7 @@ derniere-verification: 2026-05-26
 - **Particularités fiscales** : compte français — IFU fourni, plus-values soumises au PFU (30 %) ou barème progressif ; XTB propose aussi un PEA séparément
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4/5 (2 300 avis)
 - **Contact** : téléphone (01 53 89 63 30), email (commercial@xtb.fr), sur place à Paris (Courbevoie)

@@ -67,7 +67,7 @@ derniere-verification: 2026-05-26
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui
 - **Redistribution loyers SCPI** : 90 % (réinvestis sur le fonds euros Retraite du contrat)
-- **Autres supports** : 2 fonds Private Equity, fonds ISR (article 8 et 9 SFDR), fonds structurés, fonds patrimoniaux, fonds obligataires et monétaires
+- **Autres supports** : 2 fonds Private Equity, fonds ISR (article 8 et 9 SFDR), fonds structurés (dont MIF Structure Rendement 6 — coupon conditionnel 6,10 %, disponible jusqu'au 15/07/2026), fonds patrimoniaux, fonds obligataires et monétaires
 - **Note UC** : 2,5/5
 
 ## Conditions et contraintes spécifiques
@@ -120,6 +120,7 @@ derniere-verification: 2026-05-26
 - **Gestionnaire** : OFI Invest AM (sur les conseils de la MIF)
 - **Profils disponibles** : Prudent (70/30), Équilibré (50/50), Dynamique (30/70), Offensif (10/90) — ratio fonds euros / UC
 - **Performances 2025** : Prudent 3,98 % — Équilibré 4,52 % — Dynamique 5,13 % — Offensif 6,29 %
+- **Performances 2024** : Prudent 4,58 % — Équilibré 6,15 % — Dynamique 7,46 % — Offensif 10,06 %
 - **Supports** : 100 % labellisés ISR (article 8 ou 9 SFDR), 46 supports sélectionnés
 - **Surcoût** : 0,20 %/an (total 0,80 % gestion UC sous mandat)
 - **Minimum** : 500 EUR
@@ -135,7 +136,6 @@ derniere-verification: 2026-05-26
 ## Liste des ETF disponibles
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.mifassur.com/retraite/mif-per-retraite/gestion-libre/ -->
-<!-- Note : site mifassur.com indisponible (504) le 2026-05-26 — liste non re-vérifiable ce jour -->
 
 [liste partielle — 6 supports sur 7 identifiés avec ISIN — le site mifassur.com charge la liste dynamiquement (JavaScript), non extractible par WebFetch]
 
@@ -152,7 +152,6 @@ derniere-verification: 2026-05-26
 ## Liste des SCPI disponibles
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.mifassur.com/retraite/mif-per-retraite/investir-en-scpi-per/ -->
-<!-- Note : site mifassur.com indisponible (504) le 2026-05-26 — liste non re-vérifiable ce jour -->
 
 | Nom | Société de gestion | Perf. 2025 | Perf. 2024 | Perf. 2023 | Contraintes spécifiques |
 |---|---|---|---|---|---|
@@ -201,7 +200,7 @@ derniere-verification: 2026-05-26
 - [S'investir — Comparatif PER](https://simulateurs.sinvestir.fr/les-comparateurs/per)
 - [MIF — MIF PER Retraite](https://www.mifassur.com/retraite/mif-per-retraite/)
 - [MIF — Gestion libre PER](https://www.mifassur.com/retraite/mif-per-retraite/gestion-libre/)
-- [MIF — Gestion sous mandat PER](https://www.mifassur.com/retraite/mif-per-retraite/gestion-sous-mandat/)
+- [MIF — Gestion sous mandat PER](https://www.mifassur.com/retraite/mif-per-retraite/gestion-sous-mandat/) (performances 2024 et 2025 vérifiées le 2026-05-26)
 - [MIF — Gestion à horizon PER](https://www.mifassur.com/retraite/mif-per-retraite/gestion-a-horizon/)
 - [MIF — Frais contrats assurance-vie et PER](https://www.mifassur.com/frais-contrats-assurance-vie-et-per-mif/)
 - [MIF — SCPI PER](https://www.mifassur.com/retraite/mif-per-retraite/investir-en-scpi-per/)

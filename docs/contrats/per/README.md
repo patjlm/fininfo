@@ -48,5 +48,5 @@ Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
 | [Nalo PER](nalo.md) | Nalo | Apicil | 0 % | 1,35 % | 0 % |
 | [PER Placement-direct](placement-direct.md) | Placement Direct | SwissLife Assurance Retraite | 0 % | 0,60 % | 0 % (0,10 % sur ETF) |
 | [Yomoni Retraite+](yomoni-retraite-plus.md) | Yomoni | Spirica (filiale du Crédit Agricole Assurances) | 0 % | 0,30 % (0,50 % max contractuel) | 0 % |
-| [Yomoni Retraite](yomoni-retraite.md) | Yomoni | Crédit Agricole Titres (teneur de compte) | 0 % | 0,30 % | 0 % |
+| [Yomoni Retraite](yomoni-retraite.md) | Yomoni | au choix du client pour la rente (Suravenir partenaire par défaut — groupe Arkéa) | 0 % | 0,30 % | 0 % |
 <!-- END GENERATED -->

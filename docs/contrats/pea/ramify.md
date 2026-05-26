@@ -3,7 +3,7 @@ nom: Ramify PEA
 type: contrat-pea
 slug: ramify
 courtier: Ramify
-derniere-verification: 2026-05-16
+derniere-verification: 2026-05-26
 ---
 
 # Ramify — PEA
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-16
 > PEA en gestion conseillée proposé par [Ramify](https://www.ramify.fr/) (France), via Nelia Titres (Groupe DLPK).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Ramify SAS (ORIAS 20009289 — COA, MOBSP, CIF)
 - **Teneur de compte** : Nelia Titres (Groupe DLPK), établissement régulé en France et en Europe
@@ -28,7 +28,7 @@ derniere-verification: 2026-05-16
 - **Adresse** : 40 rue Blanche, 75009 Paris
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Grille tarifaire** : pas de frais de courtage classiques — le PEA Ramify fonctionne exclusivement en gestion conseillée avec des frais de gestion annuels tout compris
 - **Frais de gestion annuels** (source : [ramify.fr/offres](https://www.ramify.fr/offres)) :
@@ -50,7 +50,7 @@ derniere-verification: 2026-05-16
 - **Note frais divers** : 5/5 (sinvestir)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : non — pas d'achat d'actions individuelles, uniquement des ETF sélectionnés par l'équipe de recherche Ramify
 - **ETF** : ETF éligibles au PEA, sélectionnés et gérés par Ramify (diversifiés, à frais réduits, forte liquidité)
@@ -61,7 +61,7 @@ derniere-verification: 2026-05-16
 - **Note produits** : 2,5/5 (sinvestir)
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe)
 - **Transfert de PEA entrant** : oui, dès 5 000 EUR — procédure en ligne, accompagnement par l'équipe Ramify, remboursement des frais de transfert de l'ancien établissement
@@ -71,7 +71,7 @@ derniere-verification: 2026-05-16
 - **Note propriété** : 4/5 (sinvestir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Gestion conseillée uniquement** : l'investisseur ne choisit pas les ETF ni ne passe d'ordres — l'équipe de recherche Ramify construit l'allocation et soumet des recommandations d'arbitrage
 - **Pas d'actions individuelles** : le PEA Ramify est limité aux ETF
@@ -86,7 +86,7 @@ derniere-verification: 2026-05-16
 - **Résident fiscal** : réservé aux personnes physiques résidentes fiscales en France
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,7/5 (167 avis — sinvestir)
 - **Note globale affichée par Ramify** : 4,9/5 (100 000+ utilisateurs)
@@ -96,7 +96,7 @@ derniere-verification: 2026-05-16
 - **Note SAV** : 3,98/5 (sinvestir)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,27/5 (sinvestir)
 - **Points forts** :

@@ -69,12 +69,12 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : Notice mars 2026 — Annexe 2 -->
 
-- **Nombre total d'UC à la carte** : 10 (3 SCPI + 4 fonds obligataires + 2 fonds Sienna Gestion + 1 fonds daté CBE) + 1 fonds euros = 11 supports ; + 1 fonds mixte (formule Rosetta uniquement)
+- **Nombre total d'UC à la carte** : 9 (3 SCPI + 4 fonds obligataires + 2 fonds Sienna Gestion) + 1 fonds euros = 10 supports ; + 1 fonds mixte (formule Rosetta uniquement) — le fonds daté CBE n'est plus disponible à la souscription dans le PERLife (site officiel, mai 2026)
 - **ETF** : aucun en direct (exposition actions indirecte via CORUM Rosetta — formule Rosetta uniquement)
 - **SCPI** : 3 — CORUM Origin, CORUM XL, CORUM Eurion
 - **Fonds obligataires** : 4 — BCO, CORUM BEHY, CORUM Visio, CORUM Tellia
 - **Fonds verts et solidaires** : 2 — Sienna Obligations Vertes ISR (label Greenfin), Sienna Flexi Taux Solidaire ISR (label Finansol)
-- **Fonds daté** : 1 — CBE (CORUM Butler Entreprises) — ouvert à la commercialisation selon Annexe 2 de la notice mars 2026 [à vérifier si les souscriptions sont rouvertes]
+- **Fonds daté** : CBE (CORUM Butler Entreprises) — non disponible à la souscription dans le PERLife (absent de la page placements officielle, mai 2026) ; un nouveau fonds CORUM Butler Entreprises 2029 existe mais n'est pas non plus listé dans le PERLife
 - **Fonds mixte** : 1 — CORUM Rosetta (accessible uniquement via la formule Rosetta en gestion profilée)
 - **Taux de redistribution SCPI** : 100 % des loyers reversés ; option de redirection des dividendes disponible (vers un support non immobilier, sans frais supplémentaires, sauf frais liés à l'UC cible)
 - **Titres vifs** : non
@@ -111,7 +111,7 @@ derniere-verification: 2026-05-26
 
 ## Liste des supports disponibles
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : Notice mars 2026 — Annexe 2 (performances brutes 2024 et frais) ; performances 2025 depuis https://www.corum.fr/nos-fonds-obligataires (du 30/12/2024 au 29/12/2025) -->
+<!-- Source : Notice mars 2026 — Annexe 2 (performances brutes 2024 et frais) ; performances 2025 depuis https://www.corum.fr/nos-fonds-obligataires (du 30/12/2024 au 29/12/2025) ; vérification page officielle placements mai 2026 -->
 
 ### Fonds euros
 
@@ -137,10 +137,11 @@ derniere-verification: 2026-05-26
 | CORUM BEHY (Butler European High Yield) | IE00BMCT1P08 | 9,12 % | 1,52 % (dont 1,00 %) | 7,21 % | 3,79 % | 2/7 | Article 8 |
 | CORUM Visio | IE00BK72TN42 | 5,69 % | 1,30 % (dont 0,75 %) | 4,00 % | 2,88 % | 2/7 | Article 8 |
 | CORUM Tellia | IE00BK72TL28 | 8,11 % | 1,70 % (dont 1,00 %) | 6,02 % | 2,77 % | 2/7 | Label ISR |
-| CBE (CORUM Butler Entreprises) | IE000WOATID0 | 8,23 % | 1,00 % (dont 0,70 %) | 6,84 % | Non communiqué | 3/7 | — |
 
 > Frais de souscription jusqu'à 5 % s'appliquent à chaque versement/arbitrage vers ces fonds.
 > Performances 2025 brutes (du 30/12/2024 au 29/12/2025) — source : https://www.corum.fr/nos-fonds-obligataires
+>
+> **Non disponible** : CBE (CORUM Butler Entreprises, IE000WOATID0) — absent de la page officielle des placements PERLife (mai 2026). Un fonds CORUM Butler Entreprises 2029 (FR0013344942) existe mais n'est pas non plus accessible dans le PERLife.
 
 ### Fonds verts et solidaires (Sienna Gestion)
 

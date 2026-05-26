@@ -19,8 +19,8 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Placement Direct (filiale du groupe SwissLife)
-- **Assureur** : SwissLife Assurance Retraite — FRPS, filiale à 100 % de SwissLife Assurance et Patrimoine (SCR SLAP 2024 : 147,7 %)
-- **Type** : Assurantiel (contrat collectif souscrit par l'association AGIS auprès de SwissLife Assurance Retraite)
+- **Assureur** : SwissLife Assurance Retraite (FRPS — Fonds de retraite professionnelle supplémentaire, filiale à 100 % de SwissLife Assurance et Patrimoine, SCR SLAP 2024 : 147,7 %)
+- **Type** : Assurantiel (contrat collectif souscrit par l'association CERENA/AGIS auprès de SwissLife Assurance Retraite)
 - **Modes de gestion** : libre, pilotée (à horizon retraite)
 - **Disponibilité** : en ligne uniquement
 - **Versement minimum** : 900 EUR
@@ -34,11 +34,12 @@ derniere-verification: 2026-05-26
 - **Gestion fonds euros** : 0,60 %
 - **Arbitrage** : 0 %
 - **Rente (arrérages)** : 3 %
-- **Surcoût gestion pilotée** : 0,20 % (soit 0,80 % au total)
+- **Surcoût gestion pilotée** : 0 % au niveau du contrat (frais de gestion du plan identiques : 0,60 %) — les frais des fonds sous-jacents sont en sus (frais propres des UC utilisées)
 - **Autres frais** :
   - Droit d'entrée association CERENA/AGIS : 25 EUR (unique)
   - Frais sur encours après décès : 0,60 % (fonds euros et UC)
 - **Note frais** : 4/5
+<!-- Source : Annexe frais PER Placement-direct (SwissLife, avril 2025) -->
 
 ## Fonds euros
 <!-- Mis à jour : 2026-05-26 -->
@@ -62,10 +63,10 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Nombre total d'UC** : + 1 000
-- **ETF** : 57 [à vérifier — guide officiel mentionne 59 sur Placement-direct Vie, même gamme SwissLife] (voir liste ci-dessous)
+- **ETF** : 57-59 (guide Placement Direct cite 59 pour le contrat Vie, même gamme SwissLife — liste complète non accessible en ligne) (voir liste ci-dessous)
 - **SCPI** : 13 (limité à 40 % du versement, max 50 000 EUR par SCPI)
 - **SCI** : 12 (voir liste ci-dessous)
-- **OPCI** : 2 [à vérifier — non listés explicitement sur la page allocation libre mai 2026]
+- **OPCI** : non disponible (absent de la page allocation libre — la catégorie "fonds immobilier" dans l'annexe frais inclut OPCI, SCPI et SCI, mais aucun OPCI n'est listé sur le site mai 2026)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (options d'arbitrage automatique gratuites)
 - **Autres supports** : fonds obligataires, fonds monétaires, matières premières
@@ -89,15 +90,15 @@ derniere-verification: 2026-05-26
   - SCPI non éligibles aux versements programmés
 - **Limites d'investissement** :
   - SCPI : 40 % du versement maximum, 50 000 EUR max par SCPI
-  - SC/SCI : 40 % du versement maximum [à vérifier]
-  - OPCI : sans limite [à vérifier]
+  - SC/SCI : 40 % du versement maximum [à vérifier sur site officiel]
   - Fonds euros : 100 % possible (mais rendement dégradé si UC < 40 %)
 - **Conditions gestion pilotée** :
-  - 3 profils : Sérénité (risque 3,5/7), Harmonie (risque 3,9/7), Ambition (risque 4,1/7)
+  - 3 profils actuels (depuis le 27/11/2024) : Sérénité (risque 3,5/7), Harmonie (risque 3,9/7), Ambition (risque 4,1/7)
+  - Anciens profils (commercialisés du 02/11/2021 au 26/11/2024) : Prudent, Equilibre, Dynamique — toujours actifs pour les souscripteurs existants
   - Gestion à horizon retraite : allocation sécurisée automatiquement chaque année à l'approche de la retraite
   - Âge de départ prévisionnel à renseigner (entre 62 et 80 ans)
-  - Fonds utilisés : gamme SLF (Swiss Life Funds) et SLGP
-  - Surcoût : 0,20 % (total 0,80 %/an)
+  - Fonds utilisés : gamme SLF (Swiss Life Funds) et fonds ESG sélectionnés par SwissLife
+  - Frais de gestion du contrat : 0,60 % (identiques à la gestion libre) — pas de surcoût au niveau du plan
   - Performances non communiquées publiquement
 - **Transfert entrant** : sans frais de versement (0 %)
 - **Transfert sortant** : 1 % si < 5 ans, gratuit après 5 ans (loi PACTE)
@@ -322,7 +323,7 @@ derniere-verification: 2026-05-26
 - **Points forts** :
   - Frais très compétitifs : 0 % versement, 0 % arbitrage, 0,60 % gestion
   - Fonds euros performant : jusqu'à 3,25 % en 2024 et 2025 avec ≥ 60 % UC (3,45 % si encours > 250 000 EUR)
-  - Large gamme : + 1 000 UC dont 57 ETF, 13 SCPI et 12 SCI
+  - Large gamme : + 1 000 UC dont 57-59 ETF, 13 SCPI et 12 SCI
   - 100 % des loyers SCPI reversés
   - Options d'arbitrage automatique gratuites
   - Rééquilibrage automatique disponible

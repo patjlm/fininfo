@@ -20,7 +20,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Distributeur** : Linxea (plus de 200 000 clients)
-- **Assureur** : Generali Vie (SA, capital 336,9 M EUR, RCS Paris 602 062 481, régulée ACPR)
+- **Assureur** : Generali Vie (SA, capital 341,1 M EUR, RCS Paris 602 062 481, régulée ACPR — siège : 89 rue Taitbout, 75009 Paris)
 - **Type** : Multisupports — contrat de groupe
 - **Modes de gestion** : Libre, pilotée (OTEA Capital ou Carmignac), mixte
 - **Disponibilité** : En ligne exclusivement
@@ -62,7 +62,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Netissima : 100 % possible sans condition UC jusqu'au 30/06/2026 ; 50 % max par la suite
   - Eurossima : 100 % possible sans condition UC
   - Arbitrage et versement vers les deux fonds acceptés
-- **Note fonds euros** : 4,5/5
+- **Note fonds euros** : 4,25/5
 
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
@@ -200,14 +200,14 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 | [IE00BYZTVV78](../../actifs/etf/IE00BYZTVV78.md) | iShares € Corp Bd 0-3yr ESG SRI ETF€Dist | Obligations EUR Emprunts Privés Court Terme | 0.12 % |
 | [IE00B4L60045](../../actifs/etf/IE00B4L60045.md) | iShares € Corp Bond 1-5yr ETF EUR Dist | Obligations EUR Emprunts Privés Court Terme | 0.20 % |
 | [LU2356220926](../../actifs/etf/LU2356220926.md) | Amundi Euro Government Green Bd ETF Acc | Obligations EUR Emprunts d'Etat | 0.20 % |
-| [LU2244387457](../../actifs/etf/LU2244387457.md) | BNPP E JPM ESG EMU GovtBd IG 3-5Y ETF | Obligations EUR Emprunts d'Etat | 0.15 % |
+| [LU2244387457](../../actifs/etf/LU2244387457.md) | BNPP E JPM Tltd EMU GovtBd IG 3-5Y ETF | Obligations EUR Emprunts d'Etat | 0.15 % |
 | [LU0290356954](../../actifs/etf/LU0290356954.md) | Xtrackers Eurz Govt Bd 3-5 ETF 1C | Obligations EUR Emprunts d'Etat | 0.15 % |
 | [LU0290357259](../../actifs/etf/LU0290357259.md) | Xtrackers Eurz Govt Bd 7-10 ETF 1C | Obligations EUR Emprunts d'Etat | 0.48 % |
 | [LU0290355717](../../actifs/etf/LU0290355717.md) | Xtrackers Eurz Govt Bd ETF 1C | Obligations EUR Emprunts d'Etat | 0.48 % |
 | [IE00B4WXJJ64](../../actifs/etf/IE00B4WXJJ64.md) | iShares Core € Govt Bond ETF EUR Dist | Obligations EUR Emprunts d'Etat | 0.07 % |
 | [IE00B4WXJG34](../../actifs/etf/IE00B4WXJG34.md) | iShares € Govt Bond 5-7yr ETF EUR Dist | Obligations EUR Emprunts d'Etat | 0.15 % |
 | [IE00B1FZS806](../../actifs/etf/IE00B1FZS806.md) | iShares € Govt Bond 7-10yr ETF EUR Dist | Obligations EUR Emprunts d'Etat | 0.15 % |
-| [LU2533810862](../../actifs/etf/LU2533810862.md) | BNPP E JPM ESG EMU Govt Bd IG1-3Y ETFCap | Obligations EUR Emprunts d'Etat Court Terme | 0.15 % |
+| [LU2533810862](../../actifs/etf/LU2533810862.md) | BNPP E JPM Tltd EMU Govt Bd IG1-3YETFCap | Obligations EUR Emprunts d'Etat Court Terme | 0.15 % |
 | [LU0290356871](../../actifs/etf/LU0290356871.md) | Xtrackers Eurz Govt Bd 1-3 ETF 1C | Obligations EUR Emprunts d'Etat Court Terme | 0.10 % |
 | [IE00B14X4Q57](../../actifs/etf/IE00B14X4Q57.md) | iShares € Govt Bond 1-3yr ETF EUR Dist | Obligations EUR Emprunts d'Etat Court Terme | 0.15 % |
 | [LU2244386053](../../actifs/etf/LU2244386053.md) | BNP Prbs Esy € HY SRI Fssl Fr ETF € Acc | Obligations EUR Haut Rendement | 0.25 % |
@@ -219,7 +219,7 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 | [IE00B4WXJH41](../../actifs/etf/IE00B4WXJH41.md) | iShares € Govt Bond 10-15yr ETF EUR Dist | Obligations EUR Long Terme | 0.15 % |
 | [IE00BSKRJX20](../../actifs/etf/IE00BSKRJX20.md) | iShares € Govt Bond 20y TgtDur ETF€ Dist | Obligations EUR Long Terme | 0.15 % |
 | [IE00BCRY6557](../../actifs/etf/IE00BCRY6557.md) | iShares € Ultrashort Bond ETF EUR Dist | Obligations EUR Très Court Terme | 0.09 % |
-| [LU0290357929](../../actifs/etf/LU0290357929.md) | Xtrackers Global Inf-Lnk Bd ETF 1C EUR | Obligations Internationales Indexées Couvertes en EUR | 0.25 % |
+| [LU0290357929](../../actifs/etf/LU0290357929.md) | Xtrackers Global Inf-Lnk Bd ETF 1C EUR | Obligations Internationales Indexées sur l'Inflation Couvertes en EUR | 0.25 % |
 | [IE00BJ5JPH63](../../actifs/etf/IE00BJ5JPH63.md) | iShares JP Morgan $ EM Bd ETF EUR H Acc | Obligations Marchés Emergents Dominante EUR | 0.50 % |
 | [LU2616774076](../../actifs/etf/LU2616774076.md) | BNPP E USD Corp Bd SRI Fssl Fr ETF $ Cap | Obligations USD Emprunts Privés | 0.20 % |
 | [IE00B1FZS798](../../actifs/etf/IE00B1FZS798.md) | iShares $ Treasury Bd 7-10yr ETFUSD Dist | Obligations USD Emprunts d'Etat | 0.07 % |
@@ -343,7 +343,7 @@ Source : API Morningstar Linxea (universe `FEEUR$$ALL_842`), 140 ETF au 2026-05-
 - **App mobile** : non
 - **Contact** : téléphone (01 45 67 34 22, lun-jeu 9h-18h, ven 9h-17h), email (serviceclient@linxea.com / gestion@linxea.com / reclamation@linxea.com), chat en ligne, courrier
 - **Ergonomie** : plateforme intuitive et agréable ; gestion 100 % en ligne
-- **Note SAV** : 4,5/5
+- **Note SAV** : 5/5
 
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->

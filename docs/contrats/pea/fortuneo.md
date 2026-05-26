@@ -12,7 +12,7 @@ derniere-verification: 2026-05-26
 > Règles générales du PEA : voir [enveloppe PEA](../../enveloppes/pea.md).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Fortuneo
 - **Maison mère** : Crédit Mutuel Arkéa
@@ -28,7 +28,7 @@ derniere-verification: 2026-05-26
 - **Ouverture** : un CTO et un compte courant sont ouverts automatiquement avec le PEA
 
 ## Frais de courtage
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.fortuneo.fr/bourse/tarifs -->
 
 - **Marchés couverts par la grille** : Euronext Paris, Bruxelles, Amsterdam et Equiduct
@@ -58,12 +58,14 @@ derniere-verification: 2026-05-26
 - **Exemples concrets (tarif Starter)** :
   - 3 ordres de 100 EUR/mois : 1 x 0 EUR + 2 x 0,35 % x 100 EUR = 0,70 EUR
   - 3 ordres de 400 EUR/mois : 1 x 0 EUR + 2 x 0,35 % x 400 EUR = 2,80 EUR
-- **Offres promotionnelles** : cashback mensuel sur le 1er ordre d'achat d'ETF Amundi (800 EUR - 100 000 EUR), jusqu'au 31/05/2026 [à vérifier]
+- **Offres promotionnelles** :
+  - Cashback mensuel sur le 1er ordre d'achat d'ETF Amundi (800 EUR - 100 000 EUR) du 01/01/2025 au 31/05/2026
+  - Remboursement des frais de transfert entrant à 100 % jusqu'à 2 000 EUR (minimum 5 000 EUR d'actifs transférés)
 - **Note frais de courtage** : 4,5/5 (source : S'investir)
 - **Note frais divers** : 5/5 (source : S'investir)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.fortuneo.fr/bourse/plan-epargne-actions -->
 
 - **Actions** : actions européennes éligibles au PEA (siège en UE, Islande, Norvège)
@@ -76,7 +78,7 @@ derniere-verification: 2026-05-26
 - **Note produits** : 4/5 (source : S'investir)
 
 ## Gestion sous mandat
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.fortuneo.fr/bourse/gestion-sous-mandat -->
 
 - **Profil disponible** : Mandat Dynamique uniquement (horizon 8 ans)
@@ -91,7 +93,7 @@ derniere-verification: 2026-05-26
 - **Garantie** : aucune garantie en capital
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : oui (détention directe)
 - **Transfert de PEA entrant** : possible
@@ -100,10 +102,11 @@ derniere-verification: 2026-05-26
 - **Note propriété** : 4/5 (source : S'investir)
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
+<!-- Source : https://www.fortuneo.fr/bourse/tarifs -->
 
 - **Montant minimum par ordre** : 0 EUR
-- **Types d'ordres** : Non communiqué [à vérifier]
+- **Types d'ordres** : Ordres Intelligents® (protection des positions avec optimisation des gains) ; types classiques non détaillés sur le site
 - **Marchés accessibles** : Euronext (Paris, Bruxelles, Amsterdam), Equiduct
 - **Plafond de versement PEA** : 150 000 EUR (la valorisation peut dépasser ce montant)
 - **Retrait avant 5 ans** : entraîne la clôture du PEA
@@ -113,7 +116,7 @@ derniere-verification: 2026-05-26
 - **Frais de changement de formule** : 60 EUR
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 3,9/5 (14 756 avis)
 - **App mobile** : oui
@@ -122,7 +125,7 @@ derniere-verification: 2026-05-26
 - **Note SAV** : 4/5 (source : S'investir)
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-16 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 4,64/5 (source : S'investir)
 - **Points forts** :
@@ -150,6 +153,8 @@ derniere-verification: 2026-05-26
 - Convient aussi bien aux investisseurs passifs (premier ordre mensuel gratuit jusqu'à 500 EUR) qu'aux investisseurs plus actifs passant plusieurs ordres
 - Mérite d'être une banque en ligne complète (compte courant, AV, CTO) : idéal pour centraliser tous ses comptes
 - Avantage de la fiabilité et de l'ancienneté (depuis 2000, filiale Crédit Mutuel Arkéa) pour un PEA destiné au long terme
+- Interface jugée "old school" par rapport à la concurrence, passage d'ordres moins intuitif
+- Pas d'automatisation gratuite : nécessite davantage d'actions manuelles
 - **Pour qui** : investisseurs passifs à actifs cherchant une combinaison frais compétitifs + service client + banque complète ; aussi recommandé comme référence pour ceux souhaitant tout regrouper dans un seul établissement
 
 ## Sources

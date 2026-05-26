@@ -67,7 +67,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **SCPI** : 13 (source : sinvestir.fr)
 - **Titres vifs (actions)** : oui — plus de 300 actions en direct (source : placement-direct.fr) ; 296 selon sinvestir.fr
 - **Rééquilibrage automatique** : oui (arbitrage automatique gratuit : réallocation semestrielle/annuelle, investissement progressif, arbitrage des plus-values)
-- **Autres supports** : SCI, OPCVM (fonds actifs), private equity, fonds obligataires
+- **Autres supports** : SCI, OPCVM (fonds actifs), fonds obligataires (le private equity n'est pas mentionné sur le site officiel)
 - **Taux redistribution loyers SCPI** : 100 %
 - **Note UC** : 5/5 (source : sinvestir.fr)
 
@@ -143,12 +143,14 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 
 ### SCPI — Règles spécifiques
 
-- **Limite par versement** : [à vérifier — les règles SwissLife pour l'AV Darjeeling ne sont pas publiées en ligne ; le PER SwissLife impose 40 % max, vérifier si la même règle s'applique à l'AV]
-- **Plafond par SCPI** : [à vérifier — le PER SwissLife impose 50 000 EUR max par SCPI]
-- **Arbitrage SCPI** : [à vérifier — le PER SwissLife interdit les arbitrages avant la 4e année révolue]
-- **Versements programmés sur SCPI** : [à vérifier — non éligibles sur le PER SwissLife]
+- **Limite par versement** : 40 % max du montant de chaque versement/arbitrage investi en SC/SCI et SCPI (source : placement-direct.fr)
+- **Plafond par SCPI** : 50 000 EUR max par SCPI (source : placement-direct.fr)
+- **Arbitrage fonds euros → SCPI** : [à vérifier — non précisé sur le site officiel]
+- **Versements programmés sur SCPI** : non autorisés — les SCPI ne peuvent pas être sélectionnées pour des versements programmés (source : placement-direct.fr)
+- **Délai avant arbitrage SCPI** : [à vérifier — non précisé sur le site officiel]
+- **Pénalité de sortie SCPI** : [à vérifier — non précisé sur le site officiel]
 - **Redistribution des loyers** : 100 % (réinvestis sur le contrat)
-- **Commission de retrait** : non retenue sur le contrat [à vérifier — à confirmer dans les conditions générales de l'AV]
+- **Date d'entrée en jouissance** : premier jour du mois suivant l'encaissement de la souscription
 
 ### Fonds euros — Règles spécifiques
 
@@ -199,7 +201,8 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
   - Surcoût gestion déléguée de 0,40 % / an (0,70 % pour « 100 % Trackers »)
   - Souscription non disponible pour les non-résidents, mineurs, > 80 ans, co-souscripteurs
   - Rendement du fonds euros conditionné à la part d'UC détenue (pénalisant les profils prudents)
-  - Liste des SCPI disponibles limitée (13 SCPI, peu de très bonnes SCPI selon sinvestir.fr)
+  - Liste des SCPI disponibles limitée (13 SCPI, peu de très bonnes SCPI selon sinvestir.fr) ; versements programmés non autorisés sur SCPI
+  - Pas de private equity disponible dans le contrat
 - **Services complémentaires** : PER Placement Direct, compte à terme
 
 ## Sources

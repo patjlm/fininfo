@@ -123,11 +123,11 @@ derniere-verification: 2026-05-26
 
 ### SCPI — Règles spécifiques
 
-- **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI [à vérifier — par analogie avec les CGU Spirica standard ; à confirmer sur l'avenant SCPI]
+- **Limite par versement** : 50 % max du montant de chaque opération (versement ou arbitrage) en SCPI
 - **Limite cumulée** : 1 000 000 EUR de versements cumulés nets sur l'ensemble des SCPI du contrat
 - **Limites spécifiques par SCPI** : Efimmo et [Immorente](../../actifs/scpi/immorente.md) : 50 000 EUR max par acte
 - **Versements programmés sur SCPI** : non autorisés
-- **Arbitrage fonds euros → SCPI** : possible [à vérifier — autorisé sur le contrat Spirica Spirit PER, à confirmer sur meilleurtaux Liberté PER]
+- **Arbitrage fonds euros → SCPI** : possible (confirme l'avenant : accessible par versement initial, versement complémentaire ou arbitrage)
 - **Pénalité de sortie** : 3 % sur les sommes brutes rachetées si désinvestissement dans les 3 ans suivant l'investissement ; 0 % au-delà
 - **Redistribution des loyers** : 100 %
 
@@ -179,9 +179,9 @@ derniere-verification: 2026-05-26
 
 ## Liste des ETF disponibles
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere -->
+<!-- Source : https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere (AF9402 – 03/06/2024) -->
 
-~80 ETF disponibles — frais d'arbitrage ETF : 0,10 %
+~80 ETF disponibles — frais d'arbitrage ETF : 0,06 % depuis le 18/05/2026 (était 0,10 % avant)
 
 | Nom | ISIN | Catégorie |
 |---|---|---|
@@ -259,6 +259,7 @@ derniere-verification: 2026-05-26
 | BNP Paribas Easy ECPI Global ESG Blue Economy UCITS ETF Cap | [LU2194447293](../../actifs/etf/LU2194447293.md) | Actions Monde Océans ESG |
 | BNP Paribas Easy ECPI Global ESG Infrastructure UCITS ETF EUR | [IE000FF2EBQ8](../../actifs/etf/IE000FF2EBQ8.md) | Actions Monde Infrastructure ESG |
 | BNP Paribas Easy Low Carbon 100 Europe PAB UCITS ETF | [LU1377382368](../../actifs/etf/LU1377382368.md) | Actions Europe Bas Carbone |
+| Vanguard FTSE Developed Europe UCITS ETF | [IE00B945VV12](../../actifs/etf/IE00B945VV12.md) | Actions Europe développée |
 | Vanguard LifeStrategy 20% Equity UCITS ETF EUR Acc | [IE00BMVB5K07](../../actifs/etf/IE00BMVB5K07.md) | Allocation Prudente |
 | Vanguard LifeStrategy 40% Equity UCITS ETF EUR Acc | [IE00BMVB5M21](../../actifs/etf/IE00BMVB5M21.md) | Allocation Modérée |
 | Vanguard LifeStrategy 60% Equity UCITS ETF EUR Acc | [IE00BMVB5P51](../../actifs/etf/IE00BMVB5P51.md) | Allocation Modérée |
@@ -267,18 +268,23 @@ derniere-verification: 2026-05-26
 | Xtrackers IE Physical Gold EUR Hedged ETC | [DE000A2T5DZ1](../../actifs/etf/DE000A2T5DZ1.md) | Matières premières Or couvert EUR |
 | Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C | [LU0411078552](../../actifs/etf/LU0411078552.md) | Actions USA levier x2 |
 | Xtrackers S&P 500 Inverse Daily Swap UCITS ETF 1C | [LU0322251520](../../actifs/etf/LU0322251520.md) | Actions USA inverse x1 |
+| Amundi MSCI EMU ESG Leaders Select UCITS ETF | [LU1602144575](../../actifs/etf/LU1602144575.md) | Actions Zone Euro ESG |
+| Amundi Euro High Yield Bond ESG UCITS ETF Dist | [LU1215415214](../../actifs/etf/LU1215415214.md) | Obligations EUR Haut Rendement ESG |
+| Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc | [LU1650491282](../../actifs/etf/LU1650491282.md) | Obligations EUR Indexées Inflation |
+| iShares Core EUR Corporate Bond UCITS ETF | [IE00B3F81R35](../../actifs/etf/IE00B3F81R35.md) | Obligations EUR Entreprises |
+| Amundi Japan TOPIX II UCITS ETF | [FR0011475078](../../actifs/etf/FR0011475078.md) | Actions Japon |
 
-> Liste reconstituée à partir de l'annexe financière Spirica et croisée avec l'API Morningstar du contrat Linxea Spirit PER (même assureur Spirica, gamme ETF quasi identique). Consulter l'[annexe financière officielle](https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere) pour la liste à jour.
+> Liste reconstituée à partir de l'annexe financière Spirica (AF9402 – 03/06/2024) et enrichie des supports ajoutés depuis. Consulter l'[annexe financière officielle](https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere) pour la liste à jour.
 
 ## Liste des SCPI disponibles
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica -->
+<!-- Source : https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica (avenant Spirica 2021) ; https://placement.meilleurtaux.com/images/docs-assureur/spirica/meilleurtaux-liberte-per-annexe-financiere (AF9402 – 03/06/2024) -->
 
 | Nom | Type | Société de gestion | Contraintes spécifiques |
 |---|---|---|---|
 | Accès Valeur Pierre | SCPI | BNP Paribas REIM | — |
 | [Activimmo](../../actifs/scpi/activimmo.md) | SCPI | Alderan | — |
-| Altixia Cadence XII | SCPI | Altixia REIM | — |
+| Altixia Cadence XII | SCPI | Altixia REIM | distribution mensuelle |
 | Atream Hôtels | SCPI | Atream | — |
 | Edissimmo | SCPI | Amundi Immobilier | — |
 | Efimmo | SCPI | Sofidy | 50 000 EUR max par acte |
@@ -290,15 +296,17 @@ derniere-verification: 2026-05-26
 | LF Europimmo | SCPI | La Française REM | — |
 | LF Grand Paris Patrimoine | SCPI | La Française REM | — |
 | Patrimmo Commerce | SCPI | Praemia REIM (ex-Primonial) | — |
-| Patrimmo Croissance | SCPI | Praemia REIM (ex-Primonial) | — |
+| Patrimmo Croissance | SCPI | Praemia REIM (ex-Primonial) | aucun revenu distribué (politique d'investissement) |
 | PF Grand Paris | SCPI | Perial AM | — |
+| PFO | SCPI | Perial AM | — |
 | PFO2 | SCPI | Perial AM | — |
 | Pierval Santé | SCPI | Euryale AM | — |
 | Primovie | SCPI | Praemia REIM (ex-Primonial) | — |
 | [Primopierre](../../actifs/scpi/primopierre.md) | SCPI | Praemia REIM (ex-Primonial) | — |
 | Rivoli Avenir Patrimoine | SCPI | Amundi Immobilier | — |
+| Sélectinvest 1 | SCPI | La Française REM | — |
 
-> Contraintes communes : plafond 1 000 000 EUR cumulés, pénalité 3 % si désinvestissement < 3 ans, 100 % des loyers reversés. Voir [avenant SCPI Spirica](https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica).
+> Contraintes communes : 50 % max du montant de chaque opération en SCPI, plafond 1 000 000 EUR cumulés net de désinvestissements, pénalité 3 % si désinvestissement < 3 ans, 100 % des loyers reversés. Voir [avenant SCPI Spirica](https://placement.meilleurtaux.com/images/docs-per/meilleurtaux-liberte-per/scpi-avenant-spirica).
 
 ## Expérience client
 <!-- Mis à jour : 2026-05-26 -->

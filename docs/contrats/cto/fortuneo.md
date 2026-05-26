@@ -22,7 +22,7 @@ derniere-verification: 2026-05-26
 - **Annee de creation** : 2000
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 ### Offres tarifaires
 
@@ -49,22 +49,21 @@ Fortuneo propose 3 forfaits de courtage pour Euronext (Paris, Bruxelles, Amsterd
   - Ordre de 500 EUR : 0 EUR (1er ordre du mois <= 500 EUR), sinon 1,75 EUR
   - Ordre de 1 000 EUR : 3,50 EUR
 - **Frais — Actions US** :
-  - 0,50 % du montant de l'ordre (en ligne) + frais de change
-  - 1,20 % du montant de l'ordre (par telephone) + frais de change
-  - Ordre de 100 EUR : 0,50 EUR + frais de change
-  - Ordre de 500 EUR : 2,50 EUR + frais de change
-  - Ordre de 1 000 EUR : 5,00 EUR + frais de change
+  - 0,20 % du montant de l'ordre (minimum 20 EUR) + 30 EUR de frais fixes = minimum 50 EUR par ordre
+  - Ordre de 100 EUR : ~50 EUR [à vérifier sur grille tarifaire PDF]
+  - Ordre de 500 EUR : ~50 EUR [à vérifier sur grille tarifaire PDF]
+  - Ordre de 1 000 EUR : ~50 EUR [à vérifier sur grille tarifaire PDF]
 - **Frais — ETF europeens** :
   - Ordre de 10 EUR : 0 EUR (1er ordre du mois <= 500 EUR), sinon 0,04 EUR
   - Ordre de 100 EUR : 0 EUR (1er ordre du mois <= 500 EUR), sinon 0,35 EUR
   - Ordre de 500 EUR : 0 EUR (1er ordre du mois <= 500 EUR), sinon 1,75 EUR
   - Ordre de 1 000 EUR : 3,50 EUR
-- **Frais de change** : taux de change J+1 + 0,12 % (pour ordres en devises etrangeres)
+- **Frais de change** : inclus dans les frais de courtage pour les marchés US (sinvestir : « Aucun » de frais de change séparé) [à confirmer sur grille tarifaire PDF]
 - **Frais divers** : aucun (pas de droits de garde, pas de frais de tenue de compte, pas de frais d'inactivite, cloture gratuite)
 - **Frais supplementaires telephone** : frais de courtage + 7,18 EUR par ordre
 - **Transfert de titres etrangers** : 15 EUR par ligne
 - **Operations sur titres non cotes** : 1,20 % du montant total (maximum 500 EUR)
-- **Exemples concrets (scenario mixte)** : actions US : 3 x 50 EUR + 3 x 50 EUR = 300 EUR (selon sinvestir) / ETF Euronext : 0 EUR pour le 1er ordre a 100 EUR du mois + 2 x 0,35 EUR + 3 x 1,75 EUR = 5,95 EUR / total : environ 305,95 EUR [a verifier]
+- **Exemples concrets (scenario mixte)** : actions US : 3 x 50 EUR + 3 x 50 EUR = 300 EUR (selon sinvestir — frais min 50 EUR par ordre) / ETF Euronext : 0 EUR pour le 1er ordre a 100 EUR du mois + 2 x 0,35 EUR + 3 x 1,75 EUR = 5,95 EUR / total : environ 305,95 EUR
 - **Grille tarifaire complete** : [Fortuneo — Conditions tarifaires (PDF)](https://mabanque.fortuneo.fr/datas/files/tarifs_fortuneo.pdf)
 - **Note frais** : 1,5/5
 
@@ -127,9 +126,9 @@ Fortuneo propose 3 forfaits de courtage pour Euronext (Paris, Bruxelles, Amsterd
   - Banque complete (AV, PER, PEA, banque courante) — centralisation de tous les produits
   - Tres bon courtier pour mineur (CTO enfant disponible)
   - Plateforme Live Trader gratuite avec TradingView et Smart Orders
-  - Partenariat ETF Amundi : 1er ordre d'achat rembourse chaque mois (800-100 000 EUR, jusqu'au 31/05/2026)
+  - Partenariat ETF Amundi : 1er ordre d'achat rembourse chaque mois (800-100 000 EUR) — offre valable du 1er janvier 2025 au 31 mai 2026 (expiree ou a renouveler)
 - **Points faibles** :
-  - Frais tres eleves sur actions americaines (0,50 % + frais de change)
+  - Frais tres eleves sur actions americaines (minimum 50 EUR par ordre selon sinvestir)
   - Pas de remuneration des liquidites
   - Pas de fractions d'actions/ETF
   - Pas de crypto

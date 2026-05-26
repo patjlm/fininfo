@@ -68,7 +68,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **OPCVM** : ~1 000
 - **SCPI** : 3 (avec redistribution des loyers à 100 %) — à fenêtre de commercialisation
 - **SC / SCI / OPCI** : oui — à fenêtre de commercialisation
-- **Titres vifs (actions)** : oui — plus de 1 000 titres
+- **Titres vifs (actions)** : oui — plus de 1 000 titres (seuil minimum : 3 000 EUR par titre [à vérifier] — accessible 30 jours après validation du contrat par l'assureur)
 - **Private equity** : oui (fonds avec fenêtres de souscription)
 - **Obligations / fonds obligataires** : oui
 - **Produits structurés** : oui
@@ -86,6 +86,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **Versements programmés minimum** : 50 EUR / mois — 150 EUR / trimestre — 300 EUR / semestre — 600 EUR / an
 - **Arbitrage minimum** : pas de montant minimum
 - **Rachat partiel minimum** : 100 EUR (ponctuel) — 100 EUR / mois (programmé)
+- **Titres vifs** : accessibles 30 jours après validation du contrat par l'assureur — seuil minimum par titre : 3 000 EUR [à vérifier]
 - **Règles d'arbitrage** :
   - Arbitrage gratuit et illimité entre tous supports (sans minimum)
   - ETF : 0,10 % de frais par opération d'arbitrage (achat, vente ou arbitrage)
@@ -134,7 +135,7 @@ Voir aussi : [Enveloppe Assurance Vie](../../enveloppes/assurance-vie.md) pour l
 - **App mobile** : non
 - **Contact** : téléphone (01 44 76 87 60 — lun-ven 9h-18h30, sam 9h30-13h), email (contact@lucya.com), courrier (Lucya — 13 rue d'Uzès 75002 Paris), formulaire de contact
 - **Ergonomie** : simple et efficace ; souscription et gestion en ligne via assurancevie.com
-- **Note SAV** : 4,9/5 (source : sinvestir.fr)
+- **Note SAV** : 4,75/5 (source : sinvestir.fr)
 
 ## Avis synthétique
 <!-- Mis à jour : 2026-05-26 -->

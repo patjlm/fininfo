@@ -56,10 +56,10 @@ derniere-verification: 2026-05-26
 ## Unités de compte
 <!-- Mis à jour : 2026-05-26 -->
 
-- **Nombre total d'UC** : environ 250 (site officiel)
-- **ETF** : 26 ETF purs (source PDF nov 2025) — la page liste-supports indique « près de 40 ETF et fonds indiciels » (ETF + fonds indiciels confondus)
-- **SCPI** : 0 (aucune SCPI disponible)
-- **SCI / OPCI / supports immobiliers** : 4 supports (SC, SCP, OPCI) — voir section dédiée
+- **Nombre total d'UC** : près de 250 (page produit) / plus de 300 (page liste-supports interactive) — divergence entre les deux pages du site
+- **ETF** : près de 40 ETF et fonds indiciels (page liste-supports) — dont 26 ETF purs identifiés dans le PDF nov 2025
+- **SCPI** : 0 (aucune SCPI directe disponible — uniquement SC, SCP, OPCI)
+- **SCI / OPCI / supports immobiliers** : 4 supports actifs (SC, SCP, OPCI) — voir section dédiée
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui
 - **Autres supports** : fonds actions, fonds obligations, fonds mixtes, fonds monétaires, fonds spéculatifs, fonds ISR
@@ -186,16 +186,14 @@ derniere-verification: 2026-05-26
 <!-- Source web : https://www.assurancevie.com/nos-contrats/zoom-sur-le-support-immobilier-d-evolution-per.html -->
 
 - Aucune SCPI disponible — uniquement SC, SCP et OPCI
-- **Note** : divergence entre le PDF (nov 2025) et la page web dédiée — la page web indique SC Pierre Impact (BNP Paribas, 2 %) et affiche seulement 4 supports (LF Multimmo, Experimmo, Pythagore, Pierre Impact) ; Primonial Capimmo et Tangram part 2A sont dans le PDF nov 2025 mais ne sont plus mis en avant sur la page web. Vérifier l'ouverture réelle à la souscription.
+- **Note** : 4 supports actifs confirmés sur la page web (LF Multimmo, Experimmo, Pythagore, Pierre Impact) — Primonial Capimmo et Tangram part 2A présents dans le PDF nov 2025 mais absents de la page web dédiée aux supports immobiliers au 2026-05-26
 
 | Nom | Type | ISIN | Frais d'entrée | Contraintes spécifiques |
 |---|---|---|---|---|
 | LF Multimmo part LF Philosophale 2-A | SCP | FR0013522208 | 1 % | Fenêtre de souscription ; 30 % max combiné avec SC Pythagore |
 | OFI Invest ISR Experimmo A ISR | OPCI | FR0013418761 | 2,95 % | Ouvert en permanence ; label ISR ; versements programmés possibles |
-| Primonial Capimmo | SCI | FR0014004GX5 | Non communiqué | Fenêtre de souscription (commissaire de justice) — présent PDF nov 2025, absent page web |
 | Pythagore | SC | FR0014000F47 | 0 % | Fenêtre de souscription ; 30 % max combiné avec SCP LF Multimmo |
-| SC Pierre Impact | SC | Non communiqué | 2 % | Fenêtre de souscription ; BNP Paribas Real Estate ; profil de risque 2/7 — mentionné page web, absent PDF nov 2025 |
-| Tangram part 2A | SC | FR001400B6D3 | Non communiqué | Fenêtre de souscription — présent PDF nov 2025, absent page web |
+| SC Pierre Impact | SC | Non communiqué | 2 % | Fenêtre de souscription ; BNP Paribas Real Estate ; profil de risque 2/7 |
 
 - **Versements programmés SC/SCP** : non possibles (seulement possibles sur l'OPCI OFI Invest ISR Experimmo A)
 - **Frais supports immobiliers** : 0 % à 2,95 % selon le support
@@ -224,13 +222,13 @@ derniere-verification: 2026-05-26
   - Frais de gestion compétitifs (0,60 %/an en gestion libre)
   - Fonds euros garanti à 100 %, accessible sans contrainte UC, table de mortalité garantie à l'adhésion
   - 3 modes de gestion cumulables (libre + sous mandat + évolutive Horizon Retraite)
-  - ETF disponibles (26 supports)
+  - ETF disponibles (près de 40 ETF et fonds indiciels)
   - Solvabilité élevée de l'assureur (216 %)
   - Transfert entrant simplifié, géré intégralement par Lucya
 - **Points faibles** :
   - Aucune SCPI disponible (uniquement SC/SCP/OPCI)
-  - Offre UC modérée (environ 250 supports) vs concurrents premium (700+ chez Linxea Spirit PER)
-  - Seulement 26 ETF purs (vs 80 chez Linxea Spirit PER)
+  - Offre UC limitée (près de 250 à plus de 300 selon les pages) vs concurrents premium (700+ chez Linxea Spirit PER)
+  - Seulement 26 ETF purs identifiés dans le PDF (vs 80 chez Linxea Spirit PER)
   - Pas de titres vifs
   - Pas d'options d'arbitrage automatique sur le PER
   - Pas d'application mobile

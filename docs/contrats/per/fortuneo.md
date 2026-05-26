@@ -64,7 +64,7 @@ derniere-verification: 2026-05-26
 - **OPCI** : 1 (Opcimmo)
 - **Titres vifs** : non
 - **Rééquilibrage automatique** : oui (via options d'arbitrage automatique)
-- **Redistribution loyers SCPI** : 100 % — coupons réinvestis intégralement sur le fonds euros (confirmé notice Suravenir) [à vérifier pour SCI/OPCI]
+- **Redistribution loyers SCPI** : coupons réinvestis sur le fonds euros (confirmé notice Suravenir nov. 2024) — taux de redistribution non précisé dans la notice (sinvestir indique 85 %) [à vérifier pour SCI/OPCI]
 - **Autres supports** : fonds ISR, fonds thématiques, fonds actions, obligataires, diversifiés, fonds datés
 - **Note UC** : 3,5/5
 
@@ -75,7 +75,7 @@ derniere-verification: 2026-05-26
 
 - **Versement initial minimum** : 100 EUR
 - **Versements libres minimum** : 100 EUR
-- **Versements programmés minimum** : 50 EUR/mois
+- **Versements programmés minimum** : 50 EUR/mois, 150 EUR/trimestre, 300 EUR/semestre, 600 EUR/an
 - **Versements programmés sur SCPI** : non autorisés
 
 ### Arbitrages
@@ -86,8 +86,8 @@ derniere-verification: 2026-05-26
 
 ### Options d'arbitrage automatique
 
-- **Rééquilibrage automatique** : maintien d'une répartition cible définie entre supports — arbitrage automatique entre supports sélectionnés — fréquence au choix (mensuelle, trimestrielle, semestrielle, annuelle) — gratuit
-- **Investissement progressif** : arbitrage programmé (mensuel, trimestriel, semestriel, annuel) — montant min. 100 EUR, déclenchement si encours ≥ 1 200 EUR sur les supports concernés — gratuit
+- **Rééquilibrage automatique** : maintien d'une répartition cible définie entre supports — arbitrage automatique entre supports sélectionnés — fréquence au choix (mensuelle, trimestrielle, semestrielle, annuelle) — arbitrage exécuté le 20 du mois de chaque fin de période — gratuit
+- **Investissement progressif** : arbitrage programmé (mensuel, trimestriel, semestriel, annuel) — montant min. à arbitrer 100 EUR, encours min. 1 000 EUR sur les supports de départ — gratuit
 - **Stop-loss relatif (seuil évolutif)** : transfert automatique vers support sécurisé en cas de baisse — seuil min. 5 % — montant min. à arbitrer 100 EUR — gratuit
 - **Sécurisation des plus-values** : transfert automatique des gains vers support éligible — seuil min. 5 % de plus-value du capital net investi — montant min. 100 EUR — gratuit
 - **Dynamisation des plus-values du fonds euros** : arbitrage annuel automatique des gains du Fonds Euros Retraite vers les UC choisies — montant min. 100 EUR — gratuit
@@ -100,7 +100,7 @@ derniere-verification: 2026-05-26
 - **Versements programmés sur SCPI** : non autorisés (confirmé dans la notice Suravenir et sur le site Fortuneo)
 - **Pénalité de sortie SCPI** : non mentionnée dans la notice Suravenir ni sur le site Fortuneo [à vérifier dans l'annexe complémentaire de chaque SCPI]
 - **Valorisation SCPI** : hebdomadaire (1er jour ouvré de chaque semaine)
-- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé dans la notice Suravenir)
+- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé notice Suravenir nov. 2024) — taux de redistribution non précisé dans la notice (sinvestir indique 85 %)
 
 ### Fonds euros — Règles spécifiques
 
@@ -111,12 +111,13 @@ derniere-verification: 2026-05-26
 
 ### Gestion a horizon
 
-- **Mode par défaut** : oui — gestion à horizon activée à la souscription
-- **Profils** : Prudent, Equilibré (défaut), Dynamique
+- **Mode par défaut** : oui — profil "Équilibré Horizon Retraite" activé à la souscription
+- **Profils** : Prudent Horizon Retraite, Équilibré Horizon Retraite (défaut), Dynamique Horizon Retraite
+- **Arbitrage automatique** : trimestriel — répartit le capital dans les proportions définies par profil en fonction de la durée restante avant la retraite
 - **Dimension responsable** : ≥ 80 % de fonds ayant des objectifs d'investissement durable (SFDR)
 - **Changement de profil** : gratuit, à tout moment
 - **Frais de gestion** : 0,70 %/an sur les UC (vs 0,50 % en gestion libre)
-- **Basculement vers gestion libre** : possible à tout moment, sans frais
+- **Basculement vers gestion libre** : possible à tout moment, sans frais — nécessite un renoncement exprès à la gestion à horizon
 
 Performances 2025 nettes et annualisées depuis création (du 05/12/2024 au 31/12/2025) par horizon temporel :
 
@@ -188,7 +189,7 @@ Performances 2025 nettes et annualisées depuis création (du 05/12/2024 au 31/1
 | Opcimmo | FR0011066802 | -8,88 % | 4/7 |
 
 - **Versements programmés sur supports immobiliers** : non autorisés
-- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé notice Suravenir) [à vérifier pour SCI/OPCI]
+- **Revenus SCPI** : coupons réinvestis sur le fonds euros du contrat (confirmé notice Suravenir nov. 2024) — taux de redistribution non précisé dans la notice (sinvestir indique 85 %) [à vérifier pour SCI/OPCI]
 - **Contraintes de plafonnement** : 50 000 EUR max et 50 % de l'encours total par support [à vérifier — données issues du contrat Fortuneo Vie, applicabilité au PER à confirmer]
 
 ## Expérience client
@@ -222,7 +223,7 @@ Performances 2025 nettes et annualisées depuis création (du 05/12/2024 au 31/1
   - Seulement 3 SCPI disponibles (diversification géographique limitée)
   - Seulement 11 ETF (offre limitée vs concurrence)
   - Pas de titres vifs
-  - Redistribution SCPI à 85 % seulement (vs 100 % chez certains concurrents)
+  - Taux de redistribution des coupons SCPI non précisé dans la notice (sinvestir indique 85 % — à confirmer)
   - Réservé aux clients Fortuneo (nécessite un compte courant)
   - Pas de gestion pilotée sous mandat par un gérant externe
   - + 220 UC seulement (vs + 700 chez certains concurrents)

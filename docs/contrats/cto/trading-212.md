@@ -3,7 +3,7 @@ nom: Trading 212
 type: contrat-cto
 slug: trading-212
 courtier: Trading 212
-derniere-verification: 2026-05-17
+derniere-verification: 2026-05-26
 ---
 
 # Trading 212 — Compte-Titres
@@ -11,7 +11,7 @@ derniere-verification: 2026-05-17
 > Compte-titres proposé par Trading 212 (Bulgarie / Chypre / Royaume-Uni).
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Trading 212
 - **Pays / régulation** : Bulgarie (FSC, licence RG-03-0237), Chypre (CySEC, licence 398/21), Royaume-Uni (FCA, n° 609146), Allemagne (BaFin, n° 10109603), Australie (ASIC, AFSL 541122)
@@ -23,7 +23,7 @@ derniere-verification: 2026-05-17
 - **Année de création** : 2004 (22 ans d'ancienneté)
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Frais — Actions françaises** :
   - Ordre de 10 EUR : 0 EUR
@@ -58,21 +58,21 @@ derniere-verification: 2026-05-17
 - **Note frais** : 5/5 (source : sinvestir)
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : + 10 000 disponibles
 - **ETF** : + 5 000 disponibles
 - **Crypto** : oui — environ 60 crypto-actifs accessibles (via ETF/ETP), spread appliqué, ordres limites et stop non encore disponibles sur crypto
 - **Fractions d'actions/ETF** : oui — possibilité d'acheter des fractions d'actions et d'ETF
 - **Investissement programmé (DCA)** : oui — fonctionnalité « Pies & AutoInvest » : création de portefeuilles personnalisés avec allocations cibles, investissement automatique récurrent, réinvestissement automatique des dividendes (DRIP activé par défaut), gratuit
-- **Rémunération des liquidités** : oui — taux aligné sur le taux directeur de la BCE (environ 3 % p.a. sur EUR en mai 2026 [à vérifier]), intérêts calculés et versés quotidiennement, sans minimum ni plafond, retrait à tout moment
+- **Rémunération des liquidités** : oui — 2,25 % p.a. sur EUR (taux variable, suivi du taux BCE ; le taux BCE de dépôt est à 2,00 % depuis juin 2025), intérêts calculés et versés quotidiennement, sans minimum ni plafond, retrait à tout moment
 - **Prêt de titres (share lending)** : oui — rémunération additionnelle versée quotidiennement
 - **Trading étendu** : trading 24h/24, 5j/7 sur les actions US (pre-market, regular, after-hours, overnight) — spreads plus élevés et liquidité plus faible hors horaires normaux
 - **Plateforme de trading** : application mobile et web, interface intuitive, outils graphiques (Pies), compte démo gratuit
 - **Note produits** : 5/5 (source : sinvestir)
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention via nominee — les titres sont détenus au nom de Trading 212 dans des comptes ségrégués chez des dépositaires tiers (Interactive Brokers, Bank of New York Mellon), séparés des actifs propres de Trading 212
 - **Protection des fonds** :
@@ -87,7 +87,7 @@ derniere-verification: 2026-05-17
 - **Note propriété** : 1/5 (source : sinvestir) — la non-propriété directe des titres est le principal point faible
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** : marché, limite, stop, stop limit, take profit, stop loss
 - **Marchés accessibles** :
@@ -102,7 +102,7 @@ derniere-verification: 2026-05-17
 - **Particularités fiscales** : flat tax à 31,4 % (12,8 % IR + 18,6 % PS) sur les plus-values et dividendes ; retenue à la source de 15 % sur les dividendes US/CA ; TTF de 0,4 % sur les grandes capitalisations françaises
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 4,6/5 (56 022 avis) (source : sinvestir)
 - **Contact** : formulaire de contact et chat dans l'application — pas de téléphone, pas d'email direct, pas de courrier
@@ -111,7 +111,7 @@ derniere-verification: 2026-05-17
 - **Note SAV** : Non communiqué
 
 ## Avis synthétique
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Note globale** : 3,68/5 (source : sinvestir)
 - **Points forts** :
@@ -130,7 +130,7 @@ derniere-verification: 2026-05-17
   - Support client en anglais uniquement
   - Propose également des CFD (produits complexes et risqués) — attention à choisir le compte « Invest » et non le compte « CFD »
   - Protection limitée à 20 000 EUR (ICF CySEC) pour les résidents français
-- **Services complémentaires** : Pies (portefeuilles graphiques prêts à l'emploi ou personnalisables), prêt de titres rémunéré, trading 24/5 sur actions US, compte démo gratuit, carte 212 (retraits ATM gratuits jusqu'à 400 EUR/mois)
+- **Services complémentaires** : Pies (portefeuilles graphiques prêts à l'emploi ou personnalisables), prêt de titres rémunéré, trading 24/5 sur actions US, compte démo gratuit, carte 212 (0 % de frais FX, cashback 0,5 % plafonné à 23 EUR/mois, retraits ATM gratuits jusqu'à 400 GBP/mois puis 1 %)
 
 ## Sources
 

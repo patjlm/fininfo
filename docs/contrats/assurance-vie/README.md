@@ -58,7 +58,7 @@ Ne JAMAIS utiliser de sites tiers (blogs, comparateurs, forums) comme source.
 | [Meilleurtaux Essentiel Vie](meilleurtaux-essentiel-vie.md) | Meilleurtaux Placement | La France Mutualiste | 0 % | 0,50 % (0,60 % sur UC en ETF) | 0 % |
 | [Meilleurtaux Liberté Vie](meilleurtaux-liberte-vie.md) | Meilleurtaux Placement | Spirica (Crédit Agricole Assurances) | 0 % | 0,50 % | 0 % (0,06 % sur ETF depuis 18/05/2026, 0,60 % sur actions) |
 | [Multisupport Afer](multisupport-afer.md) | Afer (Association Française d'Épargne et de Retraite) | Abeille Assurances (filiale de Aéma) | 0 % (0,50 % sur versements en fonds euros) | 0,475 % | 0 % |
-| [Oriance](oriance-premium.md) | Crédit Agricole | Prédica | 1 % (0 % en ligne jusqu'au 31/12/2026) | 0,80 % | 0 % |
+| [Oriance](oriance-premium.md) | Crédit Agricole | Prédica | 1 % (0 % en ligne jusqu'au 31/12/2026) | 0,80 % | 0 % (0,10 % sur ETF) |
 | [Placement-direct Euro+](placement-direct-euro-plus.md) | Placement Direct | SwissLife Assurance et Patrimoine | 0 % | 0,60 % | 0 % |
 | [Placement-direct Patrimoine](placement-direct-patrimoine.md) | Placement Direct | Garance | 0 % | 0,50 % | 0 % |
 | [Placement-direct Vie](placement-direct-vie.md) | Placement Direct | SwissLife Assurance et Patrimoine | 0 % | 0,50 % (0,80 % sur actions en direct) | 0 % (0,10 % sur ETF, 0,45 % sur titres vifs) |

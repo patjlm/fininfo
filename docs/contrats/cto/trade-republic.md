@@ -11,18 +11,18 @@ derniere-verification: 2026-05-26
 > Compte-titres proposé par [Trade Republic](https://traderepublic.com/fr-fr) (Allemagne). Néo-courtier européen avec licence bancaire complète, fondé en 2015 à Berlin. Plus d'un million de clients en France. Succursale française depuis janvier 2025. Voir aussi la fiche [CTO (enveloppe)](../../enveloppes/cto.md) pour les règles générales.
 
 ## Informations générales
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Courtier** : Trade Republic Bank GmbH (Berlin, Allemagne) — succursale française : c/o Regus, 75 boulevard Haussmann, 75008 Paris
 - **Pays / régulation** : Allemagne — BaFin (Bundesanstalt für Finanzdienstleistungsaufsicht) et Bundesbank ; en France, supervisé par l'ACPR et l'AMF
 - **Domiciliation du compte** : France (IBAN français disponible depuis janvier 2025) — les clients antérieurs à janvier 2025 avec un IBAN allemand doivent déclarer le compte étranger (formulaire 3916/3916-bis)
 - **Pays disponibles** : 17 pays + DROM-COM
 - **Dépôt initial minimum** : 1 EUR
-- **CTO enfant** : oui — Compte Épargne Enfant (lancé en septembre 2025), ouvert par un parent/tuteur légal via l'application, investissement en actions et ETF, rémunération des liquidités
+- **CTO enfant** : oui — Compte Épargne Enfant (lancé le 30 septembre 2025), ouvert par un parent/tuteur légal via l'application, investissement en actions et ETF, rémunération des liquidités au taux BCE ; « Bonus Enfant » avec Vanguard : Trade Republic et Vanguard réinvestissent chaque mois les frais de gestion de certains ETF Vanguard (FTSE All World, ESG Global All Cap, LifeStrategy 80) jusqu'aux 18 ans de l'enfant
 - **Année de création** : 2015
 
 ## Frais
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Frais — Actions françaises** :
   - Ordre de 10 EUR : 0 EUR (investissement programmé) / 1 EUR sinon
@@ -46,22 +46,22 @@ derniere-verification: 2026-05-26
 - **Note frais** : 5/5
 
 ## Produits et fonctionnalités
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Actions** : + 8 500
 - **ETF** : + 1 500
 - **Obligations** : oui — obligations d'État et d'entreprises
 - **Produits dérivés** : oui — via HSBC, Société Générale et Vontobel
-- **Crypto** : oui — 50+ cryptomonnaies, à partir de 1 EUR, transfert/staking possibles
+- **Crypto** : oui — 50+ cryptomonnaies, à partir de 1 EUR, transfert/staking possibles (Solana, Ethereum) ; Crypto Wallet lancé en novembre 2025
 - **Fractions d'actions/ETF** : oui — à partir de 1 EUR
 - **Investissement programmé (DCA)** : oui — gratuit (0 EUR de frais), actions / ETF / crypto / obligations, à partir de 1 EUR
-- **Rémunération des liquidités** : oui — 3 % p.a. sur les espèces non investies, sans plafond, versement mensuel ; espèces conservées sur comptes fiduciaires chez J.P. Morgan SE, Deutsche Bank, Citibank Europe, Natixis CIB, SEB AB — garantie des dépôts jusqu'à 100 000 EUR par investisseur
+- **Rémunération des liquidités** : oui — taux BCE reversé intégralement (actuellement 2 % p.a. depuis mi-2025), sans plafond pour les clients avec IBAN Trade Republic, calculé quotidiennement et versé mensuellement ; espèces conservées sur comptes fiduciaires chez J.P. Morgan SE, Deutsche Bank AG, Citibank Europe plc, Natixis CIB, SEB AB, HSBC Continental Europe S.A. et Crédit Agricole — garantie des dépôts jusqu'à 100 000 EUR par compte et par client
 - **Carte bancaire** : oui — sans frais de souscription, Saveback de 1 % (réinvesti automatiquement dans le plan d'épargne), Round up (arrondi à l'euro supérieur investi dans un actif au choix)
 - **Plateforme de trading** : application mobile et web — cotations en temps réel, horaires étendus 7h30-23h00
 - **Note produits** : 5/5
 
 ## Propriété et transfert
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Propriété des titres** : détention directe — le client est propriétaire légal des titres une fois la transaction finalisée
 - **Conservation des titres** : compte-titres détenu chez Trade Republic Bank GmbH, titres conservés sur le compte Clearstream de Trade Republic (dépositaires nationaux et internationaux)
@@ -71,7 +71,7 @@ derniere-verification: 2026-05-26
 - **Note propriété** : 5/5
 
 ## Conditions et contraintes spécifiques
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Types d'ordres** : marché, limite (validité 1-360 jours), stop / seuil de déclenchement (validité 1-360 jours)
 - **Marchés accessibles** : LS Exchange (Bourse de Hambourg) — spreads liés au marché de référence Xetra ; basculement sur Tradegate en cas de défaillance de LS Exchange
@@ -80,7 +80,7 @@ derniere-verification: 2026-05-26
 - **Particularités fiscales** : compte français (IBAN FR) depuis janvier 2025 — pas de déclaration de compte étranger ; IFU fourni ; PFU (flat tax 30 %) applicable sur les plus-values et dividendes
 
 ## Expérience client
-<!-- Mis à jour : 2026-05-17 -->
+<!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients (Trustpilot)** : 3,5/5 (32 802 avis)
 - **Contact** : téléphone via l'application (réservé aux clients), numéro d'urgence carte (+49 322 13232813), chatbot, email (complaints-lu@traderepublic.com), courrier
@@ -94,9 +94,9 @@ derniere-verification: 2026-05-26
 - **Points forts** :
   - Plans d'investissement programmés (DCA) entièrement gratuits à partir de 1 EUR
   - Frais de courtage très bas (1 EUR par ordre ponctuel, 0 EUR en DCA)
-  - Rémunération des liquidités à 3 % p.a. sans plafond
+  - Rémunération des liquidités au taux BCE reversé intégralement (actuellement 2 % p.a.), sans plafond
   - IBAN français et IFU fourni (depuis janvier 2025)
-  - Compte Épargne Enfant disponible
+  - Compte Épargne Enfant disponible avec « Bonus Enfant » Vanguard
   - Fractions d'actions et d'ETF à partir de 1 EUR
   - Carte bancaire avec Saveback 1 % et Round up
   - Large gamme de produits (actions, ETF, obligations, crypto, produits dérivés)
@@ -105,17 +105,17 @@ derniere-verification: 2026-05-26
   - Pas d'ETF crypto
   - Marché unique (LS Exchange) — pas d'accès direct à Euronext Paris, NYSE ou Nasdaq
   - Service client principalement via l'application (pas de numéro de téléphone direct classique)
-  - Anciens clients (pré-2025) encore sur IBAN allemand — déclaration de compte étranger nécessaire
-- **Services complémentaires** : PEA (sans commission sur plans d'épargne), compte courant rémunéré, carte bancaire, Saveback (1 % réinvesti), Round up (arrondis investis)
+  - Anciens clients (pré-2025) non migrés vers IBAN français : pas d'IFU et déclaration de compte étranger nécessaire
+- **Services complémentaires** : PEA (sans commission sur plans d'épargne), compte courant rémunéré au taux BCE, carte bancaire, Saveback (1 % réinvesti), Round up (arrondis investis), Crypto Wallet (transfert et staking)
 
 ### Avis Avenue des Investisseurs
 <!-- Mis à jour : 2026-05-26 -->
-<!-- Source : Avenue des Investisseurs (mis à jour janvier 2026) — données subjectives/éditoriales -->
+<!-- Source : Avenue des Investisseurs — Comparatif CTO (mis à jour 2026) — données subjectives/éditoriales -->
 
-- Classé dans le top 3 du comparatif CTO ADI pour ses tarifs ultra-bas
+- Classé 3e dans le comparatif CTO ADI (2 étoiles sur 3) pour ses tarifs ultra-bas
 - Reconnu pour l'innovation et la compétitivité tarifaire (1 EUR par ordre, 0 EUR en DCA)
-- Principal bémol éditorial : le service client jugé insuffisant au regard de la masse de clients — difficile d'obtenir de l'aide en cas de problème
-- Le fait de ne plus fournir d'IFU pour les clients antérieurs à janvier 2025 (IBAN allemand) est pointé comme un inconvénient administratif significatif
+- Principal bémol éditorial : le service client jugé insuffisant au regard de la masse de clients — difficile d'obtenir de l'aide en cas de problème (chatbot peu utile signalé par les lecteurs)
+- Le fait de ne pas fournir d'IFU pour les clients non migrés vers l'IBAN français est pointé comme un inconvénient administratif significatif
 - **Pour qui** : investisseurs autonomes, peu dépendants du service client, convaincus par le DCA passif à très faible coût — moins adapté à ceux qui ont besoin d'accompagnement ou qui gèrent des situations fiscales complexes
 
 ## Sources
@@ -126,8 +126,10 @@ derniere-verification: 2026-05-26
 - [Trade Republic — Intérêts sur liquidités](https://traderepublic.com/fr-fr/interets)
 - [Trade Republic — Compte Épargne Enfant](https://traderepublic.com/fr-fr/child-savings-account)
 - [Trade Republic — Actions et ETF](https://traderepublic.com/fr-fr/produits/actions-et-etf)
+- [Trade Republic — Crypto](https://traderepublic.com/fr-fr/crypto)
+- [Trade Republic — Compte Épargne Enfant (Communiqué de presse)](https://assets.traderepublic.com/assets/files/250930_Press_release_CSA_FR_FR.pdf)
 - [Trade Republic — Protection de l'argent (Support)](https://support.traderepublic.com/fr-fr/3076-How-is-my-money-protected)
 - [Trade Republic — Types d'ordres (Support)](https://support.traderepublic.com/fr-fr/689-What-order-types-are-offered)
-- [Trade Republic — Propriété des titres (Support)](https://support.traderepublic.com/fr-fr/333-Suis_je-propri%C3%A9taire-des-titres-)
+- [Trade Republic — Intérêts : calcul et conditions (Support)](https://support.traderepublic.com/fr-be/1533-What-do-I-need-to-know-about-interest)
 - [Trade Republic — IFU (Support)](https://support.traderepublic.com/fr-fr/3256-Imprim%C3%A9-Fiscal-Unique-(IFU))
 - [Avenue des Investisseurs — Comparatif CTO](https://avenuedesinvestisseurs.fr/comprendre-investir-bourse/cto-compte-titres-ordinaire/)

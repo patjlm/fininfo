@@ -21,7 +21,7 @@ derniere-verification: 2026-05-26
 - **Distributeur** : Caravel (fintech rachetée par Indexa Group en 2024, ORIAS 22002796)
 - **Assureur** : Apicil Épargne Retraite (solvabilité : 218 %)
 - **Type** : Assurantiel
-- **Modes de gestion** : gestion déléguée exclusivement — pas de gestion libre proposée (confirmé sur le site officiel en mai 2026 ; sinvestir mentionne « gestion libre & pilotée » par erreur)
+- **Modes de gestion** : gestion déléguée exclusivement — 10 portefeuilles durables (profil 1 à 10) ; pas de gestion libre proposée (confirmé sur le site officiel en mai 2026 ; sinvestir mentionne « gestion libre & pilotée » par erreur)
 - **Disponibilité** : en ligne
 - **Versement initial minimum** : 500 EUR
 - **Année de création** : 2022
@@ -65,7 +65,8 @@ derniere-verification: 2026-05-26
 - **ETF** : 100 (selon sinvestir ; le site officiel ne publie pas de liste exhaustive)
 - **SCPI** : 36 avec 100 % des loyers redistribués (selon sinvestir) — non mentionnées sur le site officiel en mai 2026 [à vérifier — en gestion déléguée les portefeuilles sont composés principalement d'ETF, obligations et fonds monétaires]
 - **Titres vifs** : non
-- **Rééquilibrage automatique** : oui (gestion quotidienne par Caravel)
+- **Rééquilibrage automatique** : oui (gestion quotidienne par algorithme)
+- **ETF utilisés** : principalement ETF Amundi (MSCI World climatique, leaders ESG US, SRI zone euro)
 - **Autres supports** : fonds ISR, fonds obligataires, OPCI, SCI, private equity
 - **Note UC** : 4/5
 
@@ -76,16 +77,14 @@ derniere-verification: 2026-05-26
 - **Versements libres minimum** : 150 EUR
 - **Versements programmés minimum** : 50 EUR / mois (modifiables ou suspendus sans frais à tout moment)
 - **Arbitrage minimum** : non applicable (gestion déléguée, arbitrages réalisés automatiquement par Caravel)
-- **Pas de gestion libre** : la composition du portefeuille est entièrement déléguée à Caravel — l'investisseur choisit uniquement son profil de risque (1 à 10) et son horizon retraite (confirmé sur le site officiel en mai 2026 — la mention « gestion libre & pilotée » chez sinvestir est inexacte)
+- **Pas de gestion libre** : la composition du portefeuille est entièrement déléguée à Caravel — l'investisseur choisit son profil de risque (1 à 10) via questionnaire et son horizon retraite (confirmé sur le site officiel en mai 2026 — la mention « gestion libre & pilotée » chez sinvestir est inexacte)
 - **Règles d'arbitrage** : arbitrages quotidiens automatiques selon le profil de risque et la phase d'investissement
 - **Limites d'investissement** : 50 % max en fonds euros (obligation de 50 % minimum en UC)
 - **Conditions gestion déléguée** :
-  - 10 profils de risque (1/10 à 10/10) avec performances historiques
-  - 3 phases automatiques basées sur l'âge et l'horizon retraite :
-    - **Croissance** (18-50 ans) : maximise la croissance du capital (principalement ETF actions)
-    - **Équilibre** (50-58 ans) : compromis performance / risque (mix ETF actions/obligations)
-    - **Sécurisation** (58 ans+) : préserve le capital constitué (fonds monétaire + obligations)
-  - Portefeuilles composés d'ETF ESG (exclusion stricte des énergies fossiles, réduction visée de 50 % des émissions GES vs portefeuille traditionnel)
+  - 10 portefeuilles durables numérotés de 1 à 10 (part d'actions de 10 % à 100 % selon le profil) — migration depuis les 3 anciens portefeuilles (Sécurisation, Équilibre, Croissance) réalisée en mars 2026
+  - Profil déterminé par questionnaire évaluant capacité financière et tolérance à la volatilité
+  - Phases automatiques selon l'horizon retraite (approche progressive de désrisquage à l'approche de la retraite)
+  - Portefeuilles composés d'ETF ESG Amundi (MSCI World climatique, leaders ESG US, SRI zone euro) — exclusion stricte des énergies fossiles, réduction visée de 50 % des émissions GES vs portefeuille traditionnel
   - Rééquilibrage quotidien par algorithme
   - Frais tout compris : 1,36 % à 1,38 % / an (confirmé sur getcaravel.fr/tarifs)
 - **Transfert entrant** : gratuit, Caravel gère les démarches administratives (PERP, PERCO, Madelin, art. 83, autre PER) ; délai 1 à 2 mois
@@ -109,7 +108,7 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 <!-- Source : https://www.getcaravel.fr/plans (portefeuille thématique Capital Garanti), https://help.getcaravel.fr/fr/articles/6903898-quels-sont-les-frais-appliques-sur-mon-per -->
 
-- **Accès dans la gestion déléguée principale** : non — les portefeuilles Caravel (Croissance, Équilibre, Sécurisation) ne contiennent pas de fonds euros ; le fonds monétaire Apicil Trésorerie est utilisé en phase de sécurisation à la place
+- **Accès dans la gestion déléguée principale** : non — les 10 portefeuilles Caravel ne contiennent pas de fonds euros ; le fonds monétaire Apicil Trésorerie est utilisé dans les profils défensifs (désrisquage à l'approche de la retraite)
 - **Accès via portefeuille thématique** : oui — portefeuille thématique « Capital Garanti » (aucun risque de perte en capital, performance garantie) accessible à partir de 150 EUR en versement libre complémentaire, en complément du portefeuille principal
 - **Limite fonds euros** : 50 % max du contrat (obligation de 50 % minimum en UC)
 - **Conditions particulières** : [à vérifier — règles de rachat total et perte d'intérêts non communiquées publiquement sur le site officiel]
@@ -118,7 +117,7 @@ derniere-verification: 2026-05-26
 <!-- Mis à jour : 2026-05-26 -->
 
 - **Avis clients** : 4,7/5 (123 avis selon sinvestir) — 4,8/5 sur Trustpilot
-- **App mobile** : non (selon sinvestir au 7 avril 2026 — le centre d'aide mentionne une app mais non confirmée sur le site produit)
+- **App mobile** : oui — Progressive Web App (PWA) installable depuis app.getcaravel.fr (pas une app native sur les stores, mais s'affiche comme telle sur l'écran d'accueil iOS/Android)
 - **Contact** : email (hello@getcaravel.fr), chat, visio sur rendez-vous, téléphone
 - **Ergonomie** : ergonomique et moderne
 - **Note SAV** : 4,8/5
@@ -131,7 +130,7 @@ derniere-verification: 2026-05-26
   - Frais parmi les plus bas du marché (1,36-1,38 % tout compris, confirmé sur getcaravel.fr/tarifs)
   - 0 % de frais d'entrée, versement, arbitrage, transfert entrant et retrait
   - Large choix d'UC selon sinvestir : 100 ETF, 36 SCPI avec 100 % des loyers redistribués
-  - Gestion déléguée automatique adaptée à l'horizon retraite avec 10 profils de risque et 3 phases (Croissance / Équilibre / Sécurisation)
+  - Gestion déléguée automatique adaptée à l'horizon retraite avec 10 portefeuilles durables (profil 1 à 10, migration vers la nouvelle grille réalisée en mars 2026)
   - Approche ESG / investissement responsable (exclusion stricte des énergies fossiles, réduction visée 50 % des émissions GES)
   - Transfert entrant géré par Caravel (PERP, PERCO, Madelin, art. 83, autre PER)
 - **Points faibles** :
@@ -139,8 +138,8 @@ derniere-verification: 2026-05-26
   - Fonds euros moins performant que la moyenne (1,30 % en 2024, 1,45 % en 2025)
   - Peu d'ancienneté du distributeur (créé en 2019, PER lancé en 2022)
   - Fonds euros progressivement remplacé par fonds monétaire à l'approche de la retraite (non garanti à 100 %)
-  - Pas d'application mobile confirmée
-- **Services complémentaires** : simulateur fiscal en ligne ; assurance-vie proposée (lancement initialement prévu au printemps 2026)
+  - Application mobile uniquement en PWA (pas d'app native sur les stores)
+- **Services complémentaires** : simulateur fiscal en ligne ; assurance-vie en pré-inscription (lancement toujours attendu au printemps 2026, pas encore disponible à fin mai 2026)
 
 ## Sources
 
@@ -149,4 +148,6 @@ derniere-verification: 2026-05-26
 - [Caravel — Tarifs](https://www.getcaravel.fr/tarifs)
 - [Caravel — Gestion et performances](https://www.getcaravel.fr/plans)
 - [Caravel — Centre d'aide frais](https://help.getcaravel.fr/fr/articles/6903898-quels-sont-les-frais-appliques-sur-mon-per)
+- [Caravel — Centre d'aide application mobile](https://help.getcaravel.fr/fr/collections/11526405-application-mobile)
+- [Caravel — Blog : évolution vers 10 portefeuilles (mars 2026)](https://www.getcaravel.fr/blog/la-gestion-de-votre-epargne-evolue)
 - [Enveloppe PER — Règles générales](../../enveloppes/per.md)
